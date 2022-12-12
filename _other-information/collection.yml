@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - Latest Update (More)/.keep
       - Facilities and ICT Fault Reporting.md
       - Parents Gateway.md
       - School Safety Information/School Safety Information.md
