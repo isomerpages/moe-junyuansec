@@ -2,4 +2,5 @@ collections:
   other-information:
     output: true
     order:
+      - Contact Us/.keep
       - Privacy Policy.md
