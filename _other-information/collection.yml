@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - School Safety Information/Safety in Special Rooms.md
       - School Safety Information/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Staff's Emails.md
