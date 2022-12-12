@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Contact Us
 ---
 <h4><strong>Contact Address</strong></h4>
-
 <p>11 Tampines Street 84, Singapore 528933</p>
 <p><span class="">Nearest MRT Stations: Tampines MRT, Tampines West MRT (Downtown)</span></p>
 <p>Bus Services<br />291, 46, 69, 118</p>
