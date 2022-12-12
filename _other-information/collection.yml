@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - Parents Gateway.md
       - School Safety Information/School Safety Information.md
       - School Safety Information/Emergency Evacuation Procedures.md
       - School Safety Information/Sports Safety.md
