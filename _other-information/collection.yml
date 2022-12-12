@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - Financial Assistance Scheme.md
       - Latest Update (More)/.keep
       - Latest Update (More)/Latest Update (More).md
       - Latest Update (More)/Release of 2021 GCE N Levels – More Information.md
