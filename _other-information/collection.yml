@@ -2,10 +2,10 @@ collections:
   other-information:
     output: true
     order:
+      - Latest Update (More)/.keep
+      - Latest Update (More)/Latest Update (More).md
       - Latest Update (More)/Release of 2021 GCE N Levels – More Information.md
       - Latest Update (More)/Release of 2021 GCE O Levels – More Information.md
-      - Latest Update (More)/Latest Update (More).md
-      - Latest Update (More)/.keep
       - Facilities and ICT Fault Reporting.md
       - Parents Gateway.md
       - School Safety Information/School Safety Information.md
