@@ -295,3 +295,5 @@ third_nav_title: School Safety Information
 </tbody>
 </table>
 <p>As safety is everyone&rsquo;s responsibility, let us work together to create a safe and healthy environment for your child/ward.</p>
+<p><strong><a href="/files/NOTIFICATION%20ON%20USE%20OF%20BICYCLES%20&amp;%20PMD.pdf" target="">NOTIFICATION ON USE OF BICYCLES &amp; PMD.pdf</a></strong></p>
+<p><strong><em>Latest update: 05 Jan 2022</em></strong></p>
