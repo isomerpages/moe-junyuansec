@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - Contact Us/Contact Us.md
       - Contact Us/Staff's Emails.md
       - Contact Us/.keep
       - Privacy Policy.md
