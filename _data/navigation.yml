@@ -1,5 +1,18 @@
 logo: /images/logo2.gif
 links:
+  - title: CCA
+    url: /cca
+    sublinks:
+      - title: CCA Schedule
+        url: /cca/cca-schedule
+      - title: Performing Arts
+        url: /cca/performing-arts
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups
+      - title: Sports
+        url: /cca/sports
+      - title: Clubs and Society
+        url: /cca/clubs-and-society
   - title: Nurturing Our Champs
     url: /nurturing-our-champs/accolades/junyuan-in-the-news
     sublinks:
