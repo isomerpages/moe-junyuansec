@@ -2,11 +2,11 @@ collections:
   student-information:
     output: true
     order:
+      - Student ICT Matters/.keep
+      - Student ICT Matters/Student ICT Matters.md
       - Student ICT Matters/Student JYMail Accounts.md
       - Student ICT Matters/Student SSOE Accounts.md
       - Student ICT Matters/Student iCON Accounts.md
-      - Student ICT Matters/Student ICT Matters.md
-      - Student ICT Matters/.keep
       - Student Learning Space (SLS).md
       - Student Timetable.md
       - Sec 1 Students 2022/Welcome to the Junyuan Family!.md
