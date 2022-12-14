@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/St John Brigade.md
       - Uniformed Groups/.keep
       - Sports/.keep
       - Sports/Sports.md
