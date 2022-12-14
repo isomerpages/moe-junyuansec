@@ -2,6 +2,7 @@ collections:
   nurturing-our-champs:
     output: true
     order:
+      - Accolades/Junyuan in the News.md
       - Accolades/In The News.md
       - Accolades/Alumni Academic Achievements.md
       - Accolades/Staff Recognition.md
