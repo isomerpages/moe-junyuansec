@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Student ICT Matters/Student JYMail Accounts.md
       - Student ICT Matters/Student SSOE Accounts.md
       - Student ICT Matters/Student iCON Accounts.md
       - Student ICT Matters/Student ICT Matters.md
