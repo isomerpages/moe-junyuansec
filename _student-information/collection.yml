@@ -2,4 +2,5 @@ collections:
   student-information:
     output: true
     order:
+      - Locker Vendor.md
       - Booklist 2023 & Bookshop Vendor.md
