@@ -1,4 +1,5 @@
 collections:
   student-information:
     output: true
-    order: []
+    order:
+      - Booklist 2023 & Bookshop Vendor.md
