@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Badminton.md
       - Sports/Basketball (Boys).md
       - Sports/Rugby (Boys).md
       - Sports/Track & Field.md
