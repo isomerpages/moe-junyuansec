@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Open House (19 Nov 2022).md
       - Student Handbook.md
       - Learning and Assessment.md
       - Events Calendar.md
