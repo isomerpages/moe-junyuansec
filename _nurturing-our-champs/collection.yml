@@ -2,6 +2,7 @@ collections:
   nurturing-our-champs:
     output: true
     order:
+      - Accolades/Alumni Academic Achievements.md
       - Accolades/Staff Recognition.md
       - Accolades/.keep
       - Achievements.md
