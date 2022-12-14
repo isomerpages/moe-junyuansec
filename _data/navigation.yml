@@ -1,4 +1,13 @@
 logo: /images/logo2.gif
 links:
+  - title: Nurturing Our Champs
+    url: /nurturing-our-champs/accolades/junyuan-in-the-news
+    sublinks:
+      - title: Junyuan in the News
+        url: /nurturing-our-champs/accolades/junyuan-in-the-news
+      - title: Achievements
+        url: /nurturing-our-champs/achievements
+      - title: What's Happening
+        url: /nurturing-our-champs/whats-happening
   - title: Other Information
     collection: other-information
