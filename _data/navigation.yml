@@ -1,6 +1,4 @@
 logo: /images/logo2.gif
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Other Information
+    collection: other-information
