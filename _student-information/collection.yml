@@ -2,6 +2,8 @@ collections:
   student-information:
     output: true
     order:
+      - Sec 1 Students 2022/Subject Based Banding (For eligible NA and NT
+        students).md
       - Sec 1 Students 2022/Mother Tongue Language (MTL) Matters.md
       - Sec 1 Students 2022/School–Home Partnership.md
       - Sec 1 Students 2022/Medical Appeal Exercise (MAE).md
