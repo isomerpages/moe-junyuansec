@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports/Track & Field.md
       - Sports/Volleyball (Girls).md
       - Sports/Sports.md
       - Sports/.keep
