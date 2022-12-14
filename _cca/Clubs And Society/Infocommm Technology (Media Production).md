@@ -311,5 +311,5 @@ third_nav_title: Clubs And Society
 <p><strong><u>2014<br /></u></strong>Schools Digital Media Award (SDMA) - 1 Gold, 1 Silver</p>
 <hr>
 <p><strong>O</strong><strong>ur Journey</strong></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RkAoxFNJ4J0" title="Media Productions (Highlights)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6VyrqAqJztk" title="Media Production (Our CCA Experiences)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RkAoxFNJ4J0" title="Media Productions (Highlights)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="text-align: center;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6VyrqAqJztk" title="Media Production (Our CCA Experiences)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="text-align: center;"></iframe>
