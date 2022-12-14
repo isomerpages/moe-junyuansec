@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Events Calendar.md
       - Student ICT Matters/.keep
       - Student ICT Matters/Student ICT Matters.md
       - Student ICT Matters/Student JYMail Accounts.md
