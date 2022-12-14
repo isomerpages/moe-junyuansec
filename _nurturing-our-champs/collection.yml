@@ -2,6 +2,7 @@ collections:
   nurturing-our-champs:
     output: true
     order:
+      - Accolades/Staff Recognition.md
       - Accolades/.keep
       - Achievements.md
       - What's Happening/What's Happening.md
