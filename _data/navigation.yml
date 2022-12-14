@@ -1,5 +1,34 @@
 logo: /images/logo2.gif
 links:
+  - title: Student Information
+    url: /student-information
+    sublinks:
+      - title: Open House (19 Nov 2022)
+        url: /student-information/open-house-19-nov-2022
+      - title: Student Handbook
+        url: /student-information/student-handbook
+      - title: Learning and Assessment
+        url: /student-information/learning-and-assessment
+      - title: Events Calendar
+        url: /student-information/events-calendar
+      - title: Student ICT Matters
+        url: /student-information/student-ict-matters
+      - title: Student Learning Space (SLS)
+        url: /student-information/student-learning-space-sls
+      - title: Student Timetable
+        url: /student-information/student-timetable
+      - title: Sec 1 Students 2022
+        url: /student-information/sec-1-students-2022
+      - title: Sec 3 Subject Combination 2023
+        url: /student-information/sec-3-subject-combination-2023
+      - title: Internal Examination Matters
+        url: /student-information/internal-examination-matters
+      - title: School Uniform Vendor
+        url: /student-information/school-uniform-vendor
+      - title: Locker Vendor
+        url: /student-information/locker-vendor
+      - title: Booklist 2023/Bookshop Vendor
+        url: /student-information/booklist-2023-n-bookshop-vendor
   - title: CCA
     url: /cca
     sublinks:
