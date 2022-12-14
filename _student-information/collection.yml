@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Student ICT Matters/.keep
       - Student Learning Space (SLS).md
       - Student Timetable.md
       - Sec 1 Students 2022/Welcome to the Junyuan Family!.md
