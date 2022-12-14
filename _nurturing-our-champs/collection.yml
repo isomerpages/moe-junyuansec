@@ -1,4 +1,5 @@
 collections:
   nurturing-our-champs:
     output: true
-    order: []
+    order:
+      - What's Happening/.keep
