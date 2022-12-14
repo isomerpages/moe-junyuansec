@@ -2,4 +2,5 @@ collections:
   nurturing-our-champs:
     output: true
     order:
+      - What's Happening/2020 Battling Covid–19.md
       - What's Happening/.keep
