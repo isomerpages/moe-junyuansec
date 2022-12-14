@@ -1,7 +1,5 @@
 logo: /images/logo2.gif
 links:
-  - title: Student Information
-    collection: student-information
   - title: CCA
     url: /cca
     sublinks:
