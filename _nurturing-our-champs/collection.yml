@@ -2,6 +2,7 @@ collections:
   nurturing-our-champs:
     output: true
     order:
+      - What's Happening/2021 TDD.md
       - What's Happening/2021 Hari Raya.md
       - What's Happening/2021 Food Drive.md
       - What's Happening/2021 CCA Fair.md
