@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Student ICT Matters/Student ICT Matters.md
       - Student ICT Matters/.keep
       - Student Learning Space (SLS).md
       - Student Timetable.md
