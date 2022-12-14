@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Sec 1 Students 2022/Financial Assistance Scheme.md
       - Sec 1 Students 2022/Sale of Textbooks and Uniforms.md
       - Sec 1 Students 2022/Subject Based Banding (For eligible NA and NT
         students).md
