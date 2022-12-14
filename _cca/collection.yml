@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Clubs And Society/Audio Visual Aid (PA & AVA Club).md
       - Clubs And Society/.keep
