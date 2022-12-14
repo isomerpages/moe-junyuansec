@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Sec 1 Students 2022/School–Home Partnership.md
       - Sec 1 Students 2022/Medical Appeal Exercise (MAE).md
       - Sec 1 Students 2022/Waiting List.md
       - Sec 1 Students 2022/Contact Us.md
