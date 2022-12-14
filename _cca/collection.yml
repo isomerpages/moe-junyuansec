@@ -2,14 +2,14 @@ collections:
   cca:
     output: true
     order:
+      - Sports/.keep
+      - Sports/Sports.md
       - Sports/Archery.md
       - Sports/Badminton.md
       - Sports/Basketball (Boys).md
       - Sports/Rugby (Boys).md
       - Sports/Track & Field.md
       - Sports/Volleyball (Girls).md
-      - Sports/Sports.md
-      - Sports/.keep
       - Clubs And Society/Clubs and Society.md
       - Clubs And Society/Infocomm Technology (Computing).md
       - Clubs And Society/Infocommm Technology (Media Production).md
