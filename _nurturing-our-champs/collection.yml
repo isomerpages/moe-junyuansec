@@ -2,6 +2,7 @@ collections:
   nurturing-our-champs:
     output: true
     order:
+      - What's Happening/MOE–OBS Challenge Programme 2023.md
       - What's Happening/2022 Mother Tongue Language Fortnight.md
       - What's Happening/2021 TDD.md
       - What's Happening/2021 Hari Raya.md
