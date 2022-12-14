@@ -2,5 +2,6 @@ collections:
   student-information:
     output: true
     order:
+      - School Uniform Vendor.md
       - Locker Vendor.md
       - Booklist 2023 & Bookshop Vendor.md
