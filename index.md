@@ -14,7 +14,7 @@ sections:
           url: /announcement
         - title: Latest Events
           description: ""
-          url: /latest-events/
+          url: /jyss/news/2022-leaders-in-action
         - title: Useful Links
           description: ""
           url: /useful-links
