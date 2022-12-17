@@ -1,5 +1,5 @@
 collections:
-  latest-events:
+  jyss:
     output: true
     order:
       - News/2022 Leaders in Action.md
