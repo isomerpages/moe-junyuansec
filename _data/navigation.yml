@@ -1,5 +1,18 @@
 logo: /images/logo2.gif
 links:
+  - title: Our Identity
+    url: /our-identity
+    sublinks:
+      - title: Principal's Message
+        url: /our-identity/principals-message
+      - title: Our History
+        url: /our-identity/our-history
+      - title: Mission, Vision, Motto
+        url: /our-identity/mission-vision-motto-and-core-values
+      - title: Emblem & Song
+        url: /our-identity/emblem-n-song
+      - title: School Organisation
+        url: /our-identity/school-organisation
   - title: Student Information
     url: /student-information
     sublinks:
