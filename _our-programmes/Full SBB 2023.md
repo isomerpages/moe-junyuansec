@@ -9,7 +9,7 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p style="font-weight: 400;">We welcome the&nbsp;Mixed Form Class in 2023:</p>
+<p style="font-weight: 400;"><strong>We welcome the&nbsp;Mixed Form Class in 2023:</strong></p>
 <p style="font-weight: 400;">Each Mixed Class bridges students from different courses. It offers more opportunities for students to interact with others taking different subject combinations; with different strengths and interests. Within the Mixed Class, students have more opportunities to learn from, interact with and bond with a more diverse group of peers, hence enriching their perspectives.</p>
 </td>
 <td style="width: 50%;"><img src="/images/sbb1.jpg"></td>
@@ -17,7 +17,7 @@ description: ""
 <tr>
 <td style="width: 50%;"><img src="/images/sbb2.jpg"></td>
 <td style="width: 50%;">
-<p>Customised Learning for our Students:</p>
+<p><strong>Customised Learning for our Students:</strong></p>
 <p>Full Subject-Based Banding (Full SBB) is part of MOE's ongoing efforts to nurture the joy of learning and develop multiple pathways to cater to the different strengths and interests of our students. With Full SBB, we move towards a secondary school education where students learn each subject at the level that best caters to their overall strengths, interests and learning needs.</p>
 </td>
 </tr>
