@@ -3,3 +3,54 @@ title: Learning for Life Programme (LLP)
 permalink: /our-programmes/learning-for-life-programme-llp/
 description: ""
 ---
+<h4><strong>Lifelong Learning Programme: Community Youth Leadership</strong></h4>
+<p><strong>Goal: Every student, a Community Youth Leader</strong></p>
+<p>The Learning for Life Programme in Community Youth Leadership (CYL) supports the school&rsquo;s vision of nurturing our students to be Champions for the Community. We adopt the Five Practices of Exemplary Leadership by James M. Kouzes and Barry Z Posner in developing our student leaders in Junyuan. All student leaders will be trained in the Student Leadership Challenge (TSLC) and will have the opportunity to exhibit the following behaviours:</p>
+<ul>
+<li>Model the Way</li>
+<li>Inspire a Shared Vision</li>
+<li>Challenge the Process</li>
+<li>Enable Others to Act</li>
+<li>Encourage the Heart</li>
+</ul>
+<p><strong>The Leadership Development Roadmap</strong></p>
+<img src="/images/llp1.jpg">
+<p>We believe leadership is not positional, and that every student has the potential within them to be a leader. Through various structured leadership training, learning programmes and opportunities, we hope to nurture our student leaders to be concerned citizens and active contributors.</p>
+<h4><strong>Leadership Training</strong></h4>
+<p>All students in Junyuan go through a structured developmental leadership training.</p>
+<p>Cohort trainings on the Five Practices of Exemplary Leadership are conducted every year.</p>
+<ul>
+<li>Secondary One (Model the Way, Encourage the Heart)</li>
+<li>Secondary Two (Challenge the Process, Enable Others to Act)</li>
+<li>Secondary Three (Inspire a Shared Vision)</li>
+</ul>
+<p>Trainings are also conducted for student leaders of various leadership groups, where specific leadership skills are identified to be taught to them. The leadership development programme for them is segmented and progressive. Some of these trainings are:</p>
+<ul>
+<li>Class Leaders Training (for class chairpersons)</li>
+<li>Peer Support Leaders Training</li>
+<li>Sec 3 CCA Leaders Training&nbsp;</li>
+<li>Student Leaders Training (for Sec 1 Orientation and Sec 2 Camp helpers)</li>
+<li>Student Council Camp</li>
+<li>Sec 1 Student Leader Internship</li>
+</ul>
+<p><strong>Student Council<br /></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. To achieve that, the Student Council organises a variety of projects and events within and outside of school. Trainings, workshops and learning journeys are some of the programs students will engage in to hone their leadership skills.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/llp2.png"></td>
+<td style="width: 33.3333%;"><img src="/images/llp3.png"></td>
+<td style="width: 33.3333%;"><img src="/images/llp4.png"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Service Learning &amp; Innovation (SLI) Exposure for Secondary One</strong></h4>
+<p>The SLI Exposure consists of a workshop and experience volunteering at an external organisation. The workshop aims to equip students with the knowledge of service learning and the use of Innovation Protocol to understand their roles in helping the community and generating ideas for community projects. Through the workshop, students work in groups to generate innovative solutions to solve problems for the community. As part of the exposure,&nbsp;our Secondary 1 cohort had a hands-on experience in using the design thinking process to solve the problem of food insecurity in Singapore. In giving back to the community, they partnered with Food Bank Singapore and enabled every Secondary One class to organise a food donation drive in Junyuan Secondary.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 27%;"><img src="/images/llp5.png"></td>
+<td style="width: 27%;"><img src="/images/llp6.png"></td>
+<td style="width: 46%;"><img src="/images/llp7.png"></td>
+</tr>
+</tbody>
+</table>
