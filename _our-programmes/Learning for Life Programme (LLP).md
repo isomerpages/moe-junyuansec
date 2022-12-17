@@ -83,3 +83,46 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Community Outreach</strong></h4>
+<p>As part of community engagement, students visit neighbourhood block of residents during festive events and national day celebration. They give out mandarin oranges and hand-made postcards that share about the traditional Chinese New Year food with the residents during Chinese New Year. For National Day Celebration, the students distribute flower pots and share gardening tips with them.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/llp15.jpg"></td>
+<td style="width: 50%;"><img src="/images/llp16.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Recognition</strong></h4>
+<p>Student Leaders&rsquo; Investiture was organised to affirm the efforts of our student leaders. Be it class leaders, CCA leaders, Student Council or Peer Support leaders, all of them were recognised in their respective classes during CCE Leaders&rsquo; Investiture this year.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/llp17.png"></td>
+<td style="width: 50%;"><img src="/images/llp18.png"></td>
+</tr>
+	<tr>
+<td style="width: 50%;"><img src="/images/llp19.png"></td>
+<td style="width: 50%;"><img src="/images/llp20.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;" colspan="2"><img src="/images/llp21.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;" colspan="2"><img src="/images/llp22.png"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>The Community Youth Leadership Team (2022)</strong></h4>
+<ul>
+<li>Mr Kim Choon Hin Kelvin</li>
+<li>Mdm Ng Sui Lin</li>
+<li>Ms Nurliyana Mohamad Zainudin</li>
+<li>Mdm Seah Mei Ping</li>
+<li>Ms Shamilah</li>
+<li>Mr Tan Chwoon Ping, Ivan</li>
+<li>Ms Thng Wei Wei</li>
+<li>Mr Twang Kwang Han</li>
+<li>Mdm Xue Wen Juan</li>
+<li>Mdm Tan Chin Alicia</li>
+</ul>
