@@ -2,6 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
+      - "Character & Citizenship/Character & Citizenship Programmes: ECG,
+        Sexuality Education Programme.md"
       - Character & Citizenship/.keep
       - Home Based Learning/Home Based Learning.md
       - Home Based Learning/Resource Kits.md
