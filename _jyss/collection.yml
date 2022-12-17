@@ -2,6 +2,7 @@ collections:
   jyss:
     output: true
     order:
+      - Privacy Policy.md
       - Home Slider.md
       - News/2022 Leaders in Action.md
       - News/2022 Class Leaders Investiture.md
