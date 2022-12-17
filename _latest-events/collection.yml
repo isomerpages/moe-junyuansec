@@ -2,5 +2,6 @@ collections:
   latest-events:
     output: true
     order:
+      - News/2021 Caught In a Good Act.md
       - News/2022 Career Talks Series.md
       - News/.keep
