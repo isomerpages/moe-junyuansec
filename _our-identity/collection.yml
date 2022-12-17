@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - Our History.md
       - Mission, Vision, Motto and Core Values.md
       - Emblem & Song.md
       - Student Organisation/School Organisation.md
