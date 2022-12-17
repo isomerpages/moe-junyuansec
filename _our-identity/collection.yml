@@ -2,5 +2,6 @@ collections:
   our-identity:
     output: true
     order:
+      - Student Organisation/Allied Educators.md
       - Student Organisation/Executive and Administrative Staff.md
       - Student Organisation/.keep
