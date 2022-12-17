@@ -2,4 +2,5 @@ collections:
   teaching-staff:
     output: true
     order:
+      - ICT.md
       - Physical Education.md
