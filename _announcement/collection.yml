@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - Sec 1 Students.md
       - Open House.md
