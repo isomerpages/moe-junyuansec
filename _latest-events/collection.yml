@@ -1,0 +1,4 @@
+collections:
+  latest-events:
+    output: true
+    order: []
