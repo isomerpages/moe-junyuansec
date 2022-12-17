@@ -2,5 +2,6 @@ collections:
   announcement:
     output: true
     order:
+      - Outstanding Youth in Education Award 2023.md
       - Sec 1 Students.md
       - Open House.md
