@@ -2,4 +2,5 @@ collections:
   our-identity:
     output: true
     order:
+      - Student Organisation/Executive and Administrative Staff.md
       - Student Organisation/.keep
