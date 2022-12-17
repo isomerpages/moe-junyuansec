@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - Student Organisation/School Organisation.md
       - Student Organisation/Advisory Committee.md
       - Student Organisation/School Management Committee.md
       - Student Organisation/Key Personnel.md
