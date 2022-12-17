@@ -93,5 +93,5 @@ description: ""
 <p><em>The &lsquo;Automatic Cupcake Toping Dispenser&rsquo; designed by Team JY</em></p>
 <p><strong>~Eco Cook-off Challenge 2020~</strong></p>
 <p>Our students develop a nutritionally balanced and eco-friendly meal for teens (those in the 13-19 years age range). Through this competition, they learnt the science behind various cooking techniques such as Sous Vide and Emulsification. Students also developed their entrepreneurial dare to innovate. Check out their dishes here:</p>
-<p>Sousvide salmon fillet with mix-potato mousse and fresh greens: (&nbsp;<a href="https://youtu.be/dYO-k_Fa0_Y"><u>https://youtu.be/dYO-k_Fa0_Y</u></a>)</p>
+<p>Sousvide salmon fillet with mix-potato mousse and fresh greens: (<a href="https://youtu.be/dYO-k_Fa0_Y"><u>https://youtu.be/dYO-k_Fa0_Y</u></a>)</p>
 <p>Sousvide Chicken thigh with aglio olio pasta &amp; fresh greens:&nbsp;(<a href="https://youtu.be/QT7b1vJIPUM"><u>https://youtu.be/QT7b1vJIPUM</u></a>)</p>
