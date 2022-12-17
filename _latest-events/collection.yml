@@ -2,4 +2,5 @@ collections:
   latest-events:
     output: true
     order:
+      - News/2022 Career Talks Series.md
       - News/.keep
