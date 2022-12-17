@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Direct School Admission (DSA–SEC).md
       - After–School Engagement (ASEs) Programme.md
       - National Digital Literacy Programme (NDLP).md
       - Character & Citizenship/.keep
