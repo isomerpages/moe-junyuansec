@@ -54,3 +54,32 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Values in Action Project for Secondary Two</strong></h4>
+<p>Students will be engaged as a class to plan and execute a Values in Action (VIA) project with external organisations. The project aims to develop students into socially responsible citizens meaningfully to the community through the learning and application of values, knowledge and skills acquired in Secondary 1 SLI Exposure. As part of their learning, students also conduct a Community Cause Awareness Campaign to share about their project and learning from the experiences.</p>
+<h4><strong>Co-Organising of School Events for Secondary Three</strong></h4>
+<p>Student leaders will work together with various teachers, schoolmates and external organisations to execute a selected school wide event. Through this platform, student leaders take ownership of the event and grow from the experience of running large scale events. Some of these events include Graduation Day, Teachers Day, Hari Raya Celebrations, Racial Harmony, International Friendship Day and many more.&nbsp;</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/llp8.png"></td>
+<td style="width: 50%;"><img src="/images/llp9.png"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Champs Initiated Projects</strong></h4>
+<p>Student leaders are welcome to initiate projects that aim to improve the school environment, improve the community, or kick start new initiatives for a good cause. Student leaders use this platform to practice leadership by proposing changes and leading a project. Some successful projects include Ofobrella (JY umbrella rental system), Class Calendar Whiteboards and Anti-Bacteria and Hygiene Awareness Campaign.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/llp10.png"></td>
+<td style="width: 50%;"><img src="/images/llp11.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/llp12.png"></td>
+<td style="width: 50%;"><img src="/images/llp13.png"></td>
+</tr>
+<tr>
+<td style="width: 50%;" colspan="2"><img style="width: 40%;" src="/images/llp14.png"></td>
+</tr>
+</tbody>
+</table>
