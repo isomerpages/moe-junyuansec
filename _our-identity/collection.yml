@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - Our Identity.md
       - Principal's Message.md
       - Our History.md
       - Mission, Vision, Motto and Core Values.md
