@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Home Based Learning/Resource Kits.md
       - Home Based Learning/.keep
       - Full SBB 2023.md
