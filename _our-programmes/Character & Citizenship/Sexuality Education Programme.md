@@ -372,7 +372,7 @@ third_nav_title: Character & Citizenship
 <td style="text-align: center;" width="177">
 <p>Mass Talk by HPB appointed vendor</p>
 </td>
-<td style="text-align: center;" width="482">
+<td width="482">
 <p>&middot; Awareness of the different STIs and HIV/AIDS<br />&middot; Modes of transmission<br />&middot; Modes of protection, specifically on how the condom is used<br />&middot; Consequences and impact of STIs/HIV</p>
 </td>
 <td style="text-align: center;" width="160">
@@ -383,7 +383,7 @@ third_nav_title: Character & Citizenship
 <td style="text-align: center;" width="177">
 <p>Classroom-based Lesson</p>
 </td>
-<td style="text-align: center;" width="482">
+<td width="482">
 <p>&middot; Learn to negotiate their way out of a risky<br />situation by applying skills of assertiveness and responsible decision-making</p>
 </td>
 <td style="text-align: center;" width="160">
