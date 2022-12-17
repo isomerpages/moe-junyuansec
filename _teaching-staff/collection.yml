@@ -2,6 +2,7 @@ collections:
   teaching-staff:
     output: true
     order:
+      - Mother Tongue.md
       - Aesthetics.md
       - Humanities.md
       - ICT.md
