@@ -1,5 +1,8 @@
 logo: /images/logo2.gif
 links:
+  - title: Our Programmes
+    url: /our-programmes
+    sublinks: []
   - title: Our Identity
     url: /our-identity
     sublinks:
