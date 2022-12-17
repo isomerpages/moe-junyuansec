@@ -2,7 +2,23 @@ logo: /images/logo2.gif
 links:
   - title: Our Programmes
     url: /our-programmes
-    sublinks: []
+    sublinks:
+      - title: Applied Learning Programme
+        url: /our-programmes/applied-learning-programme-alp
+      - title: Learning for Life Programme
+        url: /our-programmes/learning-for-life-programme-llp
+      - title: Direct School Admission
+        url: /our-programmes/direct-school-admission-dsa-sec
+      - title: After-School Engagement
+        url: /our-programmes/after-school-engagement-ases-programme
+      - title: National Digital Literacy
+        url: /our-programmes/national-digital-literacy-programme-ndlp
+      - title: Character & Citizenship
+        url: /our-programmes/character-n-citizenship-programmes-e-c-g-sexuality-education-programme
+      - title: Home Based Learning
+        url: /our-programmes/home-based-learning
+      - title: Full SBB 2023
+        url: /our-programmes/full-sbb-2023
   - title: Our Identity
     url: /our-identity
     sublinks:
