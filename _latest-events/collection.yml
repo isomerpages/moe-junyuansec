@@ -1,4 +1,5 @@
 collections:
   latest-events:
     output: true
-    order: []
+    order:
+      - News/.keep
