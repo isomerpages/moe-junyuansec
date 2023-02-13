@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Home Based Learning
 ---
 <p><strong>Overview</strong></p>
-<p>1. Home-Based Learning (HBL) is a bi-weekly platform for students to learn in settings beyond<br /> school through a blend of online and offline&nbsp;activities. These activities complement in-<br /> school learning and are designed&nbsp;to&nbsp;develop students' ability to be self-directed, passionate<br /> and lifelong learners. These self-directed experience will also encourage the development<br /> of positive habits in learning, such as setting of learning goals and monitoring of one&rsquo;s<br /> learning progress.</p>
+<p>1.  Home-Based Learning (HBL) is a bi-weekly platform for students to learn in settings beyond school through a blend of online and offline activities. These activities complement in-school learning and are designed&nbsp;to&nbsp;develop students' ability to be self-directed, passionate and lifelong learners. These self-directed experience will also encourage the development<br /> of positive habits in learning, such as setting of learning goals and monitoring of one&rsquo;s<br /> learning progress.</p>
 <p>2. HBL days will be conducted on a regular basis throughout the school year to inculcate the<br /> practice of self-directed learning. We are confident that with practice, every Junyuan<br /> student can continue their learning even when they are at home.&nbsp;</p>
 <p><strong>Schedule</strong></p>
 <p>3. All Sec 1, 2 and 3 are scheduled for HBL in Semester 2 2022 on the following Fridays -<br /> 8 Jul, 22 Jul, 5 Aug, 19 Aug, 23 Sep 2022.</p>
