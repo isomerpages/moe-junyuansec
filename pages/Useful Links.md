@@ -7,7 +7,6 @@ description: ""
 <ul>
 <li><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">Student Learning Space</a></li>
 <li><a href="https://go.gov.sg/jysls" target="_blank" rel="noopener">Student SLS Password Reset</a></li>
-<li><a href="https://go.gov.sg/jymail" target="_blank" rel="noopener">Student JYMail Password Reset</a></li>
 <li><a href="https://go.gov.sg/jyssoe" target="_blank" rel="noopener">Student SSOE Password Reset</a></li>
 </ul>
 <p><strong>Parents</strong></p>
