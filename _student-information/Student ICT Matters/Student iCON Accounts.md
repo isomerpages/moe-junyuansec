@@ -10,7 +10,7 @@ third_nav_title: Student ICT Matters
 <p>Students can start to log in from 26 Apr, once parents have given consent for students to use the MOE&rsquo;s Centralised System.</p>
 <p><strong>HOW DO I LOG IN?</strong></p>
 <p>You can log in to Student iCON via this QR code or this link:&nbsp;<a href="https://workspace.google.com/dashboard"><u>https://workspace.google.com/dashboard</u></a>.</p>
-<img style="width: 80%;" src="/images/a1.jpg" />
+
 <table>
 <tbody>
 <tr>
