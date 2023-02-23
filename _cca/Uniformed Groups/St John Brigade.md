@@ -27,32 +27,32 @@ third_nav_title: Uniformed Groups
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">Year</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2013</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2014</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2015</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2016</a></th>
+<th style="text-align: center;">Year</th>
+<th style="text-align: center;">2013</th>
+<th style="text-align: center;">2014</th>
+<th style="text-align: center;">2015</th>
+<th style="text-align: center;">2016</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">Achievement</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">BRONZE</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">BRONZE</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">-</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">BRONZE</a></td>
+<td style="text-align: center;">Achievement</td>
+<td style="text-align: center;">BRONZE</td>
+<td style="text-align: center;">BRONZE</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">BRONZE</td>
 </tr>
 <tr>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">Year</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2017</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2018</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2019</a></th>
-<th style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">2020</a></th>
+<th style="text-align: center;">Year</th>
+<th style="text-align: center;">2017</th>
+<th style="text-align: center;">2018</th>
+<th style="text-align: center;">2019</th>
+<th style="text-align: center;">2020</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">&nbsp;Achievement</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">&nbsp;SILVER</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">&nbsp;GOLD</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">GOLD</a></td>
-<td style="text-align: center;"><a href="https://junyuansec.moe.edu.sg/cca/uniformed-groups/goog_1362684196">-&nbsp;</a></td>
+<td style="text-align: center;">Achievement</td>
+<td style="text-align: center;">SILVER</td>
+<td style="text-align: center;">GOLD</td>
+<td style="text-align: center;">GOLD</td>
+<td style="text-align: center;">-</td>
 </tr>
 </tbody>
 </table>
