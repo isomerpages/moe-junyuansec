@@ -16,8 +16,7 @@ third_nav_title: Performing Arts
 <p><strong>Plans for the CCA<br /></strong>To obtain Certificate of Distinction for Singapore Youth Festival (SYF) Arts Presentation<br />To provide suitable platforms for our dancers to gain valuable experience at various external performances and competitions</p>
 <p><strong>CCA Schedule &amp; CCA venue<br /></strong>Every Tuesday and Thursday (3.00pm to 5.30pm)<br />Learning Hub 2 &amp; 3 (Level 4)</p>
 <p><strong>Teachers-In-Charge</strong><br />1. Ms Kwok Hui Ning Grace</p>
-<p><strong>CCA Leaders (Year 2023)<br /></strong>Upper Secondary:<br />1. President: Regine Low Jie Ning (4E3)<br />2. President: Tan Hui Sha (4N1)<br />3. Vice President: Areca Lim Tian Dan (4E4)<br />4. Vice President: Ariel Tan Xin Lin (4E2)<br />5. Nur Diya Aamira Binte Mohd Irwandi (4N3)</p>
-<p>Lower Secondary:<br />1. Vice President: Anriana Perez Macahia (TBC)<br />2. Vice President: Tok En Qi (TBC)</p>
+<p><strong>CCA Leaders (Year 2023)<br /></strong>1. President: Regine Low Jie Ning (4E3)<br /><u></u><u></u>2. Vice-President (Training) : Areca Lim Tian Dan (4E4) and Nur Diya Aamira Binte Mohd Irwandi (4N3)<br /><u></u><u></u>3. Vice-President (Publicity): Ariel Tan Xin Lin (4E2)<br /><u></u>4. Vice-President (Admin): Tan Hui Shan (4N1)</p>
 <p><strong>Awards/Achievements</strong></p>
 <p>SYF Arts Presentation Achievements:</p>
 <table>
