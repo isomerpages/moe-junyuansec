@@ -3,9 +3,7 @@ title: CCA Schedule
 permalink: /cca/cca-schedule/
 description: ""
 ---
-
-
-<p>Our school will be resuming our CCA activities from Term 1 Week 2 in 2022 with the necessary Safe Management Measures (SMM) in place. Our SMM are in line with MOE Guidelines and the current national posture, where the risks for all activities are being contained and moderated for the safety of our students.</p>
+<p>Our school will be resuming all CCA activities from Term 1 Week 2 in 2023.</p>
 <p>Kindly refer to the following schedule for each CCA.</p>
 <p><strong>Sports</strong></p>
 <p>1. Archery:  <u><a href="https://go.gov.sg/jyss-archery-schedule-2021" target="_blank" rel="noopener">&nbsp;</a><a href="https://go.gov.sg/jyss-archery-schedule">https://go.gov.sg/jyss-archery-schedule</a></u></p>
