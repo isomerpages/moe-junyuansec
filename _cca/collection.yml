@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Schedule.md
       - CCA.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
