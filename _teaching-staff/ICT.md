@@ -7,13 +7,8 @@ description: ""
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ict1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ict2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ict3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/ict4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ict5.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ict6.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/ict4.jpg"></td>
 </tr>
 </tbody>
 </table>
