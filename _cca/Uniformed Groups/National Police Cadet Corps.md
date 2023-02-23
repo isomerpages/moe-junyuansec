@@ -4,45 +4,46 @@ permalink: /cca/uniformed-groups/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+<p>The mission of the National Police Cadet Corps is to develop cadets into active citizens and community leaders who are morally upright and law-abiding. Through structured and meaningful training programmes such as Police Youth Ambassador, Community Safety &amp; Security Programme and Crime Scene Investigation, Junyuan Secondary&nbsp;National Police Cadet Corps (NPCC) strives to inculcate core values such as discipline, loyalty,- tenacity and civic-consciousness in our cadets. In addition, camaraderie amongst the cadets is forged through competitions, activities, and parades that the unit participates in such as the Inter-Area Drill Competition, Inter-Area Shooting Competition, the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 <p><strong>Motto<br /></strong>To develop cadets for the 21st century</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br /></strong>Every Tuesdays and Thursdays (3 pm to 5 pm)<br />Parade Square / Classrooms</p>
 <p><strong>Teachers-in-Charge<br /></strong>1. Ms Jolene Ng<br />2. Mr Loh Chee Teng<br />3. Ms Cheong Wei Yuen<br />4. Ms Siti Syafiqah</p>
-<p><strong>CCA Leaders (Year 2022)<br /></strong>1. Chairman: Muhd 'Ammar (4E4)<br />2. Deputy Chairman: Ganapathy Janaki (4E4)<br />3. Head Admin: Sri Dafina (4E2)<br />4. Head PT: Xavier Tey (4T1)<br />5. Head Welfare: Amos Lim (4E1)</p>
+<p><strong>CCA Leaders (Year 2023)<br /></strong>1. Chairperson: Muhammad Taufiq bin Abdullah (4E4)<br />2. Deputy Chairperson: Nur Hannah Dayana binte Mohamad Rusdi (4N3)</p>
 <p><strong>Awards/Achievements</strong></p>
 <p>Unit Overall Proficiency Award:</p>
 <table>
 <tbody>
 <tr>
 <th style="text-align: center;">Year</th>
-<th style="text-align: center;">2011</th>
-<th style="text-align: center;">2012</th>
 <th style="text-align: center;">2013</th>
 <th style="text-align: center;">2014</th>
 <th style="text-align: center;">2015</th>
+<th style="text-align: center;">2016</th>
+<th style="text-align: center;">2017</th>
+</tr>
+<tr>
+<td style="text-align: center;">Achievement</td>
+<td style="text-align: center;">SILVER</td>
+<td style="text-align: center;">GOLD</td>
+<td style="text-align: center;">GOLD</td>
+<td style="text-align: center;">SILVER</td>
+<td style="text-align: center;">SILVER</td>
+</tr>
+<tr>
+<th style="text-align: center;">Year</th>
+<th style="text-align: center;">2018</th>
+<th style="text-align: center;">2019</th>
+<th style="text-align: center;">2020</th>
+<th style="text-align: center;">2021</th>
+<th style="text-align: center;">2022</th>
 </tr>
 <tr>
 <td style="text-align: center;">Achievement</td>
 <td style="text-align: center;">SILVER</td>
 <td style="text-align: center;">SILVER</td>
-<td style="text-align: center;">SILVER</td>
 <td style="text-align: center;">GOLD</td>
 <td style="text-align: center;">GOLD</td>
-</tr>
-<tr>
-<th style="text-align: center;">Year</th>
-<th style="text-align: center;">2016</th>
-<th style="text-align: center;">2017</th>
-<th style="text-align: center;">2018</th>
-<th style="text-align: center;">2019</th>
-<th style="text-align: center;">2020</th>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;Achievement</td>
-<td style="text-align: center;">SILVER</td>
-<td style="text-align: center;">SILVER&nbsp;</td>
-<td style="text-align: center;">SILVER&nbsp;</td>
-<td style="text-align: center;">SILVER&nbsp;</td>
-<td style="text-align: center;">-&nbsp;</td>
+<td style="text-align: center;">GOLD</td>
 </tr>
 </tbody>
 </table>
