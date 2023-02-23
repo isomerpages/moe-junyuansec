@@ -13,10 +13,10 @@ third_nav_title: Student Organisation
 <td style="width: 25%;"><img src="/images/eas4.jpg"></td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/eas5.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas6.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas7.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas8.jpg"></td>
+<td style="width: 25%;"> </td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas9.jpg"></td>
@@ -32,8 +32,8 @@ third_nav_title: Student Organisation
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas16.jpg"></td>
-<td style="width: 25%;"><img src="/images/eas17.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas18.jpg"></td>
+<td style="width: 25%;">&nbsp;</td>
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
