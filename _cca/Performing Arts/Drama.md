@@ -27,7 +27,7 @@ third_nav_title: Performing Arts
 <td style="text-align: center;">Distinction</td>
 <td style="text-align: center;">Accomplishment</td>
 <td style="text-align: center;">Commendation</td>
-<td style="text-align: center;">Team A: AccomplishmentTeam B: Commendation&nbsp;</td>
+<td style="text-align: center;">Team A: Accomplishment Team<br>B: Commendation</td>
 </tr>
 </tbody>
 </table>
