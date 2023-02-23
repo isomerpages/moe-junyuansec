@@ -265,7 +265,7 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table>
-<h4>Highlights in 2022</h4>
+<h4><strong>Highlights in 2022</strong></h4>
 <table>
 <tbody>
 <tr>
