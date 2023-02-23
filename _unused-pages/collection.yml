@@ -2,4 +2,5 @@ collections:
   unused-pages:
     output: true
     order:
+      - Student JYMail Accounts.md
       - CCA Schedule.md
