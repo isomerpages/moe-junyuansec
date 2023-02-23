@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA.md
-      - CCA Schedule.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Choir.md
