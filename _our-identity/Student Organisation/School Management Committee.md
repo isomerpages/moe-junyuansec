@@ -4,7 +4,6 @@ permalink: /our-identity/school-organisation/school-management-committee/
 description: ""
 third_nav_title: Student Organisation
 ---
-<h4><strong>Principal &amp; Vice-Principals</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
