@@ -26,8 +26,11 @@ description: ""
 <li>We know how to engineer success, but we can also have fun while doing so</li>
 </ul>
 <p>We achieve balance when we adopt the&nbsp;<strong>itinerary of sustainable improvement</strong>:</p>
-<p style="padding-left: 40px;">1) Consolidating the Right Things through ABCD &ndash;&nbsp;<strong>Affirming</strong>&nbsp;School Progress &amp; Direction,&nbsp;<strong>Building Belief</strong>&nbsp;in Systems, Structures and Process,&nbsp;<strong>Consolidating</strong>&nbsp;Core Strategy-Programmes,&nbsp;<strong>Developing</strong>&nbsp;Personal Capacity<br />2) Strengthening the Right Crew through EFGH &ndash;&nbsp;<strong>Enabling &amp; Enhancing</strong>&nbsp;Capacity<strong>, Fostering &amp; Growing</strong>&nbsp;Innovation, Encouraging the&nbsp;<strong>Heart</strong>&nbsp;by increasing sense of mission and belonging<br />3) Challenging our Processes through the 3 Rs &ndash;&nbsp;<strong>Reviewing, Revisiting, Recrafting<br /></strong>4) Charting the Right Direction through IaM &ndash;&nbsp;<strong>Inspiring</strong>&nbsp;a shared vision for the community and&nbsp;<strong>Modeling&nbsp;</strong>the Way to get there</p>
-<p>To help us adopt this itinerary, we reduce effort inflation by asking ourselves 6 essential questions:</p>
+<ol>
+<li>Consolidating the Right Things through ABCD &ndash;&nbsp;<strong>Affirming</strong>&nbsp;School Progress &amp; Direction,&nbsp;<strong>Building Belief</strong>&nbsp;in Systems, Structures and Process,&nbsp;<strong>Consolidating</strong>&nbsp;Core Strategy-Programmes,&nbsp;<strong>Developing</strong>&nbsp;Personal Capacity</li>
+<li>Strengthening the Right Crew through EFGH &ndash;&nbsp;<strong>Enabling &amp; Enhancing</strong>&nbsp;Capacity<strong>, Fostering &amp; Growing</strong>&nbsp;Innovation, Encouraging the&nbsp;<strong>Heart</strong>&nbsp;by increasing sense of mission and belonging</li>
+<li>Challenging our Processes through the 3 Rs &ndash;&nbsp;<strong>Reviewing, Revisiting, Recrafting</li></strong>
+<li>Charting the Right Direction through IaM &ndash;&nbsp;<strong>Inspiring</strong>&nbsp;a shared vision for the community and&nbsp;<strong>Modeling&nbsp;</strong>the Way to get there<br>To help us adopt this itinerary, we reduce effort inflation by asking ourselves 6 essential questions:</li>
 <ol>
 <li>What and how are the students learning?</li>
 <li>How do we know that they have learnt?</li>
