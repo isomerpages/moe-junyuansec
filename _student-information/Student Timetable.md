@@ -4,8 +4,9 @@ permalink: /student-information/student-timetable/
 description: ""
 ---
 <p>Click on the appropriate link to view and/or download the timetable</p>
-<p><strong><u>Student Timetable for Semester 2 (2022)</u></strong></p>
-<p>We have moved into a 2 week (odd and even) timetable for Semester 2, in order to factor in the Blended Learning Day on every even week Friday for Secondary 1 to Secondary 3 students. As such you will have 2 timetable per class, an odd week as well as an even week timetable. The timetable to refer to when school reopens on Mon 27 Jun is the odd week timetable.</p>
-<p>Secondary 4 / 5 students will no longer have Blended Learning in Semester 2. All Sec 4/5 students will return to school for lessons (Monday to Friday for all weeks) in Semester 2.</p>
-<p><u><a href="/files/JYSS%202022%20Semester%202%20Timetable%20-%20Students%20Merged%20Weeks.pdf" target="_blank" rel="noopener">JYSS 2022 Semester 2 Timetable - Students Merged Weeks.pdf</a></u></p>
-<p><a href="/files/JYSS%202022%20Semester%202%20Timetable%20-%20Students%20Separate%20Weeks.pdf" target="_blank" rel="noopener"><u>JYSS 2022 Semester 2 Timetable - Students Separate Weeks.pdf</u></a></p>
+<p><strong><u>Student Timetable for Semester 2 (2023)</u></strong></p>
+<ul>
+<li>We will be following&nbsp;<strong><u>only the odd week</u></strong>&nbsp;timetable from&nbsp;<u>T1W2 to T1W5</u></li>
+<li>We will&nbsp;<strong>start</strong>&nbsp;following the alternate&nbsp;<strong>odd and even week timetable from T1W6</strong></li>
+</ul>
+<p><u><a href="/files/Sem%201%202023%20Class%20Timetable%20Final.pdf">Sem 1 2023 Class Timetable Final.pdf</a></u></p>
