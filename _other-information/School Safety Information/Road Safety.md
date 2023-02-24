@@ -37,6 +37,7 @@ third_nav_title: School Safety Information
 <img style="width: 80%;" src="/images/rs3.jpg" /><br>
 <img style="width: 80%;" src="/images/rs4.jpg" />
 <p><strong>Arrival by Bicycles: SG1 and SG3</strong></p>
+<img style="width: 33%;" src="/images/qr1.jpg" />
 <p>Kindly register at&nbsp;<a href="https://tinyurl.com/JYSSbike" target=""><u>https://tinyurl.com/JYSSbike</u></a>&nbsp;</p>
 <p>For parents/guardians who allow your child/ward to cycle to school, we would like to highlight the following safety rules for our student-cyclists. We seek parents&rsquo; involvement in reminding your child of these rules.</p>
 <p><strong>In School</strong></p>
@@ -295,5 +296,5 @@ third_nav_title: School Safety Information
 </tbody>
 </table>
 <p>As safety is everyone&rsquo;s responsibility, let us work together to create a safe and healthy environment for your child/ward.</p>
-<p><strong><a href="/files/NOTIFICATION%20ON%20USE%20OF%20BICYCLES%20&amp;%20PMD.pdf" target="">NOTIFICATION ON USE OF BICYCLES &amp; PMD.pdf</a></strong></p>
-<p><strong><em>Latest update: 05 Jan 2022</em></strong></p>
+
+<p><strong><em>Latest update: 12 Jan 2023</em></strong></p>
