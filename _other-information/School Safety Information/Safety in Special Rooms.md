@@ -4,7 +4,6 @@ permalink: /other-information/school-safety-information/safety-in-special-rooms/
 description: ""
 third_nav_title: School Safety Information
 ---
-<p>Safety in Special Rooms</p>
 <p><strong>SCIENCE LABORATORY SAFETY RULES</strong></p>
 <p>A Junyuan Secondary School student should at all times abide by the safety rules and behave in a responsible manner when he/she attends lessons in a science laboratory.</p>
 <ul type="disc">
