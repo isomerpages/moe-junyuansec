@@ -2,31 +2,29 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Junyuan Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "11 "
+      - Tampines Street 84
+      - Singapore 528933
+    operating_hours: []
+    maps_link: https://goo.gl/maps/9NMJDKVP9WEGByKc6
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6587 3683
+      - email: junyuan_ss@moe.edu.sg
+      - other: ""
+    title: Office
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Tampines MRT, Tampines West MRT (Downtown)
+    title: Nearest MRT Stations
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 291, 46, 69, 118
+    title: Bus Services
 ---

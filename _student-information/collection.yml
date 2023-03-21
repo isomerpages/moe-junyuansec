@@ -1,0 +1,35 @@
+collections:
+  student-information:
+    output: true
+    order:
+      - Student Information.md
+      - Open House (19 Nov 2022).md
+      - Student Handbook.md
+      - Learning and Assessment.md
+      - Events Calendar.md
+      - Student ICT Matters/.keep
+      - Student ICT Matters/Student ICT Matters.md
+      - Student ICT Matters/Student SSOE Accounts.md
+      - Student ICT Matters/Student iCON Accounts.md
+      - Student Learning Space (SLS).md
+      - Student Timetable.md
+      - Sec 1 Students 2023/Sec 1 Students 2023.md
+      - Sec 1 Students 2023/Welcome to the Junyuan Family!.md
+      - Sec 1 Students 2023/Administrative Information.md
+      - Sec 1 Students 2023/Financial Assistance Scheme.md
+      - Sec 1 Students 2023/Sale of Textbooks and Uniforms.md
+      - Sec 1 Students 2023/Subject Based Banding (For eligible NA and NT
+        students).md
+      - Sec 1 Students 2023/Mother Tongue Language (MTL) Matters.md
+      - Sec 1 Students 2023/School–Home Partnership.md
+      - Sec 1 Students 2023/Medical Appeal Exercise (MAE).md
+      - Sec 1 Students 2023/Waiting List.md
+      - Sec 1 Students 2023/Contact Us.md
+      - Sec 1 Students 2023/.keep
+      - Sec 3 Subject Combination 2023.md
+      - Internal Examination Matters/Internal Examination Matters.md
+      - Internal Examination Matters/Rules and Regulations.md
+      - Internal Examination Matters/Timetable.md
+      - Internal Examination Matters/.keep
+      - School Uniform Vendor.md
+      - Booklist 2023 & Bookshop Vendor.md
