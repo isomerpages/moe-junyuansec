@@ -25,7 +25,7 @@ description: ""
 <p>4. Guitar Ensemble: <u><a href="https://go.gov.sg/jyss-guitar-schedule">https://go.gov.sg/jyss-guitar-schedule</a></u></p>
 <p>5. Symphonic Band: <u><a href="https://go.gov.sg/jyss-symphonicband-schedule-2021" target="_blank" rel="noopener">https://go.gov.sg/jyss-symphonicband-schedule</a></u></p>
 <p><strong>Clubs and Societies</strong></p>
-<p>1. Infocomm Technology (Computing): <u><a href="https://go.gov.sg/jyss-infocomm-schedule">https://go.gov.sg/jyss-infocomm-schedule</a></u></p>
+<p>1. Infocomm Technology (Computing): <u><a href="https://file.go.gov.sg/jyss-infocomm-schedule-2021.pdf">https://go.gov.sg/jyss-infocomm-schedule</a></u></p>
 <p>2. Media Production Club</p>
 <ul>
 <li>Photography / Editorial: <u><a href="https://go.gov.sg/jyss-mediaproductions-schedule">https://go.gov.sg/jyss-mediaproductions-schedule</a></u></li>
