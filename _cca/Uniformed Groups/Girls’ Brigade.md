@@ -1,9 +1,10 @@
 ---
 title: Girls’ Brigade
-permalink: /cca/Uniformed-Groups/permalink/
+permalink: /cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+
 <p>The Girls&rsquo; Brigade Singapore is a values-driven uniformed group that teaches Girls to lead and serve by example &ndash; to put others before self. In the Girls&rsquo; Brigade, &lsquo;Servant Leadership&rsquo; changes the leader in every Girl as she changes the world. </p>
 <p>The Objective of the Girls&rsquo; Brigade is to develop each Girl and Officer to her fullest potential by Equipping, Empowering and Enabling every Girl to be a leader, and every Officer a servant leader.</p>
 <img style="width: 80%;" src="/images/gb1.jpg" />
