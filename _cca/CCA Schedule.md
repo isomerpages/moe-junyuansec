@@ -16,7 +16,7 @@ description: ""
 <p>1. Boys' Brigade: <u><a href="https://go.gov.sg/jyss-bb-schedule">https://go.gov.sg/jyss-bb-schedule</a></u></p>
 <p>2. Girls' Brigade: <u><a href="https://go.gov.sg/jyss-gb-schedule-2021" target="_blank" rel="noopener">https://go.gov.sg/jyss-gb-schedule</a><br /></u></p>
 <p>3. National Cadet Corps (NCC): <u><a href="https://go.gov.sg/jyss-ncc-schedule">https://go.gov.sg/jyss-ncc-schedule</a></u></p>
-<p>4. National Police Cadet Corps (NPCC): <u><a href="https://go.gov.sg/jyss-npcc-schedule">https://go.gov.sg/jyss-npcc-schedule</a></u></p>
+<p>4. National Police Cadet Corps (NPCC): <u><a href="https://docs.google.com/spreadsheets/d/103vn0i8idVse7yodShQycKczngBuRaZj/edit#gid=127127234">https://go.gov.sg/jyss-npcc-schedule</a></u></p>
 <p>5. St. John Brigade (SJB): <u><a href="https://docs.google.com/spreadsheets/d/1SuXTe-sWYTpIaD0syTIwWJXOD-31Ld4o1ALpeNR5THg/edit#gid=59951477">https://go.gov.sg/jyss-sjb</a></u></p>
 <p><strong>Performing Arts</strong></p>
 <p>1. Choir: <u><a href="https://go.gov.sg/jyss-choir-schedule">https://go.gov.sg/jyss-choir-schedule</a></u></p>
