@@ -20,7 +20,7 @@ description: ""
 <p>5. St. John Brigade (SJB): <u><a href="https://docs.google.com/spreadsheets/d/1SuXTe-sWYTpIaD0syTIwWJXOD-31Ld4o1ALpeNR5THg/edit#gid=59951477">https://go.gov.sg/jyss-sjb</a></u></p>
 <p><strong>Performing Arts</strong></p>
 <p>1. Choir: <u><a href="https://go.gov.sg/jyss-choir-schedule">https://go.gov.sg/jyss-choir-schedule</a></u></p>
-<p>2. Dance: &nbsp;<u><a href="https://go.gov.sg/jyss-dance-schedule">https://go.gov.sg/jyss-dance-schedule</a></u></p>
+<p>2. Dance: &nbsp;<u><a href="https://docs.google.com/spreadsheets/d/1PPGNUYyJqpg00pyLjdQ3nr36Etelf5yOnI2GYYGkpiA/edit#gid=321501424">https://go.gov.sg/jyss-dance-schedule</a></u></p>
 <p>3. Drama: <u><a href="https://go.gov.sg/jyss-drama-schedule">https://go.gov.sg/jyss-drama-schedule</a></u></p>
 <p>4. Guitar Ensemble: <u><a href="https://go.gov.sg/jyss-guitar-schedule">https://go.gov.sg/jyss-guitar-schedule</a></u></p>
 <p>5. Symphonic Band: <u><a href="https://go.gov.sg/jyss-symphonicband-schedule-2021" target="_blank" rel="noopener">https://go.gov.sg/jyss-symphonicband-schedule</a></u></p>
