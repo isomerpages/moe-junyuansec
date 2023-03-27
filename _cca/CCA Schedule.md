@@ -22,12 +22,12 @@ description: ""
 <p>1. Choir: <u><a href="https://go.gov.sg/jyss-choir-schedule">https://go.gov.sg/jyss-choir-schedule</a></u></p>
 <p>2. Dance: &nbsp;<u><a href="https://docs.google.com/spreadsheets/d/1PPGNUYyJqpg00pyLjdQ3nr36Etelf5yOnI2GYYGkpiA/edit#gid=321501424">https://go.gov.sg/jyss-dance-schedule</a></u></p>
 <p>3. Drama: <u><a href="https://go.gov.sg/jyss-drama-schedule">https://go.gov.sg/jyss-drama-schedule</a></u></p>
-<p>4. Guitar Ensemble: <u><a href="https://go.gov.sg/jyss-guitar-schedule">https://go.gov.sg/jyss-guitar-schedule</a></u></p>
+<p>4. Guitar Ensemble: <u><a href="https://go.gov.sg/jyss-guitarensemble-schedule">https://go.gov.sg/jyss-guitarensemble-schedule</a></u></p>
 <p>5. Symphonic Band: <u><a href="https://go.gov.sg/jyss-symphonicband-schedule-2021" target="_blank" rel="noopener">https://go.gov.sg/jyss-symphonicband-schedule</a></u></p>
 <p><strong>Clubs and Societies</strong></p>
 <p>1. Infocomm Technology (Computing): <u><a href="https://file.go.gov.sg/jyss-infocomm-schedule-2021.pdf">https://go.gov.sg/jyss-infocomm-schedule</a></u></p>
 <p>2. Media Production Club</p>
 <ul>
-<li>Photography / Editorial: <u><a href="https://go.gov.sg/jyss-mediaproductions-schedule">https://go.gov.sg/jyss-mediaproductions-schedule</a></u></li>
+<li>Photography / Editorial: <u><a href="https://docs.google.com/spreadsheets/d/1sU1uzTgodfHpFZLwiu9vj9wnXXC7OeXosZ65SWhazc4/edit#gid=545536081">https://go.gov.sg/jyss-mediaproductions-schedule</a></u></li>
 <li>AVA / PA Club: <a href="https://go.gov.sg/jyss-pa-schedule-2021" target="_blank" rel="noopener"><u>https://go.gov.sg/jyss-pa-schedule</u></a></li>
 </ul>
