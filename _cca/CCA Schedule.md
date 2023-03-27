@@ -28,6 +28,6 @@ description: ""
 <p>1. Infocomm Technology (Computing): <u><a href="https://file.go.gov.sg/jyss-infocomm-schedule-2021.pdf">https://go.gov.sg/jyss-infocomm-schedule</a></u></p>
 <p>2. Media Production Club</p>
 <ul>
-<li>Photography / Editorial: <u><a href="https://go.gov.sg/jyss-mediaproductions-schedule">https://go.gov.sg/jyss-mediaproductions-schedule</a></u></li>
+<li>Photography / Editorial: <u><a href="https://docs.google.com/spreadsheets/d/1sU1uzTgodfHpFZLwiu9vj9wnXXC7OeXosZ65SWhazc4/edit#gid=545536081">https://go.gov.sg/jyss-mediaproductions-schedule</a></u></li>
 <li>AVA / PA Club: <a href="https://go.gov.sg/jyss-pa-schedule-2021" target="_blank" rel="noopener"><u>https://go.gov.sg/jyss-pa-schedule</u></a></li>
 </ul>
