@@ -4,7 +4,6 @@ permalink: /our-identity/school-organisation/executive-and-administrative-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -39,8 +38,6 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas19.jpg"></td>
-<td style="width: 25%;"><img src="/images/eas20.jpg"></td>
-<td style="width: 25%;"><img src="/images/eas21.jpg"></td>
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>

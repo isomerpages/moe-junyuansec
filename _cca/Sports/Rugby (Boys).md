@@ -14,7 +14,7 @@ third_nav_title: Sports
 <li>To achieve our best.</li>
 </ul>
 <p><strong>CCA Schedule &amp; Venue<br /></strong>Every Tuesday and Thursday (3pm &ndash; 5pm)<br />School Field/School Gym/Fitness Corner.</p>
-<p><strong>Teachers-In-Charge<br /></strong>1. Mr S. M. Alsagoff<br />2. Mr Seah Cheng Hong<br />3. Ms Debbie Lim<br />4. Ms Siti Amirah</p>
+<p><strong>Teachers-In-Charge<br /></strong>1. Mr S. M. Alsagoff<br />2. Mr Nicholas Goh<br />3. Ms Debbie Lim<br />4. Ms Siti Amirah</p>
 <p><strong>CCA Leaders (Year 2022)<br /></strong>1. Captain: Muhd Dani (3E3)<br />2. Vice- Captain: Muhd Dayyan (3N2)<br />3. Vice-Captain: Syed Haris Mirza (3N2)</p>
 <p><strong>Awards/Achievements<br /></strong>2019<br />&bull; National School Games Rugby Championship</p>
 <ul>
