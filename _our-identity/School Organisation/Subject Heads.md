@@ -2,12 +2,13 @@
 title: Subject Heads
 permalink: /our-identity/school-organisation/subject-heads/
 description: ""
-third_nav_title: Student Organisation
+third_nav_title: School Organisation
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33%;"><img src="/images/sh2.jpg"></td>
+<td style="width: 33%;"><img src="/images/Juok sia.jpg"></td>
 <td style="width: 33%;"><img src="/images/sh9.jpg"></td>
 <td style="width: 33%;"><img src="/images/sh4.jpg"></td>
 </tr>
