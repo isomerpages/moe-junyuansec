@@ -2,9 +2,9 @@ collections:
   other-information:
     output: true
     order:
-      - Insurance for Students.md
       - Other Information.md
       - Financial Assistance Scheme.md
+      - Insurance for Students.md
       - Latest Update (More)/.keep
       - Latest Update (More)/Latest Update (More).md
       - Latest Update (More)/Release of 2022 GCE N Levels – More Information.md
@@ -12,14 +12,14 @@ collections:
         Information.md
       - Facilities and ICT Fault Reporting.md
       - Parents Gateway.md
+      - School Safety Information/.keep
       - School Safety Information/School Safety Information.md
       - School Safety Information/Emergency Evacuation Procedures.md
       - School Safety Information/Sports Safety.md
       - School Safety Information/Road Safety.md
       - School Safety Information/Personal Mobility Device Registration.md
       - School Safety Information/Safety in Special Rooms.md
-      - School Safety Information/.keep
+      - Contact Us/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Staff's Emails.md
-      - Contact Us/.keep
       - Privacy Policy.md
