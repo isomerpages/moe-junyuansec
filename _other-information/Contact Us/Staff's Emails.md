@@ -260,16 +260,19 @@ third_nav_title: Contact Us
 <td style="width: 321.906px;">nur_zahirah_binte_zainal@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="2" height="46">2C</td>
+<td style="width: 82.625px;" rowspan="3" height="46">2C</td>
 <td style="width: 180.469px;">Tan Yew Lee</td>
 <td style="width: 321.906px;">tan_yew_lee@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Adzmey Bin Asmom&nbsp;</td>
+<td style="width: 180.469px;" height="23">Adzmey Bin Asmom</td>
 <td style="width: 321.906px;">adzmey_asmom@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="2" height="46">2D</td>
+<td style="width: 180.469px;" height="23">Siti Amirah Binte Mohamed Arsad</td>
+<td style="width: 321.906px;">siti_amirah_mohamed_arsad@moe.edu.sg</td>
+</tr>
+<tr><td style="width: 82.625px;" rowspan="2" height="46">2D</td>
 <td style="width: 180.469px;">David Daniel Cheong Weng Loong</td>
 <td style="width: 321.906px;">cheong_david_daniel@moe.edu.sg</td>
 </tr>
