@@ -280,20 +280,20 @@ third_nav_title: Contact Us
 <tr>
 <td style="width: 82.625px;" rowspan="3" height="70">2E</td>
 <td style="width: 180.469px;">Noor Khairin Binte Kamarudin</td>
-<td style="width: 321.906px;"><a href="mailto:noor_khairin_kamaruddin@moe.edu.sg">noor_khairin_kamaruddin@moe.edu.sg</a></td>
+<td style="width: 321.906px;">noor_khairin_kamaruddin@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="22">Loh Chee Teng</td>
-<td style="width: 321.906px;"><a href="mailto:loh_chee_teng@moe.edu.sg">loh_chee_teng@moe.edu.sg</a></td>
+<td style="width: 321.906px;">loh_chee_teng@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="22">Tan Cheng Ying</td>
-<td style="width: 321.906px;"><a href="mailto:tan_cheng_ying@moe.edu.sg">tan_cheng_ying@moe.edu.sg</a></td>
+<td style="width: 321.906px;">tan_cheng_ying@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2F</td>
 <td style="width: 180.469px;">Lee Teck Loong Benson&nbsp;</td>
-<td style="width: 321.906px;"><a href="mailto:lee_teck_loong_ben@moe.edu.sg">lee_teck_loong_ben@moe.edu.sg</a></td>
+<td style="width: 321.906px;">lee_teck_loong_ben@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Nur Suhailah Bte Ahmad Khusairi</td>
@@ -302,11 +302,11 @@ third_nav_title: Contact Us
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="68">2G</td>
 <td style="width: 180.469px;">Salahudeen Bin Sayed Mobarak</td>
-<td style="width: 321.906px;"><a href="mailto:salahudeen_sayed_mobarak@moe.edu.sg">salahudeen_sayed_mobarak@moe.edu.sg</a></td>
+<td style="width: 321.906px;">salahudeen_sayed_mobarak@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Teh Li Wah</td>
-<td style="width: 321.906px;"><a href="mailto:teh_li_wah@moe.edu.sg">teh_li_wah@moe.edu.sg</a></td>
+<td style="width: 321.906px;">teh_li_wah@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
