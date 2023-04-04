@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - Insurance for Students.md
       - Other Information.md
       - Financial Assistance Scheme.md
       - Latest Update (More)/.keep
