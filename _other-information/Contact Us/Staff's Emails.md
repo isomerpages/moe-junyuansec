@@ -220,7 +220,7 @@ third_nav_title: Contact Us
 <td style="width: 321.906px;">nur-iffah_mohamed_ali@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="2" height="46">1E</td>
+<td style="width: 82.625px;" rowspan="3" height="46">1E</td>
 <td style="width: 180.469px;">Ng Si Han Andre </td>
 <td style="width: 321.906px;">ng_sihan_andre@moe.edu.sg</td>
 </tr>
@@ -229,8 +229,8 @@ third_nav_title: Contact Us
 <td style="width: 321.906px;">tan_hui_tian@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Tan Hui Tian</td>
-<td style="width: 321.906px;">tan_hui_tian@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Tan Su Xian Jaslyn</td>
+<td style="width: 321.906px;">tan_su_xian_jaslyn@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1F</td>
