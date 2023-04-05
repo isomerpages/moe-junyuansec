@@ -7,5 +7,4 @@ description: ""
 	
 [Student GPA User Guide (Parent)](/files/student%20gpa%20user%20guide%20parent.pdf)
 	
-[Product Fact Sheet 2023](/files/product%20fact%20sheet%20year%202023.pdf)
-	</font></div></span></td></tr></tbody></table>
+[Product Fact Sheet 2023](/files/product%20fact%20sheet%20year%202023.pdf)	</font></div></span></td></tr></tbody></table>
