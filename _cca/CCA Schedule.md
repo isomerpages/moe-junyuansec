@@ -6,15 +6,15 @@ description: ""
 <p>Our school will be resuming all CCA activities from Term 1 Week 2 in 2023.</p>
 <p>Kindly refer to the following schedule for each CCA.</p>
 <p><strong>Sports</strong></p>
-<p>1. Archery:  <u><a href="https://go.gov.sg/jyss-archery-schedule-2021" target="_blank" rel="noopener">&nbsp;</a><a href="https://go.gov.sg/jyss-archery-schedule">https://go.gov.sg/jyss-archery-schedule</a></u></p>
+<p>1. Archery:  <u><a href="https://docs.google.com/spreadsheets/d/1qa5qjiWZYFY6AYzmxmFCGDyFff2j-t5WNNgc-DSa60Q/edit#gid=1287915528">https://go.gov.sg/jyss-archery-schedule</a></u></p>
 <p>2. Badminton: <u><a href="https://go.gov.sg/jyss-badminton-schedul">https://go.gov.sg/jyss-badminton-schedule</a></u></p>
-<p>3. Basketball (Boys): <u><a href="https://docs.google.com/spreadsheets/d/1flTXKJhxLQIDNO7Bx2Siu1KbwC-kSMxj/edit?usp=sharing&ouid=100489842546183031767&rtpof=true&sd=true">https://go.gov.sg/jyss-basketball-schedule</a></u></p>
+<p>3. Basketball (Boys): <u><a href="https://docs.google.com/spreadsheets/d/1flTXKJhxLQIDNO7Bx2Siu1KbwC-kSMxj/edit?usp=sharing&amp;ouid=100489842546183031767&amp;rtpof=true&amp;sd=true">https://go.gov.sg/jyss-basketball-schedule</a></u></p>
 <p>4. Rugby (Boys): <a href="[](/files/Term%202%20Sessions.pdf)">https://go.gov.sg/jyss-rugby-schedule</a></p>
 <p>5. Track &amp; Field: <u><a href="https://go.gov.sg/jyss-track-schedule">https://go.gov.sg/jyss-track-schedule</a></u></p>
 <p>6. Volleyball: <u><a href="https://go.gov.sg/jyss-volleyball-schedule">https://go.gov.sg/jyss-volleyball-schedule</a></u></p>
 <p><strong>Uniformed Groups</strong></p>
 <p>1. Boys' Brigade: <u><a href="https://go.gov.sg/jyss-bb-schedule">https://go.gov.sg/jyss-bb-schedule</a></u></p>
-<p>2. Girls' Brigade: <u><a href="https://go.gov.sg/jyss-gb-schedule-2021" target="_blank" rel="noopener">https://go.gov.sg/jyss-gb-schedule</a><br /></u></p>
+<p>2. Girls' Brigade: <u><a href="https://go.gov.sg/jyss-gb-schedule-2021" target="_blank" rel="noopener">https://go.gov.sg/jyss-gb-schedule</a><br></u></p>
 <p>3. National Cadet Corps (NCC): <u><a href="https://docs.google.com/spreadsheets/d/14vhY0Ns2R25QtfRHt1XOy2IM2zT_pI5vFeMOXmA5zTA/edit#gid=131856016">https://go.gov.sg/jyss-ncc-schedule</a></u></p>
 <p>4. National Police Cadet Corps (NPCC): <u><a href="https://docs.google.com/spreadsheets/d/103vn0i8idVse7yodShQycKczngBuRaZj/edit#gid=127127234">https://go.gov.sg/jyss-npcc-schedule</a></u></p>
 <p>5. St. John Brigade (SJB): <u><a href="https://docs.google.com/spreadsheets/d/1SuXTe-sWYTpIaD0syTIwWJXOD-31Ld4o1ALpeNR5THg/edit#gid=59951477">https://go.gov.sg/jyss-sjb</a></u></p>
