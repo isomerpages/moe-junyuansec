@@ -32,15 +32,15 @@ Leaders are not born, they are made. <br>
 <li>Secondary Three (Inspire a Shared Vision, Enable Others to Act)</li>
 <li>Secondary Four / Five (Encourage the Heart)
 </li></ul>
-<p>Trainings are also conducted for student leaders of various leadership groups, where specific leadership skills are identified to be taught to them. The leadership development programme for them is segmented and progressive. Some of these trainings are:</p>
+<p>Trainings are also conducted for student leaders of various leadership groups. The leadership development programmes for appointed leaders are segmented and progressive. Some of these trainings are:</p>
 <ul>
-<li>Class Leaders Training (for class chairpersons)</li>
-<li>Peer Support Leaders Training</li>
-<li>Sec 3 CCA Leaders Training&nbsp;</li>
-<li>Student Leaders Training (for Sec 1 Orientation and Sec 2 Camp helpers)</li>
-<li>Student Council Camp</li>
-<li>Sec 1 Student Leader Internship</li>
+<li>Leaders' Anchor Session for Class Leaders and Peer Support Leaders</li>
+<li>Student Council Internship &amp; Training</li>
+<li>CCA Leaders' Training</li>
+<li>Orientation Leaders' Training</li>
 </ul>
+<img src="/images/picture1.jpg">
+
 <p><strong>Student Council<br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. To achieve that, the Student Council organises a variety of projects and events within and outside of school. Trainings, workshops and learning journeys are some of the programs students will engage in to hone their leadership skills.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
