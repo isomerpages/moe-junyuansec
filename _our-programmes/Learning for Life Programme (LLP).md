@@ -5,7 +5,8 @@ description: ""
 ---
 <h4><strong>Lifelong Learning Programme: Community Youth Leadership</strong></h4>
 <p><strong>Goal: Every student, a Community Youth Leader</strong></p>
-<p>The Learning for Life Programme in Community Youth Leadership (CYL) supports the school&rsquo;s vision of nurturing our students to be Champions for the Community. We adopt the Five Practices of Exemplary Leadership by James M. Kouzes and Barry Z Posner in developing our student leaders in Junyuan. All student leaders will be trained in the Student Leadership Challenge (TSLC) and will have the opportunity to exhibit the following behaviours:</p>
+<p>The Learning for Life Programme in Community Youth Leadership (CYL) supports the school’s vision of nurturing our students to be Champions for the Community. 
+<br><br>We adopt the Five Practices of Exemplary Leadership by James M. Kouzes and Barry Z Posner in developing our student leaders in Junyuan. All student leaders will be trained in the Student Leadership Challenge (TSLC) and will have the opportunity to practice:</p>
 <ul>
 <li>Model the Way</li>
 <li>Inspire a Shared Vision</li>
@@ -13,9 +14,12 @@ description: ""
 <li>Enable Others to Act</li>
 <li>Encourage the Heart</li>
 </ul>
-<p><strong>The Leadership Development Roadmap</strong></p>
+<p><strong>Our Junyuan Leadership Development Roadmap</strong></p>
+*Leadership is a continuous learning journey.*
+
+<p>We believe leadership is not positional, and that every student has the potential within them to be a leader. We hope to nurture our student leaders to be concerned citizens and active contributors to the community.</p>
+
 <img src="/images/llp1.jpg">
-<p>We believe leadership is not positional, and that every student has the potential within them to be a leader. Through various structured leadership training, learning programmes and opportunities, we hope to nurture our student leaders to be concerned citizens and active contributors.</p>
 <h4><strong>Leadership Training</strong></h4>
 <p>All students in Junyuan go through a structured developmental leadership training.</p>
 <p>Cohort trainings on the Five Practices of Exemplary Leadership are conducted every year.</p>
@@ -33,7 +37,7 @@ description: ""
 <li>Student Council Camp</li>
 <li>Sec 1 Student Leader Internship</li>
 </ul>
-<p><strong>Student Council<br /></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. To achieve that, the Student Council organises a variety of projects and events within and outside of school. Trainings, workshops and learning journeys are some of the programs students will engage in to hone their leadership skills.</p>
+<p><strong>Student Council<br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. To achieve that, the Student Council organises a variety of projects and events within and outside of school. Trainings, workshops and learning journeys are some of the programs students will engage in to hone their leadership skills.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -94,7 +98,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Student Recognition</strong></h4>
-<p>Student Leaders&rsquo; Investiture was organised to affirm the efforts of our student leaders. Be it class leaders, CCA leaders, Student Council or Peer Support leaders, all of them were recognised in their respective classes during CCE Leaders&rsquo; Investiture this year.</p>
+<p>Student Leaders’ Investiture was organised to affirm the efforts of our student leaders. Be it class leaders, CCA leaders, Student Council or Peer Support leaders, all of them were recognised in their respective classes during CCE Leaders’ Investiture this year.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
