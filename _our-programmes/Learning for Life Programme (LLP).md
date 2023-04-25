@@ -20,14 +20,18 @@ description: ""
 <p>We believe leadership is not positional, and that every student has the potential within them to be a leader. We hope to nurture our student leaders to be concerned citizens and active contributors to the community.</p>
 
 <img src="/images/llp1.jpg">
-<h4><strong>Leadership Training</strong></h4>
-<p>All students in Junyuan go through a structured developmental leadership training.</p>
-<p>Cohort trainings on the Five Practices of Exemplary Leadership are conducted every year.</p>
+
+<h4><strong>Student Leadership Trainings</strong></h4>
+<p>
+Leaders are not born, they are made. <br>
+</p>
+<p>Cohort trainings are conducted during CCE lessons.</p>
 <ul>
-<li>Secondary One (Model the Way, Encourage the Heart)</li>
-<li>Secondary Two (Challenge the Process, Enable Others to Act)</li>
-<li>Secondary Three (Inspire a Shared Vision)</li>
-</ul>
+<li>Secondary One (Model the Way)</li>
+<li>Secondary Two (Challenge the Process)</li>
+<li>Secondary Three (Inspire a Shared Vision, Enable Others to Act)</li>
+<li>Secondary Four / Five (Encourage the Heart)
+</li></ul>
 <p>Trainings are also conducted for student leaders of various leadership groups, where specific leadership skills are identified to be taught to them. The leadership development programme for them is segmented and progressive. Some of these trainings are:</p>
 <ul>
 <li>Class Leaders Training (for class chairpersons)</li>
