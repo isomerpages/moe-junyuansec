@@ -56,12 +56,14 @@ Councilors organise a variety of projects and events within and outside of schoo
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/llp2.png"></td>
+<td style="width: 40%;"><img src="/images/llp2.png"></td>
 <td style="width: 33.3333%;"><img src="/images/llp3.png"></td>
 <td style="width: 33.3333%;"><img src="/images/llp4.png"></td>
 </tr>
 </tbody>
 </table>
+
+
 <h4><strong>Service Learning &amp; Innovation (SLI) Exposure for Secondary One</strong></h4>
 <p>The SLI Exposure consists of a workshop and experience volunteering at an external organisation. The workshop aims to equip students with the knowledge of service learning and the use of Innovation Protocol to understand their roles in helping the community and generating ideas for community projects. Through the workshop, students work in groups to generate innovative solutions to solve problems for the community. As part of the exposure,&nbsp;our Secondary 1 cohort had a hands-on experience in using the design thinking process to solve the problem of food insecurity in Singapore. In giving back to the community, they partnered with Food Bank Singapore and enabled every Secondary One class to organise a food donation drive in Junyuan Secondary.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
