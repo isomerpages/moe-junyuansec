@@ -39,8 +39,16 @@ Leaders are not born, they are made. <br>
 <li>CCA Leaders' Training</li>
 <li>Orientation Leaders' Training</li>
 </ul>
-<img src="/images/picture1.jpg">
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 27%;"><img src="/images/picture1.jpg"></td>
+<td style="width: 27%;"><img src="/images/picture2.jpg"></td>
+<td style="width: 27%;"><img src="/images/picture3.jpg"></td>
+</tr>
+</tbody>
+</table>
+![](/images/picture2.jpg)
 <p><strong>Student Council<br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. To achieve that, the Student Council organises a variety of projects and events within and outside of school. Trainings, workshops and learning journeys are some of the programs students will engage in to hone their leadership skills.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
