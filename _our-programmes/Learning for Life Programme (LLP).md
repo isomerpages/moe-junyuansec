@@ -49,7 +49,7 @@ Leaders are not born, they are made. <br>
 </tr>
 </tbody>
 </table>
-
+<h4><strong>Junyuan Student Leaders</strong></h4>
 <p><strong>Student Council<br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. To achieve that, the Student Council organises a variety of projects and events within and outside of school. Trainings, workshops and learning journeys are some of the programs students will engage in to hone their leadership skills.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
