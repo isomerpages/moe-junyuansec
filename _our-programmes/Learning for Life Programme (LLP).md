@@ -42,9 +42,10 @@ Leaders are not born, they are made. <br>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 27%;"><img src="/images/picture1.jpg"></td>
-<td style="width: 27%;"><img src="/images/picture2.jpg"></td>
-<td style="width: 27%;"><img src="/images/picture3.jpg"></td>
+<td style="width: 25%;"><img src="/images/picture1.jpg"></td>
+<td style="width: 25%;"><img src="/images/picture2.jpg"></td>
+<td style="width: 25%;"><img src="/images/picture3.jpg"></td>
+<td style="width: 27%;"><img src="/images/picture4.jpg"></td>
 </tr>
 </tbody>
 </table>
