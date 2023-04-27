@@ -108,3 +108,4 @@ Leading with passion and pride, these student leaders play a crucial role in the
 <p></p><p><strong><b>1)	Secondary One Service Learning &amp; Innovation (SLI) Exposure </b><br></strong>
 All Secondary One students go through a Service Learning &amp; Innovation (SLI) workshop to equip themselves with the knowledge of service learning and the use of Innovation Protocol to understand their roles in helping the community and generating ideas for community projects. In giving back to the community, we partnered with Food Bank Singapore and enabled every Secondary One class to raise awareness on food insecurity and organise food donation drives in Junyuan Secondary.
 </p>
+
