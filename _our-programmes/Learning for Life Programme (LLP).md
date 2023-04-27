@@ -64,8 +64,7 @@ Our Peer Support Leaders create and anchor a culture of care, whether in learnin
 Trained with peer bonding, peer helping and peer influencing skills, our Peer Support Leaders also organise termly bonding activities for their classes.
 </p>
 
-![LLP image 9](/images/llpimage90.jpg)
-![LLP image 10](/images/llpimage10.jpg)
+
 
 <p></p><p><strong><b>4)	Class Leaders </b><br></strong>
 Our class chairperson and vice-chairperson play an important role in class. Together with the other class committee members, they assist the form teachers with administrative duties and lead in the various level-wide class events.
