@@ -86,22 +86,14 @@ Leading with passion and pride, these student leaders play a crucial role in the
 All Secondary One students go through a Service Learning &amp; Innovation (SLI) workshop to equip themselves with the knowledge of service learning and the use of Innovation Protocol to understand their roles in helping the community and generating ideas for community projects. In giving back to the community, we partnered with Food Bank Singapore and enabled every Secondary One class to raise awareness on food insecurity and organise food donation drives in Junyuan Secondary.
 </p>
 
-![LLP image16](/images/llpimage16.jpg)
-![LLP image17](/images/llpimage17.jpg)
-![LLP image18](/images/llpimage18.jpg)
-![LLP image19](/images/llpimage19.jpg)
-![LLP image20](/images/llpimage20.jpg)
+![LLPimage45](/images/llpimage45.JPG)
 
 <p><strong><b>2)	Secondary Two Class VIA Project </b><br></strong>
 All Secondary Two students will plan and execute their very own Values in Action (VIA) project as a class. This platform aims to develop students as socially responsible citizens who contributes to the community. 
 Some classes have chosen to raise awareness and appreciate our non-teaching staff who work tirelessly for the Junyuan community. Other classes have partnered with external organisations to support a good cause.
 </p>
 
-![LLP image21](/images/llpimage21.jpg)
-![LLP image22](/images/llpimage22.jpg)
-![LLP image23](/images/llpimage23.jpg)
-![LLP image24](/images/llpimage24.jpg)
-![LLP image25](/images/llpimage25.jpg)
+
 
 <p><strong><b>3)	Secondary Three Co-organising of School Events</b></strong><br>
 All Secondary Three students have the opportunity to organise a school event with their schoolmates and teachers. This allows them to take ownership of the selected school event and practise their leadership skills. Some of these events include Graduation Day, Teachers Day, Hari Raya Celebrations, Racial Harmony, International Friendship Day and many more. </p>
