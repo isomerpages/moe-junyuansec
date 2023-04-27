@@ -76,7 +76,7 @@ Our class chairperson and vice-chairperson play an important role in class. Toge
 Leading with passion and pride, these student leaders play a crucial role in the running of their CCAs. Here are some of our CCA leaders who are doing a special showcase for our incoming Secondary One students during Orientation 2023.
 </p>
 
-
+![LLP image44](/images/llpimage44.JPG)
 
 <h5><strong>Junyuan Student Leadership Opportunities </strong></h5>
 
