@@ -138,3 +138,4 @@ They can propose changes, provide suggestions and lead in their very own student
 </p>
 
 ![LLP image28](/images/llpimage28.jpg)
+![LLP image29](/images/llpimage29.png)
