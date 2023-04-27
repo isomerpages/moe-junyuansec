@@ -158,4 +158,9 @@ As part of our holistic development of Junyuan Champs, Secondary 3 students can 
 * Cultural experience in Cambodia. 
 * This programme aims to develop Champions for the Community who are motivated to positively impact their community whether near or far. <br>
 
+![LLPimage35](/images/llpimage35.png)
+
+<b>2023 Community Youth Leadership Team</b>
+
+![LLPimage36](/images/llpimage36.PNG)
 
