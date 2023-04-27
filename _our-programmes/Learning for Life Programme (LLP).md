@@ -63,88 +63,22 @@ Councilors organise a variety of projects and events within and outside of schoo
 </tbody>
 </table>
 
+
+ ![LLP image 1](/images/llpimage1.jpg)
+ ![LLP image2](/images/llpimage2.jpg) 
+ ![LLP image3](/images/llpimage3.jpg)
+ ![LLPimage4](/images/llpimage4.jpg)
+
 <p><strong><b>2) Orientation Leaders</b><br></strong>
 Orientation Leaders are a vibrant, energetic bunch of student leaders who volunteer to lead and guide incoming Secondary One students.
 Not only do they facilitate their Secondary One groups during Orientation, they continue to engage them throughout Term One in conversations involving CCA, time management and peer support.
 
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 27%;"><img src="/images/llp5.png"></td>
-<td style="width: 27%;"><img src="/images/llp6.png"></td>
-<td style="width: 46%;"><img src="/images/llp7.png"></td>
-</tr>
-</tbody>
-</table>
-</p><h4><strong>Values in Action Project for Secondary Two</strong></h4>
-<p>Students will be engaged as a class to plan and execute a Values in Action (VIA) project with external organisations. The project aims to develop students into socially responsible citizens meaningfully to the community through the learning and application of values, knowledge and skills acquired in Secondary 1 SLI Exposure. As part of their learning, students also conduct a Community Cause Awareness Campaign to share about their project and learning from the experiences.</p>
-<h4><strong>Co-Organising of School Events for Secondary Three</strong></h4>
-<p>Student leaders will work together with various teachers, schoolmates and external organisations to execute a selected school wide event. Through this platform, student leaders take ownership of the event and grow from the experience of running large scale events. Some of these events include Graduation Day, Teachers Day, Hari Raya Celebrations, Racial Harmony, International Friendship Day and many more.&nbsp;</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/llp8.png"></td>
-<td style="width: 50%;"><img src="/images/llp9.png"></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Champs Initiated Projects</strong></h4>
-<p>Student leaders are welcome to initiate projects that aim to improve the school environment, improve the community, or kick start new initiatives for a good cause. Student leaders use this platform to practice leadership by proposing changes and leading a project. Some successful projects include Ofobrella (JY umbrella rental system), Class Calendar Whiteboards and Anti-Bacteria and Hygiene Awareness Campaign.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/llp10.png"></td>
-<td style="width: 50%;"><img src="/images/llp11.png"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/llp12.png"></td>
-<td style="width: 50%;"><img src="/images/llp13.png"></td>
-</tr>
-<tr>
-<td style="width: 50%;" colspan="2"><img style="width: 40%;" src="/images/llp14.png"></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Community Outreach</strong></h4>
-<p>As part of community engagement, students visit neighbourhood block of residents during festive events and national day celebration. They give out mandarin oranges and hand-made postcards that share about the traditional Chinese New Year food with the residents during Chinese New Year. For National Day Celebration, the students distribute flower pots and share gardening tips with them.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/llp15.jpg"></td>
-<td style="width: 50%;"><img src="/images/llp16.jpg"></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Student Recognition</strong></h4>
-<p>Student Leaders’ Investiture was organised to affirm the efforts of our student leaders. Be it class leaders, CCA leaders, Student Council or Peer Support leaders, all of them were recognised in their respective classes during CCE Leaders’ Investiture this year.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/llp17.png"></td>
-<td style="width: 50%;"><img src="/images/llp18.png"></td>
-</tr>
-	<tr>
-<td style="width: 50%;"><img src="/images/llp19.png"></td>
-<td style="width: 50%;"><img src="/images/llp20.png"></td>
-</tr>
-<tr>
-<td style="width: 50%;" colspan="2"><img src="/images/llp21.png"></td>
-</tr>
-<tr>
-<td style="width: 50%;" colspan="2"><img src="/images/llp22.png"></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>The Community Youth Leadership Team (2022)</strong></h4>
-<ul>
-<li>Mr Kim Choon Hin Kelvin</li>
-<li>Mdm Ng Sui Lin</li>
-<li>Ms Nurliyana Mohamad Zainudin</li>
-<li>Mdm Seah Mei Ping</li>
-<li>Ms Shamilah</li>
-<li>Mr Tan Chwoon Ping, Ivan</li>
-<li>Ms Thng Wei Wei</li>
-<li>Mr Twang Kwang Han</li>
-<li>Mdm Xue Wen Juan</li>
-<li>Mdm Tan Chin Alicia</li>
-</ul>
+![LLPimage5](/images/llpimage5.jpg)
+![LLPimage6](/images/llpimage6.jpg)
+![LLPimage7](/images/llpimage7.jpg)
+![LLPimage8](/images/llpimage8.jpg)
+	
+</p><p><strong><b>3)	Peer Support Leaders </b><br></strong>
+Our Peer Support Leaders create and anchor a culture of care, whether in learning, in social interactions or in the digital space. With their good relations with peers within the class, they look out for students exhibiting signs of distress, listen to their problems and empathise with them. 
+Trained with peer bonding, peer helping and peer influencing skills, our Peer Support Leaders also organise termly bonding activities for their classes.
+</p>
