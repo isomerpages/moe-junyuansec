@@ -119,3 +119,10 @@ All Secondary One students go through a Service Learning &amp; Innovation (SLI) 
 All Secondary Two students will plan and execute their very own Values in Action (VIA) project as a class. This platform aims to develop students as socially responsible citizens who contributes to the community. 
 Some classes have chosen to raise awareness and appreciate our non-teaching staff who work tirelessly for the Junyuan community. Other classes have partnered with external organisations to support a good cause.
 </p>
+
+![LLP image21](/images/llpimage21.jpg)
+![LLP image22](/images/llpimage22.jpg)
+![LLP image23](/images/llpimage23.jpg)
+![LLP image24](/images/llpimage24.jpg)
+![LLP image25](/images/llpimage25.jpg)
+
