@@ -164,6 +164,27 @@ As part of our holistic development of Junyuan Champs, Secondary 3 students can 
 
 ![LLPimage36](/images/llpimage36.PNG)
 
-
-
-
+<table>
+<tbody>
+<tr>
+<td>SH/Student Leadership</td>
+<td>Ms Thng</td>
+</tr>
+<tr>
+<td>SH/Student Well-being</td>
+<td>Ms Joanna Koh</td>
+</tr>
+<tr>
+<td>Student Council Teachers in charge</td>
+<td>Ms Ng Sui Lin<br> Mr Ivan Tan<br> Mdm Siti Shafiqah<br> Mdm Xue Wenjuan<br> Ms Shamilah</td>
+</tr>
+<tr>
+<td>Peer Support Leaders Teachers in charge</td>
+<td>Mrs Alicia Kho<br> Mr Yeo Jun Qiang<br> Ms Jolene Ng <br> Mdm Siti Shafiqah</td>
+</tr>
+<tr>
+<td>Community Youth Leadership Teachers</td>
+<td>Mr Kim Choon Hin Kelvin<br> Ms Nurliyana Mohamad Zainudin<br> Mdm Seah Mei Ping<br> Mr Twang Kwang Han<br> Mdm Cao Zhihong</td>
+</tr>
+</tbody>
+</table>
