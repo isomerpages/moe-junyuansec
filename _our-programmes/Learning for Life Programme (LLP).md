@@ -106,7 +106,7 @@ As part of student advocacy, all students are welcomed to initiate projects that
 They can propose changes, provide suggestions and lead in their very own student-initiated project. Some successful projects include Ofobrella (JY umbrella rental system), Class Calendar Whiteboards, Anti-Bacteria Hygiene Awareness Campaign, delivery rider appreciation, JY Charity Garden and Project MYRMEX.
 </p>
 
-
+![LLP image 49](/images/llpimage49.JPG)
 ![LLP image32](/images/llpimage32.jpg)
 
 <h5><strong>Junyuan Student Leadership Recognition</strong></h5>
