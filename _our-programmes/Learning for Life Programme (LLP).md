@@ -44,6 +44,9 @@ description: ""
 ![LLP Image37](/images/llpimage37.PNG)
 
 <h4><strong>Junyuan Student Leaders</strong></h4>
+
+<i>Leadership development is also character development.</i>
+
 <p><strong><b>1) The Student Council</b><br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. 
 	
 Councilors organise a variety of projects and events within and outside of school. Trainings, workshops, learning journeys and VIA projects are some of the leadership experiences that our councilors will engage in to hone their leadership skills.</p>
