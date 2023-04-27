@@ -142,3 +142,9 @@ They can propose changes, provide suggestions and lead in their very own student
 ![LLPimage30](/images/llpimage30.jpg)
 ![LLPimage31](/images/llpimage31.png)
 ![LLP image32](/images/llpimage32.jpg)
+
+<h5><strong>Junyuan Student Leadership Recognition</strong></h5>
+<i>Leaders encourage the hearts of others.</i><br>
+
+Student Leaders’ Investiture serves to affirm the efforts of our student leaders. Be it class leaders, CCA leaders, Student Council or Peer Support leaders, all of them were recognised through our Investiture ceremony this year.
+
