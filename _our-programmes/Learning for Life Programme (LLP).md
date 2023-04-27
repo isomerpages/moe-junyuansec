@@ -50,15 +50,7 @@ description: ""
 <p><strong><b>1) The Student Council</b><br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. 
 	
 Councilors organise a variety of projects and events within and outside of school. Trainings, workshops, learning journeys and VIA projects are some of the leadership experiences that our councilors will engage in to hone their leadership skills.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 40%;"><img src="/images/llp2.png"></td>
-<td style="width: 33.3333%;"><img src="/images/llp3.png"></td>
-<td style="width: 33.3333%;"><img src="/images/llp4.png"></td>
-</tr>
-</tbody>
-</table>
+
 
 
  ![LLP image 1](/images/llpimage1.jpg)
