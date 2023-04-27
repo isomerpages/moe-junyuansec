@@ -151,3 +151,11 @@ Student Leaders’ Investiture serves to affirm the efforts of our student leade
 ![LLP image 33](/images/llpimage33.jpg)
 ![LLPimage34](/images/llpimage34.jpg)
 
+<b>Overseas Values-In-Action</b><br>
+As part of our holistic development of Junyuan Champs, Secondary 3 students can volunteer to embark on an Overseas Values-in-Action trip to Cambodia. Some of our service learning work on OVIA include:
+*	Providing an educational experience to young children or residents at an orphanage
+* Humanitarian work and social engagement with local villages 
+* Cultural experience in Cambodia. 
+* This programme aims to develop Champions for the Community who are motivated to positively impact their community whether near or far. <br>
+
+
