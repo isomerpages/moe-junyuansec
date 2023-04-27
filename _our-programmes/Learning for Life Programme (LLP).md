@@ -93,6 +93,7 @@ All Secondary Two students will plan and execute their very own Values in Action
 Some classes have chosen to raise awareness and appreciate our non-teaching staff who work tirelessly for the Junyuan community. Other classes have partnered with external organisations to support a good cause.
 </p>
 
+![LLP image46](/images/llpimage46.JPG)
 
 
 <p><strong><b>3)	Secondary Three Co-organising of School Events</b></strong><br>
