@@ -3,7 +3,7 @@ title: Learning for Life Programme (LLP)
 permalink: /our-programmes/learning-for-life-programme-llp/
 description: ""
 ---
-![LLPimage30](/images/llpimage30.jpg)<h4><strong>Lifelong Learning Programme: Community Youth Leadership</strong></h4>
+<h4><strong>Lifelong Learning Programme: Community Youth Leadership</strong></h4>
 <p><strong>Goal: Every student, a Community Youth Leader</strong></p>
 <p>The Learning for Life Programme in Community Youth Leadership (CYL) supports the school’s vision of nurturing our students to be Champions for the Community. 
 <br><br>We adopt the Five Practices of Exemplary Leadership by James M. Kouzes and Barry Z Posner in developing our student leaders in Junyuan. All student leaders will be trained in the Student Leadership Challenge (TSLC) and will have the opportunity to practice:</p>
