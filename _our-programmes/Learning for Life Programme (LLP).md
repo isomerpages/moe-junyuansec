@@ -148,3 +148,6 @@ They can propose changes, provide suggestions and lead in their very own student
 
 Student Leaders’ Investiture serves to affirm the efforts of our student leaders. Be it class leaders, CCA leaders, Student Council or Peer Support leaders, all of them were recognised through our Investiture ceremony this year.
 
+![LLP image 33](/images/llpimage33.jpg)
+![LLPimage34](/images/llpimage34.jpg)
+
