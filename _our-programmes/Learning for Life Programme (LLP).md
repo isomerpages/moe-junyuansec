@@ -126,3 +126,9 @@ Some classes have chosen to raise awareness and appreciate our non-teaching staf
 ![LLP image24](/images/llpimage24.jpg)
 ![LLP image25](/images/llpimage25.jpg)
 
+<p><strong><b>3)	Secondary Three Co-organising of School Events</b></strong><br>
+All Secondary Three students have the opportunity to organise a school event with their schoolmates and teachers. This allows them to take ownership of the selected school event and practise their leadership skills. Some of these events include Graduation Day, Teachers Day, Hari Raya Celebrations, Racial Harmony, International Friendship Day and many more. </p>
+
+![LLP image 26](/images/llpimage26.jpg)
+![LLP image 27](/images/llpimage27.jpg)
+
