@@ -89,3 +89,7 @@ Trained with peer bonding, peer helping and peer influencing skills, our Peer Su
 <p></p><p><strong><b>4)	Class Leaders </b><br></strong>
 Our class chairperson and vice-chairperson play an important role in class. Together with the other class committee members, they assist the form teachers with administrative duties and lead in the various level-wide class events.
 </p>
+
+![LLP image 11](/images/llpimage11.jpg)
+![LLP image 12](/images/llpimage12.jpg)
+
