@@ -6,6 +6,7 @@ description: ""
 <h4><strong>Lifelong Learning Programme: Community Youth Leadership</strong></h4>
 <p><strong>Goal: Every student, a Community Youth Leader</strong></p>
 <p>The Learning for Life Programme in Community Youth Leadership (CYL) supports the school’s vision of nurturing our students to be Champions for the Community. 
+	
 <br><br>We adopt the Five Practices of Exemplary Leadership by James M. Kouzes and Barry Z Posner in developing our student leaders in Junyuan. All student leaders will be trained in the Student Leadership Challenge (TSLC) and will have the opportunity to practice:</p>
 <ul>
 <li>Model the Way</li>
@@ -15,7 +16,7 @@ description: ""
 <li>Encourage the Heart</li>
 </ul>
 <p><strong>Our Junyuan Leadership Development Roadmap</strong></p>
-*Leadership is a continuous learning journey.*
+<i>Leadership is a continuous learning journey. </i>
 
 <p>We believe leadership is not positional, and that every student has the potential within them to be a leader. We hope to nurture our student leaders to be concerned citizens and active contributors to the community.</p>
 
@@ -23,7 +24,7 @@ description: ""
 
 <h4><strong>Student Leadership Trainings</strong></h4>
 <p>
-Leaders are not born, they are made. <br>
+	<i>Leaders are not born, they are made. </i><br>
 </p>
 <p>Cohort trainings are conducted during CCE lessons.</p>
 <ul>
@@ -32,23 +33,16 @@ Leaders are not born, they are made. <br>
 <li>Secondary Three (Inspire a Shared Vision, Enable Others to Act)</li>
 <li>Secondary Four / Five (Encourage the Heart)
 </li></ul>
-<p>Trainings are also conducted for student leaders of various leadership groups. The leadership development programmes for appointed leaders are segmented and progressive. Some of these trainings are:</p>
+<p>Trainings are also conducted for student leaders of various leadership groups. The leadership development programmes for appointed leaders are segmented and progressive. Some of these trainings include:</p>
 <ul>
 <li>Leaders' Anchor Session for Class Leaders and Peer Support Leaders</li>
 <li>Student Council Internship &amp; Training</li>
 <li>CCA Leaders' Training</li>
 <li>Orientation Leaders' Training</li>
 </ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/picture1.jpg"></td>
-<td style="width: 25%;"><img src="/images/picture2.jpg"></td>
-<td style="width: 25%;"><img src="/images/picture3.jpg"></td>
-<td style="width: 27%;"><img src="/images/picture4.jpg"></td>
-</tr>
-</tbody>
-</table>
+
+![LLP Image37](/images/llpimage37.PNG)
+
 <h4><strong>Junyuan Student Leaders</strong></h4>
 <p><strong><b>1) The Student Council</b><br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. 
 	
