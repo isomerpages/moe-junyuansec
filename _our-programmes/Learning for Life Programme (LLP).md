@@ -52,16 +52,12 @@ description: ""
 Councilors organise a variety of projects and events within and outside of school. Trainings, workshops, learning journeys and VIA projects are some of the leadership experiences that our councilors will engage in to hone their leadership skills.</p>
 
 ![LLP image39](/images/llpimage39.PNG)
-
-
+![LLP image40](/images/llpimage40.JPG)
 <p><strong><b>2) Orientation Leaders</b><br></strong>
 Orientation Leaders are a vibrant, energetic bunch of student leaders who volunteer to lead and guide incoming Secondary One students.
 Not only do they facilitate their Secondary One groups during Orientation, they continue to engage them throughout Term One in conversations involving CCA, time management and peer support.
 
-![LLPimage5](/images/llpimage5.jpg)
-![LLPimage6](/images/llpimage6.jpg)
-![LLPimage7](/images/llpimage7.jpg)
-![LLPimage8](/images/llpimage8.jpg)
+![LLP image41](/images/llpimage41.JPG)
 	
 </p><p><strong><b>3)	Peer Support Leaders </b><br></strong>
 Our Peer Support Leaders create and anchor a culture of care, whether in learning, in social interactions or in the digital space. With their good relations with peers within the class, they look out for students exhibiting signs of distress, listen to their problems and empathise with them. 
