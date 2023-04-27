@@ -95,6 +95,8 @@ Our class chairperson and vice-chairperson play an important role in class. Toge
 
 <p></p><p><strong><b>5)	CCA Leaders </b><br></strong>
 Leading with passion and pride, these student leaders play a crucial role in the running of their CCAs. Here are some of our CCA leaders who are doing a special showcase for our incoming Secondary One students during Orientation 2023.
-	
-	
 </p>
+
+![LLP image 13](/images/llpimage13.jpg)
+![LLP image 14](/images/llpimage14.jpg)
+![LLP image 15](/images/llpimage15.jpg)
