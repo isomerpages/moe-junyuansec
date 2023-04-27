@@ -50,7 +50,7 @@ Leaders are not born, they are made. <br>
 </tbody>
 </table>
 <h4><strong>Junyuan Student Leaders</strong></h4>
-<p><strong>1) The Student Council<br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. 
+<p><strong><b>1) The Student Council</b><br></strong>The Student Council aims to Lead, Serve and Inspire students to be Champions for our Community. 
 	
 Councilors organise a variety of projects and events within and outside of school. Trainings, workshops, learning journeys and VIA projects are some of the leadership experiences that our councilors will engage in to hone their leadership skills.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -63,9 +63,10 @@ Councilors organise a variety of projects and events within and outside of schoo
 </tbody>
 </table>
 
+<p><strong><b>2) Orientation Leaders</b><br></strong>
+Orientation Leaders are a vibrant, energetic bunch of student leaders who volunteer to lead and guide incoming Secondary One students.
+Not only do they facilitate their Secondary One groups during Orientation, they continue to engage them throughout Term One in conversations involving CCA, time management and peer support.
 
-<h4><strong>Service Learning &amp; Innovation (SLI) Exposure for Secondary One</strong></h4>
-<p>The SLI Exposure consists of a workshop and experience volunteering at an external organisation. The workshop aims to equip students with the knowledge of service learning and the use of Innovation Protocol to understand their roles in helping the community and generating ideas for community projects. Through the workshop, students work in groups to generate innovative solutions to solve problems for the community. As part of the exposure,&nbsp;our Secondary 1 cohort had a hands-on experience in using the design thinking process to solve the problem of food insecurity in Singapore. In giving back to the community, they partnered with Food Bank Singapore and enabled every Secondary One class to organise a food donation drive in Junyuan Secondary.</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -75,7 +76,7 @@ Councilors organise a variety of projects and events within and outside of schoo
 </tr>
 </tbody>
 </table>
-<h4><strong>Values in Action Project for Secondary Two</strong></h4>
+</p><h4><strong>Values in Action Project for Secondary Two</strong></h4>
 <p>Students will be engaged as a class to plan and execute a Values in Action (VIA) project with external organisations. The project aims to develop students into socially responsible citizens meaningfully to the community through the learning and application of values, knowledge and skills acquired in Secondary 1 SLI Exposure. As part of their learning, students also conduct a Community Cause Awareness Campaign to share about their project and learning from the experiences.</p>
 <h4><strong>Co-Organising of School Events for Secondary Three</strong></h4>
 <p>Student leaders will work together with various teachers, schoolmates and external organisations to execute a selected school wide event. Through this platform, student leaders take ownership of the event and grow from the experience of running large scale events. Some of these events include Graduation Day, Teachers Day, Hari Raya Celebrations, Racial Harmony, International Friendship Day and many more.&nbsp;</p>
