@@ -136,3 +136,5 @@ All Secondary Three students have the opportunity to organise a school event wit
 As part of student advocacy, all students are welcomed to initiate projects that aim to improve the school environment, community, or kick start new initiatives for a good cause. 
 They can propose changes, provide suggestions and lead in their very own student-initiated project. Some successful projects include Ofobrella (JY umbrella rental system), Class Calendar Whiteboards, Anti-Bacteria Hygiene Awareness Campaign, delivery rider appreciation, JY Charity Garden and Project MYRMEX.
 </p>
+
+![LLP image28](/images/llpimage28.jpg)
