@@ -64,22 +64,19 @@ Our Peer Support Leaders create and anchor a culture of care, whether in learnin
 Trained with peer bonding, peer helping and peer influencing skills, our Peer Support Leaders also organise termly bonding activities for their classes.
 </p>
 
-
+![LLP image42](/images/llpimage42.JPG)
 
 <p></p><p><strong><b>4)	Class Leaders </b><br></strong>
 Our class chairperson and vice-chairperson play an important role in class. Together with the other class committee members, they assist the form teachers with administrative duties and lead in the various level-wide class events.
 </p>
 
-![LLP image 11](/images/llpimage11.jpg)
-![LLP image 12](/images/llpimage12.jpg)
+![LLP image43](/images/llpimage43.JPG)
 
 <p></p><p><strong><b>5)	CCA Leaders </b><br></strong>
 Leading with passion and pride, these student leaders play a crucial role in the running of their CCAs. Here are some of our CCA leaders who are doing a special showcase for our incoming Secondary One students during Orientation 2023.
 </p>
 
-![LLP image 13](/images/llpimage13.jpg)
-![LLP image 14](/images/llpimage14.jpg)
-![LLP image 15](/images/llpimage15.jpg)
+
 
 <h5><strong>Junyuan Student Leadership Opportunities </strong></h5>
 
