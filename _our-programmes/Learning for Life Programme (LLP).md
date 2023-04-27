@@ -51,12 +51,8 @@ description: ""
 	
 Councilors organise a variety of projects and events within and outside of school. Trainings, workshops, learning journeys and VIA projects are some of the leadership experiences that our councilors will engage in to hone their leadership skills.</p>
 
+![LLP image39](/images/llpimage39.PNG)
 
-
- ![LLP image 1](/images/llpimage1.jpg)
- ![LLP image2](/images/llpimage2.jpg) 
- ![LLP image3](/images/llpimage3.jpg)
- ![LLPimage4](/images/llpimage4.jpg)
 
 <p><strong><b>2) Orientation Leaders</b><br></strong>
 Orientation Leaders are a vibrant, energetic bunch of student leaders who volunteer to lead and guide incoming Secondary One students.
