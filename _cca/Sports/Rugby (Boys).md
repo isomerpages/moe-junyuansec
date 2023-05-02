@@ -19,7 +19,7 @@ School Field/School Gym/Fitness Corner.</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mr S. M. Alsagoff<br>2. Mr Nicholas Goh<br>3. Ms Debbie Lim<br>4. Ms Siti Amirah</p>
 
 <p><strong>CCA Leaders (Year 2023)<br></strong>1. Captain: Ahmad Farhan (3-B)<br>2. Vice- Captain: Mohammed Darwisy Uqail (3-B)<br>
-3. Vice-Captain: Muhammad Syukri (3-B))</p>
+3. Vice-Captain: Muhammad Syukri (3-B)</p>
 <p><strong>Awards/Achievements<br></strong><b>2019</b><br>
 	• National School Games Rugby Championship</p>
 <ul>
