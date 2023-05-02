@@ -19,7 +19,7 @@ School Field/School Gym/Fitness Corner.</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mr S. M. Alsagoff<br>2. Mr Nicholas Goh<br>3. Ms Debbie Lim<br>4. Ms Siti Amirah</p>
 
 <p><strong>CCA Leaders (Year 2023)<br></strong>1. Captain: Ahmad Farhan (3-B)<br>2. Vice- Captain: Mohammed Darwisy Uqail (3-B)<br>
-3. Vice-Captain: Muhammad Syukri (3-B))</p>
+3. Vice-Captain: Muhammad Syukri (3-B)</p>
 <p><strong>Awards/Achievements<br></strong><b>2019</b><br>
 	• National School Games Rugby Championship</p>
 <ul>
@@ -36,7 +36,7 @@ School Field/School Gym/Fitness Corner.</p>
 	-B Division Bowl Finals – 2nd Placing 
 
 	
-<p></p></ul>
+</ul>
 <hr>
 <p><strong>Our Journey</strong></p>
 <iframe width="697" height="391" src="https://www.youtube.com/embed/UzKfsboDl4I" title="JYSS Rugby 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -67,7 +67,7 @@ School Field/School Gym/Fitness Corner.</p>
 <img style="width: 70%;" src="/images/rugby6.jpg">
 <p style="text-align: center;">Captain of the B Division team receiving the trophy from our Principal, Mr. Tay.</p>
 
-<img style="width: 70%;" src="/images/rugby7.jpg">
+<img style="width: 50%;" src="/images/rugby7.jpg">
 <p style="text-align: center;">Our members are the important building blocks of our CCA. Each and every one of us have something to contribute, and our part to play. As we grow and develop, we become stronger and so does our CCA.</p>
 
 <img style="width: 70%;" src="/images/rug5.jpg">
