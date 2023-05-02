@@ -67,7 +67,7 @@ School Field/School Gym/Fitness Corner.</p>
 <img style="width: 70%;" src="/images/rugby6.jpg">
 <p style="text-align: center;">Captain of the B Division team receiving the trophy from our Principal, Mr. Tay.</p>
 
-<img style="width: 70%;" src="/images/rugby7.jpg">
+<img style="width: 50%;" src="/images/rugby7.jpg">
 <p style="text-align: center;">Our members are the important building blocks of our CCA. Each and every one of us have something to contribute, and our part to play. As we grow and develop, we become stronger and so does our CCA.</p>
 
 <img style="width: 70%;" src="/images/rug5.jpg">
