@@ -20,22 +20,22 @@ School Field/School Gym/Fitness Corner.</p>
 
 <p><strong>CCA Leaders (Year 2023)<br></strong>1. Captain: Ahmad Farhan (3-B)<br>2. Vice- Captain: Mohammed Darwisy Uqail (3-B)<br>
 3. Vice-Captain: Muhammad Syukri (3-B))</p>
-<p><strong>Awards/Achievements<br></strong>2019<br>
+<p><strong>Awards/Achievements<br></strong><b>2019</b><br>
 	• National School Games Rugby Championship</p>
 <ul>
-<li>C Division Bowl – 4th Placing</li>
+- C Division Bowl – 4th Placing
 </ul>
-<p>2022<br>
-	• National School Games Rugby Championship</p>
+<b>2022</b><br>
+	• National School Games Rugby Championship<p></p>
 <ul>
-- B Division Bowl – 3rd Placing
-	<br>
-	<p><b>	2023 </b><br>
+- B Division Bowl – 3rd Placing<br>
+	
+	2023
 •	National School Games Rugby Championship<br>
 - B Division Bowl Finals – 2nd Placing 
 
 	
-</p></ul>
+<p></p></ul>
 <hr>
 <p><strong>Our Journey</strong></p>
 <iframe width="697" height="391" src="https://www.youtube.com/embed/UzKfsboDl4I" title="JYSS Rugby 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
