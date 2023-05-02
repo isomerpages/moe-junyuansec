@@ -23,16 +23,17 @@ School Field/School Gym/Fitness Corner.</p>
 <p><strong>Awards/Achievements<br></strong><b>2019</b><br>
 	• National School Games Rugby Championship</p>
 <ul>
-- C Division Bowl – 4th Placing
+-C Division Bowl – 4th Placing
 </ul>
 <b>2022</b><br>
 	• National School Games Rugby Championship<p></p>
 <ul>
-- B Division Bowl – 3rd Placing<br>
+-B Division Bowl – 3rd Placing<br>
 	
-	2023
+	
+<b>2023</b><br>
 •	National School Games Rugby Championship<br>
-- B Division Bowl Finals – 2nd Placing 
+	-B Division Bowl Finals – 2nd Placing 
 
 	
 <p></p></ul>
@@ -42,15 +43,25 @@ School Field/School Gym/Fitness Corner.</p>
 <p>Our teachers are the pillars of the CCA who help to further develop the strengths of our boys in order to help them achieve our full potential. They support the boys through hardships and challenges, watching them grow as rugby players.&nbsp;</p>
 <p style="text-align: center;">"Education is important, rugby is important-er."&nbsp;<br>-&nbsp;Mr.&nbsp;Alsagoff</p>
 <p style="text-align: center;">"We hope that the boys can learn the values of care, resilience and responsibility through the CCA."<br>-&nbsp;Mr.&nbsp;Seah</p>
-<img style="width: 60%;" src="/images/rug1.jpg">
-<p style="text-align: center;">The B Division team with their 3rd place medals after a triumphant match in the National School Games, which was finally resumed after a 2 year hiatus due to COVID-19.</p>
-<img style="width: 60%;" src="/images/rug2.jpg">
-<p style="text-align: center;">Captain of the B Division team receiving the trophy from our Principal, Mr. Tay. </p>
-<img style="width: 60%;" src="/images/rug3.jpg">
-<p style="text-align: center;">Team captain presenting the trophy to our Principal, Mr. Tay.</p>
-<img style="width: 50%;" src="/images/rug4.jpg">
-<p style="text-align: center;">Our members are the important building blocks of our CCA. Each and every one of us have something to contribute, and our part to play. As we grow and develop, we become stronger and so does our CCA.</p>
+
+<p>In 2023, the JY Rugby Boys outdid themselves. Through grit and determination, they made their way to the finals of the National School Games Bowl Championship. This marked their first time playing at the Singapore Sports Hub. </p><br>
+
+<img style="width: 60%;" src="/images/rugby1.jpg">
+<p style="text-align: center;">The B Division boys with their trophy.</p>
+
+<img style="width: 60%;" src="/images/rugby2.jpg">
+<p style="text-align: center;">With their supporters rooting for them.  </p>
+
+<img style="width: 60%;" src="/images/rugby3.jpg">
+<p style="text-align: center;">Captain Haris Mirza receiving the trophy. </p>
+
+
+<img style="width: 60%;" src="/images/rugby4.jpg">
+<p style="text-align: center;">The boys giving it their all.</p>
+
+
 <img style="width: 60%;" src="/images/rug5.jpg">
-<p style="text-align: center;">“Rugby teaches us many things, like discipline, sportsmanship and team work.”<br>- Dani (3E3, 2022)</p>
+<p style="text-align: center;">“Rugby teaches us many things, like discipline, sportsmanship and team work.”<br>- Dani (4E3, 2023)</p>
+
 <img style="width: 60%;" src="/images/rug6.jpg">
-<p style="text-align: center;">"The feeling of competing on the field and winning is both thrilling and exciting.”&nbsp;<br>- Emre (3N2, 2022)</p>
+<p style="text-align: center;">"The feeling of competing on the field and winning is both thrilling and exciting.”&nbsp;<br>- Emre (4N2, 2023)</p>
