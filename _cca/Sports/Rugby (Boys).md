@@ -27,7 +27,7 @@ School Field/School Gym/Fitness Corner.</p>
 • C Division Bowl – 4th Placing
 </ul>
 <b>2022</b><br>
-	• National School Games Rugby Championship<p></p>
+	• National School Games Rugby Championship
 <ul>
 • B Division Bowl – 3rd Placing<br></ul>
 	
