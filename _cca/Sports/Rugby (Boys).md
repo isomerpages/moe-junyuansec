@@ -46,26 +46,32 @@ School Field/School Gym/Fitness Corner.</p>
 
 <p>In 2023, the JY Rugby Boys outdid themselves. Through grit and determination, they made their way to the finals of the National School Games Bowl Championship. This marked their first time playing at the Singapore Sports Hub. </p><br>
 
-<img style="width: 60%;" src="/images/rugby1.jpg">
+<img style="width: 70%;" src="/images/rugby1.jpg">
 <p style="text-align: center;">The B Division boys with their trophy.</p>
 
-<img style="width: 60%;" src="/images/rugby2.jpg">
+<img style="width: 70%;" src="/images/rugby2.jpg">
 <p style="text-align: center;">With their supporters rooting for them.  </p>
 
-<img style="width: 60%;" src="/images/rugby3.jpg">
+<img style="width: 70%;" src="/images/rugby3.jpg">
 <p style="text-align: center;">Captain Haris Mirza receiving the trophy. </p>
 
 
-<img style="width: 60%;" src="/images/rugby4.jpg">
+<img style="width: 70%;" src="/images/rugby4.jpg">
 <p style="text-align: center;">The boys giving it their all.</p><br>
 
 <p><b><u><strong>NSG 2022</strong></u></b><br>
 
-<img style="width: 60%;" src="/images/rugby5.jpg">
+<img style="width: 70%;" src="/images/rugby5.jpg">
 </p><p style="text-align: center;">The B Division team with their 3rd place medals after a triumphant match in the National School Games, which was finally resumed after a 2 year hiatus due to COVID-19.</p>
 
-<img style="width: 60%;" src="/images/rug5.jpg">
+<img style="width: 70%;" src="/images/rugby6.jpg">
+<p style="text-align: center;">Captain of the B Division team receiving the trophy from our Principal, Mr. Tay.</p>
+
+<img style="width: 70%;" src="/images/rugby7.jpg">
+<p style="text-align: center;">Our members are the important building blocks of our CCA. Each and every one of us have something to contribute, and our part to play. As we grow and develop, we become stronger and so does our CCA.</p>
+
+<img style="width: 70%;" src="/images/rug5.jpg">
 <p style="text-align: center;">“Rugby teaches us many things, like discipline, sportsmanship and team work.”<br>- Dani (4E3, 2023)</p>
 
-<img style="width: 60%;" src="/images/rug6.jpg">
+<img style="width: 70%;" src="/images/rug6.jpg">
 <p style="text-align: center;">"The feeling of competing on the field and winning is both thrilling and exciting.”&nbsp;<br>- Emre (4N2, 2023)</p>
