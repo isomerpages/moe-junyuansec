@@ -57,8 +57,12 @@ School Field/School Gym/Fitness Corner.</p>
 
 
 <img style="width: 60%;" src="/images/rugby4.jpg">
-<p style="text-align: center;">The boys giving it their all.</p>
+<p style="text-align: center;">The boys giving it their all.</p><br>
 
+<p><b><u><strong>NSG 2022</strong></u></b><br>
+
+<img style="width: 60%;" src="/images/rugby5.jpg">
+</p><p style="text-align: center;">The B Division team with their 3rd place medals after a triumphant match in the National School Games, which was finally resumed after a 2 year hiatus due to COVID-19.</p>
 
 <img style="width: 60%;" src="/images/rug5.jpg">
 <p style="text-align: center;">“Rugby teaches us many things, like discipline, sportsmanship and team work.”<br>- Dani (4E3, 2023)</p>
