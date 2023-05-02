@@ -36,7 +36,7 @@ School Field/School Gym/Fitness Corner.</p>
 	-B Division Bowl Finals – 2nd Placing 
 
 	
-<p></p></ul>
+</ul>
 <hr>
 <p><strong>Our Journey</strong></p>
 <iframe width="697" height="391" src="https://www.youtube.com/embed/UzKfsboDl4I" title="JYSS Rugby 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
