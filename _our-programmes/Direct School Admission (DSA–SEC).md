@@ -91,9 +91,10 @@ description: ""
 <td width="249">
 <p></p><li>Shortlisted candidates will be invited for a one-day in-person session between 10 Jul 2023 and 4 Aug 2023.</li><p></p>
 	
-<p>The session comprises of two components:<br><br>· Interview<br>· Performance tasks</p>
-<p>§ Candidates are to wear appropriate sports attire during the performance tasks.</p>
-</td>
+<p></p><li>The session comprises of two components:<br>· Interview<br>· Performance tasks<p></p>
+	
+<p></p></li><li>Candidates are to wear appropriate sports attire during the performance tasks.<p></p>
+</li></td>
 </tr>
 </tbody>
 </table>
