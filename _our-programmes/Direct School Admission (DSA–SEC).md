@@ -115,7 +115,7 @@ description: ""
 <p>Basketball<br>(Boys only, if the talent area is selected)</p>
 </td>
 <td width="442">
-<p>· Demonstrate ability in dribbling, passing and shooting via<br>set drills<br>· Speed test over a minimum distance of 20 metres<br>· Agility test<br>· Trial Game based on game position</p>
+<p>· Demonstrate ability in dribbling, passing and shooting via<br>set drills<br>· Speed test over a minimum distance of 20 metres<br>· gility test<br>· Trial Game based on game position</p>
 </td>
 </tr>
 <tr>
@@ -137,10 +137,8 @@ description: ""
 </tbody>
 </table>
 <p><strong>APPLICATION PROCESS</strong></p>
-<p>Students and parents may submit applications for DSA-Sec via a centralised online portal through the MOE DSA-Sec website from 5 May 2022, 11am to 1 June 2022, 3pm.&nbsp;</p>
-<p>Applicants only need to fill in one online form to apply to multiple schools and talent areas. Each applicant can indicate up to three choices in the application form. For each choice, applicants will need to choose a secondary school and a talent area offered by that school. Applicants can indicate a different talent area for each of his/her three choices, and a maximum of two choices may be used for the same school.&nbsp;</p>
-<p>Application through the portal is free-of-charge and requires one parent’s Singpass to login, for authentication purposes. Parents who do not have Singpass access can approach their child’s primary school for assistance.&nbsp;</p>
-<p>The MOE DSA-Sec website can be accessed at:&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener"><u>https://www.moe.gov.sg/dsa-sec</u></a></p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec. </p>
+
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE<br></strong></p>
 <table>
 <tbody>
@@ -163,7 +161,7 @@ description: ""
 <p>Application for JYSS DSA-Sec through DSA-Sec Portal</p>
 </td>
 <td style="text-align: center;" width="173">
-<p>5 May – 1 June 2022</p>
+<p>4 May – 31 May 2023</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +172,7 @@ description: ""
 <p>Notification of shortlisted applicants</p>
 </td>
 <td style="text-align: center;" width="173">
-<p>16 – 30 June 2022&nbsp;</p>
+<p>26 – 30 June 2023&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +187,7 @@ description: ""
 </ul>
 </td>
 <td style="text-align: center;" width="173">
-<p>12 Jul – 2 Aug 2022</p>
+<p>10 Jul – 4 Aug 2023</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +198,7 @@ description: ""
 <p>Release of results<br>(Confirmed Offer (CO) / Wait List (WL) / Unsuccessful)</p>
 </td>
 <td style="text-align: center;" width="173">
-<p>By 12 Sep 2022</p>
+<p>By 11 Sep 2023</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +209,7 @@ description: ""
 <p>Submit School Preference through DSA-Sec Portal (by applicants)</p>
 </td>
 <td style="text-align: center;" width="173">
-<p>31 Oct – 4 Nov 2022</p>
+<p>23 Oct – 27 Oct 2023</p>
 </td>
 </tr>
 <tr>
@@ -222,16 +220,8 @@ description: ""
 <p>Release of DSA-Sec Results together with PSLE Results</p>
 </td>
 <td style="text-align: center;" width="173">
-<p>Late Nov 2022</p>
+<p>Late Nov 2023</p>
 </td>
 </tr>
 </tbody>
 </table>
-<iframe width="774" height="435" src="https://www.youtube.com/embed/lB4q0Pq-C4o" title="JYSS DSA Video 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p><strong>Contact Personnel</strong></p>
-<p>For enquiries, please contact the following at 6587 3683 or email to junyuansec@moe.edu.sg:</p>
-<ol>
-<li>Mr Jeffrey Lian (Year Head)</li>
-<li>Mr Ryan Tan (HOD PE/CCA)</li>
-<li>Miss Thng Wei Wei (SH Student Leadership)</li>
-</ol>
