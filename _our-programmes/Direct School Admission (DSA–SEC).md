@@ -115,7 +115,7 @@ description: ""
 <p>Basketball<br>(Boys only, if the talent area is selected)</p>
 </td>
 <td width="442">
-<p>· Demonstrate ability in dribbling, passing and shooting via<br>set drills<br>· Speed test over a minimum distance of 20 metres<br>· gility test<br>· Trial Game based on game position</p>
+<p>· Demonstrate ability in dribbling, passing and shooting via<br>set drills<br>· Speed test over a minimum distance of 20 metres<br>· Agility test<br>· Trial Game based on game position</p>
 </td>
 </tr>
 <tr>
