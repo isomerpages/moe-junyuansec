@@ -137,7 +137,7 @@ description: ""
 </tbody>
 </table>
 <p><strong>APPLICATION PROCESS</strong></p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – [DSA-guidelines](https://www.moe.gov.sg/dsa-sec). </p>
+<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener"><u>https://www.moe.gov.sg/dsa-sec</u></a></p>
 
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE<br></strong></p>
 <table>
