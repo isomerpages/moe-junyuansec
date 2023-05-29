@@ -4,7 +4,7 @@ permalink: /our-programmes/character-n-citizenship/education-n-career-guidance/
 description: ""
 third_nav_title: Character & Citizenship
 ---
-<p>The ECG Counsellor is usually available every&nbsp;<strong>Monday</strong>, and sessions will be conducted at the&nbsp;<strong>Meeting Room</strong>&nbsp;(next to the ECG Corner @ the Atrium).</p>
+<p>The ECG Counsellor is usually available every&nbsp;<strong>Monday</strong> and <strong>Wednesday</strong>, and sessions will be conducted at the&nbsp;<strong>Meeting Room</strong>&nbsp;(next to the ECG Corner @ the Atrium).</p>
 <p>To discuss any of the following, please book appointment slots that are during your&nbsp;<strong>recess / lunch breaks / free periods</strong>&nbsp;or&nbsp;<strong>after your curriculum hours</strong>.</p>
 <ul>
 <li>Raising self-awareness (<strong>VIPS, RIASEC</strong>, etc.)</li>
@@ -40,7 +40,7 @@ third_nav_title: Character & Citizenship
 </tr>
 <tr>
 <td><a href="https://www.ite.edu.sg/admissions/full-time-courses/prospectus">ITE Prospectus</a></td>
-<td>Education &amp; Career Guidance Resources<br />Information on ITE courses, including Traineeship</td>
+<td>Education &amp; Career Guidance Resources<br>Information on ITE courses, including Traineeship</td>
 </tr>
 <tr>
 <td><a href="https://go.gov.sg/coursefinder">Cour</a><a href="https://go.gov.sg/coursefinder">seFinder</a></td>
@@ -52,15 +52,15 @@ third_nav_title: Character & Citizenship
 </tr>
 <tr>
 <td><a href="https://go.gov.sg/polyeae">Poly Early Admissions Exercise (for O-level students)</a></td>
-<td>Applicable to &lsquo;O&rsquo;-level students</td>
+<td>Applicable to ‘O’-level students</td>
 </tr>
 <tr>
 <td><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs">Poly EAE FAQ</a></td>
 <td>FAQ for Poly EAE (Important: read if you are considering EAE)</td>
 </tr>
 <tr>
-<td><a href="https://go.gov.sg/applyjcdsa">Direct School Admission &ndash; Junior Colleges</a></td>
-<td>Applicable to &lsquo;O&rsquo;-level students</td>
+<td><a href="https://go.gov.sg/applyjcdsa">Direct School Admission – Junior Colleges</a></td>
+<td>Applicable to ‘O’-level students</td>
 </tr>
 <tr>
 <td><a href="https://go.gov.sg/pfp">Polytechnic Foundation Programme (PFP)</a></td>
@@ -76,7 +76,7 @@ third_nav_title: Character & Citizenship
 </tr>
 <tr>
 <td><a href="https://www.ite.edu.sg/admissions/traineeship">ITE Traineeship Scheme</a></td>
-<td>A formalised &lsquo;Earn-as-you-Learn&rsquo; training arrangement</td>
+<td>A formalised ‘Earn-as-you-Learn’ training arrangement</td>
 </tr>
 <tr>
 <td><a href="https://jpae.polytechnic.edu.sg/">Joint Polytechnic Admissions Exercise (JPAE)</a></td>
@@ -84,7 +84,7 @@ third_nav_title: Character & Citizenship
 </tr>
 <tr>
 <td><a href="https://www.ibo.org/programmes/diploma-programme/curriculum/">IBDP Curriculum</a></td>
-<td>International Baccalaureate&reg; (IB) Diploma Programme (DP) curriculum</td>
+<td>International Baccalaureate® (IB) Diploma Programme (DP) curriculum</td>
 </tr>
 <tr>
 <td><a href="https://go.gov.sg/careersfuture">MyCareersFuture</a></td>
@@ -115,7 +115,7 @@ third_nav_title: Character & Citizenship
 <td>Stories of students and the pathways they have chosen</td>
 </tr>
 <tr>
-<td><a href="https://go.gov.sg/whats-next">What&rsquo;s Next (After PSLE, &lsquo;N&rsquo;/&rsquo;O&rsquo;/&rsquo;A&rsquo;-level)</a></td>
+<td><a href="https://go.gov.sg/whats-next">What’s Next (After PSLE, ‘N’/’O’/’A’-level)</a></td>
 <td>Applicable to all graduating students</td>
 </tr>
 <tr>
