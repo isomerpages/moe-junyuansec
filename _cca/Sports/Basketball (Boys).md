@@ -18,6 +18,8 @@ third_nav_title: Sports
 <p>Lower Secondary:<br>1. Captain:&nbsp;Caleb Teo Jia Le (2E)<br>2. Vice-Captain:&nbsp;Wong Johnathan Espiritu (2A)</p>
 <p><strong>Awards/Achievements<br></strong>East Zone Schools Tournament (B Div) 2023-Top 8<br>East Zone Schools Tournament (B Div) 2022-4th <br>BAS Developmental League (B Div) 2019 -2nd<br>T-Net Basketball Tournament (B Div) 2019 -1st<br>T-Net Basketball Tournament (C Div) 2019 -2nd<br>T-Net Basketball Tournament (C Div) 2018 - 4th</p>
 <hr>
+<p style="text-align: center;"><strong>C boys School Team 2023</strong></p>
+<img src="/images/cboysbb.jpg">
 <p style="text-align: center;"><strong>B boys School Team 2023</strong></p>
 <img src="/images/bbb1.jpg">
 <p style="text-align: center;"><strong>Start of NSG B Boys Basketball&nbsp;Championship</strong></p>
