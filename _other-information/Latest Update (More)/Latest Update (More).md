@@ -1,7 +1,0 @@
----
-title: Latest Update (More)
-permalink: /other-information/latest-update-more/
-description: ""
-third_nav_title: Latest Update (More)
----
-<p><u><br>-&nbsp;<a href="/nurturing-our-champs/restorative-practices">Developing Self-Managers through Restorative practices</a>&nbsp;<br>-&nbsp;</u><a href="/files/Briefing_CCA%20Parents%202020v11.pdf" target="_blank" rel="noopener">LEAPS 2.0</a><br><u><em>-&nbsp;<a href="/nurturing-our-champs/learning-and-assessment">Learning and Assessment Plan</a>&nbsp;<br></em></u><em><u><a href="/files/MYE%20Timetable%202022%20Sec%204-5.pdf" target="_blank" rel="noopener">- MYE Timetable Sec 4 to 5</a></u></em></p>
