@@ -3,4 +3,4 @@ title: Financial Assistance Scheme
 permalink: /other-information/financial-assistance-scheme/
 description: ""
 ---
-<p><a href="/files/MOE%20FAS%20Application%20Form_2023.pdf">MOE FAS Application Form_2023.pdf</a></p>
+<p><a href="/files/moe%20fas%20application%20form_2023%20(updated).pdf">MOE FAS Application Form_2023.pdf</a></p>
