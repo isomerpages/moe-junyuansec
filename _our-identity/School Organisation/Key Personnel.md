@@ -4,7 +4,6 @@ permalink: /our-identity/school-organisation/key-personnel/
 description: ""
 third_nav_title: School Organisation
 ---
-
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
@@ -28,5 +27,6 @@ third_nav_title: School Organisation
 <td style="width: 33%;"><img src="/images/kp10.jpg"></td>
 <td style="width: 33%;"><img src="/images/kp13.jpg"></td>
 </tr>
+	<tr><td style="width: 33%;"><img src="/images/shariffah2.jpg"></td></tr>
 </tbody>
 </table>
