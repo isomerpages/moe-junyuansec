@@ -77,3 +77,7 @@ School Field/School Gym/Fitness Corner.</p>
 
 <img style="width: 70%;" src="/images/rug6.jpg">
 <p style="text-align: center;">"The feeling of competing on the field and winning is both thrilling and exciting.”&nbsp;<br>- Emre (4N2, 2023)</p>
+
+
+![Test](/images/2020ba1.jpg)
+<p style="text-align:right;">This is just a test image. </p>
