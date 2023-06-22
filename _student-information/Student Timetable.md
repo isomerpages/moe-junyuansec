@@ -3,6 +3,6 @@ title: Student Timetable
 permalink: /student-information/student-timetable/
 description: ""
 ---
-**Student Timetable for Semester 1 Term 2 (2023)**
+**Student Timetable for Semester 2 (2023)**
 
-[Sem 1 Term 2 (2023) Class Timetable](/files/Sem%201%20Term%202%202023%20Class%20Timetable%20(08032023).pdf)
+[Sem 2 (2023) Class Timetable](/files/sem%202%20class%20timetable%20(2023).pdf)
