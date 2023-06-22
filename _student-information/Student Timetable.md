@@ -6,3 +6,5 @@ description: ""
 **Student Timetable for Semester 2 (2023)**
 
 [Sem 2 (2023) Class Timetable](/files/sem%202%20class%20timetable%20(2023).pdf)
+
+[Sem 2 Class TT (test)](/files/sem%202%20class%20timetable%20(test).pdf)
