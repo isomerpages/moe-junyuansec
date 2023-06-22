@@ -79,4 +79,3 @@ School Field/School Gym/Fitness Corner.</p>
 <p style="text-align: center;">"The feeling of competing on the field and winning is both thrilling and exciting.”&nbsp;<br>- Emre (4N2, 2023)</p>
 
 
-
