@@ -40,7 +40,7 @@ third_nav_title: Home Based Learning
 </ol>
 <p style="text-align: center;"><a href="https://go.gov.sg/jyssoe" target="_blank" rel="noopener"><u>https://go.gov.sg/jyssoe</u></a></p>
 <p>9. Practise good cyber habits by focusing on the tasks instead of surfing other sites or<br>checking social media. Do remember to take regular breaks so that the mind can<br>consolidate and make time to exercise and eat well.</p>
-<p><strong>Student Initiated Learning (SIL) Activity (for Sec 2 to 5)</strong></p>
+<p><strong>Student Initiated Learning (SIL) Activity </strong></p>
 <p>10. Sec 1 to 3 students will also embark on Student Initiated Learning to work on a topic of<br>their interest, e.g. playing guitar, learning a new language. Students are given 1 hour during<br>each HBL day to plan their learning for this topic and curate online resources, e.g. YouTube<br>videos to support their learning.&amp;</p>
 <p>11. Students will be briefed by their form teachers on the SIL in Term 3. Students can refer to<br>the following resource to get started:</p>
 <ol style="list-style-type: lower-alpha;">
