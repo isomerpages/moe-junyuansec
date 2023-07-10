@@ -17,7 +17,7 @@ description: ""
 </p><h4><strong>Secondary 3</strong></h4>
 <a href="/files/level_laps_2023_sec%203e_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3E_Sem 2</a><br>
 	<a href="/files/level_laps_2023_sec%203na_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3NA_Sem 2</a><br>
-		<a href="/files/level_laps_2023_sec%203nt_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3NT_Sem 2</a><br><p></p>
+		<a href="/files/level_laps_2023_sec%203nt_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3NT_Sem 2</a><br>
 	
 	
 <h4><strong>Secondary 4 &amp; 5</strong></h4>
