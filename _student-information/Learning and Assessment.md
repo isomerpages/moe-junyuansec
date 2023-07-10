@@ -15,6 +15,10 @@ description: ""
 	
 	
 </p><h4><strong>Secondary 3</strong></h4>
-<p><a href="/files/Level_LAPs_2023_Sec%203E_Sem%201.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3 Exp Sem 1.pdf</a><br><a href="/files/Level_LAPs_2023_Sec%203NA_Sem%201.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3 NA Sem 1.pdf</a><br><a href="/files/Level_LAPs_2023_Sec%203NT_Sem%201.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3 NT Sem 1.pdf</a></p>
+<a href="/files/level_laps_2023_sec%203e_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3E_Sem 2</a><br>
+	<a href="/files/level_laps_2023_sec%203na_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3NA_Sem 2</a><br>
+		<a href="/files/level_laps_2023_sec%203nt_sem%202.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 3NT_Sem 2</a><br><p></p>
+	
+	
 <h4><strong>Secondary 4 &amp; 5</strong></h4>
 <p><a href="/files/Level_LAPs_2023_Sec%204E5N_Sem%201.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 4E5N Sem 1.pdf</a><br><a href="/files/Level_LAPs_2023_Sec%204N_Sem%201.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 4 NA Sem 1.pdf</a><br><a href="/files/Level_LAPs_2023_Sec%204NT_Sem%201.pdf" target="_blank" rel="noopener">Level_LAPs_2023_Sec 4 NT Sem 1.pdf</a></p>
