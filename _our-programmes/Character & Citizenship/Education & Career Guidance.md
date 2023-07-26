@@ -14,7 +14,9 @@ third_nav_title: Character & Citizenship
 <li>Factors to consider in <strong>ECG planning</strong></li>
 <li>Any other <strong>ECG related</strong>&nbsp;questions</li>
 </ul>
-<a href="https://moeecg.appointeze.com/onlinelink/KathrineYang"><img style="width: 30%;" src="/images/ecg1.png"></a><br>
+<a href="https://go.gov.sg/ecgjys-appt"><img style="width: 30%;" src="/images/ecg1.png"></a><br>
+<img style="width:50%;" src="/images/jys%20appointment%20qr.png">
+
 <a href="https://moeecg.appointeze.com/onlinelink/KathrineYang"><img style="width: 30%;" src="/images/ecg2.png"></a><br>
 <table width="1000">
 <tbody>
