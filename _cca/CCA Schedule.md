@@ -9,7 +9,10 @@ description: ""
 <p>1. Archery:  <u><a href="https://docs.google.com/spreadsheets/d/1qa5qjiWZYFY6AYzmxmFCGDyFff2j-t5WNNgc-DSa60Q/edit#gid=1287915528">https://go.gov.sg/jyss-archery-schedule</a></u></p>
 <p>2. Badminton: <u><a href="https://file.go.gov.sg/jyss-badminton-schedule-term3.pdf">https://go.gov.sg/jyss-badminton-schedule</a></u></p>
 <p>3. Basketball (Boys): <u><a href="https://docs.google.com/spreadsheets/d/1flTXKJhxLQIDNO7Bx2Siu1KbwC-kSMxj/edit?usp=sharing&amp;ouid=100489842546183031767&amp;rtpof=true&amp;sd=true">https://go.gov.sg/jyss-basketball-schedule</a></u></p>
-<p>4. Rugby (Boys): <a href="[](/files/Term%202%20Sessions.pdf)">https://go.gov.sg/jyss-rugby-schedule</a></p>
+<p>4. Rugby (Boys): <a href="[](/files/term%203%20session%20rugby.pdf)">https://go.gov.sg/jyss-rugby-schedules</a></p>
+
+
+
 <p>5. Track &amp; Field: <u><a href="https://go.gov.sg/jyss-track-schedule">https://go.gov.sg/jyss-track-schedule</a></u></p>
 <p>6. Volleyball: <u><a href="https://go.gov.sg/jyss-volleyball-schedule">https://go.gov.sg/jyss-volleyball-schedule</a></u></p>
 <p><strong>Uniformed Groups</strong></p>
