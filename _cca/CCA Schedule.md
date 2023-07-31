@@ -12,7 +12,6 @@ description: ""
 <p>4. Rugby (Boys): <a href="[](/files/term%203%20session%20rugby.pdf)">https://go.gov.sg/jyss-rugby-schedules</a></p>
 
 
-
 <p>5. Track &amp; Field: <u><a href="https://go.gov.sg/jyss-track-schedule">https://go.gov.sg/jyss-track-schedule</a></u></p>
 <p>6. Volleyball: <u><a href="https://go.gov.sg/jyss-volleyball-schedule">https://go.gov.sg/jyss-volleyball-schedule</a></u></p>
 <p><strong>Uniformed Groups</strong></p>
