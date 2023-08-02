@@ -4,11 +4,11 @@ permalink: /our-identity/school-organisation/executive-and-administrative-staff/
 description: ""
 third_nav_title: School Organisation
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/eas1.jpg"></td>
-<td style="width: 25%;"><img src="/images/eas2.jpg"></td>
+<td style="width: 25%;"><img src="/images/om-norzia.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas3.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas4.jpg"></td>
 </tr>
@@ -21,8 +21,7 @@ third_nav_title: School Organisation
 <tr>
 <td style="width: 25%;"><img src="/images/eas9.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas10.jpg"></td>
-<td style="width: 25%;"><img src="/images/eas11.jpg"></td>
-<td style="width: 25%;"><img src="/images/eas12.jpg"></td>
+<td style="width: 25%;"><img style="width: 25%;"><img src="/images/eas12.jpg"></td>
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas13.jpg"></td>
@@ -40,7 +39,7 @@ third_nav_title: School Organisation
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 25%;"><img src="/images/eas19.jpg"></td>
+
 <td style="width: 25%;">&nbsp;</td>
 </tr>
 </tbody>
