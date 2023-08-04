@@ -1,15 +1,15 @@
 ---
-title: "Character & Citizenship Programmes: ECG, Sexuality Education Programme"
+title: Character & Citizenship Programmes
 permalink: /our-programmes/character-n-citizenship-programmes-e-c-g-sexuality-education-programme/
 description: ""
 third_nav_title: Character & Citizenship
 ---
-<h4><strong>Character &amp; Citizenship Education<br /></strong></h4>
+<h4><strong>Character &amp; Citizenship Education<br></strong></h4>
 <p><strong>CCE Goals</strong></p>
 <p>CCE 2022 aims to develop in our students:</p>
 <p><strong>(a) </strong><strong>Good character:&nbsp;</strong>Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence;</p>
 <p><strong>(b) </strong><strong>Resilience and social-emotional well-being:&nbsp;</strong>Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation;</p>
-<p><strong>(c) </strong><strong>Active citizenship:&nbsp;</strong>Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore&rsquo;s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation; and</p>
+<p><strong>(c) </strong><strong>Active citizenship:&nbsp;</strong>Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation; and</p>
 <p><strong>(d) </strong><strong>Future readiness:&nbsp;</strong>Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.</p>
 <p><strong>The CCE 2022 Curriculum Frame</strong></p>
 <p>CCE curriculum content is based on the three big ideas of Identity, Relationships and Choices. It comprises the learning of core values, social-emotional competencies and citizenship dispositions, with a focus on developing a sense of purpose in our students.</p>
