@@ -11,12 +11,16 @@ third_nav_title: School Organisation
 <td style="width: 25%;"><img src="/images/om-norzia.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas3.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas4.jpg"></td>
+	
+	
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas6.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas7.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas8.jpg"></td>
 <td style="width: 25%;"> </td>
+	
+	
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas9.jpg"></td>
