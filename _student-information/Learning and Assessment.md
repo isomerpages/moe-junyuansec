@@ -3,8 +3,8 @@ title: Learning and Assessment
 permalink: /student-information/learning-and-assessment/
 description: ""
 ---
-<h4><strong>Junyuan Secondary Learning Assessment Policy 2023</strong></h4>
-<p><a href="/files/1%20Letter%20to%20parents%20on%20Learning%20and%20Assessment%202023.pdf" target="_blank" rel="noopener">Letter to parents on Learning and Assessment 2023.pdf</a><br><a href="/files/2%20Junyuan%20Secondary%20Learning%20Assessment%20Policy%20parents%202023.pdf" target="_blank" rel="noopener">Junyuan Secondary Learning Assessment Policy parents 2023.pdf</a><br><a href="/files/3%20Annex%20A%20-%20FAQ%20for%20parents%20-%20Removing%20MYE.pdf" target="_blank" rel="noopener">Annex A - FAQ for parents - Removing MYE.pdf</a></p>
+<h4><strong>Junyuan Secondary Learning Assessment Policy 2023</strong></h4>[junyuan secondary learning assessment policy (parents) 03 oct 2023.pdf]
+<p><a href="/files/junyuan%20secondary%20learning%20assessment%20policy%20(parents)%2003%20oct%202023.pdf" target="_blank" rel="noopener">Letter to parents on Learning and Assessment 2023.pdf</a><br><a href="/files/2%20Junyuan%20Secondary%20Learning%20Assessment%20Policy%20parents%202023.pdf" target="_blank" rel="noopener">Junyuan Secondary Learning Assessment Policy parents 2023.pdf</a><br><a href="/files/3%20Annex%20A%20-%20FAQ%20for%20parents%20-%20Removing%20MYE.pdf" target="_blank" rel="noopener">Annex A - FAQ for parents - Removing MYE.pdf</a></p>
 
 [JYSS Term 3 WA Dates (by class)](https://docs.google.com/spreadsheets/d/1ynkQithl5IY8UKPamlcRcfBx8PMrTjuGLlppgAeOAA4/edit?usp=sharing)
 
