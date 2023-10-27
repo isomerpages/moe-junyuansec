@@ -9,12 +9,12 @@ description: ""
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33%;"><img src="/images/openhqr.jpg"></td>
+<td style="width: 33%;"><img src="/images/open%20house%202023.jpeg"></td>
 <td style="width: 66%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<p><a href="https://form.gov.sg/#!/632aa75ce8bd540012dd8c4f" target=""><u>https://form.gov.sg/#!/632aa75ce8bd540012dd8c4f</u></a></p>
+<p><a href="https://form.gov.sg/652f63e48096d00011bd2fbb" target=""><u>https://form.gov.sg/652f63e48096d00011bd2fbb</u></a></p>
 <h4><strong>FAQs for Open House</strong></h4>
 <p><a href="/files/faq%20open%20house.pdf" target="_blank" rel="noopener"><u>FAQ Open House.pdf</u></a></p>
 <h4><strong>Let's take look at some of our videos!</strong></h4>
