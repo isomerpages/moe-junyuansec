@@ -5,7 +5,7 @@ description: ""
 ---
 <p>WELCOME!</p>
 <img src="/images/2023%20jyss%20banner%20final%20final.png">
-<h4><strong>Register for Open House 19 Nov 2022!</strong></h4>
+<h4><strong>Register for Open House 18 Nov 2023!</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
