@@ -15,8 +15,8 @@ description: ""
 </tbody>
 </table>
 <p><a href="https://form.gov.sg/#!/632aa75ce8bd540012dd8c4f" target=""><u>https://form.gov.sg/#!/632aa75ce8bd540012dd8c4f</u></a></p>
-<h4><strong>FAQs for e-Open House 2021</strong></h4>
-<p><a href="/files/E%20Open%20House%202021%20QA.pdf" target="_blank" rel="noopener"><u>E Open House 2021 QA.pdf</u></a></p>
+<h4><strong>FAQs for Open House</strong></h4>
+<p><a href="/files/faq%20open%20house.pdf" target="_blank" rel="noopener"><u>FAQ Open House.pdf</u></a></p>
 <h4><strong>Let's take look at some of our videos!</strong></h4>
 <p><em>The JYSS Experience</em></p>
 <iframe width="480" height="360" src="https://www.youtube.com/embed/AfIih3ygg7o" title="The Jyss Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
