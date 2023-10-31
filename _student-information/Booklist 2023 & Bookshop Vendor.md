@@ -3,7 +3,7 @@ title: Booklist 2023 & Bookshop Vendor
 permalink: /student-information/booklist-2023-n-bookshop-vendor/
 description: ""
 ---
-<h4 dir="ltr"><strong>Booklist 2023</strong></h4>
+<h4 dir="ltr"><strong>Booklist 2024</strong></h4>
 <p dir="ltr">To download a copy, please click on your respective level.</p>
 <table><colgroup><col width="143"><col width="143"><col width="143"><col width="143"><col width="143"></colgroup>
 <tbody>
