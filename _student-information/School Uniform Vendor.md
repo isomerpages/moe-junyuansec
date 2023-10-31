@@ -6,7 +6,7 @@ description: ""
 <table width="600"><colgroup><col width="224"><col width="376"></colgroup>
 <tbody>
 <tr>
-<td style="text-align: left;" colspan="2" width="600" height="52">Asencio Trading - School Uniform &amp; Physical Education (PE) Attire</td>
+	<td style="text-align: left;" colspan="2" width="600" height="52"><b>Asencio Trading - School Uniform Physical Education (PE) Attire<b></b></b></td>
 </tr>
 <tr>
 <td style="text-align: left;" width="224" height="41">Address for Walk-in purchase<br>@ Asencio Showroom:</td>
@@ -43,5 +43,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-
-
