@@ -60,13 +60,13 @@ description: ""
 <p dir="ltr"><a href="/files/Sec%201NT.pdf" target=""><u>1NT</u></a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%202%20Normal%20Tech%20Booklist.pdf" target="">2NT</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%202%20normal%20technical%20booklist.pdf" target="">2NT</a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%203%20Normal%20Tech%20Booklist.pdf" target="">3NT</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%203%20normal%20technical%20booklist.pdf" target="">3NT</a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%204%20Normal%20Tech%20Booklist.pdf" target="">4NT</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%204%20normal%20technical%20booklist.pdf" target="">4NT</a></p>
 </td>
 </tr>
 </tbody>
