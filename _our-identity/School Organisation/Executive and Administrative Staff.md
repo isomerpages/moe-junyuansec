@@ -35,7 +35,6 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td style="width: 25%;"><img src="/images/eas16.jpg"></td>
-	<td style="width: 25%;"><img src="/images/ictexecutive.jpg"></td>
 <td style="width: 25%;"><img src="/images/eas18.jpg"></td>
 	
 <td style="width: 25%;">&nbsp;</td>
