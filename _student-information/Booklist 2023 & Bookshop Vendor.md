@@ -5,7 +5,7 @@ description: ""
 ---
 <h4 dir="ltr"><strong>Booklist 2023</strong></h4>
 <p dir="ltr">To download a copy, please click on your respective level.</p>
-<table><colgroup><col width="143" /><col width="143" /><col width="143" /><col width="143" /><col width="143" /></colgroup>
+<table><colgroup><col width="143"><col width="143"><col width="143"><col width="143"><col width="143"></colgroup>
 <tbody>
 <tr>
 <td style="text-align: center;">
@@ -29,16 +29,16 @@ description: ""
 <p dir="ltr"><u><a href="/files/Sec%201E.pdf" target="">1EXP</a></u></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%202%20Express%20Booklist.pdf" target="">2EXP</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%202%20express%20booklist.pdf" target="">2EXP</a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%203%20Express%20Booklist%2028%20Oct.pdf" target="">3EXP</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%203%20express%20booklist.pdf" target="">3EXP</a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%204%20Express%20Booklist%2028%20Oct.pdf" target="">4EXP</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%204%20express%20booklist.pdf" target="">4EXP</a></p>
 </td>
 <td style="text-align: center;" rowspan="3">
-<p dir="ltr"><a href="/files/2023%20Sec%205%20Normal%20Academic%20Booklist%2028%20Oct.pdf" target="">5NA</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%205%20normal%20academic%20booklist.pdf" target="">5NA</a></p>
 </td>
 </tr>
 <tr>
@@ -72,11 +72,11 @@ description: ""
 </tbody>
 </table>
 <h4 dir="ltr"><strong>Bookshop Vendor</strong></h4>
-<table><colgroup><col width="217" /><col width="646" /></colgroup>
+<table><colgroup><col width="217"><col width="646"></colgroup>
 <tbody>
 <tr>
 <td colspan="2">
-<p dir="ltr">Casco Educational Supply Pte Ltd &ndash; School Texbooks &amp; Stationery&nbsp;</p>
+<p dir="ltr">Casco Educational Supply Pte Ltd – School Texbooks &amp; Stationery&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ description: ""
 <p dir="ltr">Operating Hours</p>
 </td>
 <td>
-<p dir="ltr">Monday to Friday<br />8.00am to 3:00pm&nbsp;<br />Closed on Public Holidays, Saturday and Sunday<br />Walk In Purchase &ndash; by appointment only</p>
+<p dir="ltr">Monday to Friday<br>8.00am to 3:00pm&nbsp;<br>Closed on Public Holidays, Saturday and Sunday<br>Walk In Purchase – by appointment only</p>
 </td>
 </tr>
 </tbody>
