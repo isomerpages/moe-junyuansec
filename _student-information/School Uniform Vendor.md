@@ -41,5 +41,11 @@ description: ""
 <td style="text-align: left;" width="224" height="41">Online Ordering Guide:</td>
 <td style="text-align: center;" width="376">Refer to the online ordering guide for details of the ordering process.&nbsp;<br><a class="refobj" href="/files/Junyuan%20Secondary%20School%20online%20ordering%20guide%20-%2028102022.pdf" target=""><u>Online ordering guide</u></a></td>
 </tr>
+<tr>
+<td style="text-align: left;" width="224" height="41">Uniform Order Form:</td>
+<td style="text-align: center;" width="376"><a href="/files/jyss%20uniform%20order%20list%20(2024%20cohort).pdf" target=""><u>JYSS Uniform Order List (2024)</u></a></td>
+</tr>
 </tbody>
 </table>
+
+[]()
