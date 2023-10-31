@@ -46,13 +46,13 @@ description: ""
 <p dir="ltr"><u><a href="/files/Sec%201NA.pdf" target="">1NA</a></u></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%202%20Normal%20Academic%20Booklist.pdf" target="">2NA</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%202%20normal%20academic%20booklist.pdf" target="">2NA</a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%203%20Normal%20Academic%20Booklist%2028%20Oct.pdf" target="">3NA</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%203%20normal%20academic%20booklist.pdf" target="">3NA</a></p>
 </td>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/2023%20Sec%204%20Normal%20Academic%20Booklist.pdf" target="">4NA</a></p>
+<p dir="ltr"><a href="/files/2024%20sec%204%20normal%20academic%20booklist.pdf" target="">4NA</a></p>
 </td>
 </tr>
 <tr>
