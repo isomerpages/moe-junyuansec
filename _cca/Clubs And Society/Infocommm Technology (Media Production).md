@@ -209,7 +209,7 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p><strong>CCA Leaders (Publication)</strong></p>
+<p><strong>Executive Committee</strong></p>
 </td>
 <td width="8%">
 <p><strong>Class</strong></p>
@@ -223,27 +223,13 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p>Fatimah Tuzzahrah Binte Ramlee</p>
+<p>Zhong Dingxun, Tyler</p>
 </td>
 <td width="8%">
-<p>4E3</p>
+<p>3E</p>
 </td>
 <td width="29%">
-<p>Head</p>
-</td>
-<td width="8%">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Misha Turina Binte Kasmani</p>
-</td>
-<td width="8%">
-<p>4N1</p>
-</td>
-<td width="29%">
-<p>Vice-Head</p>
+<p>Executive Committee Member</p>
 </td>
 <td width="8%">
 <p>Upper</p>
@@ -253,9 +239,39 @@ third_nav_title: Clubs And Society
 <td width="53%">
 <p>Nurul Syakirah Binte Sani</p>
 </td>
-<td width="8%">&nbsp;</td>
+<td width="8%">
+<p>3F</p>
+</td>
 <td width="29%">
-<p>Lower Sec Head 1</p>
+<p>Executive Committee Member</p>
+</td>
+<td width="8%">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td width="53%">
+<p>Marissah Leyanne Sithan</p>
+</td>
+<td width="8%">
+<p>3E</p>
+</td>
+<td width="29%">
+<p>Executive Committee Member</p>
+</td>
+<td width="8%">
+<p>Uper</p>
+</td>
+</tr>
+<tr>
+<td width="53%">
+<p>Phoa Yong Jie Titus</p>
+</td>
+<td width="8%">
+<p>1B</p>
+</td>
+<td width="29%">
+<p>Executive Committee Member</p>
 </td>
 <td width="8%">
 <p>Lower</p>
@@ -263,18 +279,33 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p>Kaden Low Jun Xi (Liu Junxi)</p>
+<p>Rusyaidi Bin Mohamed Yazid</p>
 </td>
-<td width="8%">&nbsp;</td>
+<td width="8%">
+<p>1E</p>
+</td>
 <td width="29%">
-<p>Lower Sec Head 2</p>
+<p>Executive Committee Member</p>
 </td>
 <td width="8%">
 <p>Lower</p>
 </td>
 </tr>
-<tr>
+	<tr>
 <td width="53%">
+<p>Nameera Binte Mohamad Fairoz</p>
+</td>
+<td width="8%">
+<p>1F</p>
+</td>
+<td width="29%">
+<p>Executive Committee Member</p>
+</td>
+<td width="8%">
+<p>Lower</p>
+</td>
+</tr>
+<tr><td width="53%">
 <p><strong>CCA Leaders (Welfare &amp; Logistics)</strong></p>
 </td>
 <td width="8%">
