@@ -167,7 +167,7 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p><strong>CCA Leaders (Editorial)</strong></p>
+<p><strong>CCA Leaders (Welfare &amp; Logistics)</strong></p>
 </td>
 <td width="8%">
 <p><strong>Class</strong></p>
@@ -181,27 +181,27 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p>Kaelyn Choi Hoi Leng</p>
+<p>Sin Yu Javier</p>
 </td>
 <td width="8%">
-<p>4E1</p>
+<p>1F</p>
 </td>
 <td width="29%">
-<p>President</p>
+<p>Head</p>
 </td>
 <td width="8%">
-<p>Upper</p>
+<p>Lower</p>
 </td>
 </tr>
 <tr>
 <td width="53%">
-<p>Syafiqah Binte Musa</p>
+<p>Muhammad Rizq Danish B Mohammad Raihan</p>
 </td>
 <td width="8%">
-<p>4E1</p>
+<p>1F</p>
 </td>
 <td width="29%">
-<p>Vice President</p>
+<p>Vice-Head</p>
 </td>
 <td width="8%">
 <p>Upper</p>
