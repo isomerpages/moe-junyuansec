@@ -97,10 +97,10 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p>Noor Danish Haziq Bin Noor Azhar</p>
+<p>Kaden Low Jun Xi</p>
 </td>
 <td width="8%">
-<p>4E2</p>
+<p>3D</p>
 </td>
 <td width="29%">
 <p>President</p>
@@ -111,23 +111,39 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p>Tan Jun Kai Amos</p>
+<p>Germaine Ng Shi Xuan</p>
 </td>
 <td width="8%">
-<p>4E2</p>
+<p>2C</p>
 </td>
 <td width="29%">
-<p>Vice-President</p>
+<p>Vice-President 1</p>
 </td>
 <td width="8%">
-<p>Upper</p>
+<p>Lower</p>
+</td>
+</tr>
+	<tr>
+<td width="53%">
+<p>Jaylen Lee Si Xuan</p>
+</td>
+<td width="8%">
+<p>2F</p>
+</td>
+<td width="29%">
+<p>Vice-President 2</p>
+</td>
+<td width="8%">
+<p>Lower</p>
 </td>
 </tr>
 <tr>
 <td width="53%">
-<p>Zhong Dingxun, Tyler</p>
+<p>Nur Syazana Binte Safie</p>
 </td>
-<td width="8%">&nbsp;</td>
+<td width="8%">
+<p>2G</p>
+</td>
 <td width="29%">
 <p>Lower Sec Head 1</p>
 </td>
@@ -137,9 +153,11 @@ third_nav_title: Clubs And Society
 </tr>
 <tr>
 <td width="53%">
-<p>Marissa Leyanne Sithan</p>
+<p>Nur Athirah Binte Mohammad Omar</p>
 </td>
-<td width="8%">&nbsp;</td>
+<td width="8%">
+<p>2G</p>
+</td>
 <td width="29%">
 <p>Lower Sec Head 2</p>
 </td>
