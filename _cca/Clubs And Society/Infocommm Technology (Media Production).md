@@ -25,8 +25,14 @@ third_nav_title: Clubs And Society
 </tbody>
 </table>
 <p>We also give students the chance to handle high-end equipment such as DSLR cameras to assist in club activities and to cover school events both internally and outside of school such as Singapore Youth Festival and Canon Youth Photography Challenge. Students can gain valuable experience and develop their ownership, leadership skill and responsibility by volunteering for duties during these school events. We will further expand our students’ repertoire of skills to include journalistic interviews, live streaming, photo and video editing.</p>
-<img style="width: 60%;" src="/images/itmp4.jpg">
-<p style="text-align: center;"><em>Jolene Chua’s portrait entry in Canon Youth Photography Competition 2021 clinched her the 1<sup class="">st</sup>&nbsp;prize in the Secondary School category.</em></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/picture6.jpg"></td>
+<td style="width: 57%;"><img src="/images/picture7.jpg"></td>
+</tr>
+</tbody>
+</table>
 <img style="width: 90%;" src="/images/itmp5.jpg">
 <p style="text-align: center;"><em>Photographic works by Noor Danish and Fatimah were selected and showcased for Singapore Youth Festival’s Pixel Perfect 2022 Showcase</em></p>
 <p><strong>Programmes and Activities</strong></p>
