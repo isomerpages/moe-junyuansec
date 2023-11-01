@@ -306,47 +306,8 @@ third_nav_title: Clubs And Society
 </td>
 </tr>
 <tr><td width="53%">
-<p><strong>CCA Leaders (Welfare &amp; Logistics)</strong></p>
-</td>
-<td width="8%">
-<p><strong>Class</strong></p>
-</td>
-<td width="29%">
-<p><strong>Position</strong></p>
-</td>
-<td width="8%">
-<p><strong>Level</strong></p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Charlene Tan Si Min</p>
-</td>
-<td width="8%">
-<p>4E3</p>
-</td>
-<td width="29%">
-<p>Head</p>
-</td>
-<td width="8%">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Allysa Syaqira Binte Mohamed Sharil</p>
-</td>
-<td width="8%">
-<p>4N3</p>
-</td>
-<td width="29%">
-<p>Vice-Head</p>
-</td>
-<td width="8%">
-<p>Upper</p>
-</td>
-</tr>
-</tbody>
+
+</td></tr></tbody>
 </table>
 <p><strong>Awards/Achievements</strong></p>
 <p><strong><u>2022<br></u></strong>(a) Our Schools, Our Stories Photo Contest 2022 – Certificate of Participation<br>(b)&nbsp;Singapore Youth Festival’s Pixel Perfect Showcase: Noor Danish Haziq and Fatimah Tuzzahrah<br>(c)&nbsp;Thank You NSMen Video competition 2022 – Certificate of Participation<br>(d) Pinnacle Photo Competition 2022: Beneath the Surface – Certificate of Participation</p>
