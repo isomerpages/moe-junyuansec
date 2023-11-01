@@ -5,17 +5,26 @@ description: ""
 third_nav_title: Clubs And Society
 ---
 <img style="width: 70%;" src="/images/itmp1.jpg">
+
 <p><strong>Focus and Purpose</strong></p>
-<p>Through this CCA, we hope to ignite a passion for photography, videography as well as technical aspects of the media, by engaging students in workshops and activities which will educate, train and guide them in the acquisition of technical skills, and to provide experiential opportunities to exercise what they have learnt in external photography and videography competitions to gain greater exposure.&nbsp;</p>
+<p>Through this CCA, we aim to groom competent and confident CCA leaders as we ignite a passion for photography and videography in them, as well as the acquisition of technical knowledge of the media mediums, by engaging students in workshops and activities which will educate, train and guide them, and to provide experiential opportunities to exercise what they have learnt in external photography and videography competitions to gain greater exposure.</p>
+&lt;
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 43%;"><img src="/images/itmp2.jpg"></td>
-<td style="width: 57%;"><img src="/images/itmp3.jpg"></td>
+<td style="width: 50%;"><img src="/images/picture2e.jpg"></td>
+<td style="width: 57%;"><img src="/images/picture3g.jpg"></td></tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/files/picture4.jpg"></td>
+<td style="width: 57%;"><img src="/images/picture5.jpg"></td>
 </tr>
 </tbody>
 </table>
-<p>We also give students the chance to handle high-end equipment such as DSLR cameras to assist in club activities and to cover school events both internally and outside of school such as Singapore Youth Festival and Canon Photomarathon. Students can gain valuable experience and develop their ownership, leadership skill and responsibility by volunteering for duties during these school events. We will further expand our students’ repertoire of skills to include journalistic interviews, live streaming, photo and video editing.</p>
+<p>We also give students the chance to handle high-end equipment such as DSLR cameras to assist in club activities and to cover school events both internally and outside of school such as Singapore Youth Festival and Canon Youth Photography Challenge. Students can gain valuable experience and develop their ownership, leadership skill and responsibility by volunteering for duties during these school events. We will further expand our students’ repertoire of skills to include journalistic interviews, live streaming, photo and video editing.</p>
 <img style="width: 60%;" src="/images/itmp4.jpg">
 <p style="text-align: center;"><em>Jolene Chua’s portrait entry in Canon Youth Photography Competition 2021 clinched her the 1<sup class="">st</sup>&nbsp;prize in the Secondary School category.</em></p>
 <img style="width: 90%;" src="/images/itmp5.jpg">
@@ -305,9 +314,10 @@ third_nav_title: Clubs And Society
 <p>Lower</p>
 </td>
 </tr>
-<tr><td width="53%">
-
+<tr><td width="53%"><br>
+<img style="width:100%;" src="/images/picture1j.jpg">
 </td></tr></tbody>
+
 </table>
 <p><strong>Awards/Achievements</strong></p>
 <p><strong><u>2023<br></u></strong>(a) Our Schools, Our Stories Photo Contest 2023 – Certificate of Participation<br>(b) Thank You NSMen Video Competition 2023 - Certificate of Participation<br>(c) Canon Youth Photography Challenge 2023
