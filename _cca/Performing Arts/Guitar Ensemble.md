@@ -11,7 +11,7 @@ third_nav_title: Performing Arts
 <p><strong>Teachers-In-Charge<br></strong>1. Mdm Razmirah<br>2. Mdm Seah Mei Ping</p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday (3 – 5 pm)<br>Learning Hub 1</p>
 <p><strong>CCA Leaders (Year 2023)<br></strong>President (Upper Sec): Tan Lexin (3D, 2023)<br>Vice-President (Upper Sec): Ten Shuai Rong, Davien (3G, 2023)<br>President (Lower Sec): Phuah Xiang Ting Paige (2F, 2023)<br>Vice-President (Lower Sec): Trajico Sofia Alecz Antonio (2G, 2023)</p>
-<p><strong>Awards &amp; Achievements</strong></p>
+<p><strong>2023 Accomplishment </strong></p>
 <p>SYF Arts Presentation Achievements:</p>
 <table>
 <tbody>
@@ -36,14 +36,18 @@ third_nav_title: Performing Arts
 <p>Other Achievements / Performances:<br>(a) JYSS Soiree Performance (2018) @ Our Tampines Hub<br>(b) Arts of Healing Performance (2017) @ Tan Tock Seng Hospital<br>(c) In Youthful Company Performance (2016) @ Esplanade</p>
 <hr>
 <p><strong>Our Journey</strong></p>
-<p style="text-align: center;"><strong>Highlights of our Guitar CCA</strong></p>
-<iframe width="617" height="346" src="https://www.youtube.com/embed/Uapi72z2WoA" title="JYSS Guitar Ensemble  2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p><em>“I love being in Guitar CCA as it has taught me various skills such as reading chords as well as guitar fingering. Above all, I feel at ease when I play the guitar as it allows me to express myself. Being a Logistic IC has also developed my leadership skills. I feel blessed being in Guitar Ensemble as it is very fun!”</em></p>
-<p style="text-align: right;">–&nbsp;Nurul Haziqah Binte Kamsan (4N2, 2021)</p>
+<p style="text-align: right;">–Nurul Haziqah Binte Kamsan (Alumni)</p>
 <p><em>“As someone who has zero knowledge on guitar and scores, being in Guitar Ensemble has allowed me to learn many new things that I have not encountered such as reading the guitar scores, playing some music from the instrument itself and knowing the basics of guitar. For the past 3-4 years, I have grown to love this CCA as there are so many wonderful people around. Its the teachers in charge, Mr Eugene Lee, and my fellow mates and close friends I made in this CCA who made Guitar Ensemble more fun and interesting. Guitar is useful to me because it is another talent added in the list as I am someone who think that I have no talent. I think it has helped me to love music more and has given me the chance to play songs that I love. You might even meet lifetime bestfriends here in the CCA just like me!”</em></p>
 <p style="text-align: right;">– Koh Jie Ying (Alumni)</p>
 <p><em>“I love to learn more about music through classical guitar. Someone once told me that the Guitar provides an orchestral setting similar to that of no other instrument, and I truly believe in this. Playing the Guitar gives me a very unique and pure form of joy in my life. The strong emphasis on the value of leadership skills learnt during my secondary school days have also helped me to become the President of SMU Guitarissimo and aided me greatly in the day-to-day running of the club. I believe in sharing more about the Guitar and instilling the belief in others that leaders are not born, but shaped when growing up. This is why I have decided to help at my alma mater, to inspire juniors to lead well and to continue pursuing their passion in Guitar.”</em></p>
 <p style="text-align: right;">–&nbsp;Wijaya Willian Ong (Alumni)</p>
+
+<strong> Highlights in 2023 </strong><br>
+<p style="text-align: center;"><strong>SYF 2023</strong></p>
+<img src="/images/syf%202023%20-%201.jpg"><br>
+<img src="/images/syf%202023%20-%202.jpg">
+
 <p style="text-align: center;"><strong>Our SYF Journey (2021)</strong></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XdzxYKNo-q4" title="Guitar (SYF Journey)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p style="text-align: center;"><strong>Singapore Youth Festival 2019</strong></p>
