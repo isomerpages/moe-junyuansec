@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<img style="width: 80%;" src="/images/b1.jpg">
+<img style="width: 100%;" src="/images/1dfwsfgwrg.jpg">
 <p><strong>Motto<br></strong>"Sure and Steadfast"</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesday (3 pm to 5.00 pm), alternate Saturday (8.45 am to 12 pm)<br>School Parade Square / Classroom C1-03</p>
 <p><strong>Teachers-in-Charge<br></strong>1. Mr Ang Kuang Soon<br>2. Mdm Ng Sui Lin</p>
