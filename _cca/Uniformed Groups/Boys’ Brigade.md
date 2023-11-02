@@ -66,9 +66,10 @@ third_nav_title: Uniformed Groups
 <hr>
 <p><strong>Our Journey</strong></p>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
-<p style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/34xf0PK1UtY&amp;t=10s" height="315" width="560"></iframe></p>
+<p style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/34xf0PK1UtY?si=rKm9Wh3kT4fPx2mk" height="315" width="560"></iframe></p>
+
 <p style="text-align: center;"><strong>Our CCA Experiences</strong></p>
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/7WOn5YcCEp0" title="Boys Brigade (My CCA Journey)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/7WOn5YcCEp0" title="Boys Brigade (My CCA Journey)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen=""></iframe></p>
 
 <h4><strong>Our Experience</strong></h4>
 
