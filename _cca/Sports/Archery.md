@@ -26,10 +26,17 @@ third_nav_title: Sports
 <img src="/images/1ffyhfht.jpg"><br>
 <img src="/images/2archery.jpg"><br>
 <img src="/images/3archery.jpg"><br>
+<img src="/images/3archery1.jpg"><br>
 <img src="/images/4archery.jpg"><br>
-<table width="720">
+<strong>Medalists for 12th National Inter School Archery Championships 2023</strong><img src="/images/img_0001.JPG"><br><img src="/images/img_0013.JPG"><br><img src="/images/img_0058e.jpg"><br><table width="720">
 <tbody>
 <tr>
+
+	
+
+
+
+	
 <td style="text-align: center;" width="117">&nbsp;</td>
 <td style="text-align: center;" width="119">
 <p><strong>2015</strong></p>
@@ -129,7 +136,7 @@ third_nav_title: Sports
 </tr>
 </tbody>
 </table>
-<p><em>Overall Championship Title for schools for 2020 – 2022 were not given out in the National Inter School Archery Championships.</em></p>
+<p><em>Overall Championship Title for schools for 2020 – 2023 were not given out in the National Inter School Archery Championships.</em></p>
 <hr>
 <p><strong>Our Journey</strong></p>
 <p style="text-align: center;"><strong>Alumni’s Success Story</strong></p>
