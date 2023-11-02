@@ -69,7 +69,17 @@ third_nav_title: Uniformed Groups
 <p style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/34xf0PK1UtY&amp;t=10s" height="315" width="560"></iframe></p>
 <p style="text-align: center;"><strong>Our CCA Experiences</strong></p>
 <p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/7WOn5YcCEp0" title="Boys Brigade (My CCA Journey)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
 <h4><strong>Our Experience</strong></h4>
+
+<img style="width: 70%;" src="/images/2efaefqefqe.jpg">
+<p style="text-align: center;"><em>2023 BB Adventure Camp [Pit stop at Botanic Gardens]</em></p>
+<img style="width: 70%;" src="/images/3dfdfd.jpg">
+<p style="text-align: center;"><em>2023 BB Adventure Camp [Lunch break in the middle of our 20km trek]</em></p>
+<img style="width: 70%;" src="/images/4sdfsdfs.jpg">
+<p style="text-align: center;"><em>2023 BB Kayaking @ Marina Reservoir [Out in the sun and sea to achieve our 1-Star Kayaking]</em></p>
+<img style="width: 70%;" src="/images/5ddddd.jpg">
+<p style="text-align: center;"><em>2023 BB Fun Camp [Laser Tag against the Girls Brigade]</em></p>
 <img style="width: 70%;" src="/images/b2.jpg">
 <p style="text-align: center;"><em>2022 BB Adventure CTC @ Punggol Park [Out for a hike &amp; some sun!]</em></p>
 <img style="width: 70%;" src="/images/b3.jpg">
