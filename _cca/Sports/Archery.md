@@ -26,7 +26,6 @@ third_nav_title: Sports
 <img src="/images/1ffyhfht.jpg"><br>
 <img src="/images/2archery.jpg"><br>
 <img src="/images/3archery.jpg"><br>
-<img src="/images/3archery1.jpg"><br>
 <img src="/images/4archery.jpg"><br>
 <table width="720">
 <tbody>
