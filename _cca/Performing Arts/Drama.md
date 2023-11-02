@@ -20,6 +20,7 @@ third_nav_title: Performing Arts
 <th style="text-align: center;">2017</th>
 <th style="text-align: center;">2019</th>
 <th style="text-align: center;">2021</th>
+<th style="text-align: center;">2023</th>
 </tr>
 <tr>
 <td style="text-align: center;">Certificates Obtained</td>
@@ -28,6 +29,7 @@ third_nav_title: Performing Arts
 <td style="text-align: center;">Accomplishment</td>
 <td style="text-align: center;">Commendation</td>
 <td style="text-align: center;">Team A: Accomplishment Team<br>B: Commendation</td>
+	<td style="text-align: center;">Team A: Accomplishment Team<br>B: Commendation</td>
 </tr>
 </tbody>
 </table>
