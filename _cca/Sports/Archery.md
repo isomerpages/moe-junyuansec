@@ -22,14 +22,13 @@ third_nav_title: Sports
 
 <p><strong>CCA Leaders:<br></strong>Upper Sec (Year 2023)<br>1. Captain: Andin Risdany Yurisno (4E4)<br>2. Vice-Captain: Chiang Zhi Lin (4E4)<br>3. Vice-Captain: Kou Yong Yu, Rochelle (4E2)</p>
 
-<p><strong>Awards/Achievements<br></strong>11th National Inter School Archery Championships 2022</p>
-<img src="/images/arc1.jpg"><br>
-<img src="/images/arc2.jpg"><br>
-<img src="/images/arc3.jpg"><br>
-<img src="/images/arc4.jpg"><br>
-<img src="/images/arc5.jpg"><br>
-<img src="/images/arc6.jpg">
-<table width="718">
+<p><strong>Awards/Achievements<br></strong>12th National Inter School Archery Championships 2023</p>
+<img src="/images/1ffyhfht.jpg"><br>
+<img src="/images/2archery.jpg"><br>
+<img src="/images/3archery.jpg"><br>
+<img src="/images/3archery1.jpg"><br>
+<img src="/images/4archery.jpg"><br>
+<table width="720">
 <tbody>
 <tr>
 <td style="text-align: center;" width="117">&nbsp;</td>
