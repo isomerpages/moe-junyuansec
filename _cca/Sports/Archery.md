@@ -28,15 +28,11 @@ third_nav_title: Sports
 <img src="/images/3archery.jpg"><br>
 <img src="/images/3archery1.jpg"><br>
 <img src="/images/4archery.jpg"><br>
-<strong>Medalists for 12th National Inter School Archery Championships 2023</strong><img src="/images/img_0001.JPG"><br><img src="/images/img_0013.JPG"><br><img src="/images/img_0058e.jpg"><br><table width="720">
+<strong>Medalists for 12th National Inter School Archery Championships 2023</strong><br>
+<br><img src="/images/img_0001.JPG"><br><img src="/images/img_0013.JPG"><br><img src="/images/img_0058e.jpg"><br><table width="720">
 <tbody>
 <tr>
 
-	
-
-
-
-	
 <td style="text-align: center;" width="117">&nbsp;</td>
 <td style="text-align: center;" width="119">
 <p><strong>2015</strong></p>
