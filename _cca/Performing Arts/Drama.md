@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 <p><strong>CCA Timings &amp; CCA Venue<br></strong>Every Thursday (3.00 pm to 5.00 pm)<br>Dramatics Drama room (Level 2)</p>
 <p><strong>Teachers-in-Charge<br></strong>1. Mr David Daniel Cheong<br>2. Ms Tan Cheng Ying</p>
 <p><strong>CCA Leaders (Year 2023)<br></strong>Upper Secondary<br>1. President: Livia Rianti Binte Roseman<br>2. Vice President: Chow Wan Xuan<br>3. Vice President: Toh Jia Wen Chermaine</p>
-<p>Lower Secondary<br>1. Chairperson: Imaan Elisha Binte Azli<br>2. Vice- Chairperson: Nur Qistina Diyanah Binte</p>
+<img style="width: 100%;" src="/images/picture14f.jpg">
 <p><strong>Awards/Achievements</strong></p>
 <p>SYF Arts Presentation Achievements:</p>
 <table>
