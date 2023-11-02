@@ -109,4 +109,4 @@ third_nav_title: Uniformed Groups
 </tr>
 </tbody>
 </table><p style="text-align: center;"><em>2022 BB @ CCA Fair for Secondary 1 students [Looking on the seniors building a basha &amp; playing with nerf!]</em></p>
-<h4 style="text-align: center;"><strong>“Without sacrifice, there is no victory.”<br>-Esmond Low (CSM, 2022)</strong></h4>
+<h4 style="text-align: center;"><strong>“Believe in yourself even when others do not.”<br>-Jerome Chin (CSM, 2022)</strong></h4>
