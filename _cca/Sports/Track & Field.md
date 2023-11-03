@@ -30,6 +30,10 @@ variant: markdown
 <p>National School Games</p>
 </td>
 <td style="text-align: center;" width="386">
+<p>Year 2023: 4x100 Semi Finals (C Boys, B Boys, C Girls, B Girls)</p>
+<p>Year 2023: C Boys 800m Finals - 9th placing (Leroy Lye Cheng How, 2G)</p>
+<p>Year 2023: B Boys 200m Semi-finals (Ian Tan, 4E4)</p>
+<p>Year 2023: C Girls 200m Semi-finals (Alisha Poe Myitzu Aung, 2F)</p>
 <p>Year 2022: 4x100 - Semi Finals ( B Boys, B Girls)</p>
 <p>Year 2019: B Boys Long Jump - 13<sup>th</sup>&nbsp;placing (Irfan Zamir, 3E2)</p>
 <p>Year 2019: B Boys 100m - Semi-Finals (Irfan Zamir, 3E2)</p>
