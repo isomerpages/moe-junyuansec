@@ -47,6 +47,9 @@ third_nav_title: Performing Arts
 <p style="text-align: center;"><strong>SYF 2023</strong></p>
 <img src="/images/syf%202023%20-%201.jpg"><br>
 <img src="/images/syf%202023%20-%202.jpg">
+<p style="text-align: center;"><strong>CCA Bonding 2023</strong></p>
+<img src="/images/cca%20bonding%202023%20-%201.jpg"><br>
+<img src="/images/cca%20bonding%202023%20-%202.jpg">
 
 <p style="text-align: center;"><strong>Our SYF Journey (2021)</strong></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XdzxYKNo-q4" title="Guitar (SYF Journey)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
