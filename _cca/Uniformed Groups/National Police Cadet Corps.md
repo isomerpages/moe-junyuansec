@@ -12,7 +12,7 @@ third_nav_title: Uniformed Groups
 <p><strong>CCA Leaders (Year 2024)<br></strong>1. Chairperson: SGT Heng Teng Xian Toby (4B)<br>2. Deputy Chairperson: SGT Nur Afiqah Awfiyah binte Mohammed (4H)</p>
 
 <p><strong>Organizational Chart</strong></p>
-<img src="/images/npccrr.jpg">
+<img style="width: 70%;" src="/images/npccrr.jpg">
 
 <p><strong>Awards/Achievements</strong></p>
 <p>Unit Overall Proficiency Award:</p>
@@ -20,32 +20,33 @@ third_nav_title: Uniformed Groups
 <tbody>
 <tr>
 <th style="text-align: center;">Year</th>
-<th style="text-align: center;">2013</th>
+
 <th style="text-align: center;">2014</th>
 <th style="text-align: center;">2015</th>
 <th style="text-align: center;">2016</th>
 <th style="text-align: center;">2017</th>
+	<th style="text-align: center;">2018</th>
 </tr>
 <tr>
 <td style="text-align: center;">Achievement</td>
+<td style="text-align: center;">GOLD</td>
+<td style="text-align: center;">GOLD</td>
 <td style="text-align: center;">SILVER</td>
-<td style="text-align: center;">GOLD</td>
-<td style="text-align: center;">GOLD</td>
 <td style="text-align: center;">SILVER</td>
 <td style="text-align: center;">SILVER</td>
 </tr>
 <tr>
 <th style="text-align: center;">Year</th>
-<th style="text-align: center;">2018</th>
 <th style="text-align: center;">2019</th>
 <th style="text-align: center;">2020</th>
 <th style="text-align: center;">2021</th>
 <th style="text-align: center;">2022</th>
+	<th style="text-align: center;">2023</th>
 </tr>
 <tr>
 <td style="text-align: center;">Achievement</td>
 <td style="text-align: center;">SILVER</td>
-<td style="text-align: center;">SILVER</td>
+<td style="text-align: center;">GOLD</td>
 <td style="text-align: center;">GOLD</td>
 <td style="text-align: center;">GOLD</td>
 <td style="text-align: center;">GOLD</td>
@@ -56,16 +57,16 @@ third_nav_title: Uniformed Groups
 <p><strong>Our Journey</strong></p>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
 <iframe width="642" height="361" src="https://www.youtube.com/embed/DVOV4fgdJzo" title="JYSS NPCC 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p style="text-align: center;"><em>"Discipline and Resilience are the key to becoming good servants of the country"&nbsp;</em>- Mr Loh Chee Teng<br><em>"Leaders with characters and values"&nbsp;</em>- Ms Siti Syafiqaah Bte Wahid<br><em>"The cadets to strive to be the best in whatever they set to do"&nbsp;</em>- Mr Low Kia Sin</p>
-<p style="text-align: center;">&nbsp;<strong>Interview with our Student Leaders</strong></p>
+<p style="text-align: center;"><em>"Discipline and Resilience are the key to becoming good servants of the country"&nbsp;</em><br>- Mr Loh Chee Teng<br><em>"Leaders with characters and values"&nbsp;</em>- Ms Siti Syafiqaah Bte Wahid<br>
+</p><p style="text-align: center;">&nbsp;<strong>Interview with our Student Leaders</strong></p>
 <iframe width="643" height="361" src="https://www.youtube.com/embed/uW2G5ePjzb8" title="NPCC (Interview with Student Leaders)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
-<img style="width: 60%;" src="/images/npcc1.jpg"><br>
-<img style="width: 50%;" src="/images/npcc2.jpg">
+<img style="width: 80%;" src="/images/npcc1.jpg"><br>
+<img style="width: 80%;" src="/images/npcc2.jpg">
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 60%;"><img src="/images/npcc3.jpg"></td>
-<td style="width: 40%;"><img src="/images/npcc4.jpg"></td>
+<td style="width: 60%;"><img src="/images/npcc4.jpg"></td>
 </tr>
 </tbody>
 </table>
