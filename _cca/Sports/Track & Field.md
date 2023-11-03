@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Sports
 variant: markdown
 ---
-<p><strong>Faster, Higher, Stronger</strong></p>
-<p>Track and Field is for you to go beyond your limits, To build a healthy body,mind and a resilient athlete with respect for sportsmanship. It is to build bonds with your fellow CCA-mates. We always go for competitions, better ourselves and immerse ourselves in the competitiveness between schools or others.<br><br>
-	<strong>Plans for CCA<br></strong>- Finals to individual and relay events<br>- For members to achieve their personal best<br>- Greater Unity and Team spirit</p>
+<p><strong>Motto: Faster, Higher, Stronger</strong></p>
+<p>Go beyond your limits. Build a healthy body and mind. Become a resilient athlete with respect for sportsmanship. Build lasting bonds through training hard with your fellow teammates. Go for competitions and strive to be better through competing with others. Become a faster, higher and stronger version of yourself!<br><br>
+	<strong>CCA Targets<br></strong>- Aim for finals in individual and relay events<br>- Achieve personal bests<br>- Foster unity through team spirit</p>
 <p><strong>CCA Schedule<br></strong>Every Tuesday and Thursday<br>3 pm – 5 pm (school training) or 3.30 pm - 5.30 pm (external training at Bedok Stadium / Bedok Reservoir / Tampines Hub)</p>
 
 <p><strong>Teachers-in-charge<br></strong>1. Mr Elkan Lam Tung Ying<br>2. Ms Suhailah<br>3. Mr Ng Kuan Shin</p>
@@ -68,4 +68,4 @@ variant: markdown
 <p>“<em>The will to win is important, but the will to prepare is vital</em>.” - Zenon ( Vice Captain ) - 3E2</p>
 <p>“<em>Once you’ve reached rock bottom, it’s your choice to stay down or get back up</em>. “ - Arfan ( Vice Captain ) - 3N1</p>
 <p>“<em>It’s okay to fall, just get back up and try again</em>.” - Emilia ( Captain ) - 3E1</p>
-<p>For more videos on our competition (2022), please click&nbsp;<a href="https://drive.google.com/drive/folders/1hSvi9YlfpxUihkOhPYX-CmD39z7SWuZq" target="_blank" rel="noopener"><u>here</u></a>.</p>
+<p>For more photos and videos on our competitions, please click <a href="https://go.gov.sg/jyss-track-media" target="_blank" rel="noopener"><u>here</u></a>.</p>
