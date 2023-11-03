@@ -55,8 +55,10 @@ variant: markdown
 </table>
 <p>Current School Records:&nbsp;<a href="https://go.gov.sg/jyss-track-records"><u>https://go.gov.sg/jyss-track-records</u></a></p>
 <hr>
+
 <p><strong>Our Journey</strong></p>
-<img style="width: 80%;" src="/images/tnf.jpg">
+<img style="width: 80%;" src="/images/tnf.jpg"><br>
+<img style="width: 100%;" src="/images/track%20team%20photo%202023.jpg">
 <p>"<em>We are not only looking for talented youths, but those who have the passion for running as well as to keep fit in general</em>." - Mr Elkan Lam (Teacher IC)</p>
 <p>"<em>You may not be the fastest runner in the world, but you can be the fastest you can be. So break your personal bests</em>!" - Ms Suhailah (Teacher IC)</p>
 <p>"<em>My CCA’s focus is to impart love of exercise and running; build a resilient athlete with respect for sportsmanship. My CCA is a sport which includes athletic contests established on the skills of running, jumping, and throwing. My CCA is not just about speed during training. It is more of our attitude and discipline. In my CCA I learnt that regular practice and self discipline is important, without which I cannot progress much in my skills. When I first joined my CCA I was really nervous and clueless as it was my first time joining track &amp; field. After a few months of training and with the guidance of my senior, I felt welcomed and encouraged to do well for my CCA. Although there were many ups and downs I managed to remain focused and determined to do well. Therefore I am really proud to be part of the track team</em>." - Batrisyia Fatini ( Ex-Captain) - 4N2, 2021</p>
