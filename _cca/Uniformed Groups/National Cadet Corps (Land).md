@@ -19,14 +19,18 @@ variant: markdown
 •	Live Range <br>
 •	Sports &amp; Games Competition <br>
 •	Orienteering Competition</p>
+
 <h4><strong>Motto</strong></h4>
 <p>To Serve with Pride and dedication</p>
 <h4><strong>CCA Schedule &amp; CCA venue</strong></h4>
 <p>Every Tuesdays (3:00pm - 5:30pm) and Thursdays<br>Parade Square/Classrooms</p>
+
 <h4><strong>Teachers-In-Charge</strong></h4>
-<p>1. Mr Kelvin Kim (Overall-in-charge)<br>2. Mr Twang Kwang Han<br>3. Ms Goh Ming Min<br>4. Ms Goh See Larc Eunice<br>5. Mdm Noor Khairin</p>
-<h4><strong>CCA Leaders (Year 2023)</strong></h4>
-<p>1. Unit Sergeant Major (CCA Chairperson): Peh Yu Xuan Herman (4E1)<br>2. Assistant Unit Sergeant Major (CCA Vice Chairperson): Tan Yoong Yao Zavier (4E1)</p>
+<p>1. Mr Kelvin Kim <br>2. Mr Twang Kwang Han<br>3. Ms Eunice Goh <br>4. Mdm Noor Khairin</p>
+
+<h4><strong>CCA Leaders (Year 2023/2024)</strong></h4>
+<p>1. Unit Sergeant Major (CCA Chairperson): <br>MSG Abdul Ra’uf Bin Ramlan (3B)<br>2. Assistant Unit Sergeant Major (CCA Vice Chairperson):<br> MSG Ahmad Syakir Bin Kassim (3F)</p>
+
 <h4><strong>Awards/Achievements</strong></h4>
 <p><strong>Unit Recognition Award:<br></strong></p>
 <table>
