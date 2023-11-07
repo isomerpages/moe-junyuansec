@@ -3,6 +3,7 @@ title: Archery
 permalink: /cca/sports/archery/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <p>Our Archery Club was started in 2009 with a small number of 27 Archers. Through the years, we have grown from strength to strength to an average of 80 Archers (Sec 1 – 5) annually. We have steadily climbed up the Archery scene as Archers to be reckoned with and our Archers have continually brought honour back to our school with trophies and medals won, on top of their rich experiences gained from the competitions.</p>
 <p>While Archery may be considered as an expensive sport, we do support our Archers with the equipment needed. We also strongly encourage them (not compulsory) to consider getting their own equipment once they advance to intermediate Archers, typically from Secondary Two onwards.</p>
@@ -29,10 +30,10 @@ third_nav_title: Sports
 <img src="/images/3archery1.jpg"><br>
 <img src="/images/4archery.jpg"><br>
 <strong>Medalists for 12th National Inter School Archery Championships 2023</strong><br>
+
 <br><img src="/images/img_0001.JPG"><br><img src="/images/img_0013.JPG"><br><img src="/images/img_0058e.jpg"><br><table width="720">
 <tbody>
 <tr>
-
 <td style="text-align: center;" width="117">&nbsp;</td>
 <td style="text-align: center;" width="119">
 <p><strong>2015</strong></p>
