@@ -114,6 +114,12 @@ variant: markdown
 <p>Throughout my time in the Infocomm CCA, I've gained insights into the realms of cyber security, robot construction, and programming. Additionally, I've had the pleasure of forming connections with like-minded peers who share my passions, further enhancing the enjoyment and engagement of my CCA experience.</p>
 <p><em>MUHAMMAD HADI / 3E / Upper Sec CCA Executive Committee</em></p>
 
+
+<img src="/images/infocomm.jpg">
+<img src="/images/infocomm2.jpg">
+<img src="/images/3fsfrwfqg.jpg">
+
+
 <h4><strong>Awards and Achievements:</strong></h4>
 <p><strong><u>2022<br></u></strong>(a) First Lego League (Participation)</p>
 <p><strong><u>2019<br></u></strong>(a) First Lego League (Participation)</p>
