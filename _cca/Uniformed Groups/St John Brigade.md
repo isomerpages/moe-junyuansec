@@ -80,5 +80,13 @@ For the Faith, For the Service of Humanity.
 <img style="width: 75%;" src="/images/image008.jpg">
 <p style="text-align: center;"><em>Group photo with Archery Trainers</em></p>
 
+<img style="width: 75%;" src="/images/image009.jpg">
+<p style="text-align: center;"><em>Farewell party for the Sec 4s</em></p>
+
+<img style="width: 75%;" src="/images/image010.jpg">
+<p style="text-align: center;"><em>District First Aid &amp; Home Nursing Competition</em></p>
+
+
+
 <p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
 <hr>
