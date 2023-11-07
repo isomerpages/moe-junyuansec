@@ -57,10 +57,8 @@ For the Faith, For the Service of Humanity.
 <hr>
 
 <h4><strong>Our Journey</strong></h4>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQev9lmeXPL5-Ib20muYIW2k3HTpdehF11Zw4dGtYrOzWtlv86rwiL1aaJNwBlLJ3yuDvezeQGlsoIl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
-<iframe width="599" height="336" src="https://www.youtube.com/embed/5EjVHZoj3WE" title="JYSS SJB 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p style="text-align: center;"><strong>Our CCA Experiences (through challenging times)</strong></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/84B9mMD3B2U" title="SJB (challenge during COVID)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
 
 <img style="width: 75%;" src="/images/image001.jpg">
 <p style="text-align: center;"><em>Sec 1 CCA Fair</em></p>
