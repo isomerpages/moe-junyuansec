@@ -104,7 +104,6 @@ variant: markdown
 <li><strong>Cybersecurity:</strong>Students will gain an understanding of cybersecurity and cyberthreats in the gaming industry and how to safeguard personal data in a game from cyberattacks.</li>
 </ul>
 
-<iframe width="496" height="372" src="https://www.youtube.com/embed/kUqr9699lFI" title="The Challenge Task 2022 (Jyss Team 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="text-align: center;"></iframe>
 <h4><strong>Testimonials from Present Leaders:</strong></h4>
 <p>Engaging in this CCA has been a highly enriching experience, fostering greater self-awareness and nurturing strong friendships. While there were occasional setbacks, the collaborative process of robot building and coding with my peers was enjoyable, emphasizing the importance of perseverance..</p>
 <p><em>MOHAMMED HANNAN NOOR / 3D / Vice-Chairperson</em></p>
