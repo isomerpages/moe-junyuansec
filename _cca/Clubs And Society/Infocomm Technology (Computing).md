@@ -114,17 +114,23 @@ variant: markdown
 <p>Throughout my time in the Infocomm CCA, I've gained insights into the realms of cyber security, robot construction, and programming. Additionally, I've had the pleasure of forming connections with like-minded peers who share my passions, further enhancing the enjoyment and engagement of my CCA experience.</p>
 <p><em>MUHAMMAD HADI / 3E / Upper Sec CCA Executive Committee</em></p>
 
+	
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><img src="/images/infocomm.jpg"></td>
+<td style="width: 35%;"><img src="/images/infocomm2.jpg"></td>
+<td style="width: 30%;"><img src="/images/3fsfrwfqg.jpg"></td>
+</tr>
+</tbody></table>
+<p><em>Team Bonding Activities</em></p>
 
-<img src="/images/infocomm.jpg">
-<img src="/images/infocomm2.jpg">
-<img src="/images/3fsfrwfqg.jpg">
-
-	<p><em>Team Bonding Activities</em></p>
-
+		
 <h4><strong>Awards and Achievements:</strong></h4>
-<p><strong><u>2022<br></u></strong>(a) First Lego League (Participation)</p>
-<p><strong><u>2019<br></u></strong>(a) First Lego League (Participation)</p>
-<p><strong><u>2018<br></u></strong>(a) First Lego League (Participation)<br>(b) National Coding Competition (Final)</p>
+<p><strong><u>2023<br></u></strong>National Youth Tech Championship (NYTC) 2023 (Participation) <br> First Lego League (Participation)</p>
+<p><strong><u>2022<br></u></strong>First Lego League (Participation)</p>
+<p><strong><u>2019<br></u></strong>First Lego League (Participation)</p>
+<p><strong><u>2018<br></u></strong>First Lego League (Participation)<br>National Coding Competition (Final)</p>
 <p><strong><u>2017<br></u></strong>National Coding Championship (Junior) - Darren Lim (3E1), Clif Ong (3E1) - 1st runner up</p>
 <p><strong><u>2016<br></u></strong>(a) Ace of Coders (Junior Category)&nbsp;<br>Team 1 - 1st Runner Up; Team 2 - 2nd Runner Up</p>
 <h4><strong>Highlights in our CCA</strong></h4>
