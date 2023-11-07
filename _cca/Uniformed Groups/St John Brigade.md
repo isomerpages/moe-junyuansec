@@ -86,7 +86,11 @@ For the Faith, For the Service of Humanity.
 <img style="width: 75%;" src="/images/image010.jpg">
 <p style="text-align: center;"><em>District First Aid &amp; Home Nursing Competition</em></p>
 
+<img style="width: 75%;" src="/images/image011.jpg">
+<p style="text-align: center;"><em>First Aiders on duty during Badminton Competition</em></p>
 
+<img style="width: 75%;" src="/images/image012.jpg">
+<p style="text-align: center;"><em>National Day Parade Contingent @ JYSS</em></p>
 
 <p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
 <hr>
