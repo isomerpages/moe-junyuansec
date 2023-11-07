@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /cca/performing-arts/guitar-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <p><em>Guitar in our Hands, Music in our Hearts</em></p>
 <p>Our Guitar Ensemble strives to make our members masters of the guitar. Playing as a cohesive ensemble, our members have fun learning to play classical guitar pieces as well as modern pop tunes to perfection. Students from our Guitar Ensemble are given ample opportunities to take part in competitions, perform in public and to attend guitar workshops and concerts.</p>
@@ -10,7 +11,7 @@ third_nav_title: Performing Arts
 <p>Guitar Ensemble CCA aims to inculcate confidence in students by exposing them to performances within school and in the community. While the ensemble strives to achieve the best during SYF events, the focus of our CCA is to instill joy in students in both competitive and non-competitive environments. Most importantly, our CCA hopes that the students will understand the value of community service via our yearly Values-in-Action performances.</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mdm Razmirah<br>2. Mdm Seah Mei Ping</p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday (3 – 5 pm)<br>Learning Hub 1</p>
-<p><strong>CCA Leaders (Year 2023)<br></strong>President (Upper Sec): Tan Lexin (3D, 2023)<br>Vice-President (Upper Sec): Ten Shuai Rong, Davien (3G, 2023)<br>President (Lower Sec): Phuah Xiang Ting Paige (2F, 2023)<br>Vice-President (Lower Sec): Trajico Sofia Alecz Antonio (2G, 2023)</p>
+<p><strong>CCA Leaders (Year 2024)<br></strong>President (Upper Sec): Tan Lexin (3D, 2023)<br>Vice-President (Upper Sec): Ten Shuai Rong, Davien (3G, 2023)<br>President (Lower Sec): Phuah Xiang Ting Paige (2F, 2023)<br>Vice-President (Lower Sec): Trajico Sofia Alecz Antonio (2G, 2023)</p>
 <p><strong>2023 Accomplishment </strong></p>
 <p>SYF Arts Presentation Achievements:</p>
 <table>
