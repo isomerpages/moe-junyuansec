@@ -96,22 +96,14 @@ variant: markdown
 <hr>
 <h4><strong>Our Journey</strong></h4>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
-<iframe width="655" height="368" src="https://www.youtube.com/embed/MvG9RjIqwrc" title="JYSS NCC 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMWvMZPidhye-32z9hViVz4gbX_Sxqun8JfqvfsFYteGrV-CXJz0s-Q4xJlK9V4A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 <p style="text-align: center;"><strong>CCA Experience (through challenging times)</strong></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnGSCl44Y-o" title="NCC (challenge during covid)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p style="text-align: center;">"Nothing is IMPOSSIBLE. The word itself says 'I'M POSSIBLE!"'<br><strong>-&nbsp;Mr Kelvin Kim</strong><em><strong>&nbsp;</strong><br></em><em>"A journey of a thousand miles begins with our choice to take a single step"<br></em><strong>- Ms Goh Ming Min&nbsp;</strong><br><em>“If everyone is moving forward together, success will take care of itself”<br></em><strong>&nbsp;- Ms Eunice Goh</strong><br><em>"Individually we are a drop, together we are an ocean"<br></em><strong>- Mdm Noor Khairin</strong></p>
-<img style="width: 50%;" src="/images/nccl1.jpg">
-<p style="text-align: center;"><em>Sports Competition 2021</em></p>
-<img style="width: 50%;" src="/images/nccl2.jpg">
-<p style="text-align: center;"><em>NCC Day 2021</em></p>
-<img style="width: 50%;" src="/images/nccl3.jpg">
-<p style="text-align: center;"><em>Laser Tag Activity</em></p>
-<img style="width: 50%;" src="/images/nccl4.jpg">
-<p style="text-align: center;"><em>Airsoft Shooting Activity</em></p>
+
+<p style="text-align: center;">"Nothing is IMPOSSIBLE. The word itself says 'I'M POSSIBLE!"'<br><strong>-&nbsp;Mr Kelvin Kim</strong><em><strong>&nbsp;</strong><br></em><em>“The hardest and biggest step is always the first. Try your best and forget the rest.”<br></em><strong>- Mr Twang</strong><br><em>“If everyone is moving forward together, success will take care of itself”<br></em><strong>&nbsp;- Ms Eunice Goh</strong><br><em>"Individually we are a drop, together we are an ocean"<br></em><strong>- Mdm Noor Khairin</strong></p>
+
 <hr><p>“People die if they’re killed.”<br><strong>- Herman (3E1, 2022)</strong></p>
 <p>“Never let the odds keep you from doing what you know in your heart as you're meant to do.”<br><strong>- Zavier (3E1, 2022)</strong></p>
-<p>“My journey as a NCC cadet was a rewarding experience. The experiences shaped me into who I am today and I will never forget the relationships and camaraderie forged with fellow cadets. NCC has provided me with many opportunities and it has helped me to step out of my comfort zone.”<br><strong>– Dex (4E1, 2021)</strong></p>
-<p>“My journey as a NCC cadet was a rewarding experience. The experiences shaped me into who I am today and I will never forget the relationships and camaraderie forged with fellow cadets. NCC has provided me with many opportunities and it has helped me to step out of my comfort zone.”<br><strong>– Dex (4E1, 2021)</strong></p>
-<p>“Through NCC, I’ve learnt the importance of teamwork and responsibility. I’ve opened up a lot more as there are always opportunities for me to lead and work with different people to archive a common goal.”<br><strong>- Ming Ern (4E4, 2021)</strong></p>
-<p>“NCC has taught me on resilience. I persevere in face of challenges and it definitely feels great with what I have achieved at the end of the training.”<br><strong>– Syakirah (4E3, 2021)</strong></p>
-<p>“NCC has given me numerous opportunities to step up and lead. I get to display values such self-discipline and initiative. NCC has also brought me closer to my fellow cadets, who slowly turned into my close friends today. Despite challenging trainings, it is encouraging and motivating when you realise that the motto, “Leave No Man Behind,” is actually what NCC is all about. No matter the challenge, nor the duration, we will always cross the finish line together!”<br><strong>– Irdina (4E4, 2021)</strong></p>
+
+<p>“I am very happy and fortunate to have chosen NCC as my CCA. NCC is more than just about the Army. There are many activities offered such as HQ camps, air rifle shooting, competitions and fun courses. Through NCC, I have gained values such as teamwork, courage and responsibility. As the USM of my CCA, it also gave me a chance to lead and change myself to become a better person physically and mentally.”<br><strong>– MSG Abdul Ra’uf</strong></p>
+<p>“I am grateful to be a part of Junyuan NCC during my secondary school years. NCC has taught me useful values and skills which includes responsibility, discipline, and confidence. I am also fortunate to have fellow cadets who have supported me in the CCA. After being appointed as the ASM of the CCA, I started to learn more things and grow as a leader. I have stepped out of my comfort zone to lead the unit and worked as a team player to achieve a common goal.”<br><strong>- MSG Ahmad Syakir</strong></p>
