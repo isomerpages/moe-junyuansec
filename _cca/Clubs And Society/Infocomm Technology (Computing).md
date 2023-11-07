@@ -105,18 +105,16 @@ variant: markdown
 </ul>
 
 <iframe width="496" height="372" src="https://www.youtube.com/embed/kUqr9699lFI" title="The Challenge Task 2022 (Jyss Team 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="text-align: center;"></iframe>
-<h4><strong>Testimonials from Past and Present Members/Leaders:</strong></h4>
-<p>“My time in this CCA was truly rewarding, I learned more about myself and my friends. This CCA strengthens our bonds and challenges us to tackle problems with everyone's help and improve ourselves over time”.</p>
-<p><em>Lim Cheng Rui, 3E1 (Chairperson, 2022)</em></p>
-<p>“We may have made mistakes, but in the end, we learnt from them and became better. I had an enjoyable experience with my peers making robots or making code. We learnt to never give up and to always persevere”.</p>
-<p><em>Muhammad Mirza, 3E3 (Chairperson, Robotics, 2022)</em></p>
-<p>"Tell me and I forget. Teach me and I remember. Involve me and I learn. Infocomm involved everyone to participate and learn and of course we make great friends along the way”.</p>
-<p><em>Jabez Teo, 3E3 (Chairperson, 2020)</em></p>
-<p>“I had an enjoyable experience in infocomm as my peers and i work together to build and code robots. We learnt to respect each other opinions during competition, appreciate team-members diversity”.</p>
-<p><em>Thom Low, 3E2 (Chairperson, Robotics, 2020)</em>“I have learned to be more confident when sharing ideas with my team members when trying to solve a problem”.</p>
-<p><em>Clara Wong, 2E1 (Chairperson, Lower Secondary 2020)</em></p>
-<p>“We learnt not only coding and robotics but also teamwork and leadership. In the Infocomm Club, we work in teams which allow us to bond with one another, conquering failures and celebrating success together”.</p>
-<p><em>Yang ShuHao, 2E4 (Vice-Chairperson, Lower Secondary 2020)</em></p>
+<h4><strong>Testimonials from Present Leaders:</strong></h4>
+<p>Engaging in this CCA has been a highly enriching experience, fostering greater self-awareness and nurturing strong friendships. While there were occasional setbacks, the collaborative process of robot building and coding with my peers was enjoyable, emphasizing the importance of perseverance..</p>
+<p><em>MOHAMMED HANNAN NOOR / 3D / Vice-Chairperson</em></p>
+<p>I relished my time in the Infocomm club, as it allowed me to acquire fresh skills like robotics and game development in the company of my peers. This experience strengthened the camaraderie among us, deepening our friendships.</p>
+<p><em>MUHAMMAD HANIF / 3D / Vice-Chairperson</em></p>
+<p>During my three years in the Infocomm Technology (CCA), I had an enjoyable experience. I gained greater confidence in expressing my thoughts and ideas in class. Throughout our time in this CCA, we participated in numerous team bonding activities that facilitated stronger connections among us and provided valuable opportunities for learning from each other.</p>
+<p><em>TEO SHAO YANG RICKEY / 3D / Vice-Chairperson</em></p>
+<p>Throughout my time in the Infocomm CCA, I've gained insights into the realms of cyber security, robot construction, and programming. Additionally, I've had the pleasure of forming connections with like-minded peers who share my passions, further enhancing the enjoyment and engagement of my CCA experience.</p>
+<p><em>MUHAMMAD HADI / 3E / Upper Sec CCA Executive Committee</em></p>
+
 <h4><strong>Awards and Achievements:</strong></h4>
 <p><strong><u>2022<br></u></strong>(a) First Lego League (Participation)</p>
 <p><strong><u>2019<br></u></strong>(a) First Lego League (Participation)</p>
