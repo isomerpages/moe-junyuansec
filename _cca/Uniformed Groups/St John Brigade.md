@@ -92,5 +92,14 @@ For the Faith, For the Service of Humanity.
 <img style="width: 75%;" src="/images/image012.jpg">
 <p style="text-align: center;"><em>National Day Parade Contingent @ JYSS</em></p>
 
+<img style="width: 75%;" src="/images/image013.jpg">
+<p style="text-align: center;"><em>Being part of SJB National Day Parade Contingent @ The Padang</em></p>
+
+<img style="width: 75%;" src="/images/image003.jpg">
+<p style="text-align: center;"><em>SJB JYSS Corp Photo with TICs</em></p>
+
+<img style="width: 75%;" src="/images/image004.jpg">
+<p style="text-align: center;"><em>SJB JYSS Corp Photo with Officers</em></p>
+
 <p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
 <hr>
