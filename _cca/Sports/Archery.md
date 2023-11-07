@@ -31,7 +31,9 @@ variant: markdown
 <img src="/images/4archery.jpg"><br>
 <strong>Medalists for 12th National Inter School Archery Championships 2023</strong><br>
 
-<br><img src="/images/img_0001.JPG"><br><img src="/images/img_0013.JPG"><br><img src="/images/img_0058e.jpg"><br><table width="720">
+<br><img src="/images/img_0001.JPG"><br><img src="/images/img_0013.JPG"><br><img src="/images/img_0058e.jpg"><br>
+
+<table width="720">
 <tbody>
 <tr>
 <td style="text-align: center;" width="117">&nbsp;</td>
@@ -133,6 +135,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
+
 <p><em>Overall Championship Title for schools for 2020 – 2023 were not given out in the National Inter School Archery Championships.</em></p>
 <hr>
 <p><strong>Our Journey</strong></p>
