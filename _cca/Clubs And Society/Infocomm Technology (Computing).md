@@ -92,24 +92,18 @@ variant: markdown
 <p>"To excite students about infocomm in a fun and meaningful way by helping them to learn new infocomm skills and to cultivate leadership."</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/itc5.png"></td>
-<td style="width: 50%;">
-<p style="text-align: center;">The picture is from learning journey to HeadRock Virtual Reality VR located at Sentosa Island, Infocomm Club learn all about VR and have fun playing interactive games. &nbsp;There will be more of these trips in the future.&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Our Purpose:</strong></h4>
-<p>Infocomm Club members allows members to practice developing specific technological skills. According to the ICM Learning Roadmap, students who are passionate about technology can pursue their interest in a range of functional domain areas, including Application Development, Cyber Security, Data Analytics and Robotics &amp; Makers. IMDA supports a range of training courses for Infocomm Club members who desire to advance their understanding of functional domains and proficiency in a specific functional domain.</p>
-<h4><strong>What we do:</strong></h4>
-<p>Students will also develop and apply their STEM skills in robotics coding competition, the First Lego League (FLL), where students design and program a&nbsp;LEGO®&nbsp;robot, and compete in exciting missions on a challenge task.</p>
+<p>Infocomm Technology members have the opportunity to hone their specialized technological skills. Following the ICM Learning Roadmap, students with a keen interest in technology can explore various functional domains such as Artificial Intelligence, Game Development and Cybersecurity. IMDA provides support for a variety of training courses to help Infocomm Technology members enhance their knowledge and proficiency in these specific functional domains.</p>
+<h4><strong>Infocomm Media Development Authority (IMDA) – LEARN Roadmap:</strong></h4>
+
 <ul>
-<li>Develop, evaluate, and modify their design ideas</li>
-<li>Learn about the concepts of input, process, and output and the importance of feedback in control systems</li>
-<li>See how complex systems break down into sub-systems</li>
+	<li><strong>Game Development: </strong>Students will gain an understanding of concepts such as game mechanics and storytelling. Students will also learn how to create a game design document, storyboard, create game environments, customise nonplayable characters (NPCs) as well as add randomisation, music and sounds into their games.</li>
+<li><strong>Artificial Intelligence:</strong>Students will gain an understanding of Machine Learning and AI concepts and work on applying these concepts through a project. Ethical and privacy issues relating to AI will also be discussed. The project work will include a simple machine learning model and computer vision.</li>
+<li><strong>Cybersecurity:</strong>Students will gain an understanding of cybersecurity and cyberthreats in the gaming industry and how to safeguard personal data in a game from cyberattacks.</li>
 </ul>
-<img style="width: 50%;" src="/images/itc6.png"><br>
+
 <iframe width="496" height="372" src="https://www.youtube.com/embed/kUqr9699lFI" title="The Challenge Task 2022 (Jyss Team 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="text-align: center;"></iframe>
 <h4><strong>Testimonials from Past and Present Members/Leaders:</strong></h4>
 <p>“My time in this CCA was truly rewarding, I learned more about myself and my friends. This CCA strengthens our bonds and challenges us to tackle problems with everyone's help and improve ourselves over time”.</p>
