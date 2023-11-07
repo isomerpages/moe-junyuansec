@@ -78,7 +78,7 @@ For the Faith, For the Service of Humanity.
 <p style="text-align: center;"><em>Archery Course</em></p>
 
 <img style="width: 75%;" src="/images/image008.jpg">
-<p style="text-align: center;"><em>Group photo with Archery Trainersy</em></p>
+<p style="text-align: center;"><em>Group photo with Archery Trainers</em></p>
 
 <p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
 <hr>
