@@ -119,6 +119,7 @@ variant: markdown
 <img src="/images/infocomm2.jpg">
 <img src="/images/3fsfrwfqg.jpg">
 
+	<p><em>Team Bonding Activities</em></p>
 
 <h4><strong>Awards and Achievements:</strong></h4>
 <p><strong><u>2022<br></u></strong>(a) First Lego League (Participation)</p>
