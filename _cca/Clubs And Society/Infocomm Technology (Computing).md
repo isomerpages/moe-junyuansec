@@ -134,6 +134,6 @@ variant: markdown
 <p><strong><u>2017<br></u></strong>National Coding Championship (Junior) - Darren Lim (3E1), Clif Ong (3E1) - 1st runner up</p>
 <p><strong><u>2016<br></u></strong>(a) Ace of Coders (Junior Category)&nbsp;<br>Team 1 - 1st Runner Up; Team 2 - 2nd Runner Up</p>
 <h4><strong>Highlights in our CCA</strong></h4>
-<p style="text-align: center;"><iframe title="Infocomm (highlights of CCA)" src="https://www.youtube.com/embed/cIfmwZZaTww" width="591" height="441" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cIfmwZZaTww?si=YJ69j3z_9HFem46E" height="315" width="560"></iframe>
 <iframe width="589" height="441" src="https://www.youtube.com/embed/BmR8c6PItMc" title="Infocomm Technology - Interview with Student Leaders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<iframe width="592" height="444" src="https://www.youtube.com/embed/yyyPVbAv_7I" title="Infocomm (interview with our leaders)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="592" height="444" src="https://www.youtube.com/embed/yyyPVbAv_7I" title="Infocomm (interview with our leaders)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
