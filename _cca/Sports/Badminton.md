@@ -18,13 +18,12 @@ third_nav_title: Sports
 <hr>
 
 <p><strong>Our Journey</strong></p>
-<p style="text-align: center;"><strong>B Div (28 March to 8 April)</strong></p>
-<img style="width: 80%;" src="/images/bad1.jpg">
-<p>“Don’t be the same, be better.”<br>- Tiffany (Girls Captain,2022)</p>
-<p>“Talent will get you far but hard work and determination will get you further.”<br>- Chloe (Girls Vice Captain,2022)</p>
-<img style="width: 80%;" src="/images/bad2.jpg">
-<p style="text-align: center;">Before the competition; doing some stroking</p>
-<img style="width: 80%;" src="/images/bad3.jpg">
-<p>"I don't count my push-ups: I only start counting when it starts hurting because they're the only ones that count!"<br>- Aloysius (Boys Captain,2022)</p>
-<p>“Give a man a fish and feed him for a day, teach a man how to fish and feed him forever.”<br>- Jonathan (Boys Vice Captain,2022)</p>
+<p style="text-align: center;"><strong></strong></p>
+
+<img style="width: 100%;" src="/images/img-20230709-wa0008.jpg"><br>
+<img style="width: 100%;" src="/images/56a82079.jpg"><br>
+<img style="width: 100%;" src="/images/a1b8a82c.jpg"><br>
+<img style="width: 100%;" src="/images/img_9262.JPG"><br>
+<img style="width: 60%;" src="/images/img_9746.JPG"><br>
+
 <p>To check out more about our CCA, click&nbsp;<a href="https://drive.google.com/drive/folders/1pvsi3vsOaX_YaCRv7U-cAJqhYG8gOBz9" target="_blank" rel="noopener"><u>here</u></a>.</p>
