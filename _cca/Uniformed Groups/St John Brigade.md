@@ -30,7 +30,7 @@ For the Faith, For the Service of Humanity.
 
 <p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia<br>2. Mdm Nur Aisha<br>3. Ms Nur Zahirah<br>4. Mr Yeo Jun Qiang</p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesdays (3 pm to 5 pm)<br>Thursdays / Saturdays (only if there are upcoming events)<br>Parade Square &amp; Classroom B1-01</p>
-<p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Loryn Loy (S3-H)<br>2. 3rd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)</p>
+<p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)<br>3. 3rd Overall IC: Loryn Loy (S3-H) </p>
 <p><strong>Awards/Achievements</strong></p>
 <p>Corps Achievement Awards:</p>
 <table>
@@ -68,8 +68,7 @@ For the Faith, For the Service of Humanity.
 <p>Other Achievements:<br>(a) First Aid and Home Nursing Competition (2019, 2018, 2017) - Silver<br>(b) First Aid and Home Nursing Competition (2023) Bronze</p>
 <p>For more information, you may refer to St John Brigade website:<a href="https://docs.google.com/presentation/d/1mL6nL3P_sCb4InBtj_fdUlHK9g7zNZ2vD0Zhndu6qtI/edit?usp=sharing"><u>Click here</u></a></p>
 <hr>
-<p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
-<hr>
+
 <h4><strong>Our Journey</strong></h4>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
 <iframe width="599" height="336" src="https://www.youtube.com/embed/5EjVHZoj3WE" title="JYSS SJB 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -110,3 +109,6 @@ For the Faith, For the Service of Humanity.
 <p style="text-align: center;"><em>First aid bandaging practice</em></p>
 <img style="width: 75%;" src="/images/sjab12.jpg">
 <p style="text-align: center;"><em>Lesson in action!</em></p>
+
+<p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
+<hr>
