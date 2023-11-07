@@ -12,8 +12,6 @@ St John’s Brigade (SJB) at Junyuan Secondary School integrates essential First
 #### <strong>SJB Motto</strong>
 For the Faith, For the Service of Humanity.
 	
-<img style="width: 80%;" src="/images/sjab1.jpg">
-	
 </p><p><strong>Our Programme</strong><br>All SJB cadets may look forward to receiving training and experiential learning in the following areas::<br>- First Aid &amp; Life Support<br>- Transportation of Casualties<br>- Cadet Proficiency Badges Scheme<br>- Home Nursing<br>- Foot Drill<br>- Leadership Courses</p>
 
 
