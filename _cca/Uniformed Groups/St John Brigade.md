@@ -13,7 +13,8 @@ St John’s Brigade (SJB) at Junyuan Secondary School integrates essential First
 For the Faith, For the Service of Humanity.
 	
 <img style="width: 80%;" src="/images/sjab1.jpg">
-</p><p><strong>Our Programme</strong><br>All St John Brigade members may look forward to receiving training and experiential learning in the following areas:<br>- First Aid &amp; Life Support<br>- Transportation of Casualties<br>- Cadet Proficiency Badges Scheme<br>- Home Nursing<br>- Foot Drill<br>- Leadership Courses</p>
+	
+</p><p><strong>Our Programme</strong><br>All SJB cadets may look forward to receiving training and experiential learning in the following areas::<br>- First Aid &amp; Life Support<br>- Transportation of Casualties<br>- Cadet Proficiency Badges Scheme<br>- Home Nursing<br>- Foot Drill<br>- Leadership Courses</p>
 
 <p><strong>First Aid &amp; Life Support </strong>consists of the full Basic First Aid and Adult First Aid certification syllabus, as well as CPR+AED and Basic Cardiac Life Support. All members are equipped with the foundational skills of First Aid, upon which further knowledge can be built through on-the-job training the Public Duties and further courses.</p>
 <p><strong>Home Nursing </strong>equips our members with the essential knowledge required to care for the sick and frail in the comfort of their own homes. Lessons will cover Hand Hygiene, Vital Signs Monitoring and Management, Wound Care, Administration of Medication, etc., which will ultimately culminate with the Basic Home Nursing certification.</p>
@@ -26,10 +27,10 @@ For the Faith, For the Service of Humanity.
 <p><strong>Leadership Courses</strong> in St John provides the opportunity for cadets to undergo at least two levels of leadership training during their time with us – the Basic and Advanced Non-Commissioned Officers’ Courses. Through these courses, the Cadets not only learn to manage their respective Corps, but also discover their own strength and leadership potential, and bring home values which will accompany them for the rest of their lives.</p>
 <p>Through St John, our members have grown to become resilient and compassionate leaders who are ready to contribute to their community. The St John Brigade community have a particularly strong group of alumni in the healthcare sector, who have continued to serve Singapore as doctors, nurses, and allied health professionals. Many of these healthcare professionals continue to volunteer with St John, sharing their passion with a future generation.</p>
 <p>Today, the birth of the St John’s movement has been more than 900 years. Our motto, “For the Service of Humanity”, reminds us of our mission to help the sick and injured regardless of nationality, status, race or religion. St John Brigade (SJB) aims to provide opportunities for our cadets to not only learn first aid and nursing skills, but also to equip them with important life skills to serve the community and our nation.</p>
-<p><strong>SJB Motto<br></strong>For the Faith, For the Service of Humanity</p>
+
 <p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia<br>2. Mdm Nur Aisha<br>3. Ms Nur Zahirah<br>4. Mr Yeo Jun Qiang</p>
-<p><strong>CCA Schedule and Venue<br></strong>Every Tuesdays (3 pm to 5 pm)<br>Thursdays / Saturdays (only if there are upcoming events)<br>Parade Square &amp; Classroom B2-02</p>
-<p><strong>CCA Leaders (Year 2023)<br></strong>1. Overall IC (OC):&nbsp;Cheryl Tan (4E2)<br>2. 2nd Overall IC (2IC): Danial Mikail (4E4)</p>
+<p><strong>CCA Schedule and Venue<br></strong>Every Tuesdays (3 pm to 5 pm)<br>Thursdays / Saturdays (only if there are upcoming events)<br>Parade Square &amp; Classroom B1-01</p>
+<p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Loryn Loy (S3-H)<br>2. 3rd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)</p>
 <p><strong>Awards/Achievements</strong></p>
 <p>Corps Achievement Awards:</p>
 <table>
@@ -64,7 +65,9 @@ For the Faith, For the Service of Humanity.
 </tr>
 </tbody>
 </table>
-<p>Other Achievements:<br>(a) First Aid and Home Nursing Competition (2019, 2018, 2017) - Silver<br>(b) SANA Ambassador Silver Project and Showcase (2018)</p>
+<p>Other Achievements:<br>(a) First Aid and Home Nursing Competition (2019, 2018, 2017) - Silver<br>(b) First Aid and Home Nursing Competition (2023) Bronze</p>
+<p>For more information, you may refer to St John Brigade website:<a href="https://docs.google.com/presentation/d/1mL6nL3P_sCb4InBtj_fdUlHK9g7zNZ2vD0Zhndu6qtI/edit?usp=sharing"><u>Click here</u></a></p>
+<hr>
 <p>For more information, you may refer to St John Brigade website&nbsp;<a href="https://stjohn.org.sg/"><u>https://stjohn.org.sg/</u></a></p>
 <hr>
 <h4><strong>Our Journey</strong></h4>
