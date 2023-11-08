@@ -10,7 +10,7 @@ variant: markdown
 	<strong>CCA Targets<br></strong>- Aim for finals in individual and relay events<br>- Achieve personal bests<br>- Foster unity through team spirit</p>
 <p><strong>CCA Schedule<br></strong>Every Tuesday and Thursday<br>3 pm – 5 pm (school training) or 3.30 pm - 5.30 pm (external training at Bedok Stadium / Bedok Reservoir / Tampines Hub)</p>
 
-<p><strong>Teachers-in-charge<br></strong>1. Mr Elkan Lam Tung Ying<br>2. Ms Suhailah<br>3. Mr Ng Kuan Shin</p>
+<p><strong>Teachers-in-charge<br></strong>1. Ms Suhailah<br>2.Mr Elkan Lam <br>3. Mr Ng Kuan Shin</p>
 
 <p><strong>CCA Leaders:<br></strong>Upper Sec (Year 2024)<br>1. Captain: Ashraf Bin Hanafi (4F)<br>2. Captain: Low Cheng Yi (4G)<br></p>
 
