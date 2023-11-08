@@ -8,7 +8,7 @@ variant: markdown
 <p>The mission of the National Police Cadet Corps is to develop cadets into active citizens and community leaders who are morally upright and law-abiding. Through structured and meaningful training programmes such as Police Youth Ambassador, Community Safety &amp; Security Programme and Crime Scene Investigation, Junyuan Secondary&nbsp;National Police Cadet Corps (NPCC) strives to inculcate core values such as discipline, loyalty,- tenacity and civic-consciousness in our cadets. In addition, camaraderie amongst the cadets is forged through competitions, activities, and parades that the unit participates in such as the Inter-Area Drill Competition, Inter-Area Shooting Competition, the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 <p><strong>Motto<br></strong>To develop cadets for the 21st century</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesdays and Thursdays (3 pm to 5 pm)<br>Parade Square / Classrooms</p>
-<p><strong>Teachers-in-Charge<br></strong>1. Ms Jolene Ng<br>2. Mr Loh Chee Teng<br>3. Ms Cheong Wei Yuen<br>4. Ms Siti Syafiqah</p>
+<p><strong>Teachers-in-Charge<br></strong>1. Ms Jolene Ng<br>2. Mr Loh Chee Teng<br>3. Ms Cheong Wei Yuen<br>4. Ms Siti Shafiqah</p>
 
 <p><strong>CCA Leaders (Year 2024)<br></strong>1. Chairperson: SGT Heng Teng Xian Toby (4B)<br>2. Deputy Chairperson: SGT Nur Afiqah Awfiyah binte Mohammed (4H)</p>
 
@@ -58,7 +58,7 @@ variant: markdown
 <p><strong>Our Journey</strong></p>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
 <iframe width="642" height="361" src="https://www.youtube.com/embed/DVOV4fgdJzo" title="JYSS NPCC 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<p style="text-align: center;"><em>"Discipline and Resilience are the key to becoming good servants of the country"&nbsp;</em><br>- Mr Loh Chee Teng<br><em>"Leaders with characters and values"</em>- Ms Siti Syafiqah Bte Walid<br><em>“Building core values of resilience and integrity in our cadets in their strive for excellence in the service to the organization and the community”</em>- Ms Jolene Ng<br>
+<p style="text-align: center;"><em>"Discipline and Resilience are the key to becoming good servants of the country"&nbsp;</em><br>- Mr Loh Chee Teng<br><em>"Leaders with characters and values"</em>- Ms Siti Shafiqah Bte Walid<br><em>“Building core values of resilience and integrity in our cadets in their strive for excellence in the service to the organization and the community”</em>- Ms Jolene Ng<br>
 	
 </p><p style="text-align: center;">&nbsp;<strong>Interview with our Student Leaders</strong></p>
 <iframe width="643" height="361" src="https://www.youtube.com/embed/uW2G5ePjzb8" title="NPCC (Interview with Student Leaders)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br>
