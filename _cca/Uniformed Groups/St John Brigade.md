@@ -16,7 +16,7 @@ For the Faith, For the Service of Humanity.
 <p><strong>Our Programme</strong><br>All SJB cadets may look forward to receiving training and experiential learning in the following areas::<br>- First Aid &amp; Life Support<br>- Transportation of Casualties<br>- Cadet Proficiency Badges Scheme<br>- Home Nursing<br>- Foot Drill<br>- Leadership Courses</p>
 
 
-<p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia<br>2. Mdm Nur Aisha<br>3. Ms Nur Zahirah<br>4. Mr Yeo Jun Qiang</p>
+<p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia<br>2. Mdm Nuraisha<br>3. Ms Nur Zahirah<br>4. Mr Yeo Jun Qiang</p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesdays (3 pm to 5 pm)<br>Thursdays / Saturdays (only if there are upcoming events)<br>Parade Square &amp; Classroom B1-01</p>
 <p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)<br>3. 3rd Overall IC: Loryn Loy (S3-H) </p>
 <p><strong>Awards/Achievements</strong></p>
