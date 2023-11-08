@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-### <p><strong>CCA Overview</strong>
+### <strong>CCA Overview</strong>
 	
 St John’s Brigade (SJB) at Junyuan Secondary School integrates essential First Aid and Home Nursing skills, community service, badge programmes, leadership development, and character-building activities. Through SJB, our cadets will grow to become resilient and compassionate leaders who are ready to contribute to their community.
 
 #### <strong>SJB Motto</strong>
 For the Faith, For the Service of Humanity.
-</p>
+
 
 <p><strong>Our Programme</strong><br>All SJB cadets may look forward to receiving training and experiential learning in the following areas::<br>- First Aid &amp; Life Support<br>- Transportation of Casualties<br>- Cadet Proficiency Badges Scheme<br>- Home Nursing<br>- Foot Drill<br>- Leadership Courses</p>
 
