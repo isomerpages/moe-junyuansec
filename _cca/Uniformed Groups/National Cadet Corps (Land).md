@@ -8,7 +8,7 @@ variant: markdown
 <h4><strong>CCA Overview</strong></h4>
 <p>The National Cadet Corps at Junyuan Secondary School aims to provide our students with opportunities to develop into resilient, disciplined, responsible and resourceful leaders.</p>
 
-<p>In NCC, our cadets are exposed to a wide range of activities both at school and HQ levels. Through these activities, the students develop and demonstrate the core values of NCC: Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility and Care for Fellow Cadets. 
+<p>In NCC, our cadets are exposed to a wide range of activities both at school and HQ levels. Through these activities, the students develop and demonstrate the core values of NCC: Loyalty to Country, Uprightness, Leadership, Discipline, Commitment and Responsibility and Care for Fellow Cadets. <br>
 	
 <strong>Key Programmes: </strong><br>
 •	CAMP FORGE (for Junior Cadets) <br>
@@ -96,14 +96,9 @@ variant: markdown
 <hr>
 <h4><strong>Our Journey</strong></h4>
 <p style="text-align: center;"><strong>Highlights of our CCA</strong></p>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMWvMZPidhye-32z9hViVz4gbX_Sxqun8JfqvfsFYteGrV-CXJz0s-Q4xJlK9V4A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p style="text-align: center;"><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMWvMZPidhye-32z9hViVz4gbX_Sxqun8JfqvfsFYteGrV-CXJz0s-Q4xJlK9V4A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<p style="text-align: center;"><strong>CCA Experience (through challenging times)</strong></p>
-
-<p style="text-align: center;">"Nothing is IMPOSSIBLE. The word itself says 'I'M POSSIBLE!"'<br><strong>-&nbsp;Mr Kelvin Kim</strong><em><strong>&nbsp;</strong><br></em><em>“The hardest and biggest step is always the first. Try your best and forget the rest.”<br></em><strong>- Mr Twang</strong><br><em>“If everyone is moving forward together, success will take care of itself”<br></em><strong>&nbsp;- Ms Eunice Goh</strong><br><em>"Individually we are a drop, together we are an ocean"<br></em><strong>- Mdm Noor Khairin</strong></p>
-
-<hr><p>“People die if they’re killed.”<br><strong>- Herman (3E1, 2022)</strong></p>
-<p>“Never let the odds keep you from doing what you know in your heart as you're meant to do.”<br><strong>- Zavier (3E1, 2022)</strong></p>
+</p><p style="text-align: center;">"Nothing is IMPOSSIBLE. The word itself says 'I'M POSSIBLE!"'<br><strong>-&nbsp;Mr Kelvin Kim</strong><em><strong>&nbsp;</strong><br></em><em>“The hardest and biggest step is always the first. Try your best and forget the rest.”<br></em><strong>- Mr Twang</strong><br><em>“If everyone is moving forward together, success will take care of itself”<br></em><strong>&nbsp;- Ms Eunice Goh</strong><br><em>"Individually we are a drop, together we are an ocean"<br></em><strong>- Mdm Noor Khairin</strong></p>
 
 <p>“I am very happy and fortunate to have chosen NCC as my CCA. NCC is more than just about the Army. There are many activities offered such as HQ camps, air rifle shooting, competitions and fun courses. Through NCC, I have gained values such as teamwork, courage and responsibility. As the USM of my CCA, it also gave me a chance to lead and change myself to become a better person physically and mentally.”<br><strong>– MSG Abdul Ra’uf</strong></p>
 <p>“I am grateful to be a part of Junyuan NCC during my secondary school years. NCC has taught me useful values and skills which includes responsibility, discipline, and confidence. I am also fortunate to have fellow cadets who have supported me in the CCA. After being appointed as the ASM of the CCA, I started to learn more things and grow as a leader. I have stepped out of my comfort zone to lead the unit and worked as a team player to achieve a common goal.”<br><strong>- MSG Ahmad Syakir</strong></p>

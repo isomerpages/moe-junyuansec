@@ -12,7 +12,7 @@ variant: markdown
 <p><strong>Teachers-In-Charge<br></strong>1. Mdm Razmirah<br>2. Mdm Seah Mei Ping</p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday (3 – 5 pm)<br>Learning Hub 1</p>
 <p><strong>CCA Leaders (Year 2024)<br></strong>President (Upper Sec): Tan Lexin (3D, 2023)<br>Vice-President (Upper Sec): Ten Shuai Rong, Davien (3G, 2023)<br>President (Lower Sec): Phuah Xiang Ting Paige (2F, 2023)<br>Vice-President (Lower Sec): Trajico Sofia Alecz Antonio (2G, 2023)</p>
-<p><strong>2023 Accomplishment </strong></p>
+<p><strong>Awards and Achievements </strong></p>
 <p>SYF Arts Presentation Achievements:</p>
 <table>
 <tbody>
@@ -22,7 +22,8 @@ variant: markdown
 <th style="text-align: center;">2015</th>
 <th style="text-align: center;">2017</th>
 <th style="text-align: center;">2019</th>
-<th style="text-align: center;">2021&nbsp;</th>
+<th style="text-align: center;">2021</th>
+<th style="text-align: center;">2023</th>
 </tr>
 <tr>
 <td style="text-align: center;">Certificates Obtained</td>
@@ -30,7 +31,8 @@ variant: markdown
 <td style="text-align: center;">Distinction</td>
 <td style="text-align: center;">Accomplishment</td>
 <td style="text-align: center;">Accomplishment</td>
-<td style="text-align: center;">Accomplishment&nbsp;</td>
+<td style="text-align: center;">Accomplishment</td>
+<td style="text-align: center;">Accomplishment</td>
 </tr>
 </tbody>
 </table>
