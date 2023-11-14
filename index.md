@@ -27,4 +27,7 @@ sections:
       url: https://www.junyuansec.moe.edu.sg/student-information/open-house-18-nov-2023/
       image: /images/2023 jyss banner final final.png
       alt: Image alt text
+  - resources:
+      title: ANNOUNCEMENT
+      id: resources
 ---
