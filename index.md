@@ -18,13 +18,10 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
-  - infopic:
-      title: Open House 2023
-      id: infopic
-      description: We are having our Open House on 18 November. Click below for more
-        information.
-      button: Find out more
-      url: https://www.junyuansec.moe.edu.sg/student-information/open-house-18-nov-2023/
-      image: /images/2023 jyss banner final final.png
-      alt: Image alt text
+  - infobar:
+      title: Junyuan Secondary School Promotional Video
+      id: infobar
+      description: Click below to watch our Promotional Video!
+      button: Click Here
+      url: https://vimeo.com/vicstudio/review/852264924/0d0e7c7d58
 ---
