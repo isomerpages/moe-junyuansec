@@ -2,6 +2,7 @@
 title: Open House (18 Nov 2023)
 permalink: /student-information/open-house-18-nov-2023/
 description: ""
+variant: markdown
 ---
 <p>WELCOME!</p>
 <img src="/images/2023%20jyss%20banner%20final%20final.png">
@@ -16,7 +17,7 @@ description: ""
 </table>
 <p><a href="https://form.gov.sg/652f63e48096d00011bd2fbb" target=""><u>https://form.gov.sg/652f63e48096d00011bd2fbb</u></a></p>
 <h4><strong>FAQs for Open House</strong></h4>
-<p><a href="/files/faq%20open%20house.pdf" target="_blank" rel="noopener"><u>FAQ Open House.pdf</u></a></p>
+<p><a href="/files/FAQ_Open_House_2023.pdf" target="_blank" rel="noopener"><u>FAQ Open House.pdf</u></a></p>
 <h4><strong>Let's take look at some of our videos!</strong></h4>
 <p><em>The JYSS Experience</em></p>
 <iframe width="480" height="360" src="https://www.youtube.com/embed/AfIih3ygg7o" title="The Jyss Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -24,3 +25,4 @@ description: ""
 <iframe width="480" height="360" src="https://www.youtube.com/embed/chf7r1kbQV4" title="Aishnah &amp; Xiu Ling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <p><em>Nadyn &amp; Jolene</em></p>
 <iframe width="480" height="360" src="https://www.youtube.com/embed/UNV6VdZNrHs" title="Nadyn &amp; Jolene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
