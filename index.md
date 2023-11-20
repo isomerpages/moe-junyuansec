@@ -18,10 +18,4 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
-  - infobar:
-      title: Junyuan Secondary School Promotional Video
-      id: infobar
-      description: Click below to watch our Promotional Video!
-      button: Click Here
-      url: https://vimeo.com/vicstudio/review/852264924/0d0e7c7d58
 ---
