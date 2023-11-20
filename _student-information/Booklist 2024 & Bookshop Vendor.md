@@ -1,7 +1,8 @@
 ---
-title: Booklist 2023 & Bookshop Vendor
-permalink: /student-information/booklist-2023-n-bookshop-vendor/
+title: Booklist 2024 & Bookshop Vendor
+permalink: /student-information/booklist-2024-n-bookshop-vendor/
 description: ""
+variant: tiptap
 ---
 <h4 dir="ltr"><strong>Booklist 2024</strong></h4>
 <p dir="ltr">To download a copy, please click on your respective level.</p>
