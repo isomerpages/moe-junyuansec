@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /useful-links
   - infobar:
-      title: Junyuan Secondary School Promotional Video
+      title: Junyuan Secondary School Video
       id: infobar
       button: Click Here to view the video
       url: https://www.youtube.com/watch?v=0dv6Z4ZPB-o
