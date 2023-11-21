@@ -18,4 +18,10 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
+  - infobar:
+      title: JYSS Promotional Video
+      id: infobar
+      description: Click below for our promotional video!
+      button: Click Here
+      url: https://www.youtube.com/watch?v=0dv6Z4ZPB-o
 ---
