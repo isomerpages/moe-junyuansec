@@ -21,7 +21,6 @@ sections:
   - infobar:
       title: JYSS Promotional Video
       id: infobar
-      description: Click below for our promotional video!
-      button: Click Here
+      button: Click Here to view the video
       url: https://www.youtube.com/watch?v=0dv6Z4ZPB-o
 ---
