@@ -278,39 +278,30 @@ variant: markdown
 <td style="width: 321.906px;">priscilla_vanessa_louis@moe.edu.sg</td>
 </tr>
 <tr><td style="width: 82.625px;" rowspan="2" height="46">2D</td>
-<td style="width: 180.469px;">David Daniel Cheong Weng Loong</td>
-<td style="width: 321.906px;">cheong_david_daniel@moe.edu.sg</td>
+<td style="width: 180.469px;">Teo Swee Wah</td>
+<td style="width: 321.906px;">TEO_Swee_Wah@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Siti Shafiqah Binte Walid</td>
-<td style="width: 321.906px;">shafiqah_walid@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Li Lanhua</td>
+<td style="width: 321.906px;">li_lanhua@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="3" height="70">2E</td>
-<td style="width: 180.469px;">Noor Khairin Binte Kamarudin</td>
-<td style="width: 321.906px;">noor_khairin_kamaruddin@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="2" height="70">2E</td>
+<td style="width: 180.469px;">Tan Hui Tian</td>
+<td style="width: 321.906px;">tan_hui_tian@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="22">Loh Chee Teng</td>
 <td style="width: 321.906px;">loh_chee_teng@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="22">Tan Cheng Ying</td>
-<td style="width: 321.906px;">tan_cheng_ying@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2F</td>
-<td style="width: 180.469px;">Lee Teck Loong Benson&nbsp;</td>
-<td style="width: 321.906px;">lee_teck_loong_ben@moe.edu.sg</td>
+<td style="width: 180.469px;">Chiew Huey Ching</td>
+<td style="width: 321.906px;">chiew_huey_ching@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Nur Suhailah Bte Ahmad Khusairi</td>
-<td style="width: 321.906px;">nur_suhaila_ahmad_khusairi@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 82.625px;" rowspan="2" height="68">2G</td>
-<td style="width: 180.469px;">Salahudeen Bin Sayed Mobarak</td>
-<td style="width: 321.906px;">salahudeen_sayed_mobarak@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Lim Kwan Shen Johni</td>
+<td style="width: 321.906px;">LIM_Kwan_Shen@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Teh Li Wah</td>
