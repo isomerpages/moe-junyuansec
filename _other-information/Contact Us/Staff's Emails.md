@@ -252,34 +252,30 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2A</td>
-<td style="width: 180.469px;">Cheong Wei Yuen</td>
-<td style="width: 321.906px;">cheong_wei_yuen@moe.edu.sg</td>
+<td style="width: 180.469px;">Thng Wei Wei</td>
+<td style="width: 321.906px;">thng_wei_wei@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Feraj s/o Amzah (ST CPA)</td>
-<td style="width: 321.906px;">feraj_amzah@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">David Daniel Cheong Weng Loong</td>
+<td style="width: 321.906px;">cheong_david_daniel@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2B</td>
-<td style="width: 180.469px;">Ling Kay Siong (SH D&amp;T)</td>
-<td style="width: 321.906px;">ling_kay_siong@moe.edu.sg</td>
+<td style="width: 180.469px;">Gan Juok Sia</td>
+<td style="width: 321.906px;">gan_juok_sia@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Nur Zahirah Binte Zainal</td>
-<td style="width: 321.906px;">nur_zahirah_binte_zainal@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Rahani Bte Abdul Rahim</td>
+<td style="width: 321.906px;">rahani_abdul_rahim@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="3" height="46">2C</td>
-<td style="width: 180.469px;">Tan Yew Lee</td>
-<td style="width: 321.906px;">tan_yew_lee@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="2" height="46">2C</td>
+<td style="width: 180.469px;">Ng Yun Shi Jolene</td>
+<td style="width: 321.906px;">yun_shi_jolene_ng@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Adzmey Bin Asmom</td>
-<td style="width: 321.906px;">adzmey_asmom@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Siti Amirah Binte Mohamed Arsad</td>
-<td style="width: 321.906px;">siti_amirah_mohamed_arsad@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Priscilla Louis</td>
+<td style="width: 321.906px;">priscilla_vanessa_louis@moe.edu.sg</td>
 </tr>
 <tr><td style="width: 82.625px;" rowspan="2" height="46">2D</td>
 <td style="width: 180.469px;">David Daniel Cheong Weng Loong</td>
