@@ -208,30 +208,26 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1C</td>
-<td style="width: 180.469px;">Ng Yun Shi Jolene</td>
-<td style="width: 321.906px;">yun_shi_jolene_ng@moe.edu.sg</td>
+<td style="width: 180.469px;">Tan Tze Wei</td>
+<td style="width: 321.906px;">tan_tze_wei@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Ang Kuang Soon</td>
-<td style="width: 321.906px;">ang_kuang_soon@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Arnita Bte Abdullah</td>
+<td style="width: 321.906px;">arnita_abdullah@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1D</td>
-<td style="width: 180.469px;">Teo Swee Wah</td>
-<td style="width: 321.906px;">teo_swee_wah@moe.edu.sg</td>
+<td style="width: 180.469px;">Seah Cheng Hong</td>
+<td style="width: 321.906px;">seah_cheng_hong@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Nur-‘Iffah Binte Mohamed Ali (SH Maths)</td>
-<td style="width: 321.906px;">nur-iffah_mohamed_ali@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Tan Cheng Ying</td>
+<td style="width: 321.906px;">tan_cheng_ying@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="3" height="46">1E</td>
-<td style="width: 180.469px;">Ng Si Han Andre </td>
-<td style="width: 321.906px;">ng_sihan_andre@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Tan Hui Tian</td>
-<td style="width: 321.906px;">tan_hui_tian@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="2" height="46">1E</td>
+<td style="width: 180.469px;">Nurliyana Bte Mohamad Zainudin </td>
+<td style="width: 321.906px;">nurliyana_mohamad_zainudin@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Tan Su Xian Jaslyn</td>
@@ -239,12 +235,20 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1F</td>
-<td style="width: 180.469px;">Chiew Huey Ching&nbsp;</td>
-<td style="width: 321.906px;">chiew_huey_ching@moe.edu.sg</td>
+<td style="width: 180.469px;">Yeo Jun Qiang</td>
+<td style="width: 321.906px;">yeo_jun_qiang@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Yeo Jun Qiang</td>
-<td style="width: 321.906px;">yeo_jun_qiang@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Nur Zahirah Binte Zainal</td>
+<td style="width: 321.906px;">nur_zahirah_binte_zainal@moe.edu.sg</td>
+</tr>
+<tr><td style="width: 82.625px;" rowspan="2" height="46">1G</td>
+<td style="width: 180.469px;">Koh Xiu Huan Joanna</td>
+<td style="width: 321.906px;">koh_xiu_huan_joanna@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 180.469px;" height="23">Debbie Lim Chin Teng</td>
+<td style="width: 321.906px;">lim_chin_teng_debbie@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2A</td>
