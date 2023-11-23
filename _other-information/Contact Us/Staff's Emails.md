@@ -186,7 +186,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="68">1A</td>
-<td style="width: 180.469px;">Nur Asyikin Binte Naser</td>
+<td style="width: 180.469px;">Nur Asyikin Binte Naser (SH/ML)</td>
 <td style="width: 321.906px;">nur_asyikin_naser@moe.edu.sg</td>
 </tr>
 <tr>
@@ -212,12 +212,12 @@ variant: markdown
 <td style="width: 321.906px;">tan_tze_wei@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Arnita Bte Abdullah</td>
+<td style="width: 180.469px;" height="23">Arnita Bte Abdullah (ST/Learning Needs)</td>
 <td style="width: 321.906px;">arnita_abdullah@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1D</td>
-<td style="width: 180.469px;">Seah Cheng Hong</td>
+<td style="width: 180.469px;">Seah Cheng Hong (SH/Bio)</td>
 <td style="width: 321.906px;">seah_cheng_hong@moe.edu.sg</td>
 </tr>
 <tr>
@@ -226,7 +226,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1E</td>
-<td style="width: 180.469px;">Nurliyana Bte Mohamad Zainudin </td>
+<td style="width: 180.469px;">Nurliyana Bte Mohamad Zainudin (SH/EL) </td>
 <td style="width: 321.906px;">nurliyana_mohamad_zainudin@moe.edu.sg</td>
 </tr>
 <tr>
@@ -243,7 +243,7 @@ variant: markdown
 <td style="width: 321.906px;">nur_zahirah_binte_zainal@moe.edu.sg</td>
 </tr>
 <tr><td style="width: 82.625px;" rowspan="2" height="46">1G</td>
-<td style="width: 180.469px;">Koh Xiu Huan Joanna</td>
+<td style="width: 180.469px;">Koh Xiu Huan Joanna (SH/Student Well-Being)</td>
 <td style="width: 321.906px;">koh_xiu_huan_joanna@moe.edu.sg</td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2A</td>
-<td style="width: 180.469px;">Thng Wei Wei</td>
+<td style="width: 180.469px;">Thng Wei Wei (SH/Student Leadership)</td>
 <td style="width: 321.906px;">thng_wei_wei@moe.edu.sg</td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2B</td>
-<td style="width: 180.469px;">Gan Juok Sia</td>
+<td style="width: 180.469px;">Gan Juok Sia (AYH/Lower Sec)</td>
 <td style="width: 321.906px;">gan_juok_sia@moe.edu.sg</td>
 </tr>
 <tr>
@@ -300,7 +300,7 @@ variant: markdown
 <td style="width: 321.906px;">chiew_huey_ching@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Lim Kwan Shen John</td>
+<td style="width: 180.469px;" height="23">Lim Kwan Shen John (SH/Geo)</td>
 <td style="width: 321.906px;">LIM_Kwan_Shen@moe.edu.sg</td>
 </tr>
 <tr>
@@ -323,12 +323,12 @@ variant: markdown
 <td width="276">cheong_wei_yuen@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Feraj s/o Amzah </td>
+<td width="250" height="23">Feraj s/o Amzah (ST/CPA) </td>
 <td width="276">feraj_amzah@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="3" width="89" height="46">3B</td>
-<td width="250">Ling Kay Siong </td>
+<td width="250">Ling Kay Siong (SH/D&amp;T) </td>
 <td width="276">ling_kay_siong@moe.edu.sg</td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="3" width="89" height="46">3C</td>
-<td width="250">Nadiah Bte Khamis</td>
+<td width="250">Nadiah Bte Khamis (ST/EL)</td>
 <td width="276">nadiah_khamis@moe.edu.sg</td>
 </tr>
 <tr>
@@ -390,7 +390,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" width="89" height="46">4A</td>
-<td width="250">Halimah Bte Jumaha</td>
+<td width="250">Halimah Bte Jumaha (ST/Maths)</td>
 <td width="276">halimah_jumaha@moe.edu.sg</td>
 </tr>
 <tr>
@@ -430,7 +430,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" width="89" height="91">4E</td>
-<td width="250">Chia Boh Peng</td>
+<td width="250">Chia Boh Peng (ST/Chem)</td>
 <td width="276">chia_boh_peng@moe.edu.sg</td>
 </tr>
 <tr>
