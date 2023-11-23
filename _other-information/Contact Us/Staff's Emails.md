@@ -194,13 +194,17 @@ variant: markdown
 <td style="width: 321.906px;">kim_choon_hin_kelvin@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="2" height="46">1B</td>
-<td style="width: 180.469px;">Gan Juok Sia (AYH LS)</td>
-<td style="width: 321.906px;">gan_juok_sia@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="3" height="46">1B</td>
+<td style="width: 180.469px;">Siti Shafiqah Binte Walid</td>
+<td style="width: 321.906px;">shafiqah_walid@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Arnita Bte Abdullah (ST Learning Needs)</td>
-<td style="width: 321.906px;">arnita_abdullah@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Ang Kuang Soon</td>
+<td style="width: 321.906px;">ang_kuang_soon@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 180.469px;" height="23">Tan Yew Lee</td>
+<td style="width: 321.906px;">tan_yew_lee_a@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1C</td>
