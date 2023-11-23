@@ -3,6 +3,7 @@ title: Staff's Emails
 permalink: /other-information/contact-us/staffs-emails/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 <p><strong>Below is the list of all staff emails. Please contact&nbsp;<u>junyuan_ss@moe.edu.sg</u>&nbsp;if you do not get a reply after 3 working days.</strong></p>
 <table width="871"><colgroup><col width="32"><col width="37"><col width="311"><col width="180"><col width="311"></colgroup>
@@ -185,48 +186,48 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="68">1A</td>
-<td style="width: 180.469px;">Thng Wei Wei (SH Stud Ldr/AYH US)</td>
-<td style="width: 321.906px;">thng_wei_wei@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Nur Asyikin Binte Naser</td>
+<td style="width: 180.469px;">Nur Asyikin Binte Naser (SH/ML)</td>
 <td style="width: 321.906px;">nur_asyikin_naser@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="2" height="46">1B</td>
-<td style="width: 180.469px;">Gan Juok Sia (AYH LS)</td>
-<td style="width: 321.906px;">gan_juok_sia@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Kim Choon Hin Kelvin</td>
+<td style="width: 321.906px;">kim_choon_hin_kelvin@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Arnita Bte Abdullah (ST Learning Needs)</td>
-<td style="width: 321.906px;">arnita_abdullah@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 82.625px;" rowspan="2" height="46">1C</td>
-<td style="width: 180.469px;">Ng Yun Shi Jolene</td>
-<td style="width: 321.906px;">yun_shi_jolene_ng@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="3" height="46">1B</td>
+<td style="width: 180.469px;">Siti Shafiqah Binte Walid</td>
+<td style="width: 321.906px;">shafiqah_walid@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Ang Kuang Soon</td>
 <td style="width: 321.906px;">ang_kuang_soon@moe.edu.sg</td>
 </tr>
 <tr>
+<td style="width: 180.469px;" height="23">Tan Yew Lee</td>
+<td style="width: 321.906px;">tan_yew_lee_a@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 82.625px;" rowspan="2" height="46">1C</td>
+<td style="width: 180.469px;">Tan Tze Wei</td>
+<td style="width: 321.906px;">tan_tze_wei@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 180.469px;" height="23">Arnita Bte Abdullah (ST/Learning Needs)</td>
+<td style="width: 321.906px;">arnita_abdullah@moe.edu.sg</td>
+</tr>
+<tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1D</td>
-<td style="width: 180.469px;">Teo Swee Wah</td>
-<td style="width: 321.906px;">teo_swee_wah@moe.edu.sg</td>
+<td style="width: 180.469px;">Seah Cheng Hong (SH/Bio)</td>
+<td style="width: 321.906px;">seah_cheng_hong@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Nur-‘Iffah Binte Mohamed Ali (SH Maths)</td>
-<td style="width: 321.906px;">nur-iffah_mohamed_ali@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Tan Cheng Ying</td>
+<td style="width: 321.906px;">tan_cheng_ying@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="3" height="46">1E</td>
-<td style="width: 180.469px;">Ng Si Han Andre </td>
-<td style="width: 321.906px;">ng_sihan_andre@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Tan Hui Tian</td>
-<td style="width: 321.906px;">tan_hui_tian@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="2" height="46">1E</td>
+<td style="width: 180.469px;">Nurliyana Bte Mohamad Zainudin (SH/EL) </td>
+<td style="width: 321.906px;">nurliyana_mohamad_zainudin@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Tan Su Xian Jaslyn</td>
@@ -234,84 +235,76 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1F</td>
-<td style="width: 180.469px;">Chiew Huey Ching&nbsp;</td>
-<td style="width: 321.906px;">chiew_huey_ching@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Yeo Jun Qiang</td>
+<td style="width: 180.469px;">Yeo Jun Qiang</td>
 <td style="width: 321.906px;">yeo_jun_qiang@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 82.625px;" rowspan="2" height="46">2A</td>
-<td style="width: 180.469px;">Cheong Wei Yuen</td>
-<td style="width: 321.906px;">cheong_wei_yuen@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Feraj s/o Amzah (ST CPA)</td>
-<td style="width: 321.906px;">feraj_amzah@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 82.625px;" rowspan="2" height="46">2B</td>
-<td style="width: 180.469px;">Ling Kay Siong (SH D&amp;T)</td>
-<td style="width: 321.906px;">ling_kay_siong@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="23">Nur Zahirah Binte Zainal</td>
 <td style="width: 321.906px;">nur_zahirah_binte_zainal@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="width: 82.625px;" rowspan="3" height="46">2C</td>
-<td style="width: 180.469px;">Tan Yew Lee</td>
-<td style="width: 321.906px;">tan_yew_lee@moe.edu.sg</td>
+<tr><td style="width: 82.625px;" rowspan="2" height="46">1G</td>
+<td style="width: 180.469px;">Koh Xiu Huan Joanna (SH/Student Well-Being)</td>
+<td style="width: 321.906px;">koh_xiu_huan_joanna@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Adzmey Bin Asmom</td>
-<td style="width: 321.906px;">adzmey_asmom@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Debbie Lim Chin Teng</td>
+<td style="width: 321.906px;">lim_chin_teng_debbie@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Siti Amirah Binte Mohamed Arsad</td>
-<td style="width: 321.906px;">siti_amirah_mohamed_arsad@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="2" height="46">2A</td>
+<td style="width: 180.469px;">Thng Wei Wei (SH/Student Leadership)</td>
+<td style="width: 321.906px;">thng_wei_wei@moe.edu.sg</td>
 </tr>
-<tr><td style="width: 82.625px;" rowspan="2" height="46">2D</td>
-<td style="width: 180.469px;">David Daniel Cheong Weng Loong</td>
+<tr>
+<td style="width: 180.469px;" height="23">David Daniel Cheong Weng Loong</td>
 <td style="width: 321.906px;">cheong_david_daniel@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Siti Shafiqah Binte Walid</td>
-<td style="width: 321.906px;">shafiqah_walid@moe.edu.sg</td>
+<td style="width: 82.625px;" rowspan="2" height="46">2B</td>
+<td style="width: 180.469px;">Gan Juok Sia (AYH/Lower Sec)</td>
+<td style="width: 321.906px;">gan_juok_sia@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="3" height="70">2E</td>
-<td style="width: 180.469px;">Noor Khairin Binte Kamarudin</td>
-<td style="width: 321.906px;">noor_khairin_kamaruddin@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Rahani Bte Abdul Rahim</td>
+<td style="width: 321.906px;">rahani_abdul_rahim@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 82.625px;" rowspan="2" height="46">2C</td>
+<td style="width: 180.469px;">Ng Yun Shi Jolene</td>
+<td style="width: 321.906px;">yun_shi_jolene_ng@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 180.469px;" height="23">Priscilla Louis</td>
+<td style="width: 321.906px;">priscilla_vanessa_louis@moe.edu.sg</td>
+</tr>
+<tr><td style="width: 82.625px;" rowspan="2" height="46">2D</td>
+<td style="width: 180.469px;">Teo Swee Wah</td>
+<td style="width: 321.906px;">TEO_Swee_Wah@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 180.469px;" height="23">Li Lanhua</td>
+<td style="width: 321.906px;">li_lanhua@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="width: 82.625px;" rowspan="2" height="70">2E</td>
+<td style="width: 180.469px;">Tan Hui Tian</td>
+<td style="width: 321.906px;">tan_hui_tian@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 180.469px;" height="22">Loh Chee Teng</td>
 <td style="width: 321.906px;">loh_chee_teng@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="22">Tan Cheng Ying</td>
-<td style="width: 321.906px;">tan_cheng_ying@moe.edu.sg</td>
-</tr>
-<tr>
 <td style="width: 82.625px;" rowspan="2" height="46">2F</td>
-<td style="width: 180.469px;">Lee Teck Loong Benson&nbsp;</td>
-<td style="width: 321.906px;">lee_teck_loong_ben@moe.edu.sg</td>
+<td style="width: 180.469px;">Chiew Huey Ching</td>
+<td style="width: 321.906px;">chiew_huey_ching@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Nur Suhailah Bte Ahmad Khusairi</td>
-<td style="width: 321.906px;">nur_suhaila_ahmad_khusairi@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Lim Kwan Shen John (SH/Geo)</td>
+<td style="width: 321.906px;">LIM_Kwan_Shen@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 82.625px;" rowspan="2" height="68">2G</td>
-<td style="width: 180.469px;">Salahudeen Bin Sayed Mobarak</td>
-<td style="width: 321.906px;">salahudeen_sayed_mobarak@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="width: 180.469px;" height="23">Teh Li Wah</td>
-<td style="width: 321.906px;">teh_li_wah@moe.edu.sg</td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 <table width="615"><colgroup><col width="89"><col width="250"><col width="276"></colgroup>
 <tbody>
@@ -325,34 +318,109 @@ third_nav_title: Contact Us
 <td width="276"><strong>Email</strong></td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3A&nbsp;</td>
-<td width="250">Halimah Bte Jumaha (ST Maths)</td>
-<td width="276">halimah_jumaha@moe.edu.sg</td>
+<td rowspan="2" width="89" height="46">3A</td>
+<td width="250">Cheong Wei Yuen </td>
+<td width="276">cheong_wei_yuen@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Feraj s/o Amzah (ST/CPA) </td>
+<td width="276">feraj_amzah@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="3" width="89" height="46">3B</td>
+<td width="250">Ling Kay Siong (SH/D&amp;T) </td>
+<td width="276">ling_kay_siong@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Liyana Binte Ramlan</td>
+<td width="276">liyana_ramlan@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Cao Zhihong</td>
+<td width="276">cao_zhihong@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="3" width="89" height="46">3C</td>
+<td width="250">Nadiah Bte Khamis (ST/EL)</td>
+<td width="276">nadiah_khamis@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Low Kia Sin</td>
+<td width="276">low_kia_sin@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Siti Amirah Binte Mohamed Arsad</td>
+<td width="276">siti_amirah_mohamed_arsad@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2" width="89" height="46">3D</td>
+<td width="250">Nur Suhailah Bte Ahmad Khusairi </td>
+<td width="276">nur_suhailah_ahmad_khusairi@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Goh See Larc, Eunice</td>
+<td width="276">goh_see_larc_eunice@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2" width="89" height="46">3E</td>
+<td width="250">Noor Khairin Binte Kamarudin </td>
+<td width="276">noor_khairin_kamaruddin@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Wang Shiying</td>
+<td width="276">wang_shiying@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2" width="89" height="46">3F</td>
+<td width="250">Sharifa Fatimatuzahra Binte A R A (Zahra)</td>
+<td width="276">sharifa_fatimatuzahra_a@moe.edu.sg</td>
+</tr>
+<tr>
+<td height="23">Lee Teck Loong Benson </td>
+<td width="276">lee_teck_loong_ben@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2" width="89" height="46">3G</td>
+<td width="250">Lim Yi Wei Pamela</td>
+<td width="276">lim_yi_wei_pamela@moe.edu.sg</td>
 </tr>
 <tr>
 <td width="250" height="23">Muhammad Faisal Mahmod</td>
 <td width="276">muhammad_faisal_mahmod@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3B&nbsp;</td>
-<td width="250">Farouq Bin Abdul Aziz&nbsp;</td>
-<td width="276">farouq_abdul_aziz@moe.edu.sg</td>
+<td rowspan="1" width="89" height="46">4A</td>
+<td width="250">Halimah Bte Jumaha (ST/Maths)</td>
+<td width="276">halimah_jumaha@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="3" width="89" height="46">4B</td>
+<td width="250">Teh Li Wah</td>
+<td width="276">teh_li_wah@moe.edu.sg</td>
 </tr>
 <tr>
 <td width="250" height="23">Xue Wenjuan</td>
 <td width="276">xue_wen_juan@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3C</td>
-<td width="250">Goh Ming Min</td>
-<td width="276">goh_ming_min@moe.edu.sg</td>
+<td width="250" height="23">Farouq B Abdul Aziz</td>
+<td width="276">farouq_abdul_aziz@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Ng Kuan Shin&nbsp;</td>
+<td rowspan="3" width="89" height="48">4C</td>
+<td width="250">Nur Razmirah Bte Mohd Abdul Razib</td>
+<td width="276">nur_razmirah_mohamed_abdul@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="22">Ng Kuan Shin</td>
 <td width="276">ng_kuan_shin@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3D</td>
+<td width="250" height="22">Ng Sui Lin</td>
+<td width="276">ng_sui_lin@moe.edu.sg</td>
+</tr>
+<tr>
+<td rowspan="2" width="89" height="45">4D</td>
 <td width="250">Nuraisha Bte Azmi</td>
 <td width="276">nuraisha_azmi@moe.edu.sg</td>
 </tr>
@@ -361,26 +429,26 @@ third_nav_title: Contact Us
 <td width="276">seah_mei_ping@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3E</td>
-<td width="250">Chia Boh Peng</td>
+<td rowspan="2" width="89" height="91">4E</td>
+<td width="250">Chia Boh Peng (ST/Chem)</td>
 <td width="276">chia_boh_peng@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Tan Chin Alicia</td>
+<td width="250" height="45">Tan Chin Alicia</td>
 <td width="276">tan_chin_alicia@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3F</td>
+<td rowspan="2" width="89" height="46">4F</td>
 <td width="250">Syed Mustafakamal S M A</td>
 <td width="276">syed_mustafakamal@moe.edu.sg</td>
 </tr>
 <tr>
-<td height="23">Ong Si Jia&nbsp;</td>
+<td width="250" height="23">Ong Si Jia</td>
 <td width="276">ong_si_jia@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3G</td>
-<td width="250">Tan Chwoon Ping Ivan&nbsp;</td>
+<td rowspan="2" width="89" height="46">4G</td>
+<td width="250">Tan Chwoon Ping Ivan</td>
 <td width="276">tan_chwoon_ping@moe.edu.sg</td>
 </tr>
 <tr>
@@ -388,102 +456,23 @@ third_nav_title: Contact Us
 <td width="276">siti_zaleha_md_idris@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" height="46">3H</td>
+<td rowspan="2" width="89" height="91">4H</td>
 <td width="250">Goh Rong Quan Nicholas</td>
 <td width="276">goh_rong_quan_nicholas@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Chin Wai Leng @ Izza Nadia (Helen)&nbsp;</td>
+<td width="250" height="45">Chin Wai Leng @ Izza Nadia (Helen)</td>
 <td width="276">chin_wai_leng@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">4E1</td>
-<td width="250">Boey Peck Kay Peggy</td>
-<td width="276">boey_peck_kay_peggy@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Sharifa Fatimatuzahra Binte A R A (Zahra)&nbsp;</td>
-<td width="276">sharifa_fatimatuzahra_a@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="89" height="46">4E2</td>
-<td width="250">Liyana Binte Ramlan</td>
-<td width="276">liyana_ramlan@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Ng Sui Lin</td>
-<td width="276">ng_sui_lin@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="89" height="48">4E3</td>
-<td width="250">Nadiah Bte Khamis (ST English)</td>
-<td width="276">nadiah_khamis@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="22">Wong Chyng Shiau (Kenny)</td>
-<td width="276">wong_chyng_shiau@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="89" height="45">4E4</td>
-<td width="250">Debbie Lim Chin Teng</td>
-<td width="276">lim_chin_teng_debbie@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Kim Choon Hin Kelvin</td>
-<td width="276">kim_choon_hin_kelvin@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="3" width="89" height="91">4N1</td>
-<td width="250">Goh See Larc, Eunice</td>
-<td width="276">goh_see_larc_eunice@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="45">Koh Xiu Huan Joanna</td>
-<td width="276">koh_xiu_huan_joanna@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Rahani Bte Abdul Rahim</td>
-<td width="276">rahani_abdul_rahim@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" width="89" height="46">4N2</td>
-<td width="250">Lam Tung Ying (Elkan)</td>
-<td width="276">lam_tung_ying@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Choong Tze Hong</td>
+<td rowspan="2" height="46">5N1</td>
+<td>Choong Tze Hong</td>
 <td width="276">choong_tze_hong@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">4N3</td>
-<td width="250">Seah Cheng Hong (SH Bio)</td>
-<td width="276">seah_cheng_hong@moe.edu.sg</td>
+<td height="23">Lam Tung Ying Elkan</td>
+<td width="276">lam_tung_ying@moe.edu.sg</td>
 </tr>
-<tr>
-<td width="250" height="23">Tan Tze Wei</td>
-<td width="276">tan_tze_wei@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="3" width="89" height="91">4T1</td>
-<td width="250">Lim Yi Wei Pamela&nbsp;</td>
-<td width="276">lim_yi_wei_pamela@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="45">Nurliyana Bte Mohamad Zainudin (SH English)</td>
-<td width="276">nurliyana_mohamad_zainudin@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Low Kia Sin</td>
-<td width="276">low_kia_sin@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" height="46">5N1</td>
-<td>Nur Razmirah Bte Mohd Abdul Razib</td>
-<td width="276">nur_razmirah_mohamed_abdul@moe.edu.sg</td>
-</tr>
-<tr>
-<td height="23">Lim Kwan Shen John (SH Geog)</td>
-<td width="276">lim_kwan_shen@moe.edu.sg</td>
-</tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
