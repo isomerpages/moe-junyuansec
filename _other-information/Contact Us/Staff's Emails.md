@@ -354,48 +354,39 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="2" width="89" height="46">3D</td>
-<td width="250">Nuraisha Bte Azmi</td>
-<td width="276">nuraisha_azmi@moe.edu.sg</td>
+<td width="250">Nur Suhailah Bte Ahmad Khusairi </td>
+<td width="276">nur_suhailah_ahmad_khusairi@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Seah Mei Ping</td>
-<td width="276">seah_mei_ping@moe.edu.sg</td>
+<td width="250" height="23">Goh See Larc, Eunice</td>
+<td width="276">goh_see_larc_eunice@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="89" height="46">3E</td>
-<td width="250">Chia Boh Peng</td>
-<td width="276">chia_boh_peng@moe.edu.sg</td>
+<td width="250">Noor Khairin Binte Kamarudin </td>
+<td width="276">noor_khairin_kamaruddin@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Tan Chin Alicia</td>
-<td width="276">tan_chin_alicia@moe.edu.sg</td>
+<td width="250" height="23">Wang Shiying</td>
+<td width="276">wang_shiying@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="89" height="46">3F</td>
-<td width="250">Syed Mustafakamal S M A</td>
-<td width="276">syed_mustafakamal@moe.edu.sg</td>
+<td width="250">Sharifa Fatimatuzahra Binte A R A (Zahra)</td>
+<td width="276">sharifa_fatimatuzahra_a@moe.edu.sg</td>
 </tr>
 <tr>
-<td height="23">Ong Si Jia&nbsp;</td>
-<td width="276">ong_si_jia@moe.edu.sg</td>
+<td height="23">Lee Teck Loong Benson </td>
+<td width="276">lee_teck_loong_ben@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="89" height="46">3G</td>
-<td width="250">Tan Chwoon Ping Ivan&nbsp;</td>
-<td width="276">tan_chwoon_ping@moe.edu.sg</td>
+<td width="250">Lim Yi Wei Pamela</td>
+<td width="276">lim_yi_wei_pamela@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Siti Zaleha Bte Md Idris</td>
-<td width="276">siti_zaleha_md_idris@moe.edu.sg</td>
-</tr>
-<tr>
-<td rowspan="2" height="46">3H</td>
-<td width="250">Goh Rong Quan Nicholas</td>
-<td width="276">goh_rong_quan_nicholas@moe.edu.sg</td>
-</tr>
-<tr>
-<td width="250" height="23">Chin Wai Leng @ Izza Nadia (Helen)&nbsp;</td>
-<td width="276">chin_wai_leng@moe.edu.sg</td>
+<td width="250" height="23">Muhammad Faisal Mahmod</td>
+<td width="276">muhammad_faisal_mahmod@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="89" height="46">4E1</td>
