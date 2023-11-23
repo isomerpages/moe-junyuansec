@@ -300,14 +300,11 @@ variant: markdown
 <td style="width: 321.906px;">chiew_huey_ching@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Lim Kwan Shen Johni</td>
+<td style="width: 180.469px;" height="23">Lim Kwan Shen John</td>
 <td style="width: 321.906px;">LIM_Kwan_Shen@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Teh Li Wah</td>
-<td style="width: 321.906px;">teh_li_wah@moe.edu.sg</td>
-</tr>
-</tbody>
+</tr></tbody>
 </table>
 <table width="615"><colgroup><col width="89"><col width="250"><col width="276"></colgroup>
 <tbody>
@@ -321,31 +318,39 @@ variant: markdown
 <td width="276"><strong>Email</strong></td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3A&nbsp;</td>
-<td width="250">Halimah Bte Jumaha (ST Maths)</td>
-<td width="276">halimah_jumaha@moe.edu.sg</td>
+<td rowspan="2" width="89" height="46">3A</td>
+<td width="250">Cheong Wei Yuen </td>
+<td width="276">cheong_wei_yuen@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Muhammad Faisal Mahmod</td>
-<td width="276">muhammad_faisal_mahmod@moe.edu.sg</td>
+<td width="250" height="23">Feraj s/o Amzah </td>
+<td width="276">feraj_amzah@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3B&nbsp;</td>
-<td width="250">Farouq Bin Abdul Aziz&nbsp;</td>
-<td width="276">farouq_abdul_aziz@moe.edu.sg</td>
+<td rowspan="3" width="89" height="46">3B</td>
+<td width="250">Ling Kay Siong </td>
+<td width="276">ling_kay_siong@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Xue Wenjuan</td>
-<td width="276">xue_wen_juan@moe.edu.sg</td>
+<td width="250" height="23">Liyana Binte Ramlan</td>
+<td width="276">liyana_ramlan@moe.edu.sg</td>
 </tr>
 <tr>
-<td rowspan="2" width="89" height="46">3C</td>
-<td width="250">Goh Ming Min</td>
-<td width="276">goh_ming_min@moe.edu.sg</td>
+<td width="250" height="23">Cao Zhihong</td>
+<td width="276">cao_zhihong@moe.edu.sg</td>
 </tr>
 <tr>
-<td width="250" height="23">Ng Kuan Shin&nbsp;</td>
-<td width="276">ng_kuan_shin@moe.edu.sg</td>
+<td rowspan="3" width="89" height="46">3C</td>
+<td width="250">Nadiah Bte Khamis</td>
+<td width="276">nadiah_khamis@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Low Kia Sin</td>
+<td width="276">low_kia_sin@moe.edu.sg</td>
+</tr>
+<tr>
+<td width="250" height="23">Siti Amirah Binte Mohamed Arsad</td>
+<td width="276">siti_amirah_mohamed_arsad@moe.edu.sg</td>
 </tr>
 <tr>
 <td rowspan="2" width="89" height="46">3D</td>
