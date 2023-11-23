@@ -3,6 +3,7 @@ title: Staff's Emails
 permalink: /other-information/contact-us/staffs-emails/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 <p><strong>Below is the list of all staff emails. Please contact&nbsp;<u>junyuan_ss@moe.edu.sg</u>&nbsp;if you do not get a reply after 3 working days.</strong></p>
 <table width="871"><colgroup><col width="32"><col width="37"><col width="311"><col width="180"><col width="311"></colgroup>
@@ -185,12 +186,12 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="68">1A</td>
-<td style="width: 180.469px;">Thng Wei Wei (SH Stud Ldr/AYH US)</td>
-<td style="width: 321.906px;">thng_wei_wei@moe.edu.sg</td>
+<td style="width: 180.469px;">Nur Asyikin Binte Naser</td>
+<td style="width: 321.906px;">nur_asyikin_naser@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="width: 180.469px;" height="23">Nur Asyikin Binte Naser</td>
-<td style="width: 321.906px;">nur_asyikin_naser@moe.edu.sg</td>
+<td style="width: 180.469px;" height="23">Kim Choon Hin Kelvin</td>
+<td style="width: 321.906px;">kim_choon_hin_kelvin@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="width: 82.625px;" rowspan="2" height="46">1B</td>
