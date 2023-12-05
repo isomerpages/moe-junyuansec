@@ -2,7 +2,7 @@
 title: Booklist 2024 & Bookshop Vendor
 permalink: /student-information/booklist-2024-n-bookshop-vendor/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4 dir="ltr"><strong>Booklist 2024</strong></h4>
 <p dir="ltr">To download a copy, please click on your respective level.</p>
@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td style="text-align: center;">
-<p dir="ltr"><u><a href="/files/Sec%201E.pdf" target="">1EXP</a></u></p>
+<p dir="ltr"><u><a href="" target="">1EXP</a></u></p>
 </td>
 <td style="text-align: center;">
 <p dir="ltr"><a href="/files/2024%20sec%202%20express%20booklist.pdf" target="">2EXP</a></p>
@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td style="text-align: center;">
-<p dir="ltr"><u><a href="/files/Sec%201NA.pdf" target="">1NA</a></u></p>
+<p dir="ltr"><u><a href="" target="">1NA</a></u></p>
 </td>
 <td style="text-align: center;">
 <p dir="ltr"><a href="/files/2024%20sec%202%20normal%20academic%20booklist.pdf" target="">2NA</a></p>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td style="text-align: center;">
-<p dir="ltr"><a href="/files/Sec%201NT.pdf" target=""><u>1NT</u></a></p>
+<p dir="ltr"><a href="" target=""><u>1NT</u></a></p>
 </td>
 <td style="text-align: center;">
 <p dir="ltr"><a href="/files/2024%20sec%202%20normal%20technical%20booklist.pdf" target="">2NT</a></p>
