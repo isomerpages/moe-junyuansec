@@ -2,50 +2,6 @@
 title: School Uniform Vendor
 permalink: /student-information/school-uniform-vendor/
 description: ""
+variant: tiptap
 ---
-<table width="600"><colgroup><col width="224"><col width="376"></colgroup>
-<tbody>
-<tr>
-	<td style="text-align: left;" colspan="2" width="600" height="52"><b>Asencio Trading - School Uniform Physical Education (PE) Attire<b></b></b></td>
-</tr>
-<tr>
-<td style="text-align: left;" width="224" height="41">Address for Walk-in purchase<br>@ Asencio Showroom:</td>
-<td style="text-align: center;" width="376">120 Hillview Avenue #05-03 Kewalram Hillview S(669594)</td>
-</tr>
-<tr>
-<td style="text-align: left;" width="224" height="41">Telephone:</td>
-<td style="text-align: center;" width="376">6764 3102</td>
-</tr>
-<tr>
-<td style="text-align: left;" rowspan="3" width="224" height="61">Operating Hours:</td>
-<td style="text-align: center;" width="376">Monday to Friday</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="376" height="20">Operating hours: 9am – 5pm (Mon-Fri) | 9am – 1pm (Sat)</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="376" height="21">Closed on Sunday, Eve of Public Holiday (PH) and PH.</td>
-</tr>
-<tr>
-<td style="text-align: left;" rowspan="2" width="224" height="121">Website for online purchase:</td>
-<td style="text-align: center;" width="376"><a href="https://www.asencio.com.sg/">https://www.asencio.com.sg/</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="376" height="101">Delivery charges of $6 apply and orders will take ~5 working days to process. Self-collection onsite in the school, is available on the same dates as the sale of textbooks.</td>
-</tr>
-<tr>
-<td style="text-align: left;" width="224" height="41">Walk-in purchase at the school<br>(Year End Sale):</td>
-<td style="text-align: center;" width="376">Uniforms will be available for purchase together with the textbooks in school. Refer to the booklists for the dates.</td>
-</tr>
-<tr>
-<td style="text-align: left;" width="224" height="41">Online Ordering Guide:</td>
-<td style="text-align: center;" width="376">Refer to the online ordering guide for details of the ordering process.&nbsp;<br><a class="refobj" href="/files/Junyuan%20Secondary%20School%20online%20ordering%20guide%20-%2028102022.pdf" target=""><u>Online ordering guide</u></a></td>
-</tr>
-<tr>
-<td style="text-align: left;" width="224" height="41">Uniform Order Form:</td>
-<td style="text-align: center;" width="376"><a href="/files/jyss%20uniform%20order%20list%20(2024%20cohort).pdf" target=""><u>JYSS Uniform Order List (2024)</u></a></td>
-</tr>
-</tbody>
-</table>
-
-[]()
+<table><tbody><tr><td rowspan="1" colspan="2"><p><strong>Asencio Trading - School Uniform Physical Education (PE) Attire</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Address for Walk-in purchase<br>@ Asencio Showroom:</p></td><td rowspan="1" colspan="1"><p>120 Hillview Avenue #05-03 Kewalram Hillview S(669594)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Telephone:</p></td><td rowspan="1" colspan="1"><p>6764 3102</p></td></tr><tr><td rowspan="3" colspan="1"><p>Operating Hours:</p></td><td rowspan="1" colspan="1"><p>Monday to Friday</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operating hours: 9am – 5pm (Mon-Fri) | 9am – 1pm (Sat)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Closed on Sunday, Eve of Public Holiday (PH) and PH.</p></td></tr><tr><td rowspan="2" colspan="1"><p>Website for online purchase:</p></td><td rowspan="1" colspan="1"><p><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Delivery charges of $6 apply and orders will take ~5 working days to process. Self-collection onsite in the school, is available on the same dates as the sale of textbooks.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Walk-in purchase at the school<br>(Year End Sale):</p></td><td rowspan="1" colspan="1"><p>Uniforms will be available for purchase together with the textbooks in school. Refer to the booklists for the dates.</p></td></tr><tr><td rowspan="1" colspan="1"><p>Online Ordering Guide:</p></td><td rowspan="1" colspan="1"><p>Refer to the online ordering guide for details of the ordering process.&nbsp;<br><a href="/files/Junyuan%20Secondary%20School%20online%20ordering%20guide%20-%2028102022.pdf" class="refobj" rel="noopener noreferrer nofollow" target=""><u>Online ordering guide</u></a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Uniform Order Form:</p></td><td rowspan="1" colspan="1"><p><a href="/files/jyss%20uniform%20order%20list%20(2024%20cohort).pdf" rel="noopener noreferrer nofollow" target=""><u>JYSS Uniform Order List (2024)</u></a></p></td></tr></tbody></table><p></p>
