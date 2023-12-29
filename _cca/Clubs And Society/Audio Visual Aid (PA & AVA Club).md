@@ -3,10 +3,6 @@ title: Audio Visual Aid (PA & AVA Club)
 permalink: /cca/clubs-and-society/audio-visual-aid-pa-ava-club/
 description: ""
 third_nav_title: Clubs And Society
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/pa1.png"><br>
-<img src="/images/avaegrt.jpg"><br>
-<img src="/images/pa2.png"><br>
-<img src="/images/ava2da.jpg"><br>
-<img src="/images/ava3dd.jpg">
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/pa1.png"></div><p><br></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/unnamed.jpg"></div><p><br></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/pa2.png"></div><p><br></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/ava2da.jpg"></div><p><br></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/ava3dd.jpg"></div><p></p>
