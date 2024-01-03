@@ -3,26 +3,6 @@ title: Subject Heads
 permalink: /our-identity/school-organisation/subject-heads/
 description: ""
 third_nav_title: School Organisation
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33%;"><img src="/images/weiwei2.jpg"></td>
-<td style="width: 33%;"><img src="/images/Juok sia.jpg"></td>
-<td style="width: 33%;"><img src="/images/sh9.jpg"></td>
-<td style="width: 33%;"><img src="/images/sh4.jpg"></td>
-	
-</tr>
-<tr>
-<td style="width: 33%;"><img src="/images/sh5.jpg"></td>
-<td style="width: 33%;"><img src="/images/sh3.jpg"></td>
-<td style="width: 33%;"><img src="/images/sh6.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33%;"><img src="/images/sh7.jpg"></td>
-<td style="width: 33%;"><img src="/images/asyikin2.jpg"></td>
-	<td style="width: 33%;"><img src="/images/sh10.jpg"></td>
-</tr>
-
-</tbody>
-</table>
+<table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 85%;" height="auto" width="100%" src="/images/weiwei2.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 85%;" height="auto" width="100%" src="/images/Juok sia.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/sh9.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/sh4.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 85%;" height="auto" width="100%" src="/images/sh5.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 85%;" height="auto" width="100%" src="/images/sh3.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/sh6.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/asyikin2.jpg"></div><p></p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/2.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 85%;" height="auto" width="100%" src="/images/sh7.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/sh10.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p><p></p>
