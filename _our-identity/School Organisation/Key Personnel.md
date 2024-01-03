@@ -3,30 +3,6 @@ title: Key Personnel
 permalink: /our-identity/school-organisation/key-personnel/
 description: ""
 third_nav_title: School Organisation
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33%;"><img src="/images/kp1.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp2.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33%;"><img src="/images/kp5.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp6.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp7.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33%;"><img src="/images/kp9.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp4.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp8.jpg"></td>
-<td style="width: 25%;">&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 33%;"><img src="/images/kp12.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp10.jpg"></td>
-<td style="width: 33%;"><img src="/images/kp13.jpg"></td>
-</tr>
-	<tr><td style="width: 33%;"><img src="/images/shariffah2.jpg"></td></tr>
-</tbody>
-</table>
+<table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp1.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp2.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp3.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp12.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp6.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp7.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp9.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp4.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp8.jpg"></div></td><td rowspan="1" colspan="1"><p>&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/shariffah2.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp10.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/kp13.jpg"></div></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
