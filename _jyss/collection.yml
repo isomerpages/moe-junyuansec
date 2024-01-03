@@ -1,0 +1,11 @@
+collections:
+  jyss:
+    output: true
+    order:
+      - Home Slider.md
+      - News/.keep
+      - News/2022 Leaders in Action.md
+      - News/2022 Class Leaders Investiture.md
+      - News/2021 Caught In a Good Act.md
+      - News/2022 Career Talks Series.md
+      - Privacy Policy.md

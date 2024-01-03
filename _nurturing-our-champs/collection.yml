@@ -1,0 +1,22 @@
+collections:
+  nurturing-our-champs:
+    output: true
+    order:
+      - Accolades/Junyuan in the News.md
+      - Accolades/In The News.md
+      - Accolades/Alumni Academic Achievements.md
+      - Accolades/Staff Recognition.md
+      - Accolades/.keep
+      - Achievements.md
+      - What's Happening/What's Happening.md
+      - What's Happening/MOE–OBS Challenge Programme 2024.md
+      - What's Happening/2022 Mother Tongue Language Fortnight.md
+      - What's Happening/2021 TDD.md
+      - What's Happening/2021 Hari Raya.md
+      - What's Happening/2021 Food Drive.md
+      - What's Happening/2021 CCA Fair.md
+      - What's Happening/2020 Mask–a–rade Challenge.md
+      - What's Happening/2020 EAS Day.md
+      - What's Happening/2020 Budding Artist.md
+      - What's Happening/2020 Battling Covid–19.md
+      - What's Happening/.keep

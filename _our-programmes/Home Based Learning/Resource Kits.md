@@ -1,0 +1,7 @@
+---
+title: Resource Kits
+permalink: /our-programmes/home-based-learning/resource-kits/
+description: ""
+third_nav_title: Home Based Learning
+---
+<p><u><a href="/files/Resource%20Kit%20-%20HBL.pdf">Resource Kit - HBL.pdf</a>&nbsp;<br /><a href="/files/Resource%20Kit%20-%20HBL%20(Part%202).pdf">Resource Kit - HBL (Part 2).pdf</a><br /><a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Back%20to%20School%20(Updated-final).pdf">Resource Kit - Parent Kit - Back to School (Updated-final).pdf</a><br /><a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20My%20Independent%20Learner.pdf">Resource Kit - Parent Kit - My Independent Learner.pdf</a>&nbsp;<br /></u><a href="/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf"><u>Parent Kit - Supporting your child during Full HBL.pdf</u></a><br /><u><a href="/files/Parent%20Kit%20-%20Transitioning%20Back%20to%20School.pdf">Parent Kit - Transitioning Back to School.pdf</a><br /><a href="/files/Resource%20Kit%20-%20Experiencing%20Blended%20Learning%20BL%20with%20Our%20Children.pdf">Resource Kit - Experiencing Blended Learning BL with Our Children.pdf</a><br /><a href="/files/Resource%20Kit%20-%20HBL%20Part%203.pdf">Resource Kit - HBL Part 3.pdf</a><br /><a href="/files/Resource%20Kit%20-%20HBL%20Part%204.pdf">Resource Kit - HBL Part 4.pdf</a><br /><a href="/files/3%20Secondary%20Student-Initiated%20Learning%20Guide.pdf">Secondary Student-Initiated Learning Guide.pdf</a><br /><a href="/files/3a%20Resource%20List%20for%20SIL.pdf">Resource List for SIL.pdf</a></u></p>

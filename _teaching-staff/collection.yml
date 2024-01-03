@@ -1,0 +1,12 @@
+collections:
+  teaching-staff:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Aesthetics.md
+      - Humanities.md
+      - ICT.md
+      - Physical Education.md

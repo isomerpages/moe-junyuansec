@@ -1,0 +1,85 @@
+logo: /images/logo2.gif
+links:
+  - title: Our Programmes
+    url: /our-programmes
+    sublinks:
+      - title: Applied Learning Programme
+        url: /our-programmes/applied-learning-programme-alp
+      - title: Learning for Life Programme
+        url: /our-programmes/learning-for-life-programme-llp
+      - title: Direct School Admission
+        url: /our-programmes/direct-school-admission-dsa-sec
+      - title: After-School Engagement
+        url: /our-programmes/after-school-engagement-ases-programme
+      - title: National Digital Literacy
+        url: /our-programmes/national-digital-literacy-programme-ndlp
+      - title: Character & Citizenship
+        url: /our-programmes/character-n-citizenship-programmes-e-c-g-sexuality-education-programme
+      - title: Home Based Learning
+        url: /our-programmes/home-based-learning
+      - title: Full SBB 2023
+        url: /our-programmes/full-sbb-2023
+  - title: Our Identity
+    url: /our-identity
+    sublinks:
+      - title: Principal's Message
+        url: /our-identity/principals-message-2024
+      - title: Our History
+        url: /our-identity/our-history
+      - title: Mission, Vision, Motto
+        url: /our-identity/mission-vision-motto-and-core-values
+      - title: Emblem & Song
+        url: /our-identity/emblem-n-song
+      - title: School Organisation
+        url: /our-identity/school-organisation
+  - title: Student Information
+    url: /student-information
+    sublinks:
+      - title: Open House (18 Nov 2023)
+        url: /student-information/open-house-18-nov-2023/
+      - title: Student Handbook
+        url: /student-information/student-handbook
+      - title: Learning and Assessment
+        url: /student-information/learning-and-assessment
+      - title: Events Calendar
+        url: /student-information/events-calendar
+      - title: Student ICT Matters
+        url: /student-information/student-ict-matters
+      - title: Student Learning Space (SLS)
+        url: /student-information/student-learning-space-sls
+      - title: Student Timetable
+        url: /student-information/student-timetable
+      - title: Sec 1 Students 2024
+        url: /student-information/sec-1-students-2024/welcome-to-the-junyuan-family/
+      - title: Sec 3 Subject Combination 2024
+        url: /student-information/sec-3-subject-combination-2024
+      - title: Internal Examination Matters
+        url: /student-information/internal-examination-matters
+      - title: School Uniform Vendor
+        url: /student-information/school-uniform-vendor
+      - title: Booklist 2024/Bookshop Vendor
+        url: /student-information/booklist-2024-n-bookshop-vendor
+  - title: CCA
+    url: /cca
+    sublinks:
+      - title: CCA Schedule
+        url: /cca/cca-schedule
+      - title: Performing Arts
+        url: /cca/performing-arts
+      - title: Uniformed Groups
+        url: /cca/uniformed-groups
+      - title: Sports
+        url: /cca/sports
+      - title: Clubs and Society
+        url: /cca/clubs-and-society
+  - title: Nurturing Our Champs
+    url: /nurturing-our-champs/accolades/junyuan-in-the-news
+    sublinks:
+      - title: Junyuan in the News
+        url: /nurturing-our-champs/accolades/junyuan-in-the-news
+      - title: Achievements
+        url: /nurturing-our-champs/achievements
+      - title: What's Happening
+        url: /nurturing-our-champs/whats-happening
+  - title: Other Information
+    collection: other-information
