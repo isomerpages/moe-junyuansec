@@ -8,10 +8,10 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 50%;" colspan="2"><img style="width: 50%;" src="/images/pvp.jpg"></td>
+<td style="width: 50%;" colspan="2"><img style="width: 50%;" src="/images/Tay_Meng_Kiat.jpg"></td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/1.jpg"></td>
+<td style="width: 50%;"><img src="/images/Lin_Pei.png"></td>
 <td style="width: 50%;"><img src="/images/pvp2.jpg"></td>
 </tr>
 </tbody>
