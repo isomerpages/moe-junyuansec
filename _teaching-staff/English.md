@@ -2,18 +2,6 @@
 title: English
 permalink: /our-identity/school-organisation/teaching-staff/english/
 description: ""
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/eng4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eng2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/eng3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/eng6.jpg"></td>
-<td style="width: 33.3333%;"> </td>
-<td style="width: 33.3333%;"> </td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/eng4.jpg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pamela.png"></div><p></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/eng3.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/eng2.jpg"></div><p></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/eng6.jpg"></div><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /our-identity/school-organisation/teaching-staff/mathematics/
 description: ""
+variant: markdown
 ---
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
@@ -18,12 +19,11 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ma7.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ma8.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma10.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/Hao_Yi.jpg"></td>
 </tr>
 <tr>
+<td style="width: 33.3333%;"><img src="/images/ma10.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ma11.jpg"></td>
-<td style="width: 33.3333%;">&nbsp;</td>
-<td style="width: 33.3333%;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
