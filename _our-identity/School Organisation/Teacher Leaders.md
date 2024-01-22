@@ -14,7 +14,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33%;"><img src="/images/tl6.jpg"></td>
-<td style="width: 33%;"><img src="/images/Feraj.jpg"></td>
+<td style="width: 33%;"><img src="/images/Staff_Photos__8_July_.jpg"></td>
 <td style="width: 33%;">&nbsp;</td>
 </tr>
 </tbody>
