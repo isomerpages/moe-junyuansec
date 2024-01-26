@@ -39,6 +39,8 @@ variant: tiptap
 <p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
     marriage is the best protection against STIs/HIV and unintended pregnancies.
     Casual sex can harm and hurt you and your loved ones.</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+    more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Junyuan Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2024</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
     is delivered in a holistic manner through the school curriculum. The content
