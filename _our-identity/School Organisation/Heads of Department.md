@@ -1,6 +1,6 @@
 ---
 title: Heads of Department
-permalink: /our-identity/school-organisation/key-personnel/
+permalink: /our-identity/school-organisation/heads-of-department/
 description: ""
 third_nav_title: School Organisation
 variant: tiptap
