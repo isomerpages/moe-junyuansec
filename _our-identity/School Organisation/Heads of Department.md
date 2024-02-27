@@ -1,5 +1,5 @@
 ---
-title: Key Personnel
+title: Heads of Department
 permalink: /our-identity/school-organisation/key-personnel/
 description: ""
 third_nav_title: School Organisation
