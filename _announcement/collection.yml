@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Announcement.md
-      - Outstanding Youth in Education Award 2023.md
       - Sec 1 Students.md
