@@ -19,11 +19,6 @@ sections:
           description: ""
           url: /useful-links
   - infobar:
-      title: Sec 1 Registration and Orientation 2024
-      id: infobar
-      button: Click Here
-      url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students-2024/administrative-information/
-  - infobar:
       title: Junyuan Secondary School Video
       id: infobar
       button: Click Here to view the video
