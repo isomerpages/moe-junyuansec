@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Accolades/Junyuan in the News.md
-      - Accolades/In The News.md
       - Accolades/Alumni Academic Achievements.md
       - Accolades/.keep
       - Achievements.md
