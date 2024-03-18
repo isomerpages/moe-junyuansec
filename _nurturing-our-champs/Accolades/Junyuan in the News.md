@@ -31,6 +31,8 @@ variant: tiptap
 </p>
 <p><a href="/files/AsiaOne%20-%20Rugby%20Apr%202010.pdf" rel="noopener noreferrer nofollow" target="_blank">2010 AsiaOne - Rugby</a>
 </p>
+<p><a href="/files/Temasek_Poly_Alumni.pdf" rel="noopener noreferrer nofollow" target="_blank">Temasek Poly Alumni</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
