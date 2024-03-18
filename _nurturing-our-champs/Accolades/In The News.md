@@ -3,9 +3,9 @@ title: In The News
 permalink: /nurturing-our-champs/accolades/junyuan-in-the-news/in-the-news/
 description: ""
 third_nav_title: Accolades
+variant: markdown
 ---
-<img src="/images/itn.jpg">
-<hr>
+
 <p>Greetings from Temasek Polytechnic!</p>
 <p>We are very happy to share with you the success story of your alumni who have recently graduated with excellent results from Temasek Polytechnic:</p>
 <table width="100%">
@@ -89,7 +89,7 @@ third_nav_title: Accolades
 </tr>
 </tbody>
 </table>
-<p>At the Polytechnic, we take great pride in providing our students with an education that prepares them for a future of dynamic change, continued growth and success. We enhance our students&rsquo; learning with a curriculum that is relevant to industry needs and enrich their experience with us through a variety of co-curricular activities, internship programmes and community projects.</p>
+<p>At the Polytechnic, we take great pride in providing our students with an education that prepares them for a future of dynamic change, continued growth and success. We enhance our students’ learning with a curriculum that is relevant to industry needs and enrich their experience with us through a variety of co-curricular activities, internship programmes and community projects.</p>
 <p>We look forward to your continuous support in helping us to groom your students for an exciting future ahead.</p>
 <p>Yours sincerely,</p>
-<p>Daniel Yeow<br />Senior Director &amp; Registrar<br />Temasek Polytechnic</p>
+<p>Daniel Yeow<br>Senior Director &amp; Registrar<br>Temasek Polytechnic</p>
