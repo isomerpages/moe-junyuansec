@@ -19,6 +19,11 @@ Congratulations Haris, Junyuan is proud of you!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/424680767_874037281390014_6982245450644883146_n.jpg">
 </div>
 <p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Huang Zhenqi" src="/images/Zhenqi__2021_.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/aluma1.jpg">
 </div>
@@ -36,10 +41,6 @@ Congratulations Haris, Junyuan is proud of you!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/aluma6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/aluma7.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
