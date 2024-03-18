@@ -39,10 +39,6 @@ Congratulations Haris, Junyuan is proud of you!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/aluma7.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/aluma8.png">
 </div>
 <p></p>
