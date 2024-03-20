@@ -2,9 +2,9 @@ collections:
   student-information:
     output: true
     order:
-      - 25th Anniversary/Open House (18 Nov 2023).md
-      - 25th Anniversary/.keep
       - Student Information.md
+      - 25th Anniversary/.keep
+      - 25th Anniversary/Open House (18 Nov 2023).md
       - Student Handbook.md
       - Learning and Assessment.md
       - Events Calendar.md
