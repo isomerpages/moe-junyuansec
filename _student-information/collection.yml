@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 25th Anniversary/.keep
-      - Open House (18 Nov 2023).md
       - Student Information.md
       - Student Handbook.md
       - Learning and Assessment.md
