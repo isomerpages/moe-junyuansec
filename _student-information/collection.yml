@@ -2,7 +2,6 @@ collections:
   student-information:
     output: true
     order:
-      - Open House (18 Nov 2023)/.keep
       - Open House (18 Nov 2023).md
       - Student Information.md
       - 25th Anniversary.md
