@@ -9,11 +9,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/2023%20jyss%20banner%20final%20final.png">
 </div>
 <h4><strong>Register for Open House 18 Nov 2023!</strong></h4>
+<p><strong>Link: <a href="https://form.gov.sg/65d815ba080be2d38e62cf1a" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65d815ba080be2d38e62cf1a</a></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_03_18_at_15_32_20.jpg">
 </div>
-<p><a href="https://form.gov.sg/652f63e48096d00011bd2fbb" rel="noopener noreferrer nofollow" target=""><u>https://form.gov.sg/652f63e48096d00011bd2fbb</u></a>
-</p>
+<p></p>
 <h4><strong>FAQs for Open House</strong></h4>
 <p><a href="/files/FAQ_Open_House_2023.pdf" rel="noopener" target="_blank"><u>FAQ Open House.pdf</u></a>
 </p>
