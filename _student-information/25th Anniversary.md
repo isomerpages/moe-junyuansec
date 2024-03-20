@@ -10,7 +10,7 @@ variant: markdown
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
-<td style="width: 33%;"><img src="/images/open%20house%202023.jpeg"></td>
+<td style="width: 50%;"><img src="/images/WhatsApp_Image_2024_03_18_at_15_32_20.jpg"></td>
 <td style="width: 66%;">&nbsp;</td>
 </tr>
 </tbody>
