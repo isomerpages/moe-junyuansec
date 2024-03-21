@@ -14,6 +14,6 @@ you to our School Advisory Committee, Parents and Alumni for their generous
 contributions and heartfelt support, for our Anniversary Walk on 7 March,
 Bedok Reservoir.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CbsAuqqTKak?si=HjlqNmBfwHEwVBH7"></iframe>
+<iframe height="345" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CbsAuqqTKak?si=HjlqNmBfwHEwVBH7"></iframe>
 </div>
 <p></p>
