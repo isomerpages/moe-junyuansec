@@ -3,10 +3,11 @@ collections:
     output: true
     order:
       - Student Information.md
+      - 25th Anniversary/25th Anniversary.md
       - 25th Anniversary/.keep
       - 25th Anniversary/Jyss Anniversary Walk.md
       - 25th Anniversary/Soiree.md
-      - 25th Anniversary/Open House (18 Nov 2023).md
+      - 25th Anniversary/Open House (23 Nov 2023).md
       - 25th Anniversary/Alumni Registration.md
       - Student Handbook.md
       - Learning and Assessment.md
