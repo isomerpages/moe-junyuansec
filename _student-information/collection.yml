@@ -3,7 +3,11 @@ collections:
     output: true
     order:
       - Student Information.md
-      - Open House (18 Nov 2023).md
+      - 25th Anniversary/.keep
+      - 25th Anniversary/Jyss Anniversary Walk.md
+      - 25th Anniversary/Soiree.md
+      - 25th Anniversary/Open House (18 Nov 2023).md
+      - 25th Anniversary/Alumni Registration.md
       - Student Handbook.md
       - Learning and Assessment.md
       - Events Calendar.md
@@ -13,6 +17,7 @@ collections:
       - Student ICT Matters/Student iCON Accounts.md
       - Student Learning Space (SLS).md
       - Student Timetable.md
+      - Sec 1 Students 2024/.keep
       - Sec 1 Students 2024/Welcome to the Junyuan Family!.md
       - Sec 1 Students 2024/Administrative Information.md
       - Sec 1 Students 2024/Financial Assistance Scheme.md
@@ -23,11 +28,10 @@ collections:
       - Sec 1 Students 2024/Medical Appeal Exercise (MAE).md
       - Sec 1 Students 2024/Waiting List.md
       - Sec 1 Students 2024/Contact Us.md
-      - Sec 1 Students 2024/.keep
       - Sec 3 Subject Combination 2024.md
+      - Internal Examination Matters/.keep
       - Internal Examination Matters/Internal Examination Matters.md
       - Internal Examination Matters/Rules and Regulations.md
       - Internal Examination Matters/Timetable.md
-      - Internal Examination Matters/.keep
       - School Uniform Vendor.md
       - Booklist 2024 & Bookshop Vendor.md
