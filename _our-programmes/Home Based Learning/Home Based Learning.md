@@ -84,7 +84,11 @@ they are at home.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Instructions to Students </strong></h4>
+<p><em>* Students from Sec 4D to 4G and Sec 5A will be taking their O-Level MTL written prelims</em>
+</p>
+<p><em><sup>#&nbsp; </sup>Students from Sec 4D to 4G and Sec 5A will be having their O-Level MTL intensive lessons</em>
+</p>
+<h4><strong>Instructions to Students</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Subject teachers for English, Mathematics, Science, Humanities and Mother
