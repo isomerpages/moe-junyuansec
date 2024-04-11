@@ -84,7 +84,9 @@ they are at home.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>^ Students from Sec 4A to 4H and Sec 5A will be taking their O-Level EL/MTL
+<p>^ Students from Sec 4D to 4G and Sec 5A will be taking their O-Level EL/MTL
+oral prelims</p>
+<p>^ Students from Sec 4A, 4B, 4C and 4H will be taking their N-Level EL/MTL
 oral prelims</p>
 <p><em>* Students from Sec 4D to 4G and Sec 5A will be taking their O-Level MTL written prelims</em>
 </p>
