@@ -43,7 +43,7 @@ they are at home.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 April 2024 (Fri)</p>
+<p>12 April 2024 (Fri)^</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 to 5</p>
@@ -84,6 +84,8 @@ they are at home.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p>^ Students from Sec 4D to 4G and Sec 5A will be taking their O-Level EL/MTL
+oral prelims</p>
 <p><em>* Students from Sec 4D to 4G and Sec 5A will be taking their O-Level MTL written prelims</em>
 </p>
 <p><em><sup>#&nbsp; </sup>Students from Sec 4D to 4G and Sec 5A will be having their O-Level MTL intensive lessons</em>
