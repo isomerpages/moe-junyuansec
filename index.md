@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner updated.gif
+      background: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1_.png
       key_highlights:
         - title: Announcement
           description: ""
@@ -18,13 +18,11 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
-  - infopic:
+  - infobar:
       title: JYSS 25th Anniversary
-      id: infopic
-      button: CLICK HERE FOR MORE INFORMATION
+      id: infobar
+      button: CLICK HERE FOR MORE INFO
       url: /student-information/25th-anniversary/25th-anniversary/
-      image: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1_.png
-      alt: Image alt text
   - infobar:
       title: Junyuan Secondary School Video
       id: infobar
