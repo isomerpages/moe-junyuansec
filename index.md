@@ -18,11 +18,13 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
-  - infobar:
+  - infopic:
       title: JYSS 25th Anniversary
-      id: infobar
+      id: infopic
       button: CLICK HERE FOR MORE INFORMATION
       url: /student-information/25th-anniversary/25th-anniversary/
+      image: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1_.png
+      alt: Image alt text
   - infobar:
       title: Junyuan Secondary School Video
       id: infobar
