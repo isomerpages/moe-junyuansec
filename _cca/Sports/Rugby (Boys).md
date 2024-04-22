@@ -3,6 +3,7 @@ title: Rugby (Boys)
 permalink: /cca/sports/rugby-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 <p>Rugby is a gentleman sport, and JYSS Rugby strives to imbue that spirit in all of our players and foster players who play with pride and honour.&nbsp;We also want them to improve fitness while developing social skills like tolerance, leadership, concentration, determination, teamwork – and, of course, how to deal graciously with success or defeat.</p>
 <p>Apart from picking up rugby skills such as tackling, catching and passing, they also keep fit and train their stamina through weekly gym sessions. In JYSS Rugby, we strive to constantly hone our skills and grow to become better athletes. We also expect all our players to demonstrate commitment, responsibility and discipline.</p>
@@ -17,6 +18,7 @@ third_nav_title: Sports
 B Div: Every Tuesday and Thursday (3pm – 5pm) <br>
 School Field/School Gym/Fitness Corner.</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mr S. M. Alsagoff<br>2. Mr Nicholas Goh<br>3. Ms Debbie Lim<br>4. Ms Siti Amirah</p>
+<p><strong>CCA Coaches<br></strong><strong>C Dvision:</strong> Muhammad Yazid Bin Rosli<br></p><strong>B Dvision:</strong> Mohamad Jamal Bin Mohd Smeh<br><p></p>
 
 <p><strong>CCA Leaders (Year 2023)<br></strong>1. Captain: Ahmad Farhan (3-B)<br>2. Vice- Captain: Mohammed Darwisy Uqail (3-B)<br>
 3. Vice-Captain: Muhammad Syukri (3-B)</p>
@@ -77,5 +79,3 @@ School Field/School Gym/Fitness Corner.</p>
 
 <img style="width: 70%;" src="/images/rug6.jpg">
 <p style="text-align: center;">"The feeling of competing on the field and winning is both thrilling and exciting.”&nbsp;<br>- Emre (4N2, 2023)</p>
-
-
