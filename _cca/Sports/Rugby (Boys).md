@@ -18,7 +18,7 @@ variant: markdown
 B Div: Every Tuesday and Thursday (3pm – 5pm) <br>
 School Field/School Gym/Fitness Corner.</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mr S. M. Alsagoff<br>2. Mr Nicholas Goh<br>3. Ms Debbie Lim<br>4. Ms Siti Amirah</p>
-<p><strong>CCA Coaches<br></strong><strong>C Dvision:</strong> Muhammad Yazid Bin Rosli<br></p><strong>B Dvision:</strong> Mohamad Jamal Bin Mohd Smeh<br><p></p>
+<p><strong>CCA Coaches<br></strong><strong>C Dvision:</strong> Muhammad Yazid Bin Rosli<br></p><strong>B Dvision:</strong> Mohamad Jamal Bin Mohd Smeh<br>
 
 <p><strong>CCA Leaders (Year 2023)<br></strong>1. Captain: Ahmad Farhan (3-B)<br>2. Vice- Captain: Mohammed Darwisy Uqail (3-B)<br>
 3. Vice-Captain: Muhammad Syukri (3-B)</p>
