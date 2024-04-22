@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: 25th Anniversary
 ---
 <h2>WELCOME!</h2>
-<h4><strong>Register for Open House 23 Nov 2023!</strong></h4>
+<h4><strong>Register for Open House 23 Nov 2024!</strong></h4>
 <p>Scan the QR code or click the link below<strong>:</strong>
 </p>
 <p><strong><a href="https://form.gov.sg/65d815ba080be2d38e62cf1a" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65d815ba080be2d38e62cf1a</a></strong>
