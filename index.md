@@ -18,7 +18,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
-      variant: center
+      variant: image
   - infobar:
       title: JYSS 25th Anniversary
       id: infobar
