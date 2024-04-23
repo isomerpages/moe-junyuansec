@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1_.png
+      background: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1___4_.png
       key_highlights:
         - title: Announcement
           description: ""
@@ -18,6 +18,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links
+      variant: center
   - infobar:
       title: JYSS 25th Anniversary
       id: infobar
