@@ -12,6 +12,5 @@ as connect to the school Wi-Fi network (SSID:&nbsp;<a href="mailto:SWN@SSOE" rel
 <p>Note: Students who do not have computer/internet access from home, do
 approach your Form Teacher or General office directly for assistance.</p>
 <h4><strong>SSOE/Student ICON Password Reset Form</strong></h4>
-<p></p>
 <p>Click here:&nbsp;<strong><a href="https://go.gov.sg/jyssoe" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyssoe</u></a></strong>
 </p>
