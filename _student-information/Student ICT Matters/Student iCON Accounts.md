@@ -16,7 +16,7 @@ for students to use the MOE’s Centralised System.</p>
 <p><strong>HOW DO I LOG IN?</strong>
 </p>
 <p>You can log in to Student iCON via this QR code or this link:&nbsp;
-<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u>
+<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>https://workspace.google.com/dashboard</u> 
 </a>.</p>
 <table>
 <tbody>
@@ -65,5 +65,7 @@ easily.</p>
 </ul>
 <p>For a step by step guide, please refer to this file:&nbsp;<a href="/files/Student%20iCON%20Onboarding%20Guide1.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Student iCON Onboarding Guide.pdf</u></a>
 </p>
-<h4></h4>
+<h4><strong>SSOE/Student ICON Password Reset Form</strong></h4>
+<p>Click here:&nbsp;<strong><a href="https://go.gov.sg/jyssoe" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyssoe</u></a></strong>
+</p>
 <p></p>
