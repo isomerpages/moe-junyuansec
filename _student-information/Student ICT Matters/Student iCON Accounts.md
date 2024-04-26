@@ -6,8 +6,8 @@ third_nav_title: Student ICT Matters
 variant: tiptap
 ---
 <h4><strong>Student ICON/MIMs/SSOE Password Reset Form</strong></h4>
-<p>Click here:&nbsp;<strong><a href="https://go.gov.sg/jyssoe" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyssoe</u></a></strong>
-</p>
+<p>Click here:&nbsp;<strong><a href="https://go.gov.sg/jyssoe" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyssoe     </u></a></strong>OR
+you may follow the guide below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/password_reset.jpg">
 </div>
