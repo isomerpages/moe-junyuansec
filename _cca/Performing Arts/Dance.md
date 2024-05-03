@@ -29,7 +29,7 @@ or her own initiative;</p>
 <p>a team-player who is willing to contribute and be committed to the CCA</p>
 </li>
 </ul>
-<p><strong>Motto</strong>
+<p><strong>Motto</strong> 
 <br>Respect, Discipline and Focus
 <br>In Dance, we aim to cultivate a strong sense of respect and discipline
 in our members.
@@ -37,7 +37,11 @@ in our members.
 mentality and be resilient.</p>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -75,14 +79,14 @@ hone their skills but also cultivates confidence and resilience.</p>
 <td rowspan="1" colspan="1">
 <p><strong>President</strong>
 </p>
-<p>Sun le Shayne ( 3D)</p>
+<p>Sun Le Shayne ( 3D)</p>
 <p><strong>Vice-Presidents (Training)</strong>
 </p>
 <p>Rachel Choo Zhixuan (3C)</p>
 <p>Hazel Leong Qi En (3E)</p>
 <p><strong>Vice-Presidents (Publicity)</strong>
 </p>
-<p>Kiera Soh (3D)</p>
+<p>Keira Soh (3D)</p>
 <p>Mohamad Danish Anaqi&nbsp; (3A )</p>
 <p><strong>Vice President- Welfare</strong>
 </p>
