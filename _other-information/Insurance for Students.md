@@ -4,7 +4,10 @@ permalink: /other-information/insurance-for-students/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,7 +32,7 @@ User Guide:
 </p>
 <p><a href="/files/student%20gpa%20user%20guide%20parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide (Parent)</a>
 </p>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet (Year 2024 May)-Revised</a>
 </p>
 </td>
 </tr>
