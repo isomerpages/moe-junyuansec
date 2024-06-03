@@ -4,7 +4,20 @@ permalink: /student-information/sec-3-subject-combination-2025/
 description: ""
 variant: tiptap
 ---
-<p><a href="/files/Sec_2_Engagement_with_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">1. Sec 2 Engagement with Parents</a>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec_2_Engagement_with_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Engagement with Parents</a>
 </p>
-<p><a href="/files/Sec_3_Subject_Combination_2025_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Sec 3 Subject Combination 2025_for Parents</a>
+</li>
+<li>
+<p><a href="/files/Sec_3_Subject_Combination_2025_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Subject Combination 2025_for Parents</a>
 </p>
+</li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec_3_Subject_Combination_2025_Info_Booklet_All.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Subject Combination 2025 Info Booklet_All</a>
+</p>
+</li>
+</ol>
+<p></p>
