@@ -46,7 +46,7 @@ variant: tiptap
 </p>
 <p><strong>Clubs and Societies</strong>
 </p>
-<p>1. Infocomm Technology (Computing): <a href="https://file.go.gov.sg/jyss-infocomm-schedule-2021.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-infocomm-schedule</u></a>
+<p>1. Infocomm Technology (Computing): <a href="https://docs.google.com/spreadsheets/d/1LQCYk8LnM1uNJSkaF_-kMzTnLCOTqe_DUxuDbqL_yDM/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-infocomm-schedule</u></a>
 </p>
 <p>2. Media Production Club</p>
 <ul data-tight="true" class="tight">
