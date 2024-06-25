@@ -1,6 +1,6 @@
 ---
-title: School Canteen
-permalink: /school-canteen/
+title: School Canteen Advertisement
+permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
@@ -17,7 +17,7 @@ the following:</p>
 <p>We are located at 11 Tampines Street 84, Singapore 528933. If you interested
 to apply, please send in your application to us. You may download the application
 form&nbsp;<a href="https://go.gov.sg/bdms-canteenform" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Interested applicants must meet the following criteria:</strong>
+<p><strong><u>Interested applicants must meet the following criteria</u>:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,7 +47,7 @@ Food Hygiene Certificate (SFA).</p>
 <p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 </ul>
-<p><strong>Upon successful award, the stallholder is expected to:</strong>
+<p><strong><u>Upon successful award, the stallholder is expected to</u>:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,9 +62,9 @@ to Friday during school term time.</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be notified for an interview and will be required
-to provide food sampling for the School Holistic Health &amp; Canteen Committee
-at the applicant’s own expense.</p>
-<p><strong>Application procedure</strong>
+to provide food sampling for the School Canteen Committee at the applicant’s
+own expense.</p>
+<p><strong><u>Application procedure</u></strong>
 </p>
 <p>Attach the following documents together with the application form.</p>
 <ul data-tight="true" class="tight">
