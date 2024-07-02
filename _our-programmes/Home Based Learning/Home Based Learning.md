@@ -103,7 +103,7 @@ oral examinations.</p>
 <li>
 <p>Subject teachers for English, Mathematics, Science, Humanities and Mother
 Tongue will be assigning lessons and assignments to you based on the HBL
-day’s timetable. You can access the class timetable here -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/student-information/student-timetable</a>.</p>
+day’s timetable. You can access the class timetable here -&nbsp;<a href="https://junyuansec.moe.edu.sg/student-information/student-timetable" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/student-information/student-timetable</a>.</p>
 </li>
 <li>
 <p>An email link will be sent to your ICON account at the start of each HBL
@@ -123,7 +123,7 @@ learning on HBL.</p>
 <li>
 <p>Seek assistance from your teachers if you are unable to locate the learning
 resources during HBL. You can find their email addresses here:&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/other-information/contact-us/staffs-emails</a>
+<p><a href="https://junyuansec.moe.edu.sg/other-information/contact-us/staffs-emails" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/other-information/contact-us/staffs-emails</a>
 </p>
 <p>You can email the HOD of the relevant subject if you are unable to locate
 your subject teacher’s name.&nbsp;</p>
@@ -139,10 +139,10 @@ teachers&nbsp;</p>
 <li>
 <p>Ensure you have the passwords for the following applications:</p>
 <p>a. Student Learning Space (SLS) – To reset your password, please go to
-this page -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jysls</a>
+this page -&nbsp;<a href="https://go.gov.sg/jysls" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jysls</a>
 </p>
 <p>b. SSOE and Student ICON email (<a rel="noopener noreferrer nofollow" target="_blank">yourname@students.edu.sg</a>)
-– To reset your password, please go to this page -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyssoe</a>
+– To reset your password, please go to this page -&nbsp;<a href="https://go.gov.sg/jyssoe" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyssoe</a>
 </p>
 </li>
 <li>
@@ -156,11 +156,11 @@ so that the mind can consolidate and make time to exercise and eat well.</p>
 <li>
 <p>The following links provide tips on how to support your child/ward during
 HBL days:</p>
-<p>a.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+<p>a.&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
-<p>b.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
+<p>b.&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
 </p>
-<p>c.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits</a>
+<p>c.&nbsp;<a href="https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits</a>
 </p>
 </li>
 </ol>
