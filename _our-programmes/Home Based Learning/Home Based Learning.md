@@ -116,6 +116,9 @@ their HBL progress.</p>
 provided in the SLS assigned lessons, or in the ICON email by your subject
 teachers. You should adopt the following CHAMPS routines to improve your
 learning on HBL.</p>
+<p><a href="/files/HBL_Routines.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Routines</a>
+</p>
+<p></p>
 </li>
 <li>
 <p>Seek assistance from your teachers if you are unable to locate the learning
@@ -153,11 +156,11 @@ so that the mind can consolidate and make time to exercise and eat well.</p>
 <li>
 <p>The following links provide tips on how to support your child/ward during
 HBL days:</p>
-<p>a. <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
+<p>a.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
 </p>
-<p>b. <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
+<p>b.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness</a>
 </p>
-<p>c. <a rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits</a>
+<p>c.&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits</a>
 </p>
 </li>
 </ol>
