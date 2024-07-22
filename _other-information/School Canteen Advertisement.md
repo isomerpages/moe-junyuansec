@@ -8,10 +8,10 @@ description: ""
 the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Western Food (Halal Certified preferred) Stall</p>
+<p>Western Food (Halal Certified preferred) Stall - (Application Closed)</p>
 </li>
 <li>
-<p>Noodle Stall</p>
+<p>Chinese Noodle Stall</p>
 </li>
 </ol>
 <p>We are located at 11 Tampines Street 84, Singapore 528933. If you interested
