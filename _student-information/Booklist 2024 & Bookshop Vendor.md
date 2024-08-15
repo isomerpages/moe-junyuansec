@@ -4,4 +4,131 @@ permalink: /student-information/booklist-2024-n-bookshop-vendor/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Booklist 2024</strong></h4><p>To download a copy, please click on your respective level.</p><table><tbody><tr><td rowspan="1" colspan="1"><p>SECONDARY 1</p></td><td rowspan="1" colspan="1"><p>SECONDARY 2</p></td><td rowspan="1" colspan="1"><p>SECONDARY 3</p></td><td rowspan="1" colspan="1"><p>SECONDARY 4</p></td><td rowspan="1" colspan="1"><p>SECONDARY 5</p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2024_Sec_1__Booklist__Final_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%202%20express%20booklist.pdf" rel="noopener noreferrer nofollow" target="">2EXP</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%203%20express%20booklist.pdf" rel="noopener noreferrer nofollow" target="">3EXP</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%204%20express%20booklist.pdf" rel="noopener noreferrer nofollow" target="">4EXP</a></p></td><td rowspan="3" colspan="1"><p><a href="/files/2024%20sec%205%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">5NA</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%202%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">2NA</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%203%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">3NA</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%204%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">4NA</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%202%20normal%20technical%20booklist.pdf" rel="noopener noreferrer nofollow" target="">2NT</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%203%20normal%20technical%20booklist.pdf" rel="noopener noreferrer nofollow" target="">3NT</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2024%20sec%204%20normal%20technical%20booklist.pdf" rel="noopener noreferrer nofollow" target="">4NT</a></p></td></tr></tbody></table><h4><strong>Bookshop Vendor</strong></h4><table><tbody><tr><td rowspan="1" colspan="2"><p>Casco Educational Supply Pte Ltd – School Texbooks &amp; Stationery&nbsp;</p></td></tr><tr><td rowspan="1" colspan="1"><p>Contact Person</p></td><td rowspan="1" colspan="1"><p>Mdm Tan</p></td></tr><tr><td rowspan="1" colspan="1"><p>Telephone</p></td><td rowspan="1" colspan="1"><p>9669 2997 / 67862820</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operating Hours</p></td><td rowspan="1" colspan="1"><p>Monday to Friday<br>8.00am to 3:00pm&nbsp;<br>Closed on Public Holidays, Saturday and Sunday<br>Walk In Purchase – by appointment only</p></td></tr></tbody></table><p></p>
+<h4><strong>Booklist 2024</strong></h4>
+<p>To download a copy, please click on your respective level.</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SECONDARY 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SECONDARY 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SECONDARY 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SECONDARY 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SECONDARY 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_Sec_1__Booklist__Final_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%202%20express%20booklist.pdf" rel="noopener noreferrer nofollow" target="">2EXP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%203%20express%20booklist.pdf" rel="noopener noreferrer nofollow" target="">3EXP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%204%20express%20booklist.pdf" rel="noopener noreferrer nofollow" target="">4EXP</a>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="/files/2024%20sec%205%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">5NA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%202%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">2NA</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%203%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">3NA</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%204%20normal%20academic%20booklist.pdf" rel="noopener noreferrer nofollow" target="">4NA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%202%20normal%20technical%20booklist.pdf" rel="noopener noreferrer nofollow" target="">2NT</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%203%20normal%20technical%20booklist.pdf" rel="noopener noreferrer nofollow" target="">3NT</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024%20sec%204%20normal%20technical%20booklist.pdf" rel="noopener noreferrer nofollow" target="">4NT</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Bookshop Vendor</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>ASENCIO Pte Ltd – School Texbooks &amp; Stationery&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Contact Person</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Telephone</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9669 2997</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday
+<br>8.00am to 3:00pm&nbsp;
+<br>Closed on Public Holidays, Saturday and Sunday
+<br>Walk In Purchase – by appointment only</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
