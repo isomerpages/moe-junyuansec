@@ -13,3 +13,11 @@ variant: tiptap
 </p>
 <p><a href="/files/Prelim_Timetable_2024__O_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Prelim Timetable 2024 (19 Aug-28 Aug)</a>
 </p>
+<p><strong>End-Of-year Examination 2024</strong>
+</p>
+<p><a href="/files/EOY_Timetable_2024_Sec_1.pdf" rel="noopener nofollow" target="_blank">EOY_Timetable_2024_Sec_1</a>
+</p>
+<p><a href="/files/EOY_Timetable_2024_Sec_2.pdf" rel="noopener nofollow" target="_blank">EOY_Timetable_2024_Sec_2</a>
+</p>
+<p><a href="/files/EOY_Timetable_2024_Sec_3.pdf" rel="noopener nofollow" target="_blank">EOY_Timetable_2024_Sec_3</a>
+</p>
