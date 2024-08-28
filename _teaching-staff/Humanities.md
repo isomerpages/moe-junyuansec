@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/h2.jpg">
+<img style="width: 95%;" height="auto" width="100%" src="/images/h2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
