@@ -5,7 +5,13 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -20,8 +26,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/sh9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ng_SUi_Lin_updated.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -32,8 +39,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/sh5.jpg">
+<img style="width: 85%;" height="auto" width="100%" src="/images/sh7.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -44,6 +52,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/sh6.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -61,8 +70,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/sh7.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/sh9.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
