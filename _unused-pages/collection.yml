@@ -1,5 +1,4 @@
 collections:
   unused-pages:
     output: true
-    order:
-      - Locker Vendor.md
+    order: []
