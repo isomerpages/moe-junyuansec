@@ -410,16 +410,18 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1aaa.jpg">
+</div>
 <p><strong>Focus and Purpose</strong>
 </p>
-<p>Through this CCA, we aim to groom competent and confident CCA leaders
-as we ignite a passion for photography and videography in them, as well
-as the acquisition of technical knowledge of the media mediums, by engaging
-students in workshops and activities which will educate, train and guide
-them, and to provide experiential opportunities to exercise what they have
-learnt in external photography and videography competitions to gain greater
-exposure.</p>
-<p>&lt;</p>
+<p>Through this CCA, we aim to mentor and develop competent and confident
+CCA leaders as we ignite a passion for photography and videography in them,
+as well as the acquisition of technical knowledge of the media mediums,
+by engaging students in workshops and activities which will educate, train
+and guide them, and to provide experiential opportunities to exercise what
+they have learnt in external photography and videography competitions to
+gain greater exposure.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -429,45 +431,41 @@ exposure.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/picture2e.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/a2.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/picture3g.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/a1aaa.jpg">
 </div>
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/files/picture4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/a3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/picture5.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/picture5.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>We also give students the chance to handle high-end equipment such as
-DSLR cameras to assist in club activities and to cover school events both
-internally and outside of school such as Singapore Youth Festival and Canon
-Youth Photography Challenge. Students can gain valuable experience and
-develop their ownership, leadership skill and responsibility by volunteering
-for duties during these school events. We will further expand our students’
-repertoire of skills to include journalistic interviews, live streaming,
-photo and video editing.</p>
+<p>Student members will be given the chance to handle high-end equipment
+such as DSLR cameras, GoPro to assist in club activities and to cover school
+events both internally and outside of school such as Singapore Youth Festival
+and National Sports Game. Students can gain valuable experience and develop
+their ownership, leadership skill and responsibility by volunteering for
+duties during these school events. We further expand our students’ repertoire
+of skills to include journalistic interviews, live streaming, photo and
+video editing.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -481,9 +479,7 @@ photo and video editing.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/picture7.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -491,22 +487,21 @@ photo and video editing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" src="/images/itmp5.jpg">
 </div>
-<p><em>Photographic works by Noor Danish and Fatimah were selected and showcased for Singapore Youth Festival’s Pixel Perfect 2022 Showcase</em>
-</p>
+<p></p>
 <p><strong>Programmes and Activities</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Canon Workshops: Photography and Videography, Editing and Publication</p>
+<p>Canon Workshops: Photography and Videography, Editing</p>
 </li>
 <li>
 <p>Leadership Trainings</p>
 </li>
 <li>
-<p>Coverage of school events</p>
+<p>Coverage of school events (internal and external)</p>
 </li>
 <li>
-<p>Learning Journey and Artist’s Workshop</p>
+<p>Learning Journeys</p>
 </li>
 <li>
 <p>Documenting journeys of other CCA groups</p>
@@ -566,6 +561,10 @@ photo and video editing.</p>
 </table>
 <p><strong>Awards/Achievements</strong>
 </p>
+<p><strong><u>2024</u></strong>
+</p>
+<p>(a) Our Schools, Our Stories Photo Contest 2024 – Certificate of Participation</p>
+<p>(b) Thank You NSMen Workshop 2024 – Certificate of Participation</p>
 <p><strong><u>2023<br></u></strong>(a) Our Schools, Our Stories Photo Contest
 2023 – Certificate of Participation
 <br>(b) Thank You NSMen Video Competition 2023 - Certificate of Participation
