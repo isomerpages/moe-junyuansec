@@ -3,340 +3,624 @@ title: Infocommm Technology (Media Production)
 permalink: /cca/clubs-and-society/infocommm-technology-media-production/
 description: ""
 third_nav_title: Clubs And Society
+variant: tiptap
 ---
-<img style="width: 70%;" src="/images/itmp1.jpg">
-
-<p><strong>Focus and Purpose</strong></p>
-<p>Through this CCA, we aim to groom competent and confident CCA leaders as we ignite a passion for photography and videography in them, as well as the acquisition of technical knowledge of the media mediums, by engaging students in workshops and activities which will educate, train and guide them, and to provide experiential opportunities to exercise what they have learnt in external photography and videography competitions to gain greater exposure.</p>
-&lt;
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<p><strong>Teachers</strong>
+</p>
+<p>1. Ms Teh Li Wah / teh_li_wah@moe.edu.sg
+<br>2. Mr Adzmey Asmom /adzmey_asmom@moe.edu.sg</p>
+<p><strong>CCA Information</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/picture2e.jpg"></td>
-<td style="width: 57%;"><img src="/images/picture3g.jpg"></td></tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/files/picture4.jpg"></td>
-<td style="width: 57%;"><img src="/images/picture5.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p>We also give students the chance to handle high-end equipment such as DSLR cameras to assist in club activities and to cover school events both internally and outside of school such as Singapore Youth Festival and Canon Youth Photography Challenge. Students can gain valuable experience and develop their ownership, leadership skill and responsibility by volunteering for duties during these school events. We will further expand our students’ repertoire of skills to include journalistic interviews, live streaming, photo and video editing.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/picture6.jpg"></td>
-<td style="width: 57%;"><img src="/images/picture7.jpg"></td>
-</tr>
-</tbody>
-</table>
-<img style="width: 90%;" src="/images/itmp5.jpg">
-<p style="text-align: center;"><em>Photographic works by Noor Danish and Fatimah were selected and showcased for Singapore Youth Festival’s Pixel Perfect 2022 Showcase</em></p>
-<p><strong>Programmes and Activities</strong></p>
-<ul>
-<li>Canon Workshops: Photography and Videography, Editing and Publication</li>
-<li>Leadership Trainings</li>
-<li>Coverage of school events</li>
-<li>Learning Journey and Artist’s Workshop</li>
-<li>Documenting journeys of other CCA groups</li>
-</ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/itmp6.jpg"></td>
-<td style="width: 50%;"><img src="/images/itmp7.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/itmp8.jpg"></td>
-<td style="width: 50%;"><img src="/images/itmp9.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p><strong>You can view more photos and video by our members here:</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/itmp10.jpg"></td>
-<td style="width: 50%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Teachers</strong></p>
-<p>1. Ms Teh Li Wah / teh_li_wah@moe.edu.sg<br>2. Mr Adzmey Asmom /adzmey_asmom@moe.edu.sg</p>
-<p><strong>CCA Information</strong></p>
-<table width="78%">
-<tbody>
-<tr>
-<td style="text-align: center;" width="16%">
-<p><strong>Day</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
 </td>
-<td style="text-align: center;" width="20%">
-<p><strong>Time</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
 </td>
-<td style="text-align: center;" width="62%">
-<p><strong>Venue</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;" width="16%">
+<td rowspan="1" colspan="1">
 <p>Tuesday</p>
 </td>
-<td style="text-align: center;" width="20%">
+<td rowspan="1" colspan="1">
 <p>1500 – 1700</p>
 </td>
-<td style="text-align: center;" width="62%">
+<td rowspan="1" colspan="1">
 <p>Library Level 2 / Media Productions Studio</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders (Year 2023-2024)</strong></p>
-<table width="100%">
+<p><strong>CCA Leaders (Year 2024-2025)</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td width="53%">
-<p><strong>CCA Leaders (Photography &amp; Videography)</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Leaders (Photography &amp; Videography)</strong>
+</p>
 </td>
-<td width="8%">
-<p><strong>Class</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
 </td>
-<td width="29%">
-<p><strong>Position</strong></p>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
 </td>
-<td width="8%">
-<p><strong>Level</strong></p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Kaden Low Jun Xi</p>
-</td>
-<td width="8%">
-<p>3D</p>
-</td>
-<td width="29%">
-<p>President</p>
-</td>
-<td width="8%">
-<p>Upper</p>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td width="53%">
+<td rowspan="1" colspan="1">
 <p>Germaine Ng Shi Xuan</p>
 </td>
-<td width="8%">
-<p>2C</p>
+<td rowspan="1" colspan="1">
+<p>3B</p>
 </td>
-<td width="29%">
-<p>Vice-President 1</p>
+<td rowspan="1" colspan="1">
+<p>President</p>
 </td>
-<td width="8%">
-<p>Lower</p>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
 </td>
 </tr>
-	<tr>
-<td width="53%">
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jaylen Lee Si Xuan</p>
 </td>
-<td width="8%">
-<p>2F</p>
+<td rowspan="1" colspan="1">
+<p>3G</p>
 </td>
-<td width="29%">
-<p>Vice-President 2</p>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
 </td>
-<td width="8%">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Nur Syazana Binte Safie</p>
-</td>
-<td width="8%">
-<p>2G</p>
-</td>
-<td width="29%">
-<p>Lower Sec Head 1</p>
-</td>
-<td width="8%">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Nur Athirah Binte Mohammad Omar</p>
-</td>
-<td width="8%">
-<p>2G</p>
-</td>
-<td width="29%">
-<p>Lower Sec Head 2</p>
-</td>
-<td width="8%">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p><strong>CCA Leaders (Welfare &amp; Logistics)</strong></p>
-</td>
-<td width="8%">
-<p><strong>Class</strong></p>
-</td>
-<td width="29%">
-<p><strong>Position</strong></p>
-</td>
-<td width="8%">
-<p><strong>Level</strong></p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Sin Yu Javier</p>
-</td>
-<td width="8%">
-<p>1F</p>
-</td>
-<td width="29%">
-<p>Head</p>
-</td>
-<td width="8%">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Muhammad Rizq Danish B Mohammad Raihan</p>
-</td>
-<td width="8%">
-<p>1F</p>
-</td>
-<td width="29%">
-<p>Vice-Head</p>
-</td>
-<td width="8%">
+<td rowspan="1" colspan="1">
 <p>Upper</p>
 </td>
 </tr>
 <tr>
-<td width="53%">
-<p><strong>Executive Committee</strong></p>
-</td>
-<td width="8%">
-<p><strong>Class</strong></p>
-</td>
-<td width="29%">
-<p><strong>Position</strong></p>
-</td>
-<td width="8%">
-<p><strong>Level</strong></p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Zhong Dingxun, Tyler</p>
-</td>
-<td width="8%">
-<p>3E</p>
-</td>
-<td width="29%">
-<p>Executive Committee Member</p>
-</td>
-<td width="8%">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Nurul Syakirah Binte Sani</p>
-</td>
-<td width="8%">
-<p>3F</p>
-</td>
-<td width="29%">
-<p>Executive Committee Member</p>
-</td>
-<td width="8%">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Marissah Leyanne Sithan</p>
-</td>
-<td width="8%">
-<p>3E</p>
-</td>
-<td width="29%">
-<p>Executive Committee Member</p>
-</td>
-<td width="8%">
-<p>Uper</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Phoa Yong Jie Titus</p>
-</td>
-<td width="8%">
-<p>1B</p>
-</td>
-<td width="29%">
-<p>Executive Committee Member</p>
-</td>
-<td width="8%">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td width="53%">
-<p>Rusyaidi Bin Mohamed Yazid</p>
-</td>
-<td width="8%">
-<p>1E</p>
-</td>
-<td width="29%">
-<p>Executive Committee Member</p>
-</td>
-<td width="8%">
-<p>Lower</p>
-</td>
-</tr>
-	<tr>
-<td width="53%">
+<td rowspan="1" colspan="1">
 <p>Nameera Binte Mohamad Fairoz</p>
 </td>
-<td width="8%">
-<p>1F</p>
+<td rowspan="1" colspan="1">
+<p>2F</p>
 </td>
-<td width="29%">
-<p>Executive Committee Member</p>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head 1</p>
 </td>
-<td width="8%">
+<td rowspan="1" colspan="1">
 <p>Lower</p>
 </td>
 </tr>
-<tr><td width="53%"><br>
-<img style="width:100%;" src="/images/picture1j.jpg">
-</td></tr></tbody>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sin Yu Javier</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Head 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Leaders (Logistics)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Athirah Binte Mohammad Omar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Mei Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Leaders (Welfare)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Syazana Binte Shafie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Sze Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Executive Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Kauthar Taa’ibah Binte Kusaini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Iffah Irsalina Binte Irwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zafira Qairina Binte Rosli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Talia Tan En Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shaik Riyan Ahammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choo Jia Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Phoa Yong Jie Titus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dinah Amani Binte Mohammed Irwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Rizq Danish Bin Mohammad Raihan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+</tbody>
 </table>
-<p><strong>Awards/Achievements</strong></p>
-<p><strong><u>2023<br></u></strong>(a) Our Schools, Our Stories Photo Contest 2023 – Certificate of Participation<br>(b) Thank You NSMen Video Competition 2023 - Certificate of Participation<br>(c) Canon Youth Photography Challenge 2023
-</p><p><strong><u>2022<br></u></strong>(a) Our Schools, Our Stories Photo Contest 2022 – Certificate of Participation<br>(b)&nbsp;Singapore Youth Festival’s Pixel Perfect Showcase: Noor Danish Haziq and Fatimah Tuzzahrah<br>(c)&nbsp;Thank You NSMen Video competition 2022 – Certificate of Participation<br>(d) Pinnacle Photo Competition 2022: Beneath the Surface – Certificate of Participation</p>
-<p><strong><u>2021<br></u></strong>(a) Our Schools, Our Stories Photo Contest 2021 – Certificate of Participation<br>(b)&nbsp;Singapore Youth Festival’s Pixel Perfect Showcase: Jolene Chua<br>(c)&nbsp;Canon Youth Photography Competition 2021: Jolene Chua, 1<sup>st</sup> Prize, Portrait Theme, Secondary School category</p>
-<p><strong><u>2020<br></u></strong>(a) Our Schools, Our Stories Photo Contest 2020 – Certificate of Participation<br>(b)&nbsp;NUSPS’ Montage Photo Contest 2020 – Certificate of Participation</p>
-<p><strong><u>2019<br></u></strong>(a) NParks' Singapore Garden Photographer of the Year (SGPY) Photo Competition (Youth category) - Dalwin Khor, 1<sup>st</sup>&nbsp;prize<br>Winning photo exhibited at Beijing International Photography Festival 2019<br>Winning photo feature coffee table book, “Celebrating Our City in Nature: Singapore Garden Photographer of the Year<br>(b) Canon Photomarathon 2019 - Finisher<br>(c) Canon Filmfare 2019 – Certificate of Participation<br>(d) Our Schools, Our Stories Photo Contest 2019 – Certificate of Participation<br>(e) Singapore Youth Festival 2019 – Official Student Photographers</p>
-<p><strong><u>2018<br></u></strong>(a) Prove It! Contest by NLB (Certificate of Participation)<br>(b) Our Schools, Our Stories Photo Contest 2018 – Certificate of Participation<br>(c) Canon Photomarathon 2018 - Finisher</p>
-<p><u></u><strong><u>2017<br></u></strong>(a) Republic Polytechnic's Financial Literacy Video Competition - 2nd Runner-up<br>(b) Video Presentation at International Financial Literacy Conference - Presenters: Austin Leow (5N2), Joyce Chua (5N3)<br>(c) Canon Photomarathon Singapore 2017 - Finisher</p>
-<p><u></u><strong><u>2016<br></u></strong>(a) S.U.R.E. (Source, Understand, Research, Evaluate) CLUB STORYBOARD COMPETITION – 1st Prize<br>(b) Schools Digital Media Award (SDMA) – Photo Contest: Certificate of Participation</p>
-<p><strong><u>2015<br></u></strong>(a) S.U.R.E. (Source, Understand, Research, Evaluate) CLUB STORYBOARD COMPETITION – 1st Prize<br>(b) Schools Digital Media Award (SDMA) – Photo Contest: Certificate of Participation</p>
-<p><strong><u>2014<br></u></strong>Schools Digital Media Award (SDMA) - 1 Gold, 1 Silver</p>
+<p></p>
+<p><strong>Focus and Purpose</strong>
+</p>
+<p>Through this CCA, we aim to groom competent and confident CCA leaders
+as we ignite a passion for photography and videography in them, as well
+as the acquisition of technical knowledge of the media mediums, by engaging
+students in workshops and activities which will educate, train and guide
+them, and to provide experiential opportunities to exercise what they have
+learnt in external photography and videography competitions to gain greater
+exposure.</p>
+<p>&lt;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/picture2e.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/picture3g.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/files/picture4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/picture5.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>We also give students the chance to handle high-end equipment such as
+DSLR cameras to assist in club activities and to cover school events both
+internally and outside of school such as Singapore Youth Festival and Canon
+Youth Photography Challenge. Students can gain valuable experience and
+develop their ownership, leadership skill and responsibility by volunteering
+for duties during these school events. We will further expand our students’
+repertoire of skills to include journalistic interviews, live streaming,
+photo and video editing.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/picture6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/picture7.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" src="/images/itmp5.jpg">
+</div>
+<p><em>Photographic works by Noor Danish and Fatimah were selected and showcased for Singapore Youth Festival’s Pixel Perfect 2022 Showcase</em>
+</p>
+<p><strong>Programmes and Activities</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Canon Workshops: Photography and Videography, Editing and Publication</p>
+</li>
+<li>
+<p>Leadership Trainings</p>
+</li>
+<li>
+<p>Coverage of school events</p>
+</li>
+<li>
+<p>Learning Journey and Artist’s Workshop</p>
+</li>
+<li>
+<p>Documenting journeys of other CCA groups</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/itmp6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/itmp7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/itmp8.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/itmp9.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>You can view more photos and video by our members here:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/itmp10.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Awards/Achievements</strong>
+</p>
+<p><strong><u>2023<br></u></strong>(a) Our Schools, Our Stories Photo Contest
+2023 – Certificate of Participation
+<br>(b) Thank You NSMen Video Competition 2023 - Certificate of Participation
+<br>(c) Canon Youth Photography Challenge 2023</p>
+<p><strong><u>2022<br></u></strong>(a) Our Schools, Our Stories Photo Contest
+2022 – Certificate of Participation
+<br>(b)&nbsp;Singapore Youth Festival’s Pixel Perfect Showcase: Noor Danish
+Haziq and Fatimah Tuzzahrah
+<br>(c)&nbsp;Thank You NSMen Video competition 2022 – Certificate of Participation
+<br>(d) Pinnacle Photo Competition 2022: Beneath the Surface – Certificate
+of Participation</p>
+<p><strong><u>2021<br></u></strong>(a) Our Schools, Our Stories Photo Contest
+2021 – Certificate of Participation
+<br>(b)&nbsp;Singapore Youth Festival’s Pixel Perfect Showcase: Jolene Chua
+<br>(c)&nbsp;Canon Youth Photography Competition 2021: Jolene Chua, 1<sup>st</sup> Prize,
+Portrait Theme, Secondary School category</p>
+<p><strong><u>2020<br></u></strong>(a) Our Schools, Our Stories Photo Contest
+2020 – Certificate of Participation
+<br>(b)&nbsp;NUSPS’ Montage Photo Contest 2020 – Certificate of Participation</p>
+<p><strong><u>2019<br></u></strong>(a) NParks' Singapore Garden Photographer
+of the Year (SGPY) Photo Competition (Youth category) - Dalwin Khor, 1<sup>st</sup>&nbsp;prize
+<br>Winning photo exhibited at Beijing International Photography Festival
+2019
+<br>Winning photo feature coffee table book, “Celebrating Our City in Nature:
+Singapore Garden Photographer of the Year
+<br>(b) Canon Photomarathon 2019 - Finisher
+<br>(c) Canon Filmfare 2019 – Certificate of Participation
+<br>(d) Our Schools, Our Stories Photo Contest 2019 – Certificate of Participation
+<br>(e) Singapore Youth Festival 2019 – Official Student Photographers</p>
+<p><strong><u>2018<br></u></strong>(a) Prove It! Contest by NLB (Certificate
+of Participation)
+<br>(b) Our Schools, Our Stories Photo Contest 2018 – Certificate of Participation
+<br>(c) Canon Photomarathon 2018 - Finisher</p>
+<p><strong><u>2017<br></u></strong>(a) Republic Polytechnic's Financial Literacy
+Video Competition - 2nd Runner-up
+<br>(b) Video Presentation at International Financial Literacy Conference
+- Presenters: Austin Leow (5N2), Joyce Chua (5N3)
+<br>(c) Canon Photomarathon Singapore 2017 - Finisher</p>
+<p><strong><u>2016<br></u></strong>(a) S.U.R.E. (Source, Understand, Research,
+Evaluate) CLUB STORYBOARD COMPETITION – 1st Prize
+<br>(b) Schools Digital Media Award (SDMA) – Photo Contest: Certificate of
+Participation</p>
+<p><strong><u>2015<br></u></strong>(a) S.U.R.E. (Source, Understand, Research,
+Evaluate) CLUB STORYBOARD COMPETITION – 1st Prize
+<br>(b) Schools Digital Media Award (SDMA) – Photo Contest: Certificate of
+Participation</p>
+<p><strong><u>2014<br></u></strong>Schools Digital Media Award (SDMA) - 1
+Gold, 1 Silver</p>
 <hr>
-<p><strong>O</strong><strong>ur Journey</strong></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RkAoxFNJ4J0" title="Media Productions (Highlights)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="text-align: center;"></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6VyrqAqJztk" title="Media Production (Our CCA Experiences)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="text-align: center;"></iframe>
+<p><strong>Our Journey</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="text-align: center;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RkAoxFNJ4J0"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe style="text-align: center;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6VyrqAqJztk"></iframe>
+</div>
+<p></p>
