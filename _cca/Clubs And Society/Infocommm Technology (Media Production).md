@@ -447,7 +447,6 @@ gain greater exposure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/93c9f0a2_9310_4670_b24a_30329150a0a2.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -494,8 +493,6 @@ video editing.</p>
 </li>
 <li>
 <p>Documenting journeys of other CCA groups</p>
-</li>
-</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -503,31 +500,43 @@ video editing.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/itmp6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/d4d9a81e_fd58_402b_a360_43bd8c7a7116.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/itmp7.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/5015897a_6b26_45ed_ba40_e388a388a4e7.jpg">
 </div>
-</td>
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/itmp8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7fgrr.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/itmp9.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/5febaaaa_9edc_4025_bdb7_6927da8f3bf6.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/be84e7bd_8b2c_41fe_a3fb_6f3ace033ef8.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+</li>
+</ul>
 <p><strong>You can view more photos and video by our members here:</strong>
 </p>
 <table style="minWidth: 50px">
