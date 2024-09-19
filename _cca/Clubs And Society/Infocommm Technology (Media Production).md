@@ -466,28 +466,17 @@ their ownership, leadership skill and responsibility by volunteering for
 duties during these school events. We further expand our students’ repertoire
 of skills to include journalistic interviews, live streaming, photo and
 video editing.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/picture6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" src="/images/itmp5.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture6adada.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/b747ec2b_f0af_437c_b994_44d10e25fa50.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/e8712282_1109_4c47_baac_d7a67ff3ac39.jpg">
+</div>
 <p><strong>Programmes and Activities</strong>
 </p>
 <ul data-tight="true" class="tight">
