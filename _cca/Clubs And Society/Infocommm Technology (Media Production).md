@@ -614,12 +614,5 @@ Participation</p>
 <p><strong><u>2014<br></u></strong>Schools Digital Media Award (SDMA) - 1
 Gold, 1 Silver</p>
 <hr>
-<p><strong>Our Journey</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe style="text-align: center;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RkAoxFNJ4J0"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe style="text-align: center;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6VyrqAqJztk"></iframe>
-</div>
+<p></p>
 <p></p>
