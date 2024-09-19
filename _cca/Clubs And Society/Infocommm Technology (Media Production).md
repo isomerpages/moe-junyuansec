@@ -431,13 +431,13 @@ gain greater exposure.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/a2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a1aaa.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/a1aaa.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28749417_5466_4263_a691_30b1a619295c.jpg">
 </div>
 <p></p>
 </td>
@@ -445,13 +445,13 @@ gain greater exposure.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/a3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/93c9f0a2_9310_4670_b24a_30329150a0a2.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5kkk.png">
 </div>
 <p></p>
 </td>
