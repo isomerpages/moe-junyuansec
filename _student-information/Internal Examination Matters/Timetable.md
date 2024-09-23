@@ -21,3 +21,7 @@ variant: tiptap
 </p>
 <p><a href="/files/EOY_Timetable_2024_Sec_3.pdf" rel="noopener nofollow" target="_blank">EOY_Timetable_2024_Sec_3</a>
 </p>
+<p><strong>End-Of-year Exam Topics</strong>
+</p>
+<p><a href="/files/2024__End_Of_Year_Exam_Topics.pdf" rel="noopener nofollow" target="_blank">2024__End_Of_Year_Exam_Topics</a>
+</p>
