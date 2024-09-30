@@ -23,7 +23,7 @@ supporting documents online, via the below link or QR code.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1sfsf.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture1sfsf.jpg">
 </div>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who are MSF
 ComCare beneficiaries no longer need to submit a separate MOE FAS application
@@ -38,9 +38,11 @@ queries, please email to <a rel="noopener noreferrer nofollow" target="_blank">J
 call our General Office number at 6587 3683.</p>
 <p>Thank you.</p>
 <p>JUNYUAN SECONDARY SCHOOL</p>
+<hr>
 <p><strong>Attachments:</strong>
 </p>
 <p><a href="/files/2025_MOE_FAS_Pamphlets.pdf" rel="noopener nofollow" target="_blank">2025 MOE FAS Pamphlets</a>
 </p>
 <p><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
 </p>
+<p></p>
