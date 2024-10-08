@@ -163,7 +163,6 @@ they played. They fought for each ball and gave their best to make Junyuan
 proud. They carried themselves well and showed much perseverance and focus.
 They remembered their CCA motto – United We Stand. Every Basketball boy
 who competed came back a winner!</p>
-<p></p>
 <p><strong>Our secondary 4 student, Yan Sheng winning the Sportsmanship Award during the tournament.</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -175,4 +174,33 @@ who competed came back a winner!</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
 </div>
 <p></p>
+<p><strong><u>Junyuan U15 Tournament 2024</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1b.jpg">
+</div>
+<p>The Junyuan Cup returned in March as the Junyuan U15 Tournament 2024,
+a competition for C Division boys. National Junior College, Loyang View
+Secondary, Yuying Secondary School, and St. Joseph's Institution were invited
+to participate. This tournament allowed the Junyuan C Division team to
+enhance their camaraderie and teamwork, ultimately preparing them for the
+upcoming National School Games C Boys Basketball Championship.</p>
+<p><strong><u>Basketball Game Officials - Inter-School Pentangular (ISP) Sports Carnival 2024</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1c.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1ea.jpg">
+</div>
 <p></p>
