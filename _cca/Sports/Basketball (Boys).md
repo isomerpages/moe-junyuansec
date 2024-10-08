@@ -38,17 +38,19 @@ our CCA.</p>
 <br>2. Mr Tan Tze Wei
 <br>
 </p>
-<p><strong>CCA Leaders (Year 2024)</strong>
+<p><strong>CCA Leaders (Year 2025)</strong>
 <br>Upper Secondary:
-<br>1. Captain: Tan Le Yang Marcus (4F)
-<br>2. Vice- Captain: James Nigel Piloton Tolentino (4D)
-<br>3. Vice-Captain: Caleb Teo Jia Le (3E)
-<br>4. Vice-Captain: Wong Johnathan Espiritu (3A)</p>
+<br>1. Captain: Wong Johnathan Espiritu (3A)
+<br>2. Vice- Captain: Chee Jun Le Edven (2A)
+<br>3. Vice-Captain: Poon Yong Yao (2A)
+<br>4. Vice-Captain: Muhammad Hanafi Bin Arfi Shahrin (2F)</p>
 <p>Lower Secondary:
-<br>1. Captain:&nbsp;Muhammad Hanafi Bin Arfi Shahrin (2F)
-<br>2. Vice-Captain:&nbsp;Poon Yong Yao (2A)</p>
-<p><strong>Awards/Achievements<br></strong>East Zone Schools Tournament (B
-Div) 2023-Top 8
+<br>1. Captain:&nbsp;Muhammad Nabil Syafiq Bin Sophian (1G)
+<br>2. Vice-Captain:&nbsp;Briley James Tan (1B)</p>
+<p><strong>Awards/Achievements</strong>
+</p>
+<p>East Zone Schools Tournament (B Div) 2024-Top 8<strong><br></strong>East
+Zone Schools Tournament (B Div) 2023-Top 8
 <br>East Zone Schools Tournament (B Div) 2022-4th
 <br>BAS Developmental League (B Div) 2019 -2nd
 <br>T-Net Basketball Tournament (B Div) 2019 -1st
