@@ -203,4 +203,8 @@ upcoming National School Games C Boys Basketball Championship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1ea.jpg">
 </div>
+<p>In August, several B Division Boys were selected as Game Officials (Basketball)
+for the 2024 Inter-School Pentangular Sports Carnival at St Hilda's Secondary
+School. This experience contributed to their ongoing basketball development.
+The boys excelled in refereeing the games, ensuring a smooth competition.</p>
 <p></p>
