@@ -38,17 +38,19 @@ our CCA.</p>
 <br>2. Mr Tan Tze Wei
 <br>
 </p>
-<p><strong>CCA Leaders (Year 2024)</strong>
+<p><strong>CCA Leaders (Year 2025)</strong>
 <br>Upper Secondary:
-<br>1. Captain: Tan Le Yang Marcus (4F)
-<br>2. Vice- Captain: James Nigel Piloton Tolentino (4D)
-<br>3. Vice-Captain: Caleb Teo Jia Le (3E)
-<br>4. Vice-Captain: Wong Johnathan Espiritu (3A)</p>
+<br>1. Captain: Wong Johnathan Espiritu (3A)
+<br>2. Vice- Captain: Chee Jun Le Edven (2A)
+<br>3. Vice-Captain: Poon Yong Yao (2A)
+<br>4. Vice-Captain: Muhammad Hanafi Bin Arfi Shahrin (2F)</p>
 <p>Lower Secondary:
-<br>1. Captain:&nbsp;Muhammad Hanafi Bin Arfi Shahrin (2F)
-<br>2. Vice-Captain:&nbsp;Poon Yong Yao (2A)</p>
-<p><strong>Awards/Achievements<br></strong>East Zone Schools Tournament (B
-Div) 2023-Top 8
+<br>1. Captain:&nbsp;Muhammad Nabil Syafiq Bin Sophian (1G)
+<br>2. Vice-Captain:&nbsp;Briley James Tan (1B)</p>
+<p><strong>Awards/Achievements</strong>
+</p>
+<p>East Zone Schools Tournament (B Div) 2024-Top 8<strong><br></strong>East
+Zone Schools Tournament (B Div) 2023-Top 8
 <br>East Zone Schools Tournament (B Div) 2022-4th
 <br>BAS Developmental League (B Div) 2019 -2nd
 <br>T-Net Basketball Tournament (B Div) 2019 -1st
@@ -161,7 +163,6 @@ they played. They fought for each ball and gave their best to make Junyuan
 proud. They carried themselves well and showed much perseverance and focus.
 They remembered their CCA motto – United We Stand. Every Basketball boy
 who competed came back a winner!</p>
-<p></p>
 <p><strong>Our secondary 4 student, Yan Sheng winning the Sportsmanship Award during the tournament.</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -173,4 +174,37 @@ who competed came back a winner!</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
 </div>
 <p></p>
+<p><strong><u>Junyuan U15 Tournament 2024</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1b.jpg">
+</div>
+<p>The Junyuan Cup returned in March as the Junyuan U15 Tournament 2024,
+a competition for C Division boys. National Junior College, Loyang View
+Secondary, Yuying Secondary School, and St. Joseph's Institution were invited
+to participate. This tournament allowed the Junyuan C Division team to
+enhance their camaraderie and teamwork, ultimately preparing them for the
+upcoming National School Games C Boys Basketball Championship.</p>
+<p><strong><u>Basketball Game Officials - Inter-School Pentangular (ISP) Sports Carnival 2024</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1c.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1ea.jpg">
+</div>
+<p>In August, several B Division Boys were selected as Game Officials (Basketball)
+for the 2024 Inter-School Pentangular Sports Carnival at St Hilda's Secondary
+School. This experience contributed to their ongoing basketball development.
+The boys excelled in refereeing the games, ensuring a smooth competition.</p>
 <p></p>
