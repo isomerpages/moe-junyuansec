@@ -33,8 +33,8 @@ Mathieu (4E)
 <br>2. Vice- Captain: Loh Zi Xuan and Abhismita Behera
 <br>3. Logistics Head: Alesha Dania Fareesya Binte Muhammad</p>
 <p>Lower Secondary:
-<br>1. Captain:&nbsp;Nur Arinah Binte Mohammad Omar (2A)
-<br>2. Vice-Captain:&nbsp;Thong Shi Cheng (2D)</p>
+<br>1. Captain:&nbsp;
+<br>2. Vice-Captain:&nbsp;</p>
 <p><strong>Awards and Achievements<br></strong><u>2019 - 2021<br></u>Top
 4 in NSG East Zone Tournaments</p>
 <p><strong>Motto / Values</strong>
