@@ -183,16 +183,16 @@ that it is more than just that!” – <em>Ysabelle, 4D, Upper Sec Vice-Captain<
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/z.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/z.jpg">
 </div>
 <p>Graduating Seniors Farewell Celebration – A day where we celebrate the
 contributions of our seniors and bid them goodbye as they step down!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/x.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/x.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/c.jpg">
 </div>
 <p><em>B Div and C Div (League) Tournament 2024</em>
 </p>
