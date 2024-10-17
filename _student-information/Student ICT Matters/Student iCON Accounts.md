@@ -6,7 +6,6 @@ third_nav_title: Student ICT Matters
 variant: tiptap
 ---
 <h3><strong>Self-Reset Password Guide</strong></h3>
-<p></p>
 <p><a href="/files/Posters_MIMS_SSPR_Guide.pdf" rel="noopener nofollow" target="_blank">Self Password Reset Guide.pdf</a>
 </p>
 <div class="isomer-image-wrapper">
