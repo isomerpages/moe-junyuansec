@@ -170,18 +170,31 @@ that it is more than just that!” – <em>Ysabelle, 4D, Upper Sec Vice-Captain<
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/vb4.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" src="/images/vb5.jpg">
 </div>
 <p><em>Sec 1 CCA Trials. All Sec 1 girls will be given the opportunity to try out for the CCA and no experience is needed. Some ball control skills, hand-eye coordination and grit is what we look out for.</em>
 </p>
 <div class="iframe-wrapper">
-<iframe height="490" width="654" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cEkts16Zdws"></iframe>
+<iframe height="490" width="654" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=s_uXTgWyDX4"></iframe>
 </div>
 <p><em>Our seniors narrate their journey through volleyball CCA and the lessons they cherished.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/z.jpg">
+</div>
+<p>Graduating Seniors Farewell Celebration – A day where we celebrate the
+contributions of our seniors and bid them goodbye as they step down!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/x.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c.jpg">
+</div>
+<p><em>B Div and C Div (League) Tournament 2024</em>
 </p>
 <h4><strong>Our CCA Experiences</strong></h4>
 <div class="iframe-wrapper">
