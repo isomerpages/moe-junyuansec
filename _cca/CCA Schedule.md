@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <p>3. Basketball (Boys): <a href="https://docs.google.com/spreadsheets/d/1flTXKJhxLQIDNO7Bx2Siu1KbwC-kSMxj/edit?usp=sharing&amp;ouid=100489842546183031767&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-basketball-schedule</u></a>
 </p>
-<p>4. Rugby (Boys): <a href="https://docs.google.com/document/d/1APwTYMXrmGNVomj8CCJmRUnmwv0qR2Dm-tRfOFcnfEg/edit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss-rugby-schedules</a>
+<p>4. Rugby (Boys): <a href="https://docs.google.com/document/d/1dPo-YcmTXS72RQyR7P_iFKdkJwjmbEdcsLH0iMUv9BA/edit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss-rugby-schedules</a>
 </p>
 <p>5. Track &amp; Field: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ654GxVbfJ-QYvggsS2p2-2V61kWjk5t162Ml3LliF6LGS2BeYCFBYFVsGpkGL9AZ3-ow8STZjnEG2/pubhtml?gid=524049236&amp;single=true" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-track-schedule</u></a>
 </p>
