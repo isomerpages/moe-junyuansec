@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3_Subject_Combination_2025_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Subject Combination 2025_for Parents</a>
+<p><a href="/files/Sec_3_Subject_Combination_2025_for_Parents__updated_.pdf" rel="noopener nofollow" target="_blank">Sec 3 Subject Combination 2025_for Parents (updated)</a>
 </p>
 </li>
 </ol>
