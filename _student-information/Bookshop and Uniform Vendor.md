@@ -1,6 +1,6 @@
 ---
-title: Booklist 2024 & Bookshop Vendor
-permalink: /student-information/booklist-2024-n-bookshop-vendor/
+title: Bookshop and Uniform Vendor
+permalink: /student-information/bookshop-n-uniform-vendor/
 description: ""
 variant: tiptap
 ---

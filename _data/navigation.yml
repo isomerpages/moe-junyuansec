@@ -55,10 +55,8 @@ links:
         url: /student-information/sec-3-subject-combination-2025
       - title: Internal Examination Matters
         url: /student-information/internal-examination-matters
-      - title: School Uniform Vendor
-        url: /student-information/school-uniform-vendor
-      - title: Booklist 2024/Bookshop Vendor
-        url: /student-information/booklist-2024-n-bookshop-vendor
+      - title: Bookshop and Uniform Vendor
+        url: /student-information/bookshop-n-uniform-vendor/
   - title: CCA
     url: /cca
     sublinks:
