@@ -148,7 +148,8 @@ school. Refer to the booklists for the dates.</p>
 <p>Online Ordering Guide:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refer to the online ordering guide for details of the ordering process.&nbsp;
+<p>Refer to the online ordering guide for details of the ordering process.&nbsp;</p>
+<p><a href="/files/Online_Ordering_Guide_2024.pdf" rel="noopener nofollow" target="_blank">Online Ordering Guide 2024</a>
 <br>
 </p>
 </td>
@@ -158,7 +159,8 @@ school. Refer to the booklists for the dates.</p>
 <p>Uniform Order Form:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Junyuan_Secondary_School__Order_Form_2025.pdf" rel="noopener nofollow" target="_blank">Junyuan Secondary School Order Form 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
