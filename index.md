@@ -34,9 +34,13 @@ sections:
       id: infopic
       image: /images/4b__PAT_2025_Nomination_Poster.jpg
       alt: Image alt text
+      url: https://go.gov.sg/pat2025
+      button: Nomintaion Form
   - infopic:
       title: OYEA 2025 Nomination
       id: infopic
       image: /images/4a__OYEA_2025_Nomination_Poster.jpg
       alt: Image alt text
+      url: https://go.gov.sg/oyea2025
+      button: Nomination form
 ---
