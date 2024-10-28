@@ -16,7 +16,7 @@ third_nav_title: 25th Anniversary
 </div>
 <p></p>
 <h4><strong>FAQs for Open House</strong></h4>
-<p><a href="/files/FAQ_Open_House_2023.pdf" rel="noopener" target="_blank"><u>FAQ Open House.pdf</u></a>
+<p><a href="/files/FAQ_Open_House_2024.pdf" rel="noopener nofollow" target="_blank">FAQ Open House 2024</a>
 </p>
 <h4><strong>Let's take look at some of our videos!</strong></h4>
 <p><em>The JYSS Experience</em>
