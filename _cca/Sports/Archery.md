@@ -21,7 +21,8 @@ discipline, strength in the form of physical and mental are all crucial
 for success in Archery. Archers will learn the value of sportsmanship and
 building camaraderie with fellow Archers and competitors during training
 sessions and in competitions.</p>
-<h4><strong>Motto<br></strong>Focused &amp; Disciplined</h4>
+<h4><strong>Motto</strong></h4>
+<p>Focused &amp; Disciplined</p>
 <h4><strong>CCA Schedule</strong></h4>
 <p><strong><br></strong>Every Tuesday and Thursday (3.00 pm – 5.40 pm)
 <br>School Field / CD Shelter</p>
