@@ -68,36 +68,20 @@ variant: tiptap
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mrs Suganda /<u>chin_wai_leng@moe.edu.sg</u>
+<p>Mrs Suganda /<a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
 </p>
 </li>
 <li>
-<p>Mr Ling Kay Siong /<u>ling_kay_siong@moe.edu.sg</u>
+<p>Mr Ling Kay Siong /<a href="mailto:ling_kay_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ling_kay_siong@moe.edu.sg</u></a>
+</p>
+</li>
+<li>
+<p>Mr Joey Liew / <a rel="noopener noreferrer nofollow" target="_blank">Liew_Zhen_Hong_Joey@moe.edu.sg</a>
 </p>
 <p></p>
 </li>
 </ol>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/itc2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/itc3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>CCA Leaders (Year 2024)</strong></h4>
+<h4><strong>CCA Leaders (Year 2025)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -126,24 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ANGUS CHUA ZI MENG (CAI ZIMING)</p>
+<p>FOO ZHI XIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CHONG CARINE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-G</p>
+<p>S4-F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -154,10 +124,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD HANIF BIN MOHAMMAD OMAR</p>
+<p>RAY TOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-D</p>
+<p>S4-E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CASEY JAMES SURAT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4-C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -168,24 +152,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOHAMMED HANNAN NOOR</p>
+<p>LUTFIL KHALIQ BIN HAMDAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TEO SHAO YANG RICKEY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-D</p>
+<p>S4-B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -207,87 +177,92 @@ them to learn new infocomm skills and to cultivate leadership."</p>
 </table>
 <h4><strong>Our Purpose:</strong></h4>
 <p>Infocomm Technology members have the opportunity to hone their specialized
-technological skills. Following the ICM Learning Roadmap, students with
+technological skills. Following the IMDA’s LEARN Roadmap, students with
 a keen interest in technology can explore various functional domains such
-as Artificial Intelligence, Game Development and Cybersecurity. IMDA provides
-support for a variety of training courses to help Infocomm Technology members
-enhance their knowledge and proficiency in these specific functional domains.</p>
+as Artificial Intelligence, Game Development, Robotics and Cybersecurity.
+IMDA provides support for a variety of training courses to help Infocomm
+Technology members enhance their knowledge and proficiency in these specific
+functional domains.</p>
 <h4><strong>Infocomm Media Development Authority (IMDA) – LEARN Roadmap:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Game Development: </strong>Students will gain an understanding
+<p><strong>Game Development:&nbsp;</strong>Students will gain an understanding
 of concepts such as game mechanics and storytelling. Students will also
 learn how to create a game design document, storyboard, create game environments,
 customise nonplayable characters (NPCs) as well as add randomisation, music
 and sounds into their games.</p>
 </li>
 <li>
-<p><strong>Artificial Intelligence:</strong>Students will gain an understanding
+<p><strong>Artificial Intelligence: </strong>Students will gain an understanding
 of Machine Learning and AI concepts and work on applying these concepts
 through a project. Ethical and privacy issues relating to AI will also
 be discussed. The project work will include a simple machine learning model
 and computer vision.</p>
 </li>
 <li>
-<p><strong>Cybersecurity:</strong>Students will gain an understanding of
+<p><strong>Cybersecurity: </strong>Students will gain an understanding of
 cybersecurity and cyberthreats in the gaming industry and how to safeguard
 personal data in a game from cyberattacks.</p>
 </li>
 </ul>
 <h4><strong>Testimonials from Present Leaders:</strong></h4>
-<p>Engaging in this CCA has been a highly enriching experience, fostering
-greater self-awareness and nurturing strong friendships. While there were
-occasional setbacks, the collaborative process of robot building and coding
-with my peers was enjoyable, emphasizing the importance of perseverance..</p>
-<p><em>MOHAMMED HANNAN NOOR / 3D / Vice-Chairperson</em>
+<p>I've gained so much knowledge about Artificial Intelligence and developed
+valuable teamwork skills through collaborating with my CCA members. I'll
+always treasure the experiences I had in the Infocomm Technology CCA!</p>
+<p><em>FOO ZHI XIAN / 4F / Chairperson</em>
 </p>
-<p>I relished my time in the Infocomm club, as it allowed me to acquire fresh
-skills like robotics and game development in the company of my peers. This
-experience strengthened the camaraderie among us, deepening our friendships.</p>
-<p><em>MUHAMMAD HANIF / 3D / Vice-Chairperson</em>
+<p>As a student passionate about technology, I've gained valuable insights
+into how these technologies work. Programs like the AI course, which introduced
+me to neural networks, and learning the Python language have been especially
+beneficial.</p>
+<p><em>LUTFIL KHALIQ BIN HAMDAN / 4B / Vice-Chairperson</em>
 </p>
-<p>During my three years in the Infocomm Technology (CCA), I had an enjoyable
-experience. I gained greater confidence in expressing my thoughts and ideas
-in class. Throughout our time in this CCA, we participated in numerous
-team bonding activities that facilitated stronger connections among us
-and provided valuable opportunities for learning from each other.</p>
-<p><em>TEO SHAO YANG RICKEY / 3D / Vice-Chairperson</em>
+<p>My time in the Infocomm Club has given me valuable knowledge in emerging
+technologies like robotics and cybersecurity. Beyond technology, the club
+has been instrumental in building team bonds among my peers, helping me
+develop leadership skills and enhancing our ability to collaborate effectively.</p>
+<p><em>JAYDEN TAN JIE LE / Lower-Secondary CCA Leader</em>
 </p>
-<p>Throughout my time in the Infocomm CCA, I've gained insights into the
-realms of cyber security, robot construction, and programming. Additionally,
-I've had the pleasure of forming connections with like-minded peers who
-share my passions, further enhancing the enjoyment and engagement of my
-CCA experience.</p>
-<p><em>MUHAMMAD HADI / 3E / Upper Sec CCA Executive Committee</em>
-</p>
-<table style="minWidth: 75px">
+<hr>
+<p>Team Bonding Activities</p>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/infocomm.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/infocomm.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/infocomm2.jpg">
+<img style="width: 60%;" height="auto" width="100%" src="/images/3fsfrwfqg.jpg">
 </div>
+<p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/3fsfrwfqg.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/adas.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" src="/images/infocomm2.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>Team Bonding Activities</em>
-</p>
 <h4><strong>Awards and Achievements:</strong></h4>
 <p><strong><u>2023<br></u></strong>National Youth Tech Championship (NYTC)
 2023 (Participation)
