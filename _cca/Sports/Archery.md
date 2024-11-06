@@ -241,31 +241,38 @@ sessions and in competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2__Archers_as_a_Team_.jpg">
 </div>
-<p>3. Our Archer in action</p>
+<p><em>3. Our Archer in action</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3__Our_Archer_in_action.jpg">
 </div>
-<p>4. Our Archer in action</p>
+<p><em>4. Our Archer in action</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/4__Our_Archer_in_action.jpg">
 </div>
-<p>5. B Division Compound Women (Team) - Gold</p>
+<p><em>5. B Division Compound Women (Team) - Gold</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/5__B_Division_Compound_Women__Team____Gold.jpg">
 </div>
-<p>6. B Division Compound Men (Team) - Silver</p>
+<p><em>6. B Division Compound Men (Team) - Silver</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/6__B_Division_Compound_Men__Team____Silver.jpg">
 </div>
-<p>7. B Division Recurve Women (Team) - Silver</p>
+<p><em>7. B Division Recurve Women (Team) - Silver</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/7__B_Division_Recurve_Women__Team____Silver.jpg">
 </div>
-<p>8. C Division Recurve Women (Team) - Silver</p>
+<p><em>8. C Division Recurve Women (Team) - Silver</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/8__C_Division_Recurve_Women__Team____Silver.jpg">
 </div>
-<p>9. Our Medals!</p>
+<p><em>9. Our Medals!</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/9__Our_Medals_.jpg">
 </div>
