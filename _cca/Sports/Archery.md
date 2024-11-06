@@ -21,12 +21,11 @@ discipline, strength in the form of physical and mental are all crucial
 for success in Archery. Archers will learn the value of sportsmanship and
 building camaraderie with fellow Archers and competitors during training
 sessions and in competitions.</p>
-<p><strong>Motto<br></strong>Focused &amp; Disciplined</p>
-<p><strong>CCA Schedule<br></strong>Every Tuesday and Thursday (3.00 pm –
-5.40 pm)
+<h4><strong>Motto<br></strong>Focused &amp; Disciplined</h4>
+<h4><strong>CCA Schedule</strong></h4>
+<p><strong><br></strong>Every Tuesday and Thursday (3.00 pm – 5.40 pm)
 <br>School Field / CD Shelter</p>
-<p><strong>Teachers-in-charge</strong>
-</p>
+<h4><strong>Teachers-in-charge</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr Muhammad Faisal</p>
@@ -38,7 +37,8 @@ sessions and in competitions.</p>
 <p>Ms Li Lanhua</p>
 </li>
 </ol>
-<p><strong>CCA Leaders:<br></strong>Sec 4 (Year 2025)
+<h4><strong>CCA Leaders:</strong></h4>
+<p><strong><br></strong>Sec 4 (Year 2025)
 <br>1. Captain: KHOO YU HAN ALICIA (QIU YUHAN) (3G)
 <br>2. Vice-Captain: AELY AYUNI BINTE MOHAMAD HASRI (3G)
 <br>3. Vice-Captain: NG YI ZHI RENALD (3G)</p>
@@ -46,8 +46,8 @@ sessions and in competitions.</p>
 <br>1. Captain: ASHLEY HO YU XIN
 <br>2. Vice-Captain: SIA ZHI YAO SHAMUS
 <br>3. Vice-Captain: EE NATHANAEL</p>
-<p><strong>Awards/Achievements<br></strong>National Inter-School Archery
-Championship 2024 Results</p>
+<h4><strong>Awards/Achievements</strong></h4>
+<p><strong><br></strong>National Inter-School Archery Championship 2024 Results</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -230,31 +230,49 @@ Championship 2024 Results</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>Medalists for 12th National Inter School Archery Championships 2023</strong>
-<br>
-</p>
-<p>
-<br>
+<hr>
+<p><em>1. Junyuan Archery!</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/img_0001.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Junyuan_Archery_.jpg">
+</div>
+<p><em>2. Archers as a Team!</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Archers_as_a_Team_.jpg">
+</div>
+<p>3. Our Archer in action</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Our_Archer_in_action.jpg">
+</div>
+<p>4. Our Archer in action</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Our_Archer_in_action.jpg">
+</div>
+<p>5. B Division Compound Women (Team) - Gold</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__B_Division_Compound_Women__Team____Gold.jpg">
+</div>
+<p>6. B Division Compound Men (Team) - Silver</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__B_Division_Compound_Men__Team____Silver.jpg">
+</div>
+<p>7. B Division Recurve Women (Team) - Silver</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__B_Division_Recurve_Women__Team____Silver.jpg">
+</div>
+<p>8. C Division Recurve Women (Team) - Silver</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__C_Division_Recurve_Women__Team____Silver.jpg">
+</div>
+<p>9. Our Medals!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Our_Medals_.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/img_0013.JPG">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/img_0058e.jpg">
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -372,7 +390,7 @@ Championship 2024 Results</p>
 </tr>
 </tbody>
 </table>
-<p><em>Overall Championship Title for schools for 2020 – 2023 were not given out in the National Inter School Archery Championships.</em>
+<p><em>Overall Championship Title for schools for 2020 – 2024 were not given out in the National Inter School Archery Championships.</em>
 </p>
 <hr>
 <p><strong>Our Journey</strong>
