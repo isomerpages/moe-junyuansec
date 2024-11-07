@@ -79,18 +79,18 @@ hone their skills but also cultivates confidence and resilience.</p>
 <td rowspan="1" colspan="1">
 <p><strong>President</strong>
 </p>
-<p>Sun Le Shayne ( 3D)</p>
+<p>Sun Le Shayne ( 4D)</p>
 <p><strong>Vice-Presidents (Training)</strong>
 </p>
-<p>Rachel Choo Zhixuan (3C)</p>
-<p>Hazel Leong Qi En (3E)</p>
+<p>Rachel Choo Zhixuan (4C)</p>
+<p>Hazel Leong Qi En (4E)</p>
 <p><strong>Vice-Presidents (Publicity)</strong>
 </p>
-<p>Keira Soh (3D)</p>
-<p>Mohamad Danish Anaqi&nbsp; (3A )</p>
+<p>Keira Soh (4D)</p>
+<p>Mohamad Danish Anaqi&nbsp; (4A )</p>
 <p><strong>Vice President- Welfare</strong>
 </p>
-<p>Wong Yu Rou Rouille&nbsp; (3E )</p>
+<p>Wong Yu Rou Rouille&nbsp; (4E )</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ hone their skills but also cultivates confidence and resilience.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Our 2023 Journey</strong></h4>
+<h4><strong>Our 2024 Journey</strong></h4>
 <p><strong>SYF Performance 2023 at UCC</strong>
 </p>
 <div class="iframe-wrapper">
