@@ -40,9 +40,9 @@ sessions and in competitions.</p>
 </ol>
 <h4><strong>CCA Leaders:</strong></h4>
 <p><strong><br></strong>Sec 4 (Year 2025)
-<br>1. Captain: KHOO YU HAN ALICIA (QIU YUHAN) (3G)
-<br>2. Vice-Captain: AELY AYUNI BINTE MOHAMAD HASRI (3G)
-<br>3. Vice-Captain: NG YI ZHI RENALD (3G)</p>
+<br>1. Captain: KHOO YU HAN ALICIA (QIU YUHAN) (4G)
+<br>2. Vice-Captain: AELY AYUNI BINTE MOHAMAD HASRI (4G)
+<br>3. Vice-Captain: NG YI ZHI RENALD (4G)</p>
 <p>Sec 3 (Year 2025)
 <br>1. Captain: ASHLEY HO YU XIN
 <br>2. Vice-Captain: SIA ZHI YAO SHAMUS
@@ -278,125 +278,6 @@ sessions and in competitions.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/9__Our_Medals_.jpg">
 </div>
 <p></p>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2015</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2016</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2018</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B Div Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Boys</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>C Div Girls</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BRONZE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GOLD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SILVER</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><em>Overall Championship Title for schools for 2020 – 2024 were not given out in the National Inter School Archery Championships.</em>
-</p>
 <hr>
 <p><strong>Our Journey</strong>
 </p>
