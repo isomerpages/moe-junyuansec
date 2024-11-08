@@ -21,3 +21,5 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
+<p>Click <a href="https://go.gov.sg/sec3subjectombinationexresultrelease2025" rel="noopener nofollow" target="_blank">here</a> 
+</p>
