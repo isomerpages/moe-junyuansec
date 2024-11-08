@@ -79,18 +79,18 @@ hone their skills but also cultivates confidence and resilience.</p>
 <td rowspan="1" colspan="1">
 <p><strong>President</strong>
 </p>
-<p>Sun Le Shayne ( 3D)</p>
+<p>Sun Le Shayne ( 4D)</p>
 <p><strong>Vice-Presidents (Training)</strong>
 </p>
-<p>Rachel Choo Zhixuan (3C)</p>
-<p>Hazel Leong Qi En (3E)</p>
+<p>Rachel Choo Zhixuan (4C)</p>
+<p>Hazel Leong Qi En (4E)</p>
 <p><strong>Vice-Presidents (Publicity)</strong>
 </p>
-<p>Keira Soh (3D)</p>
-<p>Mohamad Danish Anaqi&nbsp; (3A )</p>
+<p>Keira Soh (4D)</p>
+<p>Mohamad Danish Anaqi&nbsp; (4A )</p>
 <p><strong>Vice President- Welfare</strong>
 </p>
-<p>Wong Yu Rou Rouille&nbsp; (3E )</p>
+<p>Wong Yu Rou Rouille&nbsp; (4E )</p>
 </td>
 </tr>
 <tr>
@@ -108,15 +108,11 @@ hone their skills but also cultivates confidence and resilience.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Our 2023 Journey</strong></h4>
-<p><strong>SYF Performance 2023 at UCC</strong>
+<h4><strong>Our 2024 Journey</strong></h4>
+<p><strong>Soiree Performance celebrating our School’s 25 Anniversary</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c9YbzdDUvSY?si=PrJDu-ncQuxUDV73&amp;start=4"></iframe>
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/terer.jpg">
 </div>
 <p>‘’My vision for each dancer, is that as they embark on this four- year
 journey with the Dance CCA, they would develop perseverance, discipline
@@ -124,9 +120,14 @@ and determination. As each dancer is unique and possesses different abilities
 and strength, my hope is for them to strive towards their goal of achieving
 their personal best.”</p>
 <p>- Ms Grace Kwok (Teacher in charge)</p>
-<p></p>
+<p><strong>Super24 Journey</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dfaf.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6RXIWCmoas?si=t-e9gRUxHhrbb88C"></iframe>
 </div>
 <p>“Before joining the CCA, I lacked confidence and didn’t dare to express
 what I loved doing. After joining the CCA, I made many friends from diverse
@@ -147,11 +148,6 @@ me of the days when I trained in school for dance competitions, performances
 and SYF. I also hope to instill in them the same values of discipline with
 a balance of fun.”</p>
 <p>- Liew Man Ting (Current Alumni , President 2020)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
@@ -163,10 +159,16 @@ become a comfortable environment for me. I have definitely grown to be
 more confident and ready as a dancer. I’m grateful for all the teachers,
 instructors and the friends whom I have made in this CCA, for shaping me
 into who I am today.”</p>
-<p>- Siow Junyang Sec 4</p>
+<p>- Siow Junyang Current Alumni 2024</p>
+<p></p>
+<p><strong>Arts Exposure : Keppel Nights Program</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fsfs.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dafa.jpg">
 </div>
 <p>“When I joined the Dance CCA, I was super nervous, yet excited as dancing
 is my passion and I looked forward to dance with my future crew mates.
@@ -174,4 +176,6 @@ Along the way, there were many ups and downs but we all overcame it together.
 We all improved on our weaknesses with the help of our fellow CCA mates.
 I made many new friends and became close with my peers as we shared special
 memories in this CCA. I am looking forward to what the future entails.”</p>
-<p>- Anriana Perez ( President 2024 ) Sec 4</p>
+<p>- Anriana Perez (Current Alumni, President 2024 )</p>
+<p></p>
+<p></p>
