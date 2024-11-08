@@ -109,6 +109,26 @@ hone their skills but also cultivates confidence and resilience.</p>
 </tbody>
 </table>
 <h4><strong>Our 2024 Journey</strong></h4>
+<p><strong>Soiree Performance celebrating our School’s 25 Anniversary</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/terer.jpg">
+</div>
+<p>‘’My vision for each dancer, is that as they embark on this four- year
+journey with the Dance CCA, they would develop perseverance, discipline
+and determination. As each dancer is unique and possesses different abilities
+and strength, my hope is for them to strive towards their goal of achieving
+their personal best.”</p>
+<p>- Ms Grace Kwok (Teacher in charge)</p>
+<p><strong>Super24 Journey</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dfaf.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6RXIWCmoas?si=t-e9gRUxHhrbb88C"></iframe>
+</div>
 <p><strong>SYF Performance 2023 at UCC</strong>
 </p>
 <div class="iframe-wrapper">
