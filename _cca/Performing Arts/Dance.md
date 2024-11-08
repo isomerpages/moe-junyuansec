@@ -160,6 +160,24 @@ more confident and ready as a dancer. I’m grateful for all the teachers,
 instructors and the friends whom I have made in this CCA, for shaping me
 into who I am today.”</p>
 <p>- Siow Junyang Current Alumni 2024</p>
+<p></p>
+<p><strong>Arts Exposure : Keppel Nights Program</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fsfs.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dafa.jpg">
+</div>
+<p>“When I joined the Dance CCA, I was super nervous, yet excited as dancing
+is my passion and I looked forward to dance with my future crew mates.
+Along the way, there were many ups and downs but we all overcame it together.
+We all improved on our weaknesses with the help of our fellow CCA mates.
+I made many new friends and became close with my peers as we shared special
+memories in this CCA. I am looking forward to what the future entails.”</p>
+<p>- Anriana Perez (Current Alumni, President 2024 )</p>
+<p></p>
 <p><strong>SYF Performance 2023 at UCC</strong>
 </p>
 <div class="iframe-wrapper">
