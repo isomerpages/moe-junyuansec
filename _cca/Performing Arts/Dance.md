@@ -129,6 +129,37 @@ their personal best.”</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6RXIWCmoas?si=t-e9gRUxHhrbb88C"></iframe>
 </div>
+<p>“Before joining the CCA, I lacked confidence and didn’t dare to express
+what I loved doing. After joining the CCA, I made many friends from diverse
+backgrounds who have the same passion as me towards dancing. The dance
+instructor has taught me a variety of skills and inculcated values which
+help me grow and become a better version of myself. Over the three years
+in this CCA, I have become more confidence in my dancing. Additionally,
+through the opportunity to lead my peers and juniors as the dance captain,
+I have learnt to be more independent and resilient in facing any challenges.
+I really love this CCA because it feels like my family and a second home.”</p>
+<p>-&nbsp;Regine Low ( Current Alumni , Ex President 2023)</p>
+<p>“I remember after stepping down from this CCA and graduating from the
+school, I still have the desire to return to help and guide my juniors
+for the CCA sessions. Unfortunately at that time, due to Covid-19 restrictions,
+I was unable to do so. Even though I have graduated, I regularly volunteer
+to come back for dance events and to coach my junior dancers. It reminds
+me of the days when I trained in school for dance competitions, performances
+and SYF. I also hope to instill in them the same values of discipline with
+a balance of fun.”</p>
+<p>- Liew Man Ting (Current Alumni , President 2020)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+</div>
+<p>“When I first joined the dance CCA, I felt a little out of place as I
+was the only boy in my batch. I felt somewhat insecure initially due to
+that reason and lacked confidence in my dancing. However, as I made friends
+with my peers and seniors, the energy and atmosphere in the CCA gradually
+become a comfortable environment for me. I have definitely grown to be
+more confident and ready as a dancer. I’m grateful for all the teachers,
+instructors and the friends whom I have made in this CCA, for shaping me
+into who I am today.”</p>
+<p>- Siow Junyang Current Alumni 2024</p>
 <p><strong>SYF Performance 2023 at UCC</strong>
 </p>
 <div class="iframe-wrapper">
@@ -168,22 +199,6 @@ and SYF. I also hope to instill in them the same values of discipline with
 a balance of fun.”</p>
 <p>- Liew Man Ting (Current Alumni , President 2020)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
-</div>
-<p>“When I first joined the dance CCA, I felt a little out of place as I
-was the only boy in my batch. I felt somewhat insecure initially due to
-that reason and lacked confidence in my dancing. However, as I made friends
-with my peers and seniors, the energy and atmosphere in the CCA gradually
-become a comfortable environment for me. I have definitely grown to be
-more confident and ready as a dancer. I’m grateful for all the teachers,
-instructors and the friends whom I have made in this CCA, for shaping me
-into who I am today.”</p>
-<p>- Siow Junyang Sec 4</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
