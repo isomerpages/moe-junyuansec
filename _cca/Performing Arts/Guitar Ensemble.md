@@ -115,30 +115,29 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 <p><em>“I love to learn more about music through classical guitar. Someone once told me that the Guitar provides an orchestral setting similar to that of no other instrument, and I truly believe in this. Playing the Guitar gives me a very unique and pure form of joy in my life. The strong emphasis on the value of leadership skills learnt during my secondary school days have also helped me to become the President of SMU Guitarissimo and aided me greatly in the day-to-day running of the club. I believe in sharing more about the Guitar and instilling the belief in others that leaders are not born, but shaped when growing up. This is why I have decided to help at my alma mater, to inspire juniors to lead well and to continue pursuing their passion in Guitar.”</em>
 </p>
 <p>–&nbsp;Wijaya Willian Ong (Alumni)</p>
-<p><strong>Highlights in 2023 </strong>
-<br>
+<h4><strong>CCA Highlights </strong></h4>
+<p><strong>Soirée 2024</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Guitar_Soir_e_2024.jpg">
+</div>
 <p><strong>SYF 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/syf%202023%20-%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/syf%202023%20-%201.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/syf%202023%20-%202.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/syf%202023%20-%202.jpg">
 </div>
 <p><strong>CCA Bonding 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca%20bonding%202023%20-%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/cca%20bonding%202023%20-%201.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/cca%20bonding%202023%20-%202.jpg">
+<img style="width: 80%;" height="auto" width="100%" src="/images/cca%20bonding%202023%20-%202.jpg">
 </div>
 <p><strong>Our SYF Journey (2021)</strong>
 </p>
@@ -162,20 +161,19 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 </div>
 <p><strong>Bonding Activities</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Guitar_CCA_Bonding_2024.jpg">
+</div>
 <p><em>Guitar - CCA Free Day 2022</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/ge4.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/ge5.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/ge6.jpeg">
 </div>
