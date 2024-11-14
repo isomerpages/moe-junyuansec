@@ -124,30 +124,46 @@ yourself—faster, higher, and stronger with each step.
 <p><strong>Our Journey</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/tnf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1.jpg">
 </div>
-<p>
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/track%20team%20photo%202023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2.jpg">
 </div>
-<p>"<em>We are not only looking for talented youths, but those who have the passion for running as well as to keep fit in general</em>."
-- Mr Elkan Lam (Teacher IC)</p>
-<p>"<em>You may not be the fastest runner in the world, but you can be the fastest you can be. So break your personal bests</em>!"
-- Ms Suhailah (Teacher IC)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4.jpg">
+</div>
+<p></p>
 <p>"<em>My CCA’s focus is to impart love of exercise and running; build a resilient athlete with respect for sportsmanship. My CCA is a sport which includes athletic contests established on the skills of running, jumping, and throwing. My CCA is not just about speed during training. It is more of our attitude and discipline. In my CCA I learnt that regular practice and self discipline is important, without which I cannot progress much in my skills. When I first joined my CCA I was really nervous and clueless as it was my first time joining track &amp; field. After a few months of training and with the guidance of my senior, I felt welcomed and encouraged to do well for my CCA. Although there were many ups and downs I managed to remain focused and determined to do well. Therefore I am really proud to be part of the track team</em>."
-- Batrisyia Fatini ( Ex-Captain) - 4N2, 2021</p>
-<p>"<em>The thing that I enjoy about my CCA is that we could run freely in the wind. At times, we could play games together as a team which allows us to work together as a team</em>."
-- Mohammed Fadhil (Ex-Captain)</p>
-<p>"<em>Track &amp; Field has shaped me to the person I am now. Being in the CCA throughout my secondary school life, I had learnt perseverance, to never give up when a challenge comes in my way. The CCA helped me develop my inner self, making me confident &amp; more self-conscious. All these made me a better person, for myself and for the community.</em>"
-- Aniq (Ex-Captain)</p>
-<p>“<em>Keep going, don’t give up so easily there’s always a way to solve a puzzle.</em>”
-- Nurin ( Captain ) - 3T1</p>
-<p>“<em>The will to win is important, but the will to prepare is vital</em>.”
-- Zenon ( Vice Captain ) - 3E2</p>
-<p>“<em>Once you’ve reached rock bottom, it’s your choice to stay down or get back up</em>.
-“ - Arfan ( Vice Captain ) - 3N1</p>
-<p>“<em>It’s okay to fall, just get back up and try again</em>.” - Emilia
-( Captain ) - 3E1</p>
+- <strong>Batrisyia Fatini (Captain, 2021)</strong>
+</p>
+<p><em>“If I am being honest, Track&amp;Field was not my first choice. I did not intend or expect myself to be running races and passing batons. Looking back at all the choices I made, I am so glad that I was given Track&amp;Field as my CCA. I am extremely grateful for all the memories and experiences that I have made from my CCA, the amount of opportunities and competitions we have and go to are truly character shaping. If it were not for Track&amp;Field, I do not think I would be half the person I am today. My coach once said that after picking up the habit of jogging, going even 2 days without it will start to make you itch, and he was right. Track has motivated me to have a more active and healthy lifestyle, and it has left an impact on me that I am confident will stick with me even after graduation. Track&amp;Field has given me the confidence that I have now, has helped me speak louder and improved my resilience tenfold. The habits that I have made from this CCA will be those that will definitely stay with me in the long run. Half the memories I have in secondary school come from this CCA, the friends I have made are from this CCA, and Track&amp;Field plays a crucial role in the character development I have made through the years.”</em> – <strong>Alisha Poe Myitzu Aung (Captain, 2024)</strong>
+</p>
+<p><em>“When I first joined Junyuan, I was lost at which CCA I wanted. But during my tryout when they were timing our 100m sprint, I realised that I found running exhilarating, and that's when I made my decision to join track and field. With the guidance of my seniors, I became more familiar and used to the routine, and slowly grew more comfortable. When I joined my first competition, the National School Games, it was inspiring to see other schools come together and compete. The sportsmanship practised motivated me to continue striving. Although I did not win, every experience was meaningful to me. In secondary 2, I continued to practice hard, wanting to improve my form and stamina to keep up with the rest.</em>
+</p>
+<p><em>During that period, I learnt that I was more comfortable with long-distance running, so I continued to ameliorate my endurance. Now in secondary 3, I wanted to guide my juniors as their vice captain and make sure they have a great experience. Despite the ups and downs I, am glad to make it this far. I am thankful to the track community of my school as I don't think I would have it any other way.”</em> – <strong>Nur Shalynn (Captain, 2024)</strong>
+</p>
 <p>For more photos and videos on our competitions, please click <a href="https://go.gov.sg/jyss-track-media" rel="noopener" target="_blank"><u>here</u></a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P9.jpg">
+</div>
+<p></p>
