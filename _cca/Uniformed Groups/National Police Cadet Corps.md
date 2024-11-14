@@ -187,10 +187,4 @@ Ms Jolene Ng
 </tr>
 </tbody>
 </table>
-<p><em>"Team work is the key to success!"&nbsp;</em>- Izzul (3N3)</p>
-<p><em>"We need to make Singapore the safest country"&nbsp;</em>- Fasihah
-(3E4)</p>
-<p><em>"We need to bond together to know more about each other's personalities"&nbsp;</em>-
-Irfan Shazwan (2T1)</p>
-<p><em>"We believe that in order to be alert on emergencies we should have more communication."&nbsp;</em>-
-Isabelle Koh (2T1)</p>
+<p></p>
