@@ -176,30 +176,32 @@ variant: tiptap
 </table>
 <hr>
 <h4><strong>Our Experiences</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gdgd.jpg">
-</div>
 <p><em>2024 BB/GB Enrolment Service (Marching-in)</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tsj.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gdgd.jpg">
 </div>
 <p><em>2024 Enrolment Service speech by Outgoing CSM (right) with Incoming CSM (left)</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 BB Blaze (National Competition)" src="/images/tjrtn.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tsj.jpg">
 </div>
 <p><em>2024 BB Blaze (National Competition)</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tjtjd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2024 BB Blaze (National Competition)" src="/images/tjrtn.jpg">
 </div>
 <p><em>2024 BB Character Quest (National Competition)</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dtjt.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tjtjd.jpg">
 </div>
 <p><em>2024 BB Adventure Camp [Lunch break in the middle of our 16km trek]</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dtjt.jpg">
+</div>
+<p><em>2024 Standard First Aid (with AED) course</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tjtej.jpg">
@@ -207,23 +209,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tjn.jpg">
 </div>
-<p><em>2024 Standard First Aid (with AED) course</em>
+<p><em>2024 BB Cares project</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yjyn.jpg">
 </div>
-<p><em>2024 BB Cares project</em>
+<p><em>2023 BB Kayaking @ Marina Reservoir [Out in the sun and sea to achieve our 1-Star Kayaking]</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/yjrnrn.jpg">
 </div>
-<p><em>2023 BB Kayaking @ Marina Reservoir [Out in the sun and sea to achieve our 1-Star Kayaking]</em>
+<p><em>2023 BB Fun Camp [Laser Tag against the Girls Brigade]</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jetndnd.jpg">
 </div>
-<p><em>2023 BB Fun Camp [Laser Tag against the Girls Brigade]</em>
-</p>
 <hr>
 <p>BB Day Message 2024 Video</p>
 <div class="iframe-wrapper">
