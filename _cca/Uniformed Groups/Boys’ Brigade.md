@@ -12,12 +12,12 @@ variant: tiptap
 <p><strong>Motto<br></strong>"Sure and Steadfast"</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesday (3 pm to
 5.00 pm), alternate Saturday (8.45 am to 12 pm)
-<br>School Parade Square / Classroom C1-03</p>
+<br>School Parade Square / Classroom C1-01</p>
 <p><strong>Teachers-in-Charge<br></strong>1. Mr Ang Kuang Soon
 <br>2. Mdm Ng Sui Lin</p>
-<p><strong>CCA Leaders (Year 2024)<br></strong>1. Company Sergeant Major
-(CCA Chair): Jerome Chin Yong Kiat (4E)
-<br>2. Assistant Sergeant Major (CCA Vice-Chair): Casey Ng (4H)</p>
+<p><strong>CCA Leaders (Year 2025)<br></strong>1. Company Sergeant Major
+(CCA Chair): Tay Yock Bin Ian (Zheng Yubin) (4A)
+<br>2. Assistant Sergeant Major (CCA Vice-Chair): Tyrone Lee Jai Er (4E)</p>
 <p><strong>Awards/Achievements<br></strong>
 </p>
 <p>Company Award Achievements:</p>
@@ -143,7 +143,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><strong>&nbsp;2023</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -165,7 +166,7 @@ variant: tiptap
 <p>Bronze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Silver</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
