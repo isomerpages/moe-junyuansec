@@ -25,14 +25,9 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 <br>2. Ms Siti Shafiqah Binte Walid
 <br>3. Mr Loh Chee Teng
 <br>4. Ms Cheong Wei Yuen</p>
-<p><strong>CCA Leaders (Year 2024)<br></strong>1. Chairperson: SGT Heng Teng
-Xian Toby (4B)
-<br>2. Deputy Chairperson: SGT Nur Afiqah Awfiyah binte Mohammed (4H)</p>
-<p><strong>Organizational Chart</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/npccrr.jpg">
-</div>
+<p><strong>CCA Leaders (Year 2025)<br></strong>1. Chairperson: SSGT Amirul
+Irfan Bin Aziz (4F)
+<br>2. Deputy Chairperson: SSGT Syed Adel Rayyan Bin Syed Hedder Alattas (4H)</p>
 <p><strong>Awards/Achievements</strong>
 </p>
 <p>Unit Overall Proficiency Award:</p>
@@ -47,24 +42,30 @@ Xian Toby (4B)
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2014</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2015</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2016</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2017</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2018</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2018</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -74,7 +75,7 @@ Xian Toby (4B)
 <p>GOLD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOLD</p>
+<p>SILVER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SILVER</p>
@@ -87,43 +88,49 @@ Xian Toby (4B)
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2019</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2020</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2021</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2022</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2023</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2020</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2021</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Achievement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SILVER</p>
+<p>GOLD&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOLD</p>
+<p>GOLD&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOLD</p>
+<p>DISTINCTION&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOLD</p>
+<p>DISTINCTION</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOLD</p>
+<p>DISTINCTION</p>
 </td>
 </tr>
 </tbody>
