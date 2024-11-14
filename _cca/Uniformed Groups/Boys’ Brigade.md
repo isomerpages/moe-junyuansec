@@ -225,11 +225,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jetndnd.jpg">
 </div>
 <hr>
-<p>BB Day Message 2024 Video</p>
+<p><strong>BB Day Message 2024 Video</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wifDO2ELN9M?si=0uMqK1vEV0Xne6VM"></iframe>
 </div>
-<p>Boys Brigade My CCA Journey</p>
+<p><strong>Boys Brigade My CCA Journey</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7WOn5YcCEp0"></iframe>
 </div>
