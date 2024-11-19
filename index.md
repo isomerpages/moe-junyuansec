@@ -19,6 +19,13 @@ sections:
           description: ""
           url: /useful-links
       variant: image
+  - infopic:
+      title: OPEN HOUSE
+      id: infopic
+      button: CLICK HERE FOR MORE INFORMATION
+      url: https://www.junyuansec.moe.edu.sg/student-information/open-house-23-nov-2024/
+      image: /images/WhatsApp_Image_2024_11_19_at_14_13_34.jpg
+      alt: Image alt text
   - infobar:
       title: JYSS 25th Anniversary
       id: infobar
