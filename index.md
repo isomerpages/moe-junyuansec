@@ -24,12 +24,7 @@ sections:
       id: infopic
       button: CLICK HERE FOR MORE INFORMATION
       url: https://www.junyuansec.moe.edu.sg/student-information/open-house-23-nov-2024/
-      image: /images/WhatsApp_Image_2024_11_19_at_14_13_34.jpg
-      alt: Image alt text
-  - infopic:
-      title: OPEN HOUSE INVITATION
-      id: infopic
-      image: /images/WhatsApp_Image_2024_11_19_at_14_13_35.jpg
+      image: /images/Untitled_design.png
       alt: Image alt text
   - infobar:
       title: JYSS 25th Anniversary
