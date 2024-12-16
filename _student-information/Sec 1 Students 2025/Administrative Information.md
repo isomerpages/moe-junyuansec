@@ -20,45 +20,46 @@ to complete this registration form by 20 Dec 2024.</p>
 <p>Powered by&nbsp;<a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>FormSG</u></a>
 </p>
 <p><strong>Class Allocation and Timetable</strong>
-<br>Come 2024 we welcome our Sec 1s to the Full Subject Based Banding (FSBB).
+</p>
+<p>Come 2025 we welcome our Sec 1s to the Full Subject Based Banding (FSBB).
 Each Form Class bridges students from diverse subject combinations. It
 offers more opportunities for students to interact with others, with different
 strengths and interests.</p>
 <p>You will be able to check your child's class allocation&nbsp;<a href="https://script.google.com/macros/s/AKfycbzTqFanN55xJRtHBsoQUoLxjxaXizEjvlnSjjtlW3mquKSsTA0wi4aGwqsvchuQLdfLBA/exec" rel="noopener" target="_blank"><u>here</u></a>&nbsp;from
-27 Dec 2023, 3pm or via the Parents Gateway app, under "Contacts" when
+27 Dec 2024, 3pm or via the Parents Gateway app, under "Contacts" when
 it is updated.</p>
 <p>The Class timetables will be posted on the school website on a later date.</p>
-<p><strong>First Day of School &amp; Orientation 2024</strong>
+<p><strong>First Day of School &amp; Orientation 2025</strong>
 </p>
-<p>Students will report at 0735 on 2 Jan 2024. Students will report to the
+<p>Students will report at 0735 on 2 Jan 2025. Students will report to the
 hall, and then directed to their respective classroom.</p>
-<p>Sec One Orientation will be from 2 – 5 Jan (Tues to Fri) 2024. The customised
-timetable for the week can be found in the slide above.</p>
+<p>Sec One Orientation will be from 2-3 &amp; 6-7 Jan 2025. The customised
+timetable for the duration can be found in the slide above.</p>
 <p>What to wear: PE attire and shoes (Primary School attire is fine if Junyuan
-uniform is not ready).</p>
+uniform is not ready)</p>
 <p>What to bring: Stationery, notebook, water bottle, money for recess, oral
 digital thermometer.</p>
 <p><strong>School Smart Cards Secondary</strong>
-<br>All students entering Secondary One in Jan 2024 will be issued with a
+<br>All students entering Secondary One in Jan 2025 will be issued with a
 new Secondary level School Smart Cards (SSC). While Secondary One Students
 are waiting for their Secondary level SSCs to be ready, they can continue
-to use their Primary level SSCs for concessionary travel till end Apr 2024.
+to use their Primary level SSCs for concessionary travel till end Apr 2025.
 Students can still purchase the Bus Concession Pass (BCP) using their Primary
 level SSCs but they would need to purchase the BCP for Secondary School
 students.<strong><br></strong>
 </p>
 <p><strong>School Fees via GIRO</strong>
-<br>There is<strong> no need</strong> for reapplication when moving on to Secondary
-school if your child’s school fees had been paid via GIRO in primary school.
-A new application is required only if there is a change of GIRO account.
-Application forms can be obtained from the General Office or email us<strong><br></strong>
+<br>There is no need for reapplication when moving on to Secondary school
+if your child’s school fees had been paid via GIRO in primary school. A
+new application is required only if there is a change of GIRO account.
+Application forms can be obtained from the General Office or email us.<strong><br></strong>
 </p>
 <p><strong>Photography &amp; Use of Social Media</strong>
 <br>Areas in the school may be subjected to images captured as part of the
 daily functioning of the school, using film photography, digital photography,
 video or any other medium. As such, photographs or video images of the
 students may be taken during school activities and events such as classroom
-lessons, CCA, school camps, or school concerts.&nbsp;</p>
+lessons, CCA, school camps, or school concerts.</p>
 <p>The school may use and publish such photographs or video recordings in
 school publications, the school’s website, social media channels, or other
 communication channels. These may also be provided to the media for publication
@@ -67,10 +68,10 @@ in local or national newspapers or educational magazines.</p>
 </p>
 <p>Students can choose to wear white school shoes or sports shoes* on school
 days.</p>
-<p><em>*Do take note sports shoes does not include sneakers, canvas shoes or any other form of shoes not meant for sports activities.</em>
-</p>
+<p>*Do take note sports shoes does not include sneakers, canvas shoes or
+any other form of shoes not meant for sports activities.</p>
 <p>Our school normal reporting and dismissal time is as below. Please ensure
-your child/ward reports punctually for school.</p>
+you child/ward reports punctually for school.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -119,7 +120,7 @@ your child/ward reports punctually for school.</p>
 <p>By 8.25 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At 12.25 p.m.</p>
+<p>At 12.40 p.m.</p>
 </td>
 </tr>
 </tbody>
