@@ -66,7 +66,7 @@ variant: tiptap
 class T-shirts</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/student-information/booklist-2024-n-bookshop-vendor/" rel="noopener noreferrer nofollow" target=""><u>Booklist 2024 and Bookshop Vendor</u></a>
+<p><a href="/student-information/bookshop-n-uniform-vendor/" rel="noopener noreferrer nofollow" target=""><u>Booklist and Bookshop Vendor</u></a>
 </p>
 </li>
 <li>
