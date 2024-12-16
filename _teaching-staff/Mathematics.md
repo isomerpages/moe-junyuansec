@@ -13,17 +13,14 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/ma4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma5.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/ma8.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ma6.jpg"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ma7.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma8.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/Hao_Yi.jpg"></td>
-</tr>
-<tr>
-<td style="width: 33.3333%;"><img src="/images/ma10.jpg"></td>
+	<td style="width: 33.3333%;"><img src="/images/ma10.jpg"></td>
 <td style="width: 33.3333%;"><img src="/images/ma11.jpg"></td>
 </tr>
+
 </tbody>
 </table>
