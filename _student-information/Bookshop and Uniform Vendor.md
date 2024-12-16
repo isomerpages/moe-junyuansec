@@ -32,6 +32,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Junyuan_Sec_1_FINAL_revised.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Junyuan_Sec_2_FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </li>
