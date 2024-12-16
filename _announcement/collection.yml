@@ -2,5 +2,5 @@ collections:
   announcement:
     output: true
     order:
-      - N Level Results Release 2024.md
       - Announcement.md
+      - N Level Results Release 2024.md
