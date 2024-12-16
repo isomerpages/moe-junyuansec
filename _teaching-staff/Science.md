@@ -9,12 +9,11 @@ variant: markdown
 <tr>
 <td style="width: 33.3333%;"><img src="/images/Staff_Photos__8_July___1_.png"></td>
 <td style="width: 33.3333%;"><img src="/images/sci2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/sci3.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/sci6.jpg"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/sci4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/sci6.jpg"></td>
-	<td style="width: 33.3333%;"><img src="/images/sci11.jpg"></td>
+<td style="width: 33.3333%;"><img src="/images/sci11.jpg"></td>
 </tr>
 <tr>
 
