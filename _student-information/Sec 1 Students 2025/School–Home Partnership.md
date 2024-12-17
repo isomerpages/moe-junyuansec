@@ -20,7 +20,7 @@ in ways you feel comfortable.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
 <p></p>
-<p><strong>Positive Parenting Programme (Triple-P)</strong>
+<p><strong>Parenting Programmes</strong>
 </p>
 <p>In partnership with the school, Care Corner Families for Life has been
 appointed by the Ministry of Social and Family Development (MSF) to offer
