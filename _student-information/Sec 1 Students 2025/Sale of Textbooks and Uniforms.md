@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap
 ---
-<p><strong>Sec 1 Textbook and Uniform Purchase 2024</strong>
+<p><strong>Sec 1 Textbook and Uniform Purchase 2025</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQGQ6CNggKj-hLG1rhm223qIh2405GtIL-I6-QxLXdXz5HeB1qXQHG3xtNBJ8112N8QK_fSEmnhvtIg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
