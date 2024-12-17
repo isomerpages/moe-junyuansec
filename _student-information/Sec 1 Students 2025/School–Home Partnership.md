@@ -5,17 +5,21 @@ description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap
 ---
-<p><strong>Information on School-Home Partnership<br></strong>
-<br>
-</p>
 <p><strong>Parents Gateway<br></strong>More information on Parents Gateway
 can be found&nbsp;<a href="/other-information/parents-gateway" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u>
 </p>
 <p><strong>Parent Support Group</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcjhTzqwasyQMrFxM9c57ZnsY6GE1g62xfKLBWyM7UcXfySZY-ZwUmiqXCWooFMhs8OixIHXrheHHZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<p>We warmly invite you to be part of our Parent Support Group! Your involvement—big
+or small—can make a difference, whether by sharing your knowledge or contributing
+in ways you feel comfortable.</p>
+<p><a href="https://go.gov.sg/jypsg25" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jypsg25</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
+<p></p>
 <p><strong>Positive Parenting Programme (Triple-P)<br></strong>In partnership
 with the school, Methodist Welfare Services (MWS) has been appointed by
 the Ministry of Social and Family Development (MSF) to offer secular evidence-based
