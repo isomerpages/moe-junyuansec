@@ -20,13 +20,8 @@ in ways you feel comfortable.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
 <p></p>
-<p><strong>Positive Parenting Programme (Triple-P)<br></strong>In partnership
-with the school, Methodist Welfare Services (MWS) has been appointed by
-the Ministry of Social and Family Development (MSF) to offer secular evidence-based
-parenting programme.</p>
-<div class="iframe-wrapper">
-<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRNpJaTGHNRwKlb9lirIuhUtcwj_UlkGsH0bq4R3Fgp5EW6POoIC4z24H2aTdsF_FlRGl__rysM7-Kd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<p><strong>Positive Parenting Programme (Triple-P)<br></strong>
+</p>
 <p><strong>Resources for Parents</strong>
 </p>
 <p><a href="/files/2021%20Sec%201%20eReg/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Resource Kit - Parent Kit - Primary to Secondary Transition.pdf</u></a>
