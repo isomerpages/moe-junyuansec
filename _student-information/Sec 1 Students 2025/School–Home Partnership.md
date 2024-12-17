@@ -20,17 +20,12 @@ in ways you feel comfortable.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
 <p></p>
-<p><strong>Positive Parenting Programme (Triple-P)<br></strong>
+<p><strong>Positive Parenting Programme (Triple-P)</strong>
 </p>
-<p><strong>Resources for Parents</strong>
-</p>
-<p><a href="/files/2021%20Sec%201%20eReg/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Resource Kit - Parent Kit - Primary to Secondary Transition.pdf</u></a>
-</p>
-<p><a href="/files/Triple_P__Upcoming_Online_Seminars_.pdf" rel="noopener noreferrer nofollow" target="_blank">Triple P (Upcoming Online Seminars)</a>
-</p>
-<p><a href="/files/Nurture%20SG%20-%205%20Habit%20Hacks.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Nurture SG - 5 Habit Hacks.pdf</u></a>
-</p>
-<p><a href="/files/Resilience%20Booster.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Resilience Booster.pdf</u></a>
-</p>
-<p><a href="http://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target=""><u>Schoolbag</u></a>
-</p>
+<p>In partnership with the school, Care Corner Families for Life has been
+appointed by the Ministry of Social and Family Development (MSF) to offer
+secular evidence-based parenting programme. Care Corner Singapore organizes
+programmes to strengthen family relationships, prevent behavioural and
+emotional problems. They also conduct topical talks to promote strong parent-child
+bonding, well-being positive behaviours, and healthy teen development.</p>
+<p></p>
