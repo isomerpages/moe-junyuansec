@@ -17,7 +17,7 @@ in ways you feel comfortable.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
 <p></p>
 <p><strong>Positive Parenting Programme (Triple-P)</strong>
