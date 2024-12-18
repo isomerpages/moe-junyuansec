@@ -6,14 +6,18 @@ third_nav_title: Sec 1 Students 2025
 variant: tiptap
 ---
 <p>Cut-Off Point:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Posting Group 3</p>
 </th>
@@ -26,13 +30,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Non-Affiliated COP</p>
+<p>(Computation exclude students admitted via DSA-Sec)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29</p>
 </td>
 </tr>
 </tbody>
