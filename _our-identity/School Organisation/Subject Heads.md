@@ -40,7 +40,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" src="/images/sh7.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Thanesh.jpg">
 </div>
 <p></p>
 </td>
@@ -64,9 +64,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Thanesh.jpg">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
