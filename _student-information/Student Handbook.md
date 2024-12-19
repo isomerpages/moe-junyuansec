@@ -4,4 +4,6 @@ permalink: /student-information/student-handbook/
 description: ""
 variant: tiptap
 ---
-<h3><a href="/files/JYSS_Student_Handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">JYSS Student Handbook 2024</a></h3><p></p>
+<h3><a href="/files/Student_Handbook_2025.pdf" rel="noopener nofollow" target="_blank">JYSS Student Handbook 2025</a></h3>
+<h3></h3>
+<p></p>
