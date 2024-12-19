@@ -4,7 +4,12 @@ permalink: /our-identity/school-organisation/teaching-staff/mother-tongue/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,13 +71,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mt11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Photos__8_July___3_.png">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/mt12.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/mt11.jpg">
 </div>
 <p></p>
 </td>
@@ -80,11 +85,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ng_Mei_Yee.jpg">
+<img style="width: 100%" height="auto" width="100%" src="/images/mt12.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ng_Mei_Yee.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
