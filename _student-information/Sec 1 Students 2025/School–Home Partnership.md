@@ -29,3 +29,8 @@ programmes to strengthen family relationships, prevent behavioural and
 emotional problems. They also conduct topical talks to promote strong parent-child
 bonding, well-being positive behaviours, and healthy teen development.</p>
 <p></p>
+<p><strong>Parents Engagement</strong>
+</p>
+<p><a href="/files/Sec_1_Parents_Engagement_for_2025__FAQ_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parents Engagement for 2025 (FAQ)</a>
+</p>
+<p></p>

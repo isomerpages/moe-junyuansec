@@ -1,6 +1,6 @@
 ---
 title: Administrative Information
-permalink: /student-information/sec-1-students-2024/administrative-information/
+permalink: /student-information/sec-1-students/administrative-information/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap
