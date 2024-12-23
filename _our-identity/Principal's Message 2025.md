@@ -4,4 +4,66 @@ permalink: /our-identity/principals-message-2025/
 description: ""
 variant: tiptap
 ---
-<p>In 2024, Junyuan Secondary will celebrate its 25th anniversary, marking a significant milestone since its establishment in 1999. Our school's vision of 'Champions for the Community,' underscores our purpose in empowering students to contribute positively to others. This is in line with our nation’s Forward SG exercise which envisions a stronger social compact grounded in shared understandingand mutual responsibilities. We want our students to see themselves as an integral part of this future. Through education, we foster their belief that they are not merely as participants in this journey, but also proactive contributors who exert a positive influence on others through their words and actions.We also harness the power of quality interactions to reinforce students' understanding of personal and collective responsibility, igniting in them a passion to apply their gifts for the betterment of others.When students come to see themselves as part of something bigger, their motivation to change for the better emerges.</p><p>Over the past year, we piloted Full Subject Based Banding (FSBB) journey for our 2023 Sec 1 cohort. We witnessed the positive impact of students from different academic courses learning alongside each other for the common curriculum subjects. Learning to work with peers of different strengths not only enhances academic understanding but also promotes the development of empathy, an essential trait needed by students to navigate the complexities of our interconnected world. During our Friday morning assemblies, representatives from the Sec 1 classes shared heartfelt stories on how they were encouraged by many classmates and teachers, as they transited to the new school environment. These positive responses from students and parents gave us the confidence and conviction to continue this FSBB journey with our incoming Sec 1 of 2024 and do our part in bringing out the best in every child.</p><p>The past year has seen the rapid development of Artificial Intelligence (AI) across different sectors, including education. In a world where many traditional roles can be replaced by AI, our understanding of learning must continue to evolve. Our Junyuan CHAMPS Framework outlines key domains of holistic development in our students – Cognitive, Health, Aesthetics, Moral, Physical and Social. These domains serve as a foundation, equipping our students with the skills and dispositions to thrive in an AI-driven world. While literacy and numeracy remain pivotal, we will place greater emphasis on the ‘how’ and ‘why’ of learning by weaving real life applications into our learning experiences. We constantly refine our programmes to make them more relevant and engaging for students. Recognising the importance of helping students apply their strengths for the greater good, our Applied Learning Programme (ALP) has evolved. Incorporating elements of health sciences, the ALP programme now empowers students to improve the physical well-being for themselves and their families through a deeper understanding of lifestyles and dietary choices. We will continue to empower students to take greater ownership of their learning by honing their learning dispositions and strengthening our Education and Career Guidance programmes. These successful learning experiences provide the building blocks for students to navigate diverse pathways and embrace continuous learning, thereby opening more opportunities beyond Junyuan.</p><p>At the heart of our student development programmes lies values inculcation. In 2023, our B Division Rugby team did the school proud by qualifying for the finals of the B Division Rugby Bowl Championship. Our Rugby boys exemplified the school values of Excellence, Respect and Resiliencewhen they played their hearts out at the Sports Hub, supported by the entire school community. Their performance is a testament to the power of these values, proving that true champions are not solely defined by the scoreboard, but by the spirit and character they displayed both on and off the field.Beyond the achievement, it was the individual stories of courage and character that truly resonated with us. From the captain's unwavering leadership to his teammates' courageous tackles, each player embodied the true meaning of being a champion. Their resilience in the face of adversity, their respect for their opponents, and their unwavering pursuit of excellence are invaluable lessons learned that will carry them far beyond the final whistle. The triumph of the B Division Rugby team extends beyond being a mere victory for Junyuan; it represents a personal triumph for each player who embraced the values guiding them to success. Their ultimate victory on the field serves as a beacon of hope for others, underscoring the enduring lesson that resilience and determination are the paths to eventual success. It is a testament to the belief that as one, we can attain even greater accomplishments.</p><p>As we approach our 25th anniversary, we are not just celebrating the years gone by but also looking forward to journey ahead. Junyuan Secondary remains committed to fostering an inclusive learning environment that not only equips students with knowledge but also cultivates a sense of civic duty. We are excited about the role our students will play in shaping the future of our community and the nation at large. Together, as 'Champions for the Community', we are confident that our students will continue to make meaningful contributions and exert their enduring impact on society.</p><p><strong>Mr Tay Meng Kiat<br>Principal<br>Junyuan Secondary School</strong></p>
+<p><strong>2025 – Embracing a New Chapter of Growth</strong>
+</p>
+<p><strong>Building on a Legacy of Excellence</strong>
+</p>
+<p>The past year was a momentous one for Junyuan Secondary as we celebrated
+our 25th anniversary. This milestone provided a wonderful opportunity to
+reflect on our rich history and to inspire our students to uphold our school's
+values. As we celebrated our history, we made it a point to contribute
+to the Tampines community through our food drive for the needy and inviting
+primary school students to our Soiree concert. Our students enthusiastically
+embraced these initiatives, demonstrating their commitment to the community.</p>
+<p><strong>Renewing Our Mission: To Nurture and Empower Every Junyuan Champ to Learn, Lead and to Excel</strong>
+</p>
+<p>We had taken the past year to renew our mission to underscore our commitment
+to fostering lifelong learning. ‘To Nurture and Empower Every Junyuan Champ
+to Learn, Lead and to Excel’ now guides our every endeavour. We believe
+that learning is an ongoing journey, and we are committed to providing
+our students with the knowledge, skills, and dispositions they need to
+thrive in an ever-changing world. Learning is not just about acquiring
+knowledge; it's about developing empathy, understanding perspectives, and
+cultivating the desire to become better persons for others. By fostering
+this love of learning within our students, we empower them to become responsible
+citizens who can navigate complex challenges and contribute meaningfully
+to society.</p>
+<p><strong>Learning from Our Past, Shaping Our Future</strong>
+</p>
+<p>2025 marks our nation’s 60th year of independence and we will celebrate
+our nation-building journey and reflect on our shared values of multiculturalism
+and resilience that have united us and allowed us to prosper against the
+odds. Education has been an integral part of nurturing active and concerned
+citizens who are responsible to their family, community and nation and
+take active roles in improving the lives of others.</p>
+<p>Throughout our 25-year journey, our vision has remained unwavering, to
+empower students to become ‘Champions for the Community’. In the past year,
+we witnessed firsthand the incredible determination exhibited by our students
+when they were given the opportunity to serve others. Across school activities
+to community projects, our students stepped up, showcasing their better
+selves as they contributed meaningfully to their community. These experiences
+not only benefited the community but also fostered personal growth and
+a deeper understanding of how students can make a positive difference in
+the world.</p>
+<p><strong>Unlocking Learning Through Service</strong>
+</p>
+<p>If their sense of service and desire to make a difference drive our students
+to become better versions of themselves, what can it unlock in their learning?
+When students are intrinsically motivated by a desire to contribute positively
+to their community, their learning transforms. They recognise that learning
+is not merely a collection of facts, but a powerful tool for understanding
+the world and making a difference. We will leverage this drive by presenting
+students with real-world challenges and encouraging them to exercise their
+critical thinking skills to develop innovative solutions. This approach
+not only enhances their academic skills but also fosters a sense of self-direction
+and ownership over their learning. As they explore their own passions and
+pursue projects that align with their values, students become more invested
+in their education and develop the skills and confidence to become lifelong
+learners.</p>
+<p><strong>Looking Forward to a Year of Growth and Discovery</strong>
+</p>
+<p>We are excited about the year ahead and the opportunities it presents
+for our students to learn, grow, and make a positive impact on the world.
+We encourage parents to actively engage in their child's education and
+partner with us on this journey. May 2025 be successful and rewarding for
+everyone at Junyuan Secondary.</p>
