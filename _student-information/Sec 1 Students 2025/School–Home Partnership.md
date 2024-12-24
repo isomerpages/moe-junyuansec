@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap
 ---
+<p><strong>Parents Engagement</strong>
+</p>
+<p><a href="/files/Sec_1_Parents_Engagement_for_2025__FAQ_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parents Engagement for 2025 (FAQ)</a>
+</p>
+<p><a href="/files/Sec_1_Parents_Engagement__19_Dec_2024__Compiled.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parents Engagement (19 Dec 2024)</a>
+</p>
 <p><strong>Parents Gateway<br></strong>More information on Parents Gateway
 can be found&nbsp;<a href="/other-information/parents-gateway" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a><u>.</u>
 </p>
@@ -29,8 +35,5 @@ programmes to strengthen family relationships, prevent behavioural and
 emotional problems. They also conduct topical talks to promote strong parent-child
 bonding, well-being positive behaviours, and healthy teen development.</p>
 <p></p>
-<p><strong>Parents Engagement</strong>
-</p>
-<p><a href="/files/Sec_1_Parents_Engagement_for_2025__FAQ_.pdf" rel="noopener nofollow" target="_blank">Sec 1 Parents Engagement for 2025 (FAQ)</a>
-</p>
+<p></p>
 <p></p>
