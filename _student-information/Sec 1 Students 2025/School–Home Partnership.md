@@ -1,6 +1,6 @@
 ---
 title: School–Home Partnership
-permalink: /student-information/sec-1-students-2024/school-home-partnership/
+permalink: /student-information/sec-1-students/school-home-partnership/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap

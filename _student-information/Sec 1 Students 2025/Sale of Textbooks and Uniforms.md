@@ -1,6 +1,6 @@
 ---
 title: Sale of Textbooks and Uniforms
-permalink: /student-information/sec-1-students-2024/sale-of-textbooks-and-uniforms/
+permalink: /student-information/sec-1-students/sale-of-textbooks-and-uniforms/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap

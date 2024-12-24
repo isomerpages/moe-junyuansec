@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Language (MTL) Matters
-permalink: /student-information/sec-1-students-2024/mother-tongue-language-mtl-matters/
+permalink: /student-information/sec-1-students/mother-tongue-language-mtl-matters/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap

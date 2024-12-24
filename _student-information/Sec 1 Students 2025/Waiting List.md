@@ -1,6 +1,6 @@
 ---
 title: Waiting List
-permalink: /student-information/sec-1-students-2024/waiting-list/
+permalink: /student-information/sec-1-students/waiting-list/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap

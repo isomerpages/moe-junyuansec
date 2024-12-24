@@ -1,6 +1,6 @@
 ---
 title: Medical Appeal Exercise (MAE)
-permalink: /student-information/sec-1-students-2024/medical-appeal-exercise-mae/
+permalink: /student-information/sec-1-students/medical-appeal-exercise-mae/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap

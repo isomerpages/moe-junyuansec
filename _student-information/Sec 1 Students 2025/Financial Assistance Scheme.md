@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance Scheme
-permalink: /student-information/sec-1-students-2024/financial-assistance-scheme/
+permalink: /student-information/sec-1-students/financial-assistance-scheme/
 description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap
