@@ -68,7 +68,7 @@ We encourage parents to actively engage in their child's education and
 partner with us on this journey. May 2025 be successful and rewarding for
 everyone at Junyuan Secondary.</p>
 <p></p>
-<p></p>
-<p>Mr Tay Meng Kiat</p>
-<p>Principal</p>
-<p>Junyuan Secondary School</p>
+
+Mr Tay Meng Kiat<br>
+Principal<br>
+Junyuan Secondary School
