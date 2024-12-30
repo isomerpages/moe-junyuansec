@@ -24,7 +24,7 @@ to complete this registration form by 20 Dec 2024.</p>
 Each Form Class bridges students from diverse subject combinations. It
 offers more opportunities for students to interact with others, with different
 strengths and interests.</p>
-<p>You will be able to check your child's class allocation&nbsp;<a href="https://script.google.com/macros/s/AKfycbzTqFanN55xJRtHBsoQUoLxjxaXizEjvlnSjjtlW3mquKSsTA0wi4aGwqsvchuQLdfLBA/exec" rel="noopener" target="_blank"><u>here</u></a>&nbsp;from
+<p>You will be able to check your child's class allocation&nbsp;<a href="https://script.google.com/a/macros/moe.edu.sg/s/AKfycbw9w5VZx_qGt0siQyJgPZvTP0BjXL2vXW5_WKhseUENR5a0O3RuMZaeQgjMk6Vi23Ubxw/exec" rel="noopener" target="_blank"><u>here</u></a>&nbsp;from
 27 Dec 2024, 3pm or via the Parents Gateway app, under "Contacts" when
 it is updated.</p>
 <p>The Class timetables will be posted on the school website on a later date.</p>
