@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1___4_.png
+      background: /images/Picture4a_.jpg
       key_highlights:
         - title: Announcement
           description: ""
