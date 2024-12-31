@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/jpeg_optimizer_jpeg_optimizer_APPROVED_25th_Anniversary_Banner__1___4_.png
+      background: /images/Picture4a_.jpg
       key_highlights:
         - title: Announcement
           description: ""
@@ -19,16 +19,6 @@ sections:
           description: ""
           url: /useful-links
       variant: image
-  - infobar:
-      title: 2025 Sec 1 e-Registration
-      id: infobar
-      button: Click Here for more information
-      url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students-2025/welcome-to-the-junyuan-family/
-  - infobar:
-      title: JYSS 25th Anniversary
-      id: infobar
-      button: CLICK HERE FOR MORE INFO
-      url: /student-information/25th-anniversary/25th-anniversary/
   - infobar:
       title: Junyuan Secondary School Video
       id: infobar
