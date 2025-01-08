@@ -489,6 +489,33 @@ the best of their abilities in everything they do.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB13.jpg">
 </div>
 <p>GB Company Camp: Forest Adventure @ Bedok Reservoir</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB14.jpg">
+</div>
+<p>Overseas Learning Journey to Bangkok, Thailand: Group photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB15.jpg">
+</div>
+<p>Overseas Learning Journey to Bangkok, Thailand: Group photo</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB16.jpg">
+</div>
+<p>Overseas Learning Journey to Bangkok, Thailand: Home visitations</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB17.jpg">
+</div>
+<p>Overseas Learning Journey to Bangkok, Thailand: Interactions with students
+from Thammasat Klongluang Witthayakhom School’s English Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB18.jpg">
+</div>
+<p>Overseas Learning Journey to Bangkok, Thailand: Interactions with students
+from Thammasat Klongluang Witthayakhom School’s English Programme</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB19.jpg">
+</div>
+<p>Overseas Learning Journey to Bangkok, Thailand: Group photo with the 2<sup>nd</sup> Pathum
+Thani Company in Thailand</p>
 <p><strong>Other key activities in the recent years</strong>
 </p>
 <table style="minWidth: 75px">
