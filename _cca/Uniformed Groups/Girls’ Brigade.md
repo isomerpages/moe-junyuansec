@@ -454,68 +454,34 @@ the best of their abilities in everything they do.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture2a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB5.jpg">
 </div>
-<p>BB &amp; GB Extended Parade (Bowling at OTH)</p>
+<p>BB &amp; GB Extended Parade (Laser Tag)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture3a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB6.jpg">
 </div>
-<p>BB &amp; GB Enrolment Service</p>
+<p>BB &amp; GB Enrolment Service 2024</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture4a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB7.jpg">
 </div>
-<p>BB &amp; GB Adventure and Bonding Camp (Rock climbing)</p>
+<p>Responders Plus Programme (RPP) @ SCDF 2<sup>nd</sup> Div HQ</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture5a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB8.jpg">
 </div>
-<p>BB &amp; GB Adventure and Bonding Camp (Laser Tag)</p>
+<p>GBFD (Friend in Deed): Delivery of donations</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB9.jpg">
 </div>
-<p>BB &amp; GB Adventure and Bonding Camp (Combined Games)</p>
+<p>JYSS National Day Observance Ceremony</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB10.jpg">
 </div>
-<p>GB Friendship Day</p>
+<p>Service Learning @ Kampong Senang</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB11.jpg">
 </div>
-<p>GB Company Camp – Company Picnic</p>
+<p>GB Company Camp: Company photo</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture9.jpg">
-</div>
-<p>GB Company Camp</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb5.jpg">
-</div>
-<p><em>CEPP (Tier 2) - Learning basic first aid</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb6.jpg">
-</div>
-<p><em>CEPP (Tier 2) - Learning how to use the extinguisher</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb7.jpg">
-</div>
-<p><em>BB &amp; GB Enrolment Service 2022</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb8.jpg">
-</div>
-<p><em>National Day Observance Ceremony 2022</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb9.jpg">
-</div>
-<p><em>Service Learning 2022: Cleaning and filling up the community fridge at Tampines Block 441</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb10.jpg">
-</div>
-<p><em>GB Company Camp 2022: Trekking from Punggol to JYSS</em>
-</p>
 <p><strong>Other key activities in the recent years</strong>
 </p>
 <table style="minWidth: 75px">
