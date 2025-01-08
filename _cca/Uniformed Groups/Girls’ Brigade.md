@@ -474,14 +474,21 @@ the best of their abilities in everything they do.</p>
 </div>
 <p>JYSS National Day Observance Ceremony</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB10.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB10.jpg">
 </div>
 <p>Service Learning @ Kampong Senang</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB11.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB11.jpg">
 </div>
 <p>GB Company Camp: Company photo</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB12.jpg">
+</div>
+<p>GB Company Camp: Field cooking</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB13.jpg">
+</div>
+<p>GB Company Camp: Forest Adventure @ Bedok Reservoir</p>
 <p><strong>Other key activities in the recent years</strong>
 </p>
 <table style="minWidth: 75px">
