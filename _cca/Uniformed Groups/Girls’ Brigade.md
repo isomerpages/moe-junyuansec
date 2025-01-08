@@ -490,29 +490,29 @@ the best of their abilities in everything they do.</p>
 </div>
 <p>GB Company Camp: Forest Adventure @ Bedok Reservoir</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB14.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB14.jpg">
 </div>
 <p>Overseas Learning Journey to Bangkok, Thailand: Group photo</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB15.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB15.jpg">
 </div>
 <p>Overseas Learning Journey to Bangkok, Thailand: Group photo</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB16.jpg">
 </div>
 <p>Overseas Learning Journey to Bangkok, Thailand: Home visitations</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB17.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB17.jpg">
 </div>
 <p>Overseas Learning Journey to Bangkok, Thailand: Interactions with students
 from Thammasat Klongluang Witthayakhom School’s English Programme</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB18.jpg">
 </div>
 <p>Overseas Learning Journey to Bangkok, Thailand: Interactions with students
 from Thammasat Klongluang Witthayakhom School’s English Programme</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB19.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB19.jpg">
 </div>
 <p>Overseas Learning Journey to Bangkok, Thailand: Group photo with the 2<sup>nd</sup> Pathum
 Thani Company in Thailand</p>
@@ -544,9 +544,7 @@ Thani Company in Thailand</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Overseas Learning Journey to Bangkok
-<br><em>(currently on hold due to COVID-19)</em>
-</p>
+<p>Overseas Learning Journey to Bangkok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Service</p>
@@ -557,7 +555,7 @@ Thani Company in Thailand</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Service Learning at Evergreen Circle Senior Activity Centre</p>
+<p>Service Learning at Kampong Senang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Service</p>
