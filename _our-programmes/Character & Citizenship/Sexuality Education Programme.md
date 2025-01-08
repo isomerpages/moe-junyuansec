@@ -78,7 +78,7 @@ which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>&nbsp;Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -463,7 +463,7 @@ is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 1 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -503,7 +503,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -538,7 +538,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 1 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -626,7 +626,7 @@ and should be avoided</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -673,7 +673,7 @@ relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -714,7 +714,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -830,7 +830,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -866,7 +866,7 @@ to sex and negative peer pressure. They also learn that the impact of STIs/HIV
 extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
-<p><strong>At Junyuan Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Junyuan Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -906,7 +906,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -923,7 +923,7 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -936,13 +936,13 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/SEd_Ed_Opt_Out_Form_2024_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+the start of the year and is also downloadable <a href="/files/SEd_Ed_Opt_Out_Form_2025_Annex_A.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
 form is to be submitted by 29/01/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form__Sec__2024_final_15_Nov_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-&nbsp;The completed form is to be submitted by 29/01/2024.</p>
+of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form__Sec__HPB_.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;The
+completed form is to be submitted by 29/01/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at (<a rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> or
 <a href="tel:+6565873683" rel="noopener noreferrer nofollow" target="_blank">+65 6587 3683</a>) for discussion or to seek clarification about the school’s
