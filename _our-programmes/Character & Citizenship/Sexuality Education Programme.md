@@ -155,7 +155,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +376,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -538,7 +538,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 6</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -906,7 +906,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
