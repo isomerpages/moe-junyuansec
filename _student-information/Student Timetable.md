@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p>Student Timetable for Semester 1 2025</p>
-<p><a href="/files/2025_Sem_1_Class_Timetable_Final.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Class Timetable</a>
+<p><a href="/files/2025_Sem_1_Class_Timetable_Final_v2.pdf" rel="noopener nofollow" target="_blank">2025 Sem 1 Class Timetable</a>
 </p>
+<p></p>
 <p>Students should refer to the Non-HBL Timetable except for the following
 weeks whereby there are HBL day:</p>
 <ul data-tight="true" class="tight">
