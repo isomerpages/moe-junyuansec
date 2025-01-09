@@ -10,7 +10,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>N Level Results Release 2024</p>
+<p><a href="https://junyuansec.moe.edu.sg/n-level-results-release-2024/" rel="noopener nofollow" target="_blank">N Level Results Release</a>
+</p>
 </li>
 </ol>
 <p></p>
