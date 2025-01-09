@@ -23,8 +23,8 @@ near the school as parking is limited and reserved for school staff.</p>
 <p>Here are some useful resources to support our teens:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">O Level Infosheet for Parents</a> –
-SEL and ECG</p>
+<p><a href="/files/2024_O_Level_Infosheet_for_Parents__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">O Level Infosheet for Parent</a>
+<a rel="noopener noreferrer nofollow" target="_blank">s</a>– SEL and ECG</p>
 </li>
 <li>
 <p>&nbsp;For social and emotional support, you may also access <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener noreferrer nofollow" target="_blank">this website</a>
