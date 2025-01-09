@@ -642,8 +642,45 @@ Thani Company in Thailand</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB20.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB20.jpg">
 </div>
+<p>BB &amp; GB Adventure and Bonding Camp (Rockclimbing)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB21.jpg">
+</div>
+<p>BB &amp; GB Adventure and Bonding Camp (Laser Tag)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB22.jpg">
+</div>
+<p>BB &amp; GB Adventure and Bonding Camp (Combined Games)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB23.jpg">
+</div>
+<p>GB Company Camp – Company Picnic</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB24.jpg">
+</div>
+<p>GB Company Camp</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB25.jpg">
+</div>
+<p>Dragonboating at Kallang Basin</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/GB26.jpg">
+</div>
+<p>Orienteering at Pulau Ubin</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB27.jpg">
+</div>
+<p>Learning how to cook a three-course meal</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB28.jpg">
+</div>
+<p>BB &amp; GB Extended Parade (Bowling at OTH)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB29.jpg">
+</div>
+<p>Company Outing – Baking Hokkaido Cupcakes</p>
 <p><strong>Videos</strong>
 </p>
 <div class="iframe-wrapper">
