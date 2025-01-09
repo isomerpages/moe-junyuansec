@@ -3,6 +3,7 @@ title: Education & Career Guidance
 permalink: /our-programmes/character-n-citizenship/education-n-career-guidance/
 description: ""
 third_nav_title: Character & Citizenship
+variant: markdown
 ---
 <p>The ECG Counsellor is usually available every&nbsp;<strong>Monday</strong> and <strong>Wednesday</strong>, and sessions will be conducted at the&nbsp;<strong>Meeting Room</strong>&nbsp;(next to the ECG Corner @ the Atrium).</p>
 <p>To discuss any of the following, please book appointment slots that are during your&nbsp;<strong>recess / lunch breaks / free periods</strong>&nbsp;or&nbsp;<strong>after your curriculum hours</strong>.</p>
@@ -15,7 +16,7 @@ third_nav_title: Character & Citizenship
 <li>Any other <strong>ECG related</strong>&nbsp;questions</li>
 </ul>
 <a href="https://go.gov.sg/ecgjys-appt"><img style="width: 30%;" src="/images/ecg1.png"></a><br>
-<img style="width:50%;" src="/images/jys%20appointment%20qr.png">
+<img style="width:40%;" src="/images/Screenshot_2025_01_09_124842.jpg">
 
 <a href="https://moeecg.appointeze.com/onlinelink/KathrineYang"><img style="width: 30%;" src="/images/ecg2.png"></a><br>
 <table width="1000">

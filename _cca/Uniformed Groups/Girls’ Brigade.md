@@ -640,49 +640,54 @@ Thani Company in Thailand</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb11.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB20.jpg">
 </div>
-<p><em>Overseas Learning Journey to Bangkok – Home visitation</em>
-</p>
+<p>BB &amp; GB Adventure and Bonding Camp (Rockclimbing)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb12.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB21.jpg">
 </div>
-<p><em>Overseas Learning Journey to Bangkok – Making dolls for children who are less fortunate</em>
-</p>
+<p>BB &amp; GB Adventure and Bonding Camp (Laser Tag)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb13.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB22.jpg">
 </div>
-<p><em>Service Learning at Evergreen Circle Senior Activity Centre</em>
-</p>
+<p>BB &amp; GB Adventure and Bonding Camp (Combined Games)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb14.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB23.jpg">
 </div>
-<p><em>Dragonboating at Kallang Basin</em>
-</p>
+<p>GB Company Camp – Company Picnic</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/gb15.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB24.jpg">
 </div>
-<p><em>Orienteering at Pulau Ubin</em>
-</p>
+<p>GB Company Camp</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb16.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB25.jpg">
 </div>
-<p><em>Learning how to cook a three-course meal</em>
-</p>
+<p>Dragonboating at Kallang Basin</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb17.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/GB26.jpg">
 </div>
-<p><em>Company Outing - Bowling at Our Tampines Hub</em>
-</p>
+<p>Orienteering at Pulau Ubin</p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb18.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB27.jpg">
 </div>
-<p><em>Company Outing – Baking Hokkaido Cupcakes</em>
-</p>
+<p>Learning how to cook a three-course meal</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB28.jpg">
+</div>
+<p>BB &amp; GB Extended Parade (Bowling at OTH)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/GB29.jpg">
+</div>
+<p>Company Outing – Baking Hokkaido Cupcakes</p>
 <p><strong>Videos</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nAtpfR5t3wo?si=LsmxUiubSDp3IUiK"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nAtpfR5t3wo?si=Y61QOWxnt8vKF5vY"></iframe>
 </div>
 <p></p>

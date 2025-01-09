@@ -64,7 +64,9 @@ hone their skills but also cultivates confidence and resilience.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Priscilla Vanessa Louis</p>
+<p>Ms Ong Si JIa</p>
 <p>Ms Kwok Hui Ning Grace</p>
+<p></p>
 </td>
 </tr>
 <tr>

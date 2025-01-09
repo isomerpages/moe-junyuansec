@@ -40,13 +40,13 @@ our CCA.</p>
 </p>
 <p><strong>CCA Leaders (Year 2025)</strong>
 <br>Upper Secondary:
-<br>1. Captain: Wong Johnathan Espiritu (3A)
-<br>2. Vice- Captain: Chee Jun Le Edven (2A)
-<br>3. Vice-Captain: Poon Yong Yao (2A)
-<br>4. Vice-Captain: Muhammad Hanafi Bin Arfi Shahrin (2F)</p>
+<br>1. Captain: Wong Johnathan Espiritu (4A)
+<br>2. Vice- Captain: Chee Jun Le Edven (3F)
+<br>3. Vice-Captain: Poon Yong Yao (3E)
+<br>4. Vice-Captain: Muhammad Hanafi Bin Arfi Shahrin (3A)</p>
 <p>Lower Secondary:
-<br>1. Captain:&nbsp;Muhammad Nabil Syafiq Bin Sophian (1G)
-<br>2. Vice-Captain:&nbsp;Briley James Tan (1B)</p>
+<br>1. Captain:&nbsp;Muhammad Nabil Syafiq Bin Sophian (2G)
+<br>2. Vice-Captain:&nbsp;Briley James Tan (2B)</p>
 <p><strong>Awards/Achievements</strong>
 </p>
 <p>East Zone Schools Tournament (B Div) 2024-Top 8<strong><br></strong>East
