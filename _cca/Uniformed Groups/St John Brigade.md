@@ -40,7 +40,7 @@ St. John Brigade (SJB) is a uniformed group dedicated to cultivating leadership,
 
 <p><strong>CCA Schedule and Venue<br></strong>Day: Tuesdays and/or Thursdays<br>Time: 1500 – 1730<br>Venue: Classroom B1-01<br>Additional sessions for special events and competitions will be communicated in advance.
 
-</p><p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)<br>3. 3rd Overall IC: Loryn Loy (S3-H) </p>
+</p><p><strong>CCA Leaders (Year 2024)<br></strong>1.	Loryn Loy<br>2.	Aisyah Humaira Bte Ahmad Najib<br>3.	Khoo Jing Ning </p>
 <p><strong>Awards/Achievements</strong></p>
 <p>Corps Achievement Awards:</p>
 <table>
