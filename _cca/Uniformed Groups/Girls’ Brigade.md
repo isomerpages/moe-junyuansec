@@ -640,46 +640,10 @@ Thani Company in Thailand</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB20.jpg">
 </div>
-<p><em>Overseas Learning Journey to Bangkok – Home visitation</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb12.jpg">
-</div>
-<p><em>Overseas Learning Journey to Bangkok – Making dolls for children who are less fortunate</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb13.jpg">
-</div>
-<p><em>Service Learning at Evergreen Circle Senior Activity Centre</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb14.jpg">
-</div>
-<p><em>Dragonboating at Kallang Basin</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/gb15.jpg">
-</div>
-<p><em>Orienteering at Pulau Ubin</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb16.jpg">
-</div>
-<p><em>Learning how to cook a three-course meal</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb17.jpg">
-</div>
-<p><em>Company Outing - Bowling at Our Tampines Hub</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/gb18.jpg">
-</div>
-<p><em>Company Outing – Baking Hokkaido Cupcakes</em>
-</p>
 <p><strong>Videos</strong>
 </p>
 <div class="iframe-wrapper">
