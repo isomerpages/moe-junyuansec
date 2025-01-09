@@ -2,7 +2,7 @@ collections:
   announcement:
     output: true
     order:
-      - O Level Results Release on Friday, 10 January.md
       - Announcement.md
       - ECHA.md
       - N Level Results Release 2024.md
+      - O Level Results Release on Friday, 10 January.md
