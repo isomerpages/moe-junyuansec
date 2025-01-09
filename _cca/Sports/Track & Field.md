@@ -55,7 +55,7 @@ yourself—faster, higher, and stronger with each step.
 <p>Mr Ng Kuan Shin</p>
 </li>
 <li>
-<p>Mdm Chiew Huey Ching</p>
+<p>Mr Jeremy Wee</p>
 </li>
 </ul>
 <p>
