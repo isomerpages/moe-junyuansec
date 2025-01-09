@@ -7,18 +7,40 @@ variant: markdown
 ---
 ### <strong>CCA Overview</strong>
 	
-St John’s Brigade (SJB) at Junyuan Secondary School integrates essential First Aid and Home Nursing skills, community service, badge programmes, leadership development, and character-building activities. Through SJB, our cadets will grow to become resilient and compassionate leaders who are ready to contribute to their community.
+St. John Brigade (SJB) is a uniformed group dedicated to cultivating leadership, discipline, and compassion among students while equipping them with critical first aid and life-saving skills. Through hands-on training, camps, competitions, and community service projects, SJB members are empowered to serve their school and community. The CCA fosters teamwork and resilience while instilling a sense of purpose and responsibility in each member. With a focus on character development and skill acquisition, SJB aims to nurture confident and compassionate leaders of tomorrow.
+
+#### <strong>Plans for CCA</strong>
+1.	Skills Development: 
+* Advanced first aid and life support training.
+* Workshops on disaster preparedness and emergency response.
+2.	Competitions and Certifications: 
+* Participation in St. John Brigade Competitions (zone and national levels).
+* Certification courses in first aid, CPR, and AED.
+3.	Leadership Training: 
+* Structured leadership programs for student leaders.
+* Opportunities to lead events and training sessions.
+4.	Community Engagement: 
+* Organizing first aid booths at school and community events.
+* Collaborations with external organizations for service projects.
+5.	Camps and Enrichment Activities: 
+* Annual leadership and bonding camp.
+* Cross-training with other uniformed groups.
+
 
 #### <strong>SJB Motto</strong>
-For the Faith, For the Service of Humanity.
+"Pro Fide et Utilitate Hominum"<br>
+(For the Faith and in the Service of Humanity)
+
 
 
 <p><strong>Our Programme</strong><br>All SJB cadets may look forward to receiving training and experiential learning in the following areas::<br>- First Aid &amp; Life Support<br>- Transportation of Casualties<br>- Cadet Proficiency Badges Scheme<br>- Home Nursing<br>- Foot Drill<br>- Leadership Courses</p>
 
 
-<p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia<br>2. Mdm Nuraisha<br>3. Ms Nur Zahirah<br>4. Mr Yeo Jun Qiang</p>
-<p><strong>CCA Schedule and Venue<br></strong>Every Tuesdays (3 pm to 5 pm)<br>Thursdays / Saturdays (only if there are upcoming events)<br>Parade Square &amp; Classroom B1-01</p>
-<p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)<br>3. 3rd Overall IC: Loryn Loy (S3-H) </p>
+<p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia<br>Email: tan_chin_alicia@moe.edu.sg<br>2. Mdm Nuraisha<br>Email: nuraisha_azmi@moe.edu.sg<br>3. Ms Nur Zahirah<br>Email: nur_zahirah_binte_zainal@moe.edu.sg</p>
+
+<p><strong>CCA Schedule and Venue<br></strong>Day: Tuesdays and/or Thursdays<br>Time: 1500 – 1730<br>Venue: Classroom B1-01<br>Additional sessions for special events and competitions will be communicated in advance.
+
+</p><p><strong>CCA Leaders (Year 2024)<br></strong>1. Overall IC (OC): Alayna Qiara Binte Muhammad Sophian (S3-G)<br>2. 2nd Overall IC: Dhia Adriana Sofiah Binte Mohammed Samsi (S3-D)<br>3. 3rd Overall IC: Loryn Loy (S3-H) </p>
 <p><strong>Awards/Achievements</strong></p>
 <p>Corps Achievement Awards:</p>
 <table>
