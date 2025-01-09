@@ -2,5 +2,6 @@ collections:
   announcement:
     output: true
     order:
+      - ECHA.md
       - Announcement.md
       - N Level Results Release 2024.md
