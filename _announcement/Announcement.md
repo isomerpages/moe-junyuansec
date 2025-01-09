@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p>ECHA</p>
+<p><a href="https://junyuansec.moe.edu.sg/echa/" rel="noopener nofollow" target="_blank">ECHA</a>
+</p>
 </li>
 <li>
 <p>N Level Release 2024</p>
