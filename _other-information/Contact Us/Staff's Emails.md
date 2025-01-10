@@ -556,7 +556,7 @@ variant: tiptap
 <p>Farouq B Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:farouq_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farouq_abdul_aziz@moe.edu.sg</a> 
+<p><a href="mailto:farouq_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farouq_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -565,7 +565,8 @@ variant: tiptap
 <p>Ong Ying Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_ying_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ying_kai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -576,7 +577,8 @@ variant: tiptap
 <p>Liew Zhen Hong Joey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liew_zhen_hong_joey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_zhen_hong_joey@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -584,7 +586,8 @@ variant: tiptap
 <p>Chia Boh Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chia_boh_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_boh_peng@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
