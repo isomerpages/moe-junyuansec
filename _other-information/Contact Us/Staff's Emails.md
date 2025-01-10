@@ -628,7 +628,8 @@ variant: tiptap
 <p>Siti Shafiqah Binte Walid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shafiqah_walid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiqah_walid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -639,7 +640,8 @@ variant: tiptap
 <p>Nur Asyikin Binte Naser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_asyikin_naser@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_asyikin_naser@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -647,7 +649,8 @@ variant: tiptap
 <p>Kim Choon Hin Kelvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kim_choon_hin_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kim_choon_hin_kelvin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
