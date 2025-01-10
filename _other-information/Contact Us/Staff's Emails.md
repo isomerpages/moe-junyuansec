@@ -853,7 +853,7 @@ variant: tiptap
 <p>Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a> 
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -865,7 +865,7 @@ variant: tiptap
 <p>Chiew Huey Ching&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiew_huey_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_huey_ching@moe.edu.sg</a> 
+<p><a href="mailto:chiew_huey_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_huey_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -907,7 +907,8 @@ variant: tiptap
 <p>Thng Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_wei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -915,7 +916,8 @@ variant: tiptap
 <p>Ng Kuan Shin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_kuan_shin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kuan_shin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -926,7 +928,8 @@ variant: tiptap
 <p>Adzmey Asmom&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adzmey_asmom@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -934,7 +937,8 @@ variant: tiptap
 <p>Tan Chwoon Ping Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_chwoon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwoon_ping@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -945,7 +949,8 @@ variant: tiptap
 <p>Cheong Wei Yuen&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wei_yuen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -953,7 +958,8 @@ variant: tiptap
 <p>Feraj s/o Amzah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -964,7 +970,8 @@ variant: tiptap
 <p>Ling Kay Siong&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ling_kay_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_siong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -972,7 +979,8 @@ variant: tiptap
 <p>Liyana Binte Ramlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liyana_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_ramlan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -983,7 +991,8 @@ variant: tiptap
 <p>Nadiah Bte Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nadiah_khamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_khamis@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -991,7 +1000,8 @@ variant: tiptap
 <p>Low Kia Sin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:low_kia_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kia_sin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1002,7 +1012,8 @@ variant: tiptap
 <p>Nur Suhailah Bte Ahmad Khusairi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_suhailah_ahmad_khusairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_ahmad_khusairi@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1010,7 +1021,8 @@ variant: tiptap
 <p>Ng Sui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1021,7 +1033,8 @@ variant: tiptap
 <p>Noor Khairin Binte Kamarudin&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:noor_khairin_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_khairin_kamaruddin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1029,7 +1042,8 @@ variant: tiptap
 <p>Ng Si Han Andre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_sihan_andre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sihan_andre@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1040,7 +1054,8 @@ variant: tiptap
 <p>Teh Li Wah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_li_wah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1048,7 +1063,8 @@ variant: tiptap
 <p>Lee Teck Loong Benson&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ee_teck_loong_ben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee_teck_loong_ben@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1056,7 +1072,8 @@ variant: tiptap
 <p>Sharifa Fatimatuzahra&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifa_fatimatuzahra_a@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1067,7 +1084,8 @@ variant: tiptap
 <p>Lim Yi Wei Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1075,7 +1093,8 @@ variant: tiptap
 <p>Muhammad Faisal Mahmod</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faisal_mahmod@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1086,7 +1105,8 @@ variant: tiptap
 <p>Helen Chin Wai Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wai_leng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
