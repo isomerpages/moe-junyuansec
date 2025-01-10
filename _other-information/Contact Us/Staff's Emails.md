@@ -937,7 +937,7 @@ variant: tiptap
 <p>Tan Chwoon Ping Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chwoon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwoon_ping@moe.edu.sg</a> 
+<p><a href="mailto:tan_chwoon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwoon_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -958,7 +958,7 @@ variant: tiptap
 <p>Feraj s/o Amzah&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a> 
+<p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1012,7 +1012,7 @@ variant: tiptap
 <p>Nur Suhailah Bte Ahmad Khusairi&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_suhailah_ahmad_khusairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_ahmad_khusairi@moe.edu.sg</a> 
+<p><a href="mailto:nur_suhailah_ahmad_khusairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_ahmad_khusairi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1021,7 +1021,7 @@ variant: tiptap
 <p>Ng Sui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a> 
+<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1072,7 +1072,7 @@ variant: tiptap
 <p>Sharifa Fatimatuzahra&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifa_fatimatuzahra_a@moe.edu.sg</a> 
+<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifa_fatimatuzahra_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
