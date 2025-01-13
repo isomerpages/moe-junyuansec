@@ -163,21 +163,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tan Hong Lan Joyce Christine&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:joyce_christine_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_christine_tan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,16 +237,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Luo Huilin Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">huilin_michelle_luo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -292,6 +278,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_wei@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
