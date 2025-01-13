@@ -36,6 +36,7 @@ our CCA.</p>
 <br>Venue: Indoor Sports Hall (Level 1)</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mr Ivan Tan
 <br>2. Mr Tan Tze Wei
+<br>3. Ms Koh Xiu Huan Joanna
 <br>
 </p>
 <p><strong>CCA Leaders (Year 2025)</strong>
