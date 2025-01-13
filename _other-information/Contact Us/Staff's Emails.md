@@ -237,10 +237,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Luo Huilin Michelle</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH English</p>
@@ -282,16 +282,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Luo Huilin Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">huilin_michelle_luo@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
