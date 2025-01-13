@@ -26,78 +26,62 @@ they are at home.&nbsp;</p>
 <h4><strong>Schedule</strong></h4>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>HBL will be conducted on the following dates in Semester 2. Lessons will
-be scheduled based on the day’s timetable.</p>
-</li>
-</ol>
-<table style="minWidth: 50px">
+<p>HBL days will be conducted throughout Semester 1 on the following days:</p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date</strong>
+<p><strong>Level</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Students Involved for HBL</strong>
+<p><strong>Term 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Term 2</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 July 2024 (Fri)</p>
+<p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Jul 2024 (Tue) to 25 Jul 2024 (Thu)<sup>#</sup>
-</p>
+<p>31 Jan 2025 (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 5</p>
+<p>2 May 2025 (Fri)</p>
+<p>30 May 2025 (Fri)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Aug 2024 (Fri)</p>
+<p>Sec 2</p>
+<p>Sec 3</p>
+<p>Sec 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Aug 2024 (Fri)*</p>
+<p>31 Jan 2025 (Fri)</p>
+<p>14 Mar 2025 (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 Sep 2024 (Fri)<sup>#</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
+<p>4 April 2025 (Fri)</p>
+<p>2 May 2025 (Fri)</p>
+<p>16 May 2025 (Fri)</p>
+<p>30 May 2025 (Fri)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><sup>#</sup> Sec 4 and 5 students will return to school for their EL/MTL
-oral national examinations on specific days. Students are to complete their
-HBL assigned work on the days when they are not down for oral.</p>
-<p>* Sec 3 students will return to school for their EL/MTL oral examinations.
-Students are to complete their HBL assigned work after their oral examinations.</p>
-<p><sup># </sup>Sec 1 students will return to school for their EL/MTL oral
-examinations. Students are to complete their HBL assigned work after their
-oral examinations.</p>
+<p></p>
+</li>
+</ol>
 <h4><strong>Instructions to Students</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
