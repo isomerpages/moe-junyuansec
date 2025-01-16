@@ -35,3 +35,11 @@ description: ""
 Fri: <u>12.20 pm – 6.00pm</u>
 </p>
 <p>[Closed on weekends, public holidays and school holidays]</p>
+<h4><strong><u>SIDE GATE 1 TURNSTILE OPERATION<br></u></strong>[For dismissal only]</h4>
+<p>Mon - Thurs&nbsp; : <u>1.20 pm – 6.00 pm</u>
+</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Fri: <u>12.20 pm – 6.00pm</u>
+</p>
+<p>[Closed on weekends, public holidays and school holidays]</p>
+<p></p>
