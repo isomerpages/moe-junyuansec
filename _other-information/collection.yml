@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - School Operating Hours.md
       - Other Information.md
       - Financial Assistance Scheme.md
       - Insurance for Students.md
