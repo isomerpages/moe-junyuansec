@@ -42,4 +42,8 @@ Fri: <u>12.20 pm – 6.00pm</u>
 Fri: <u>12.20 pm – 6.00pm</u>
 </p>
 <p>[Closed on weekends, public holidays and school holidays]</p>
+<h4><strong><u>ISH GATE OPERATION<br></u></strong>[For Staff and Students only]</h4>
+<p>Mon, Tues, and Thurs: 6.45 am – 7.50 pm</p>
+<p>Wed and Fri: 6.45am – 8.30am</p>
+<p>[Closed on weekends, school holidays and public holidays]</p>
 <p></p>
