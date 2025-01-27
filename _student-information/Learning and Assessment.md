@@ -11,6 +11,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Annex_A___FAQ__for_parents____Removing_MYE.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - FAQ for parents - Removing MYE</a>
 </p>
+<h4><strong>WA Dates </strong></h4>
+<p><em>*will be available soon</em>*</p>
 <h4><strong>Secondary 1</strong></h4>
 <p><a href="/files/Level_LAPs_2025_Sem_1___Sec_1.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2025_Sem 1 - Sec 1</a>
 </p>
