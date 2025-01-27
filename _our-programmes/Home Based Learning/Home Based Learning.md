@@ -130,8 +130,6 @@ so that the mind can consolidate and make time to exercise and eat well.</p>
 </li>
 </ol>
 <h4><strong>Useful Information for Parents/Guardians</strong></h4>
-<ol start="11" data-tight="true" class="tight">
-<li>
 <p>The following links provide tips on how to support your child/ward during
 HBL days:</p>
 <p>a.&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
@@ -140,6 +138,4 @@ HBL days:</p>
 </p>
 <p>c.&nbsp;<a href="https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits</a>
 </p>
-</li>
-</ol>
 <p></p>
