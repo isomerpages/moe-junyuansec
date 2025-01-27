@@ -8,13 +8,12 @@ variant: tiptap
 <h4><strong>Overview</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Home-Based Learning (HBL) is a bi-weekly platform for students to learn
-in settings beyond school through a blend of online and offline activities.
-These activities complement in-school learning and are designed&nbsp;to&nbsp;develop
-students' ability to be self-directed, passionate and lifelong learners.
-These self-directed experiences will also encourage the development of
-positive habits in learning, such as setting of learning goals and monitoring
-of one’s learning progress.</p>
+<p>Home-Based Learning (HBL) is a platform for students to learn in settings
+beyond school through a blend of online and offline activities. These activities
+complement in-school learning and are designed&nbsp;to&nbsp;develop students'
+ability to be self-directed, passionate and lifelong learners. These self-directed
+experiences will also encourage the development of positive habits in learning,
+such as setting of learning goals and monitoring of one’s learning progress.</p>
 </li>
 <li>
 <p>HBL days will be conducted on a regular basis throughout the school year
@@ -85,15 +84,10 @@ they are at home.&nbsp;</p>
 <h4><strong>Instructions to Students</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>Subject teachers for English, Mathematics, Science, Humanities and Mother
-Tongue will be assigning lessons and assignments to you based on the HBL
-day’s timetable. You can access the class timetable here -&nbsp;<a href="https://junyuansec.moe.edu.sg/student-information/student-timetable" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/student-information/student-timetable</a>.</p>
-</li>
-<li>
-<p>An email link will be sent to your ICON account at the start of each HBL
-day. You are to click on the link by 8am to acknowledge that you have started
-on your HBL assignment. Teachers will contact students who do not report
-their HBL progress.</p>
+<p>Subject teachers will be assigning lessons and assignments to you based
+on the HBL day’s timetable. You can access the class timetable here -&nbsp;
+<a href="https://junyuansec.moe.edu.sg/student-information/student-timetable" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/student-information/student-timetable</a>.</p>
+<p></p>
 </li>
 <li>
 <p>You are expected to take personal ownership by&nbsp;following the instructions
@@ -136,8 +130,6 @@ so that the mind can consolidate and make time to exercise and eat well.</p>
 </li>
 </ol>
 <h4><strong>Useful Information for Parents/Guardians</strong></h4>
-<ol start="11" data-tight="true" class="tight">
-<li>
 <p>The following links provide tips on how to support your child/ward during
 HBL days:</p>
 <p>a.&nbsp;<a href="https://go.gov.sg/selresforparents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/selresforparents</a>
@@ -146,6 +138,4 @@ HBL days:</p>
 </p>
 <p>c.&nbsp;<a href="https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits" rel="noopener noreferrer nofollow" target="_blank">https://junyuansec.moe.edu.sg/our-programmes/home-based-learning/resource-kits</a>
 </p>
-</li>
-</ol>
 <p></p>
