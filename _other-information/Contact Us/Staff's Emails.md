@@ -734,7 +734,7 @@ variant: tiptap
 <p>Tan Su Xian Jaslyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jaslyn_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jaslyn_chew@moe.edu.sg</a>
+<p><a href="mailto:Tan_Su_Xian_Jaslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Su_Xian_Jaslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
