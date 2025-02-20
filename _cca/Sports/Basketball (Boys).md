@@ -63,16 +63,35 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_Boys_School_Team_2024.jpg">
 </div>
-<p><strong>B boys School Team 2024</strong>
+<p><strong>B boys School Team 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_boys_School_Team_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__11_.jpg">
 </div>
 <p><strong>Start of NSG B Boys Basketball&nbsp;Championship</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Basketballboys__10_.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__9_.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Our boys in action. Let’s go!!</strong>
 </p>
 <table style="minWidth: 50px">
@@ -84,13 +103,13 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__8_.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__7_.jpg">
 </div>
 <p></p>
 </th>
@@ -98,13 +117,13 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__6_.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__5_.jpg">
 </div>
 <p></p>
 </td>
@@ -122,13 +141,13 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2f.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__3_.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2g.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__4_.jpg">
 </div>
 <p>&nbsp;</p>
 </td>
@@ -137,45 +156,15 @@ Zone Schools Tournament (B Div) 2023-Top 8
 </table>
 <p><strong>Each of us have something to contribute, and our part to play.</strong>
 </p>
-<p></p>
 <h4><strong>Our Journey</strong></h4>
-<p><strong>Sec 1 Engagement Day January 2022</strong>
+<p><strong><u>Junyuan Cup 2024</u></strong>
 </p>
+<p>The Junyuan Cup is an annual basketball tournament organized by Junyuan
+Secondary School. This year, we invited Yuying Secondary School, Ngee Ann
+Secondary School, National Junior College, St. Joseph’s Institution, and
+North Vista Secondary School to participate.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" src="/images/bb1.jpg">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" src="/images/bb2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/bb3.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong><u>Junyuan – Yuying Cup 2023</u></strong>
-</p>
-<p>The Junyuan - Yuying Cup is an inaugural basketball tournament co-organised
-by Junyuan Secondary School and Yuying Secondary School. We invited Temasek
-Secondary School, North Vista Secondary School and National Junior College
-to participate in the tournament.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__2_.jpg">
 </div>
 <p>The tournament allowed our basketball boys the opportunity to play against
 other zone schools in a competitive platform. The boys trained hard prior
@@ -184,17 +173,11 @@ they played. They fought for each ball and gave their best to make Junyuan
 proud. They carried themselves well and showed much perseverance and focus.
 They remembered their CCA motto – United We Stand. Every Basketball boy
 who competed came back a winner!</p>
-<p><strong>Our secondary 4 student, Yan Sheng winning the Sportsmanship Award during the tournament.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture12.jpg">
-</div>
 <p><strong>Participating Schools Team Photo.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Picture13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__1_.jpg">
 </div>
-<p></p>
 <p><strong><u>Junyuan U15 Tournament 2024</u></strong>
 </p>
 <div class="isomer-image-wrapper">
