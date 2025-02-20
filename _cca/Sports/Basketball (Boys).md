@@ -63,16 +63,35 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_Boys_School_Team_2024.jpg">
 </div>
-<p><strong>B boys School Team 2024</strong>
+<p><strong>B boys School Team 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_boys_School_Team_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__11_.jpg">
 </div>
 <p><strong>Start of NSG B Boys Basketball&nbsp;Championship</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2a.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Basketballboys__10_.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__9_.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Our boys in action. Let’s go!!</strong>
 </p>
 <table style="minWidth: 50px">
@@ -84,13 +103,13 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__8_.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2c.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__7_.jpg">
 </div>
 <p></p>
 </th>
@@ -98,13 +117,13 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2d.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__6_.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2e.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__5_.jpg">
 </div>
 <p></p>
 </td>
