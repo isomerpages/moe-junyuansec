@@ -237,16 +237,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huilin_michelle_luo@moe.edu.sg</a>
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -291,7 +291,7 @@ variant: tiptap
 <p>SH 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huilin_michelle_luo@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">michelle_luo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -317,7 +317,7 @@ variant: tiptap
 <p>Ng&nbsp;Sui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;AYH US (Covering)</p>
+<p>&nbsp;AYH US</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_sui_lin@moe.edu.sg</u></a>
