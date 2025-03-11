@@ -2,25 +2,82 @@
 title: Mathematics
 permalink: /our-identity/school-organisation/teaching-staff/mathematics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ma9.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma3.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Choong Tze Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ma4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma8.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma6.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Teck Loong Benson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/Hao_Yi.jpg"></td>
-	<td style="width: 33.3333%;"><img src="/images/ma10.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ma11.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Kia Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
 </tr>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Kuang Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Chwoon Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ong Si Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Twang Kwang Han
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contract Adjunct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wan Shumin
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunct</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
