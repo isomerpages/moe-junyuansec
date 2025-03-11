@@ -5,138 +5,138 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<table style="minWidth: 125px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas1.jpg">
-</div>
+<p>Mdm Jaslyn Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/om-norzia.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Admin Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas6.jpg">
-</div>
+<p>Ms Norzia Binte Abdul Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas16.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Johari.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sahri.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Operations Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vignes.png">
-</div>
-<p></p>
+<p>Mr Nurzuhdi Bin Mohammed Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tuty.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas15.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Shaedah.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Apple.jpg">
-</div>
-<p></p>
+<p>Mr Eric Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas14.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/eas18.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Admin Executive</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lim Siew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Yoke Siam Apply</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Syahirah Binte Abdul Razak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ICT Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Johari Bin Atan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Stem Instructor (workshop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamad Sahri Bin Ahsan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stem Instructor (workshop)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vigneswari D/O Veerasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stem Instructor (laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tuty Alawiyah Binte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stem Instructor (laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Salha Binte Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shaedah Binte Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Kwai Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rizal Bin Amin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Norazlina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
 </td>
 </tr>
 </tbody>
