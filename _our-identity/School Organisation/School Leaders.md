@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr ALlan Gan</p>
+<p>Mr Allan Gan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>

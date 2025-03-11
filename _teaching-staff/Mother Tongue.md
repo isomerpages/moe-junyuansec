@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm NuraishaBinte Azmi</p>
+<p>Mdm Nuraisha Binte Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -92,26 +92,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hoo Boon Piang (Contract Adjunct)</p>
+<p>Mr Hoo Boon Piang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Marini Binte Musa (Flexi Adjunct)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Contract Adjunct</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Mei Yee (Flexi Adjunct)</p>
+<p>Mdm Marini Binte Musa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Flexi Adjunct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Mei Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flexi Adjunct</p>
 </td>
 </tr>
 </tbody>

@@ -61,7 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwn Shen</p>
+<p>Mr Lim Kwan Shen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Geography</p>
