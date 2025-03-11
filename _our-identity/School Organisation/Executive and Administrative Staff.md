@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yoke Siam Apply</p>
+<p>Ms Lim Yoke Siam Apple</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
