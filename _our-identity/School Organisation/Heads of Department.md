@@ -5,112 +5,98 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp9.jpg">
-</div>
-<p></p>
+<p>Mrs Tan Kah Yee Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp7.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp12.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>HOD Student Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp10.jpg">
-</div>
-<p></p>
+<p>Miss Shamilah</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp6.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp1.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>HOD English</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/shariffah2.jpg">
-</div>
-<p></p>
+<p>Mr Gary Sng Chee Hien</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp4.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/kp8.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>HOD Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hardi_Zain.jpg">
-</div>
-<p></p>
+<p>Mr Lian Xin Jeffrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Photos__8_July___2_.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Year Head (Lower Secondary)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ling Weicong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Guanting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HOD CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shariffah Nasimah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>YH Upper Secondary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kah Khoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tay Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hardi Zein</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Poh Yeong Daniel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
 </td>
 </tr>
 </tbody>
