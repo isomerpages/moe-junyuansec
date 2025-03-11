@@ -3,16 +3,38 @@ title: School Leaders
 permalink: /our-identity/school-organisation/school-leaders/
 description: ""
 third_nav_title: School Organisation
-variant: markdown
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 50%;" colspan="2"><img style="width: 50%;" src="/images/Tay_Meng_Kiat.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Meng Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
 </tr>
 <tr>
-<td style="width: 50%;"><img src="/images/Lin_Pei.png"></td>
-<td style="width: 50%;"><img src="/images/pvp2.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Pei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr ALlan Gan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>

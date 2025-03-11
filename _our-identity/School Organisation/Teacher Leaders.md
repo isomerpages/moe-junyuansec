@@ -3,19 +3,54 @@ title: Teacher Leaders
 permalink: /our-identity/school-organisation/teacher-leaders/
 description: ""
 third_nav_title: School Organisation
-variant: markdown
+variant: tiptap
 ---
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33%;"><img src="/images/tl1.jpg"></td>
-<td style="width: 33%;"><img src="/images/tl4.jpg"></td>
-<td style="width: 33%;"><img src="/images/tl3.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Boh Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Chemistry</p>
+</td>
 </tr>
 <tr>
-<td style="width: 33%;"><img src="/images/tl6.jpg"></td>
-<td style="width: 33%;"><img src="/images/Staff_Photos__8_July_.jpg"></td>
-<td style="width: 33%;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Halimah Binte Jumaha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nadiah Binte Khamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST English</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Arnita Binte Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Learning Needs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Feraj S/O Amzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Computer Applications</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>

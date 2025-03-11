@@ -3,19 +3,62 @@ title: Advisory Committee
 permalink: /our-identity/school-organisation/advisory-committee/
 description: ""
 third_nav_title: School Organisation
+variant: tiptap
 ---
-
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ac1.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ac2.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ac3.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Cheow Aik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee</p>
+</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;"><img src="/images/ac4.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ac5.jpg"></td>
-<td style="width: 33.3333%;"><img src="/images/ac6.jpg"></td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kok Yeow Winston</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Poey Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Lye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kristin Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fong Siew Mei Cheryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
