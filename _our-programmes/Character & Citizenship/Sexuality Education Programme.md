@@ -937,12 +937,12 @@ sexuality education programmes by MOE-approved external providers.</p>
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
 the start of the year and is also downloadable <a href="/files/SEd_Ed_Opt_Out_Form_2025_Annex_A.pdf" rel="noopener nofollow" target="_blank">here.</a> The completed
-form is to be submitted by 29/01/2024.</p>
+form is to be submitted by 29/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
 of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form__Sec__HPB_.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;The
-completed form is to be submitted by 29/01/2024.</p>
+completed form is to be submitted by 29/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at (<a rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> or
 <a href="tel:+6565873683" rel="noopener noreferrer nofollow" target="_blank">+65 6587 3683</a>) for discussion or to seek clarification about the school’s
