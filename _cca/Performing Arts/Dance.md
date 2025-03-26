@@ -111,22 +111,12 @@ hone their skills but also cultivates confidence and resilience.</p>
 </tbody>
 </table>
 <h4><strong>Our 2024/2025 Journey</strong></h4>
-<p><strong>Dance Workshop with NUS&nbsp; D’Hoppers on 25 March 2025 </strong>
+<p><strong>Dance Workshop with NUS&nbsp; D’Hoppers on 25 March 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__3_.jpg">
 </div>
 <p><em>Our 15 Secondary 1s had a memorable and enjoyable time learning hip hop basics and a dance routine from D’Hoppers.</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__2_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__1_.jpg">
-</div>
-<p><em>&nbsp;Arts Exposure:&nbsp; Keppel Nights&nbsp; ‘Alice in Wonderland by HK Ballet’</em>
 </p>
 <p><strong>Super24 Journey</strong>
 </p>
@@ -169,14 +159,15 @@ instructors and the friends whom I have made in this CCA, for shaping me
 into who I am today.”</p>
 <p>- Siow Junyang Current Alumni 2024</p>
 <p></p>
-<p><strong>Arts Exposure : Keppel Nights Program</strong>
+<p><strong>Arts Exposure:&nbsp; Keppel Nights&nbsp; ‘Alice in Wonderland by HK Ballet’</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fsfs.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dafa.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__1_.jpg">
 </div>
 <p>“When I joined the Dance CCA, I was super nervous, yet excited as dancing
 is my passion and I looked forward to dance with my future crew mates.
