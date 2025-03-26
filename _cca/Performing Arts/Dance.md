@@ -110,18 +110,24 @@ hone their skills but also cultivates confidence and resilience.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Our 2024 Journey</strong></h4>
-<p><strong>Soiree Performance celebrating our School’s 25 Anniversary</strong>
+<h4><strong>Our 2024/2025 Journey</strong></h4>
+<p><strong>Dance Workshop with NUS&nbsp; D’Hoppers on 25 March 2025 </strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/terer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__3_.jpg">
 </div>
-<p>‘’My vision for each dancer, is that as they embark on this four- year
-journey with the Dance CCA, they would develop perseverance, discipline
-and determination. As each dancer is unique and possesses different abilities
-and strength, my hope is for them to strive towards their goal of achieving
-their personal best.”</p>
-<p>- Ms Grace Kwok (Teacher in charge)</p>
+<p><em>Our 15 Secondary 1s had a memorable and enjoyable time learning hip hop basics and a dance routine from D’Hoppers.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__1_.jpg">
+</div>
+<p><em>&nbsp;Arts Exposure:&nbsp; Keppel Nights&nbsp; ‘Alice in Wonderland by HK Ballet’</em>
+</p>
 <p><strong>Super24 Journey</strong>
 </p>
 <div class="isomer-image-wrapper">
