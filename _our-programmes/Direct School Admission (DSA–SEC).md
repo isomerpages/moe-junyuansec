@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <p><strong>Junyuan Secondary School</strong>
 </p>
-<p><strong>Direct School Admission (DSA-Sec) for 2025 Secondary One Students</strong>
+<p><strong>Direct School Admission (DSA-Sec) for 2026 Secondary One Students</strong>
 </p>
 <p>Junyuan Secondary School invites all P6 students to apply for direct admission
-into the school for academic year 2025. We provide the platforms and opportunities
+into the school for academic year 2026. We provide the platforms and opportunities
 for you to enhance your leadership and talents to be Champions for the
 Community.</p>
 <p><strong>DSA Talent Area</strong>
@@ -131,7 +131,7 @@ and programmes</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be invited for a one-day in-person interview
-between 8 Jul 2024 and 23 Aug 2024.</p>
+between 8 Jul 2025 and 22 Aug 2025.</p>
 </li>
 </ul>
 <p></p>
@@ -150,6 +150,9 @@ between 8 Jul 2024 and 23 Aug 2024.</p>
 <p>Preferably to have prior experience in the sport</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -171,7 +174,7 @@ between 8 Jul 2024 and 23 Aug 2024.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be invited for a one-day in-person session
-between 8 Jul 2024 and 23 Aug 2024.</p>
+between 8 Jul 2025 and 22 Aug 2025.</p>
 </li>
 </ul>
 <p></p>
@@ -256,8 +259,8 @@ will be shortlisted/given an offer.</p>
 <p><strong>APPLICATION PROCESS</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11
-am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
+The application is free-of-charge and will be open from 7 May 2025, 11
+am to 3 Jun 2025, 3pm. For more details, please refer to MOE website –
 <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE<br></strong>
 </p>
@@ -290,7 +293,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Application for JYSS DSA-Sec through DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May – 3 Jun 2024</p>
+<p>7 May – 3 Jun 2025</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +304,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Notification of shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Jun – 1 Jul 2024&nbsp;</p>
+<p>From 30 Jun 2025&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +324,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Jul – 23 Aug 2024</p>
+<p>8 Jul – 22 Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +336,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <br>(Confirmed Offer (CO) / Wait List (WL) / Unsuccessful)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 11 Sep 2024</p>
+<p>Between 25 Aug - 4 Sep 2025</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +347,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Submit School Preference through DSA-Sec Portal (by applicants)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Oct – 25 Oct 2024</p>
+<p>27 Oct – 31 Oct 2025</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +358,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Release of DSA-Sec Results together with PSLE Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2024</p>
+<p>Late Nov 2025</p>
 </td>
 </tr>
 </tbody>
