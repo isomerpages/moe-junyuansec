@@ -259,8 +259,8 @@ will be shortlisted/given an offer.</p>
 <p><strong>APPLICATION PROCESS</strong>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from 7 May 2024, 11
-am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
+The application is free-of-charge and will be open from 7 May 2025, 11
+am to 3 Jun 2025, 3pm. For more details, please refer to MOE website –
 <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p><strong>SCHEDULE FOR DSA-SEC EXERCISE<br></strong>
 </p>
@@ -293,7 +293,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Application for JYSS DSA-Sec through DSA-Sec Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 May – 3 Jun 2024</p>
+<p>7 May – 3 Jun 2025</p>
 </td>
 </tr>
 <tr>
@@ -304,7 +304,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Notification of shortlisted applicants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Jun – 1 Jul 2024&nbsp;</p>
+<p>From 30 Jun 2025&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 Jul – 23 Aug 2024</p>
+<p>8 Jul – 22 Aug 2025</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +336,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <br>(Confirmed Offer (CO) / Wait List (WL) / Unsuccessful)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 11 Sep 2024</p>
+<p>Between 25 Aug - 4 Sep 2025</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +347,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Submit School Preference through DSA-Sec Portal (by applicants)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Oct – 25 Oct 2024</p>
+<p>27 Oct – 31 Oct 2025</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +358,7 @@ am to 3 Jun 2024, 3pm. For more details, please refer to MOE website –
 <p>Release of DSA-Sec Results together with PSLE Results</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Nov 2024</p>
+<p>Late Nov 2025</p>
 </td>
 </tr>
 </tbody>
