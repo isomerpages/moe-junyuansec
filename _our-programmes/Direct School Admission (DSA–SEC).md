@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <p><strong>Junyuan Secondary School</strong>
 </p>
-<p><strong>Direct School Admission (DSA-Sec) for 2025 Secondary One Students</strong>
+<p><strong>Direct School Admission (DSA-Sec) for 2026 Secondary One Students</strong>
 </p>
 <p>Junyuan Secondary School invites all P6 students to apply for direct admission
-into the school for academic year 2025. We provide the platforms and opportunities
+into the school for academic year 2026. We provide the platforms and opportunities
 for you to enhance your leadership and talents to be Champions for the
 Community.</p>
 <p><strong>DSA Talent Area</strong>
@@ -131,7 +131,7 @@ and programmes</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be invited for a one-day in-person interview
-between 8 Jul 2024 and 23 Aug 2024.</p>
+between 8 Jul 2025 and 22 Aug 2025.</p>
 </li>
 </ul>
 <p></p>
@@ -150,6 +150,9 @@ between 8 Jul 2024 and 23 Aug 2024.</p>
 <p>Preferably to have prior experience in the sport</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -171,7 +174,7 @@ between 8 Jul 2024 and 23 Aug 2024.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be invited for a one-day in-person session
-between 8 Jul 2024 and 23 Aug 2024.</p>
+between 8 Jul 2025 and 22 Aug 2025.</p>
 </li>
 </ul>
 <p></p>
