@@ -28,7 +28,7 @@ sections:
       title: DSA
       id: infopic
       description: For more information, click the link below.
-      button: DSA IG Post
+      button: DSA Blast
       url: https://www.canva.com/design/DAGmFEkkfCc/urByHiaE_uqs7a7EybEAKg/view?utm_content=DAGmFEkkfCc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4886ee41c9#1
       image: /images/Screenshot_2025_05_09_111344.png
       alt: Image alt text
