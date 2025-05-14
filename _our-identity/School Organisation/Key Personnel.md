@@ -28,10 +28,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Kah Yee Sharon</p>
+<p>Mr Lian Xin Jeffrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>Year Head (Lower Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Gan Juok Sia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH Lower Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shariffah Nasimah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH Upper Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Sui Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -72,17 +105,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lian Xin Jeffrey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ling Weicong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,32 +116,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Guanting</p>
+<p>Mr Thanesh S/O Manoselvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Shariffah Nasimah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH Upper Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Kah Khoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD PE &amp; CCA</p>
+<p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -149,10 +149,54 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lin Guanting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hardi Zein</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kwan Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Kah Khoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Kah Yee Sharon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
