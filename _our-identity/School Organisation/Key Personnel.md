@@ -5,18 +5,36 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Role</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan Kah Yee Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -26,6 +44,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD English</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Yun Shi Jolene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Engish / Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,6 +65,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -42,6 +77,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Secondary)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,6 +87,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -58,6 +99,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD CCE</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,6 +109,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>YH Upper Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -74,6 +121,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD PE &amp; CCA</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,6 +131,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Cheng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,6 +154,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>HOD Humanities</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,6 +164,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
