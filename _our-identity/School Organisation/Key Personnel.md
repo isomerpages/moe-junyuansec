@@ -149,17 +149,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Guanting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Hardi Zein</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,6 +164,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Guanting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
