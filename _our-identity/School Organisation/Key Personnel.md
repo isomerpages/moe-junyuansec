@@ -34,7 +34,8 @@ variant: tiptap
 <p>Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lian_xin_jeffrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lian_xin_jeffrey@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +46,8 @@ variant: tiptap
 <p>AYH Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gan_juok_sia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_juok_sia@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +58,8 @@ variant: tiptap
 <p>YH Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shariffah_nasimah_alkud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_nasimah_alkud@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +70,8 @@ variant: tiptap
 <p>AYH Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +82,8 @@ variant: tiptap
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:shamilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamilah@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +94,8 @@ variant: tiptap
 <p>SH Engish / Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +106,8 @@ variant: tiptap
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sng_chee_hien_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_chee_hien_gary@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +118,8 @@ variant: tiptap
 <p>HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ling_weicong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_weicong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +130,8 @@ variant: tiptap
 <p>SH ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:thanesh_manoselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thanesh_manoselvam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +142,8 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tay_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +154,8 @@ variant: tiptap
 <p>SH Biology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:seah_cheng_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_cheng_hong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +243,8 @@ variant: tiptap
 <p>SH Design &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ling_kay_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_siong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -243,7 +255,8 @@ variant: tiptap
 <p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_wei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
