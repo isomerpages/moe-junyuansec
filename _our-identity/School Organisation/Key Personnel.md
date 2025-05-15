@@ -46,7 +46,7 @@ variant: tiptap
 <p>AYH Lower Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_juok_sia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_juok_sia@moe.edu.sg</a> 
+<p><a href="mailto:gan_juok_sia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_juok_sia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>YH Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shariffah_nasimah_alkud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_nasimah_alkud@moe.edu.sg</a> 
+<p><a href="mailto:shariffah_nasimah_alkud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_nasimah_alkud@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shamilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamilah@moe.edu.sg</a> 
+<p><a href="mailto:shamilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamilah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -166,7 +166,8 @@ variant: tiptap
 <p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hardi_zein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hardi_zein@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +178,8 @@ variant: tiptap
 <p>SH Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:LIM_Kwan_Shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kwan_Shen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +190,8 @@ variant: tiptap
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lin_guanting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_guanting@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +202,8 @@ variant: tiptap
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_kah_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kah_khoon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +214,8 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_kah_yee_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kah_yee_sharon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +226,8 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_poh_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_poh_yeong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +238,8 @@ variant: tiptap
 <p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_asyikin_naser@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_asyikin_naser@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
