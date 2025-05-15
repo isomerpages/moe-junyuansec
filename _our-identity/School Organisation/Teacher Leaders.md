@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Role</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
