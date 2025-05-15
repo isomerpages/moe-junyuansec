@@ -72,6 +72,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Siti Syahirah Binte Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Lim Siew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,17 +105,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Syahirah Binte Abdul Razak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Johari Bin Atan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,17 +120,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (workshop)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vigneswari D/O Veerasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stem Instructor (laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
