@@ -46,7 +46,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_pei@moe.edu.sg</a> 
+<p><a href="mailto:lin_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_pei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
