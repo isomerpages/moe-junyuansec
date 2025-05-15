@@ -5,18 +5,36 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jaslyn Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -26,6 +44,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,6 +54,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -42,6 +66,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,6 +76,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -58,6 +88,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CSO</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,6 +98,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -74,6 +110,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (workshop)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -81,6 +120,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (workshop)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,6 +132,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (laboratory)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -97,6 +142,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (laboratory)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -106,6 +154,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,6 +164,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -122,6 +176,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -130,6 +187,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,6 +197,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
