@@ -34,7 +34,8 @@ variant: tiptap
 <p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:jaslyn_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jaslyn_chew@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +46,8 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:norzia_abdul_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norzia_abdul_samat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +58,8 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurzuhdi_mohammed_sharif@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurzuhdi_mohammed_sharif@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +70,8 @@ variant: tiptap
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:eric_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eric_teo@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +82,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_syahirah_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_syahirah_abdul_razak@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +94,8 @@ variant: tiptap
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_siew_hoon_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_hoon_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +106,8 @@ variant: tiptap
 <p>CSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_yoke_siam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yoke_siam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
