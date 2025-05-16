@@ -2,12 +2,13 @@ collections:
   our-identity:
     output: true
     order:
-      - Advisory Committee.md
       - Our Identity.md
       - Principal's Message 2025.md
+      - Advisory Committee.md
       - Our History.md
       - Mission, Vision, Motto and Core Values.md
       - Emblem & Song.md
+      - School Organisation/.keep
       - School Organisation/School Organisation.md
       - School Organisation/School Leaders.md
       - School Organisation/Key Personnel.md
@@ -15,4 +16,3 @@ collections:
       - School Organisation/Teaching Staff.md
       - School Organisation/Allied Educators.md
       - School Organisation/Executive and Administrative Staff.md
-      - School Organisation/.keep
