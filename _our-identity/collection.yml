@@ -2,6 +2,7 @@ collections:
   our-identity:
     output: true
     order:
+      - Advisory Committee.md
       - Our Identity.md
       - Principal's Message 2025.md
       - Our History.md
