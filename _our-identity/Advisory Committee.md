@@ -1,6 +1,6 @@
 ---
 title: Advisory Committee
-permalink: /our-identity/school-organisation/advisory-committee/
+permalink: /our-identity/advisory-committee/
 description: ""
 variant: tiptap
 ---
