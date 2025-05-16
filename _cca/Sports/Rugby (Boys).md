@@ -33,10 +33,60 @@ responsibility and discipline.</p>
 Wednesday (3pm – 5pm)
 <br>B Div: Every Tuesday and Thursday (3pm – 5pm)
 <br>School Field/School Gym/Fitness Corner.</p>
-<p><strong>Teachers-In-Charge<br></strong>1. Mr S. M. Alsagoff
-<br>2. Mr Nicholas Goh
-<br>3. Ms Debbie Lim
-<br>4. Ms Siti Amirah</p>
+<p><strong>Teachers-In-Charge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_rong_quan_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_rong_quan_nicholas@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Debbie Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_chin_teng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_teng_debbie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Amirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_amirah_mohamed_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_amirah_mohamed_arsad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Haziq</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_haziq_mohamed_ashiq@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haziq_mohamed_ashiq@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Coaches<br>C Dvision:</strong> Muhammad Yazid Bin Rosli</p>
 <p><strong>B Dvision:</strong> Mohamad Jamal Bin Mohd Smeh
 <br>
