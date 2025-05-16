@@ -31,9 +31,52 @@ and cultivate a strong sense of ownership and responsibility within the
 band.</p>
 <p>Join us and become part of a vibrant community where music brings people
 together, develops character, and inspires excellence!</p>
-<p><strong>Teachers in Charge<br></strong>1. Mr. Farouq bin Abdul Aziz
-<br>2.&nbsp;Mr. Benson Lee
-<br>3. Ms Pamela Lim</p>
+<p><strong>Teachers in Charge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NAme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Farouq bin Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farouq_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farouq_abdul_aziz@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Benson Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_teck_loong_ben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_teck_loong_ben@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pamela Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday
 3.00 pm to 5.30 pm
 <br>Music Room and AVA Room (Level 3)</p>

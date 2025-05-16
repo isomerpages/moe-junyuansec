@@ -26,8 +26,43 @@ our primary focus remains on fostering a genuine joy for music in both
 competitive and non-competitive settings. Through Guitar Ensemble, students
 gain not only technical expertise but also a deep appreciation for the
 power of music and teamwork.</p>
-<p><strong>Teachers-In-Charge<br></strong>1. Mdm Razmirah
-<br>2. Mr Ng Sihan Andre</p>
+<p><strong>Teachers-In-Charge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Razmirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_razmirah_mohamed_abdul@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_razmirah_mohamed_abdul@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Sihan Andre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_sihan_andre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sihan_andre@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday
 (3 – 5 pm)
 <br>Learning Hub 1</p>
@@ -115,7 +150,7 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 <p><em>“I love to learn more about music through classical guitar. Someone once told me that the Guitar provides an orchestral setting similar to that of no other instrument, and I truly believe in this. Playing the Guitar gives me a very unique and pure form of joy in my life. The strong emphasis on the value of leadership skills learnt during my secondary school days have also helped me to become the President of SMU Guitarissimo and aided me greatly in the day-to-day running of the club. I believe in sharing more about the Guitar and instilling the belief in others that leaders are not born, but shaped when growing up. This is why I have decided to help at my alma mater, to inspire juniors to lead well and to continue pursuing their passion in Guitar.”</em>
 </p>
 <p>–&nbsp;Wijaya Willian Ong (Alumni)</p>
-<h4><strong>CCA Highlights </strong></h4>
+<h4><strong>CCA Highlights</strong></h4>
 <p><strong>Soirée 2024</strong>
 </p>
 <div class="isomer-image-wrapper">

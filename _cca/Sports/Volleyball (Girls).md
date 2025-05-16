@@ -7,17 +7,51 @@ variant: tiptap
 ---
 <p><strong>Teachers in Charge</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Zahra</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifa_fatimatuzahra_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Jaslyn Tan</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tan_Su_Xian_Jaslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Su_Xian_Jaslyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hoo Boon Piang</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hoo_boon_piang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_boon_piang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Schedule<br></strong>Tuesdays and Thursdays 3:00pm to 6:00pm</p>
 <p><strong>Venue</strong>
 <br>Indoor Sports Hall Level 2</p>

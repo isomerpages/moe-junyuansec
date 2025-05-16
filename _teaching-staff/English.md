@@ -12,10 +12,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Teh Li Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_li_wah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -23,7 +34,8 @@ variant: tiptap
 <p>Ms Lim Wei Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +43,8 @@ variant: tiptap
 <p>Miss Lim Chin Teng Debbie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:lim_chin_teng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_teng_debbie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +52,8 @@ variant: tiptap
 <p>Ms Huda Ezra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi Adjunct</p>
+<p><a href="mailto:nurul_huda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_huda@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

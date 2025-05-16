@@ -5,18 +5,37 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Jaslyn Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jaslyn_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jaslyn_chew@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -26,6 +45,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norzia_abdul_samat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norzia_abdul_samat@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -33,6 +56,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurzuhdi_mohammed_sharif@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurzuhdi_mohammed_sharif@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +69,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Admin Executive</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:eric_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eric_teo@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Syahirah Binte Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_syahirah_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_syahirah_abdul_razak@moe.edu.sg</a> 
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,6 +92,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_siew_hoon_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_hoon_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,13 +105,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CSO</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Syahirah Binte Abdul Razak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p><a href="mailto:lim_yoke_siam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yoke_siam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +117,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (workshop)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -82,13 +128,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (workshop)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vigneswari D/O Veerasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Stem Instructor (laboratory)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -98,6 +139,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Stem Instructor (laboratory)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,6 +149,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -114,6 +161,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -121,6 +171,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -130,6 +183,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,6 +193,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

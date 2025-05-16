@@ -27,17 +27,49 @@ sessions and in competitions.</p>
 <p><strong><br></strong>Every Tuesday and Thursday (3.00 pm – 5.40 pm)
 <br>School Field / CD Shelter</p>
 <h4><strong>Teachers-in-charge</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Muhammad Faisal</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faisal_mahmod@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Teo Swee Wah</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:TEO_Swee_Wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Swee_Wah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Li Lanhua</p>
-</li>
-</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_lanhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_lanhua@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Leaders:</strong></h4>
 <p><strong><br></strong>Sec 4 (Year 2025)
 <br>1. Captain: KHOO YU HAN ALICIA (QIU YUHAN) (4G)
