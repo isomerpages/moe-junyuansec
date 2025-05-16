@@ -31,10 +31,59 @@ Commitment and Responsibility and Care for Fellow Cadets.
 <p>Every Tuesdays (3:00pm - 5:30pm) and selected Thursdays
 <br>Parade Square/Classrooms</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
-<p>1. Mr Kelvin Kim
-<br>2. Mr Thanesh Manoselvam
-<br>3. Mr Twang Kwang Han
-<br>4. Mdm Noor Khairin</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kim_choon_hin_kelvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kim_choon_hin_kelvin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thanesh Manoselvam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thanesh_manoselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thanesh_manoselvam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Twang Kwang Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:twang_kwang_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twang_kwang_han@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Khairin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:noor_khairin_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_khairin_kamaruddin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Leaders (Year 2024/2025)</strong></h4>
 <p>1. Unit Sergeant Major (CCA Chairperson):
 <br>Ian Chan Li En (4D)
