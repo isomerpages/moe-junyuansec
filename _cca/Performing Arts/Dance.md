@@ -63,9 +63,9 @@ hone their skills but also cultivates confidence and resilience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priscilla Vanessa Louis</p>
-<p>Ms Ong Si JIa</p>
-<p>Ms Kwok Hui Ning Grace</p>
+<p>Ms Priscilla Vanessa Louis (<a href="mailto:priscilla_vanessa_louis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_vanessa_louis@moe.edu.sg</a>)</p>
+<p>Ms Ong Si JIa (<a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a>)</p>
+<p>Ms Kwok Hui Ning Grace (<a href="mailto:grace_kwok_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_kwok_hui_ning@moe.edu.sg</a>)</p>
 <p></p>
 </td>
 </tr>
