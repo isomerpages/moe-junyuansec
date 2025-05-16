@@ -30,8 +30,8 @@ responsibility and discipline.</p>
 </li>
 </ul>
 <p><strong>CCA Schedule &amp; Venue<br></strong>C Div: Every Tuesday and
-Wednesday (3pm – 5pm)
-<br>B Div: Every Tuesday and Thursday (3pm – 5pm)
+Wednesday (3pm – 530pm)
+<br>B Div: Every Tuesday and Thursday (3pm – 530pm)
 <br>School Field/School Gym/Fitness Corner.</p>
 <p><strong>Teachers-In-Charge</strong>
 </p>
@@ -78,7 +78,7 @@ Wednesday (3pm – 5pm)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Haziq</p>
+<p>Mr Muhammad Haziq</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_haziq_mohamed_ashiq@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haziq_mohamed_ashiq@moe.edu.sg</a>
@@ -91,37 +91,30 @@ Wednesday (3pm – 5pm)
 <p><strong>B Dvision:</strong> Mohamad Jamal Bin Mohd Smeh
 <br>
 </p>
-<p><strong>CCA Leaders (Year 2023)<br></strong>1. Captain: Ahmad Farhan (3-B)
-<br>2. Vice- Captain: Mohammed Darwisy Uqail (3-B)
-<br>3. Vice-Captain: Muhammad Syukri (3-B)</p>
-<p><strong>Awards/Achievements<br>2019</strong>
+<p><strong>CCA Leaders (Year 2025)<br></strong>1. Captain: Chia Sheng Yang,
+Jovan (3-C)
+<br>2. Vice- Captain: Mohd Azim Bin Mohd Adlil Wafi (2-A)</p>
+<p><strong>Awards/Achievements<br>2023</strong>
 <br>• National School Games Rugby Championship</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>• C Division Bowl – 4th Placing</p>
-</li>
-</ul>
-<p><strong>2022</strong>
-<br>• National School Games Rugby Championship</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>• B Division Bowl – 3rd Placing
-<br>
-</p>
-</li>
-</ul>
-<p><strong>2023</strong>
-<br>• National School Games Rugby Championship
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>• B Division Bowl Finals – 2nd Placing</p>
-</li>
-</ul>
+<p><strong>2024</strong>
+<br>• National School Games Rugby Championship</p>
+<p>• B Division Bowl Finals – 2nd Placing</p>
+<p><strong>2025</strong>
+<br>• National School Games Rugby Championship</p>
+<p>• B Division Bowl Finals – 2nd Placing</p>
 <hr>
 <p><strong>Our Journey</strong>
 </p>
+<p><strong>Our National School Games’ Journey</strong>
+</p>
+<p>Our teachers are the pillars of the CCA, guiding our boys to develop their
+strengths and reach their full potential. They support the boys through
+hardships and challenges, watching them grow as rugby players. In 2023,
+the JY Rugby Boys made history by reaching the finals of the National School
+Games Bowl Championship at the Singapore Sports Hub for the first time.
+Demonstrating unwavering grit and determination, they repeated this remarkable
+achievement in both 2024 and 2025.</p>
 <div class="iframe-wrapper">
 <iframe height="391" width="697" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UzKfsboDl4I"></iframe>
 </div>
