@@ -47,17 +47,51 @@ yourself—faster, higher, and stronger with each step.
 </ul>
 <p><strong>Teachers-in-charge:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Nur Suhailah</p>
-</li>
-<li>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Suhailah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_suhailah_ahmad_khusairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_ahmad_khusairi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ng Kuan Shin</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_kuan_shin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kuan_shin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Jeremy Wee</p>
-</li>
-</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wee_eng_khoon_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_eng_khoon_jeremy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br><strong>CCA Leaders:</strong>
 </p>
