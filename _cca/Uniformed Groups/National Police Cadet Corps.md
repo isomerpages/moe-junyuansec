@@ -21,10 +21,60 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesdays and Thursdays
 (3 pm to 5 pm)
 <br>Parade Square / Classrooms</p>
-<p><strong>Teachers-in-Charge<br></strong>1. Ms Jolene Ng
-<br>2. Ms Siti Shafiqah Binte Walid
-<br>3. Mr Loh Chee Teng
-<br>4. Ms Cheong Wei Yuen</p>
+<p><strong>Teachers-in-Charge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jolene Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Shafiqah Binte Walid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shafiqah_walid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiqah_walid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Chee Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_chee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chee_teng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Wei Yuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wei_yuen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Leaders (Year 2025)<br></strong>1. Chairperson: SSGT Amirul
 Irfan Bin Aziz (4F)
 <br>2. Deputy Chairperson: SSGT Syed Adel Rayyan Bin Syed Hedder Alattas (4H)</p>
