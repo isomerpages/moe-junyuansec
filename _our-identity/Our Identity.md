@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/our-identity/principals-message-2025" rel="noopener noreferrer nofollow" target=""><u>Advisory Committee</u></a>
+<p><a href="/our-identity/advisory-committee/" rel="noopener noreferrer nofollow" target=""><u>Advisory Committee</u></a>
 </p>
 </li>
 <li>
