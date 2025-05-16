@@ -177,4 +177,3 @@ I made many new friends and became close with my peers as we shared special
 memories in this CCA. I am looking forward to what the future entails.”</p>
 <p>- Anriana Perez (Current Alumni, President 2024 )</p>
 <p></p>
-<p></p>
