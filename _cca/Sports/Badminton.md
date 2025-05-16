@@ -32,9 +32,42 @@ players of character and not just players with excellent skills.</p>
 <p><strong>CCA Schedule &amp; Venue<br></strong>Every Tuesday and Thursday
 (3.00pm to 5.30pm)
 <br>School Hall (Level 2)</p>
-<p><strong>Teachers–in- charge<br></strong>1. Mdm Cao Zhi Hong
-<br>2. Mdm Siti Zaleha
-<br>3. Mr Low Kia Sin</p>
+<p><strong>Teachers–in- charge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zaleha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_zaleha_md_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zaleha_md_idris@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Low Kia Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_kia_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kia_sin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Leaders<br></strong>Upper Sec (Year 2025)
 <br>1. Captain (Boys): Jayden Chew (4E)
 <br>2. Captain (Girls): Kathlynn Pang (4E)
