@@ -34,11 +34,51 @@ our CCA.</p>
 <p><strong>CCA Schedule<br></strong>Every Tuesday and Thursday (3.00pm to
 5.30pm)
 <br>Venue: Indoor Sports Hall (Level 1)</p>
-<p><strong>Teachers-In-Charge<br></strong>1. Mr Ivan Tan
-<br>2. Mr Tan Tze Wei
-<br>3. Ms Koh Xiu Huan Joanna
-<br>
+<p><strong>Teachers-In-Charge</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ivan Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chwoon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwoon_ping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Tze Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_tze_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tze_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Xiu Huan Joanna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_xiu_huan_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xiu_huan_joanna@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Leaders (Year 2025)</strong>
 <br>Upper Secondary:
 <br>1. Captain: Wong Johnathan Espiritu (4A)
