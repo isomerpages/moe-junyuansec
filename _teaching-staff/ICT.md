@@ -12,10 +12,21 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Kho Chin Alicia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_alicia@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -23,7 +34,8 @@ variant: tiptap
 <p>Mdm Sharifa Fatimatuzahra Binte A R A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifa_fatimatuzahra_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +43,8 @@ variant: tiptap
 <p>Mdm Chin Wai Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p><a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wai_leng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
