@@ -13,8 +13,42 @@ variant: tiptap
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesday (3 pm to
 5.00 pm), alternate Saturday (8.45 am to 12 pm)
 <br>School Parade Square / Classroom C1-01</p>
-<p><strong>Teachers-in-Charge<br></strong>1. Mr Ang Kuang Soon
-<br>2. Mdm Ng Sui Lin</p>
+<p><strong>Teachers-in-Charge</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Kuang Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_kuang_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kuang_soon@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Sui Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>CCA Leaders (Year 2025)<br></strong>1. Company Sergeant Major
 (CCA Chair): Tay Yock Bin Ian (Zheng Yubin) (4A)
 <br>2. Assistant Sergeant Major (CCA Vice-Chair): Tyrone Lee Jai Er (4E)</p>
