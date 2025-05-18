@@ -268,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Michelle Luo</p>
+<p>Miss Michelle Luo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH 21CC</p>
