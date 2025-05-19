@@ -917,6 +917,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Kah Khoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kah_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kah_khoon@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Syed Mustafakamal S M A</p>
 </td>
 <td rowspan="1" colspan="1">
