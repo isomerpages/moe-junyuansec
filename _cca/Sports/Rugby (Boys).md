@@ -127,61 +127,39 @@ as rugby players.&nbsp;</p>
 <p>"We hope that the boys can learn the values of care, resilience and responsibility
 through the CCA."
 <br>-&nbsp;Mr.&nbsp;Seah</p>
+<p><strong><u>2023</u></strong>
+</p>
 <p>In 2023, the JY Rugby Boys outdid themselves. Through grit and determination,
 they made their way to the finals of the National School Games Bowl Championship.
-This marked their first time playing at the Singapore Sports Hub.</p>
-<p>
+This marked their first time playing at the Singapore Sports Hub.
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/rugby1.jpg">
 </div>
-<p>The B Division boys with their trophy.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rugby2.jpg">
-</div>
-<p>With their supporters rooting for them.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rugby3.jpg">
-</div>
-<p>Captain Haris Mirza receiving the trophy.</p>
+<p><em>The B Division boys with their trophy.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/rugby4.jpg">
 </div>
-<p>The boys giving it their all.</p>
+<p><em>The boys giving it their all.</em>
+</p>
+<p><strong><u>2024</u></strong>
+</p>
+<p>Once again, they beat out other teams to reach the finals of National
+School Games Bowl Championship.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r1.jpg">
+</div>
+<p><em>Team talk during half time.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r2.jpg">
+</div>
+<p><em>Congratulating the winning team.</em>
+</p>
 <p>
 <br>
 </p>
-<p><strong><u>NSG 2022</u></strong>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rugby5.jpg">
-</div>
 <p></p>
-<p>The B Division team with their 3rd place medals after a triumphant match
-in the National School Games, which was finally resumed after a 2 year
-hiatus due to COVID-19.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rugby6.jpg">
-</div>
-<p>Captain of the B Division team receiving the trophy from our Principal,
-Mr. Tay.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rugby7.jpg">
-</div>
-<p>Our members are the important building blocks of our CCA. Each and every
-one of us have something to contribute, and our part to play. As we grow
-and develop, we become stronger and so does our CCA.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rug5.jpg">
-</div>
-<p>“Rugby teaches us many things, like discipline, sportsmanship and team
-work.”
-<br>- Dani (4E3, 2023)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/rug6.jpg">
-</div>
-<p>"The feeling of competing on the field and winning is both thrilling and
-exciting.”&nbsp;
-<br>- Emre (4N2, 2023)</p>
+<p></p>
