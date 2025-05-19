@@ -44,7 +44,7 @@ variant: tiptap
 <p>Miss Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Engish / Literature</p>
+<p>SH English / Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yun_shi_jolene_ng@moe.edu.sg</u></a>
