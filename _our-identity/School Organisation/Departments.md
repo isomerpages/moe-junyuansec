@@ -351,4 +351,260 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Aesthetics</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adzmey Bin Asmom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adzmey_asmom@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr David Daniel Cheong Weng Loong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_david_daniel@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Kuan Shin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kuan_shin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Chee Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh_chee_teng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Cheng Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_cheng_ying@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Priscillia Vanessa Louis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>priscilla_vanessa_louis@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Amirah Binte Mohmed Arsad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_amirah_mohamed_arsad@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Zahirah Binte Zainal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_zahirah_binte_zainal@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kwok Hui Ning Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>grace_kwok_hui_ning@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Humanities</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Faisal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_faisal_mahmod@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Farouq Bin Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farouq_abdul_aziz@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Shafiqah Binte Walid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shafiqah_walid@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Su Xian Jaslyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_su_xian_jaslyn@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>ICT</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kho Chin Alicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_chin_alicia@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharifa Fatimatuzahra Binte A R A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharifa_fatimatuzahra_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Wai Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Physical Education</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Syed Mustafakamal S M A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syed_mustafakamal@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Tze Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_tze_wei@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Swee Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TEO_Swee_Wah@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chiew Huey Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_huey_ching@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
