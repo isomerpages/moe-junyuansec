@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<h4>School Leaders</h4>
+<h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Key Personnel</h4>
+<h4><strong>Key Personnel</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -331,6 +331,78 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thng_wei_wei@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Departments</strong></h4>
+<h4>English</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Teh Li Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_li_wah@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Wei Pamela</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yi_wei_pamela@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Chin Teng Debbie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_chin_teng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chin_teng_debbie@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Huda Ezra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_huda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_huda@moe.edu.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
