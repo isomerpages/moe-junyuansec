@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><a href="/our-identity/school-organisation/departments/" rel="noopener nofollow" target="_blank">Departments</a>
 </p>
-<p><a href="/other-information/contact-us/form-teachers/" rel="noopener nofollow" target="_blank">Form Teachers</a>
+<p><a href="/our-identity/school-organisation/form-teachers/" rel="noopener nofollow" target="_blank">Form Teachers</a>
 </p>
 <p><a href="/our-identity/school-organisation/cca-teachers/" rel="noopener nofollow" target="_blank">CCA Teachers</a>
 </p>
