@@ -281,6 +281,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Tay Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_hui_min@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Seah Cheng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_cheng_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seah_cheng_hong@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Boh Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_boh_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_boh_peng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Siti Zaleha Binte Md. Idris</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -360,6 +396,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Asyikin Binte Naser</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_asyikin_naser@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_asyikin_naser@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -672,6 +720,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hardi Zein</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hardi_zein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hardi_zein@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kwan Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:LIM_Kwan_Shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>LIM_Kwan_Shen@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
