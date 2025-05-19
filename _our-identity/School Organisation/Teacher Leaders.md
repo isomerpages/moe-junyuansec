@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mdm Chia Boh Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Chemistry</p>
+<p>Senior Teacher / Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_boh_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_boh_peng@moe.edu.sg</a>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Mdm Halimah Binte Jumaha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Mathematics</p>
+<p>Senior Teacher / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:halimah_jumaha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halimah_jumaha@moe.edu.sg</a>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Mdm Nadiah Binte Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST English</p>
+<p>Senior Teacher / English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadiah_khamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_khamis@moe.edu.sg</a>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Ms Arnita Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Learning Needs</p>
+<p>Senior Teacher / Learning Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:arnita_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arnita_abdullah@moe.edu.sg</a>
@@ -79,7 +79,7 @@ variant: tiptap
 <p>Mr Feraj S/O Amzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Computer Applications</p>
+<p>Senior Teacher / Computer Applications</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a>
