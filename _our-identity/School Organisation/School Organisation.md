@@ -13,6 +13,7 @@ variant: tiptap
 </p>
 <p>Form Teachers</p>
 <p>CCA Teachers</p>
-<p>Allied Educators</p>
+<p><a href="/our-identity/school-organisation/allied-educators/" rel="noopener nofollow" target="_blank">Allied Educators</a>
+</p>
 <p>Executive and Administrative Staff</p>
 <p></p>
