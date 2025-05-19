@@ -158,8 +158,73 @@ School Games Bowl Championship.</p>
 </div>
 <p><em>Congratulating the winning team.</em>
 </p>
-<p>
-<br>
+<p><strong><u>2025</u></strong>
+</p>
+<p>In 2025, they made it to the finals&nbsp; of the National school Games
+Bowl Championship for the 3<sup>rd</sup> time in a row.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r4.jpg">
+</div>
+<p><em>Team briefing before the match.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r5.jpg">
+</div>
+<p><em>Forging friendships with the opponents beyond the pitch - rugby brings us together.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r6.jpg">
+</div>
+<p><em>Raising the bar, growing stronger together - always striving to play better.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r7.jpg">
+</div>
+<p>Our members are the important building blocks of our CCA. Each and every
+one of us has something to contribute, and our part to play. As we grow
+and develop, we become stronger and so does our CCA.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r8.jpg">
+</div>
+<p>“Rugby teaches us the values of resilience and sportsmanship.”
+<br>- Azim (1A, 2024)</p>
+<hr>
+<p><strong>Building Champions On and Off the Field</strong>
+</p>
+<p>Beyond training, the JY Rugby Boys participate in diverse programmes,
+fostering both athletic and community development.</p>
+<p>In April 2025, our boys had the exciting opportunity to meet the Spain
+National Rugby Team when they visited Singapore for the HSBC Sevens.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r10.png">
+</div>
+<p><em>To spread the love for the sport, our players have also conducted outreach sessions with primary schools in the neighborhood.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/r13.jpg">
+</div>
+<p><em>Embracing growth and progress, our boys have participated in friendly matches with other schools, building teamwork and a passion for the game.</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/r15.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/r14.jpg">
+</div>
 <p></p>
