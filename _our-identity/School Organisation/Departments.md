@@ -6,8 +6,9 @@ third_nav_title: School Organisation
 variant: tiptap
 ---
 <h4><strong>English</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -21,10 +22,52 @@ variant: tiptap
 <p><strong>Email</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Shamilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shamilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shamilah@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Yun Shi Jolene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Engish / Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yun_shi_jolene_ng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nadiah Binte Khamis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nadiah_khamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nadiah_khamis@moe.edu.sg</u></a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Teh Li Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_li_wah@moe.edu.sg</u></a>
@@ -36,6 +79,9 @@ variant: tiptap
 <p>Ms Lim Wei Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yi_wei_pamela@moe.edu.sg</u></a>
 </p>
 </td>
@@ -45,6 +91,9 @@ variant: tiptap
 <p>Miss Lim Chin Teng Debbie</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chin_teng_debbie@moe.edu.sg</u></a>
 </p>
 </td>
@@ -52,6 +101,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Huda Ezra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_huda@moe.edu.sg</u></a>
