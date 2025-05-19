@@ -7,7 +7,8 @@ variant: tiptap
 ---
 <p><a href="/our-identity/school-organisation/school-management-committee/" rel="noopener nofollow" target="_blank">School Management Committee</a>
 </p>
-<p>Teacher Leaders</p>
+<p><a href="/our-identity/school-organisation/teacher-leaders/" rel="noopener nofollow" target="_blank">Teacher Leaders</a>
+</p>
 <p><a href="/our-identity/school-organisation/departments/" rel="noopener nofollow" target="_blank">Departments</a>
 </p>
 <p>Form Teachers</p>
