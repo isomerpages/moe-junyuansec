@@ -821,6 +821,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ling Weicong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_weicong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ling_weicong@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thanesh S/O Manoselvam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thanesh_manoselvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thanesh_manoselvam@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Feraj S/O Amzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Computer Applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>feraj_amzah@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Kho Chin Alicia</p>
 </td>
 <td rowspan="1" colspan="1">
