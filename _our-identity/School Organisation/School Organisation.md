@@ -15,5 +15,6 @@ variant: tiptap
 <p>CCA Teachers</p>
 <p><a href="/our-identity/school-organisation/allied-educators/" rel="noopener nofollow" target="_blank">Allied Educators</a>
 </p>
-<p>Executive and Administrative Staff</p>
+<p><a href="/our-identity/school-organisation/executive-and-administrative-staff/" rel="noopener nofollow" target="_blank">Executive and Administrative Staff</a>
+</p>
 <p></p>
