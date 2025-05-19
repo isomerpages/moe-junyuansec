@@ -583,7 +583,7 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Infocomm Technology (Media Production)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -596,9 +596,6 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Adzmey Asmom</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -607,26 +604,23 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Audio Visual Aid (PA &amp; AVA Club)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Liyana Binte Ramlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liyana_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_ramlan@moe.edu.sg</a> 
+<p><a href="mailto:liyana_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_ramlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Choong Tze Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choong_tze_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_tze_hong@moe.edu.sg</a> 
+<p><a href="mailto:choong_tze_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_tze_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
