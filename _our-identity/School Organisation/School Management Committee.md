@@ -233,7 +233,7 @@ variant: tiptap
 <p>Mdm Gan Juok Sia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH Lower Secondary</p>
+<p>Assistant Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_juok_sia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_juok_sia@moe.edu.sg</a>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>Mdm Shariffah Nasimah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH Upper Secondary</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shariffah_nasimah_alkud@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_nasimah_alkud@moe.edu.sg</a>
@@ -257,7 +257,7 @@ variant: tiptap
 <p>Mdm Ng Sui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH Upper Secondary</p>
+<p>Assistant Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a>
