@@ -19,11 +19,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
+<p><strong>Designation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Email</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +68,7 @@ variant: tiptap
 <p>Miss Teh Li Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_li_wah@moe.edu.sg</u></a>
@@ -79,7 +80,7 @@ variant: tiptap
 <p>Ms Lim Wei Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yi_wei_pamela@moe.edu.sg</u></a>
@@ -91,7 +92,7 @@ variant: tiptap
 <p>Miss Lim Chin Teng Debbie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chin_teng_debbie@moe.edu.sg</u></a>
@@ -103,7 +104,7 @@ variant: tiptap
 <p>Ms Huda Ezra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_huda@moe.edu.sg</u></a>
