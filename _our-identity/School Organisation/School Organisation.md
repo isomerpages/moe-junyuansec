@@ -8,7 +8,8 @@ variant: tiptap
 <p><a href="/our-identity/school-organisation/school-management-committee/" rel="noopener nofollow" target="_blank">School Management Committee</a>
 </p>
 <p>Teacher Leaders</p>
-<p>Departments</p>
+<p><a href="/our-identity/school-organisation/departments/" rel="noopener nofollow" target="_blank">Departments</a>
+</p>
 <p>Form Teachers</p>
 <p>CCA Teachers</p>
 <p>Allied Educators</p>
