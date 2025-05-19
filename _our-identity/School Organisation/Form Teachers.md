@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Organisation
 variant: tiptap
 ---
-<p></p>
+<h4><strong>Sec 1</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -205,6 +205,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Sec 2</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="2" colspan="1">
 <p>2A</p>
 </td>
@@ -364,6 +385,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Sec 3</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -374,8 +396,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>CLASS</strong>
-</p>
-<p><strong>(Upper Sec)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -513,6 +533,27 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Sec 4 &amp; 5</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="2" colspan="1">
 <p>4A (NT)</p>
