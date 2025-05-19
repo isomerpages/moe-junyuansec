@@ -533,4 +533,114 @@ third_nav_title: School Organisation
 </tr>
 </tbody>
 </table>
+<h4><strong>Clubs &amp; Society</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Infocomm Technology (Computing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Suganda</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wai_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ling Kay Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ling_kay_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_siong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joey Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Liew_Zhen_Hong_Joey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Liew_Zhen_Hong_Joey@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology (Media Production)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teh Li Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_li_wah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adzmey Asmom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adzmey_asmom@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audio Visual Aid (PA &amp; AVA Club)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Liyana Binte Ramlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liyana_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_ramlan@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Choong Tze Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:choong_tze_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_tze_hong@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
