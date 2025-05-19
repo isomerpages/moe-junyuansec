@@ -220,7 +220,6 @@ National Rugby Team when they visited Singapore for the HSBC Sevens.&nbsp;</p>
 </div>
 <p><em>Embracing growth and progress, our boys have participated in friendly matches with other schools, building teamwork and a passion for the game.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/r15.jpg">
 </div>
