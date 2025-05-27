@@ -891,19 +891,18 @@ family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </li>
 </ul>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
