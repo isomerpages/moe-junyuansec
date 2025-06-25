@@ -9,7 +9,6 @@ variant: tiptap
 </p>
 <p>Students should refer to the Non-HBL Timetable except for the weeks whereby
 there are HBL on Friday.</p>
-<p></p>
 <p>HBL days will be conducted throughout Semester 1 on the following days:</p>
 <table style="minWidth: 75px">
 <colgroup>
