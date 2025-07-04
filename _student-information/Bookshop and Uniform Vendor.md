@@ -18,9 +18,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Casco Educational Supply Ltd&nbsp;  &nbsp;-</strong>&nbsp;&nbsp;<strong>School Textbooks &amp; Stationery&nbsp;</strong>
+<p><strong>Casco Educational Supply Ltd&nbsp; &nbsp;-</strong>&nbsp;&nbsp;<strong>School Textbooks &amp; Stationery&nbsp;</strong>
 </p>
-<p><strong>Asencio Pte Ltd </strong> &nbsp;&nbsp;<strong>-   School Uniform and Physical Education (PE) Attire</strong>
+<p><strong>Asencio Pte Ltd </strong>&nbsp;&nbsp;<strong>- School Uniform and Physical Education (PE) Attire</strong>
 </p>
 </td>
 </tr>
