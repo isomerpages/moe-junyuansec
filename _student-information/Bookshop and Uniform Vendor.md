@@ -81,7 +81,7 @@ variant: tiptap
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 <p>[Online Ordering is currently closed. Please visit the onsite bookshop
-onsite for Textbook Purchases]</p>
+for Textbook Purchases]</p>
 </td>
 </tr>
 <tr>
