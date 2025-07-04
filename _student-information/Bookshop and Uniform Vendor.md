@@ -18,9 +18,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Asencio Pte Ltd -</strong> &nbsp;&nbsp;<strong>School Textbooks &amp; Stationery&nbsp;</strong>
+<p><strong>Casco Educational Supply Ltd&nbsp; &nbsp;-</strong>&nbsp;&nbsp;<strong>School Textbooks &amp; Stationery&nbsp;</strong>
 </p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- School Uniform and Physical Education (PE) Attire</strong>
+<p><strong>Asencio Pte Ltd </strong>&nbsp;&nbsp;<strong>- School Uniform and Physical Education (PE) Attire</strong>
 </p>
 </td>
 </tr>
@@ -69,37 +69,33 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Monday to Friday
 <br>8.00am to 3:00pm&nbsp;
-<br>Closed on Public Holidays, Saturday and Sunday
-<br>Walk In Purchase – by appointment only (Expect for Year End Sale of textbooks.
-Refer to booklist for the Sale dates)</p>
+<br>Closed on Public Holidays, Saturday and Sunday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Website for online purchase (<strong><u>Uniform &amp; Textbooks</u></strong>):&nbsp;</p>
+<p>Website for online purchase of <strong><u>Textbooks</u></strong>:&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://asenciobookshop.sg/</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
-<p>If you are only ordering textbooks, delivery charges of $11.99 apply.
-If you are ordering both uniform &amp; textbooks, there will be no change
-to the delivery charges of $11.99.</p>
-<p>You can also opt for self-collection onsite in the school for the online
-purchase.</p>
+<p>[Online Ordering is currently closed. Please visit the onsite bookshop
+onsite for Textbook Purchases]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Website for online purchase of<strong><u> Uniform only</u></strong>:</p>
+<p>Website for online purchase of<strong><u> Uniform</u></strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
 </p>
 <p>Delivery charges of $6.54 apply and orders will take ~5 working days to
 process.</p>
-<p>Self-collection onsite in the school, is available on the same dates as
-the sale of textbooks.</p>
+<p>Refer to the online ordering guide for details of the ordering process.</p>
+<p><a href="https://www.junyuansec.moe.edu.sg/files/Online_Ordering_Guide_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Online Ordering Guide 2024</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,17 +141,6 @@ the sale of textbooks.</p>
 <td rowspan="1" colspan="1">
 <p>Uniforms will be available for purchase together with the textbooks in
 school. Refer to the booklists for the dates.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Online Ordering Guide:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Refer to the online ordering guide for details of the ordering process.&nbsp;</p>
-<p><a href="/files/Online_Ordering_Guide_2024.pdf" rel="noopener nofollow" target="_blank">Online Ordering Guide 2024</a>
-<br>
-</p>
 </td>
 </tr>
 <tr>
