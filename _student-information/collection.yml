@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - Student Information.md
-      - 25th Anniversary/25th Anniversary.md
+      - School E Resource Repository.md
       - 25th Anniversary/.keep
+      - 25th Anniversary/25th Anniversary.md
       - 25th Anniversary/Jyss Anniversary Walk.md
       - 25th Anniversary/Soiree.md
       - 25th Anniversary/Open House (23 Nov 2024).md
