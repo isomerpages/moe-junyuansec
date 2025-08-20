@@ -37,6 +37,8 @@ links:
   - title: Student Information
     url: /student-information
     sublinks:
+      - title: School E-Resource Repository
+        url: /school-e-resource-repository/
       - title: 25th Anniversary
         url: /student-information/25th-anniversary/25th-anniversary/
       - title: Student Handbook
@@ -59,8 +61,6 @@ links:
         url: /student-information/internal-examination-matters
       - title: Bookshop and Uniform Vendor
         url: /student-information/bookshop-n-uniform-vendor/
-      - title: School E-Resource Repository
-        url: /school-e-resource-repository/
   - title: CCA
     url: /cca
     sublinks:
