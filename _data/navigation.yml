@@ -59,6 +59,8 @@ links:
         url: /student-information/internal-examination-matters
       - title: Bookshop and Uniform Vendor
         url: /student-information/bookshop-n-uniform-vendor/
+      - title: School E-Resource Repository
+        url: /student-information/School-E-Resource-Repository
   - title: CCA
     url: /cca
     sublinks:
