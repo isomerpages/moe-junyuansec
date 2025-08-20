@@ -1,9 +1,0 @@
----
-title: Student Information
-permalink: /student-information/
-description: ""
-variant: tiptap
-third_nav_title: School E Resource Repository
----
-<h4><a href="/student-information/25th-anniversary/25th-anniversary/" rel="noopener noreferrer nofollow" target=""><u>25th Anniversary</u></a><u><br></u><a href="/student-information/student-handbook" rel="noopener noreferrer nofollow" target=""><u>Student Handbook</u></a><u><br></u><a href="/student-information/learning-and-assessment" rel="noopener noreferrer nofollow" target=""><u>Learning and Assessment</u></a><u><br></u><a href="/student-information/events-calendar" rel="noopener noreferrer nofollow" target=""><u>Events Calendar</u></a><u><br></u><a href="/student-information/student-ict-matters" rel="noopener noreferrer nofollow" target=""><u>Student ICT Matters</u></a><u><br></u><a href="/student-information/student-learning-space-sls" rel="noopener noreferrer nofollow" target=""><u>Student Learning Space (SLS)</u></a><u><br></u><a href="/student-information/student-timetable" rel="noopener noreferrer nofollow" target=""><u>Student Timetable</u></a><u><br></u><a href="/student-information/sec-1-students-2025/welcome-to-the-junyuan-family/" rel="noopener noreferrer nofollow" target=""><u>Sec 1 Students 2025</u></a><u><br></u><a href="/student-information/sec-3-subject-combination-2025/" rel="noopener noreferrer nofollow" target=""><u>Sec 3 Subject Combination 2025</u></a><u><br></u><a href="/student-information/internal-examination-matters" rel="noopener noreferrer nofollow" target=""><u>Internal Examination Matters</u></a><u><br></u><a href="/student-information/bookshop-n-uniform-vendor/" rel="noopener noreferrer nofollow" target=""><u>Bookshop and Uniform Vendor</u></a><u><br></u></h4>
-<p></p>
