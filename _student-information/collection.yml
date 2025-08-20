@@ -2,6 +2,7 @@ collections:
   student-information:
     output: true
     order:
+      - Student Information.md
       - School E Resource Repository/.keep
       - 25th Anniversary/25th Anniversary.md
       - 25th Anniversary/.keep
