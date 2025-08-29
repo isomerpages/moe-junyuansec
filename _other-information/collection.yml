@@ -2,8 +2,8 @@ collections:
   other-information:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Other Information.md
+      - School Canteen Advertisement.md
       - Financial Assistance Scheme.md
       - Insurance for Students.md
       - Facilities and ICT Fault Reporting.md
