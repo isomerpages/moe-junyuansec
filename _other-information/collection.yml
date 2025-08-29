@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - School Canteen Advertisements/School Canteen Advertisement.md
       - School Canteen Advertisements/.keep
       - Other Information.md
       - Financial Assistance Scheme.md
