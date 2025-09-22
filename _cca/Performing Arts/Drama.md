@@ -48,9 +48,9 @@ to 5.00 pm)
 </tbody>
 </table>
 <p><strong>CCA Leaders (Year 2024)<br></strong>Upper Secondary
-<br>1. President: Livia Rianti Binte Roseman
-<br>2. Vice President: Chow Wan Xuan
-<br>3. Vice President: Toh Jia Wen Chermaine</p>
+<br>1. President: Javier Ng Wei Zhe
+<br>2. Vice President: Low Quan Sheng
+<br>3. Vice President: Ye Myint Myat Kelvin</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/picture14f.jpg">
 </div>
