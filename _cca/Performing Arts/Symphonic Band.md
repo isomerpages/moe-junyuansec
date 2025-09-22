@@ -80,10 +80,10 @@ together, develops character, and inspires excellence!</p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday
 3.00 pm to 5.30 pm
 <br>Music Room and AVA Room (Level 3)</p>
-<p><strong>CCA Leaders (Year 2024 - 2025)<br></strong>1. Band Major: Rhea
-Asyura (Secondary 4F)
-<br>2. Assistant Band Major: Peh Xin Hui Phyllis (Secondary 4E)
-<br>3. Sectary: Wong Yue Jia (Secondary 4E)</p>
+<p><strong>CCA Leaders (Year 2025 - 2026)<br></strong>1. Band Major: Rithvik
+Muppalaneni (Sec 3C)
+<br>2. Assistant Band Major: Koh Hao Yang Lukas (Sec 3B)
+<br>3. Sectary: NurD’Laila Ally Binte Saifulnizam (Sec 3E)</p>
 <p><strong>Awards and Achievements</strong>
 </p>
 <p>SYF Arts Presentation Achievements:</p>
