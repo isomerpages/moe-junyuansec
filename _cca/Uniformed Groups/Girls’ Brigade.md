@@ -177,7 +177,7 @@ the best of their abilities in everything they do.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Our NCO Council (2024 – 2025)</strong>
+<p><strong>Our NCO Council (2025-2026)</strong>
 </p>
 </td>
 </tr>
