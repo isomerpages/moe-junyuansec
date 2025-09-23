@@ -64,17 +64,14 @@ sessions and in competitions.</p>
 <p>Ms Li Lanhua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:li_lanhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_lanhua@moe.edu.sg</a> 
+<p><a href="mailto:li_lanhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_lanhua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>CCA Leaders:</strong></h4>
-<p><strong><br></strong>Sec 4 (Year 2025)
-<br>1. Captain: KHOO YU HAN ALICIA (QIU YUHAN) (4G)
-<br>2. Vice-Captain: AELY AYUNI BINTE MOHAMAD HASRI (4G)
-<br>3. Vice-Captain: NG YI ZHI RENALD (4G)</p>
+<p></p>
 <p>Sec 3 (Year 2025)
 <br>1. Captain: ASHLEY HO YU XIN
 <br>2. Vice-Captain: SIA ZHI YAO SHAMUS
