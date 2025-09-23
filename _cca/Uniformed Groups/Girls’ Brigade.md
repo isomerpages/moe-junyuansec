@@ -168,7 +168,7 @@ the best of their abilities in everything they do.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" src="/images/gb4.jpg">
 </div>
-<h4><strong>CCA Leaders (2024 – 2025)</strong></h4>
+<h4><strong>CCA Leaders (2025-2026)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -186,7 +186,7 @@ the best of their abilities in everything they do.</p>
 <p>Company Sergeant Major (CSM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khoo Kai Xuan (4G)</p>
+<p>Chan Yeng Kah Felix (3E)</p>
 </td>
 </tr>
 <tr>
@@ -194,8 +194,23 @@ the best of their abilities in everything they do.</p>
 <p>Assistant Sergeant Major (ASM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jessie Lee Jia Xin (4C)</p>
-<p>Suar Qi Ru (4D)</p>
+<p>Angel Ng Rui Ying (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drill Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charlene Tania Wijaya (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shannel Goh (3B)</p>
 </td>
 </tr>
 <tr>
@@ -203,8 +218,9 @@ the best of their abilities in everything they do.</p>
 <p>Squad Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Yeng Kah Felix (3E)</p>
-<p>Charlene Tania Wijaya (3B)</p>
+<p>Lim Wen Xi Giselle (2A)</p>
+<p>Li Yuyan (2G)</p>
+<p>Asfirda Binti Ahmad Kamar (2E)</p>
 </td>
 </tr>
 </tbody>
@@ -212,8 +228,9 @@ the best of their abilities in everything they do.</p>
 <h4><strong>Awards/Achievements</strong></h4>
 <p><strong>Company Awards Achievement</strong>
 </p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -226,6 +243,9 @@ the best of their abilities in everything they do.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Year</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
@@ -252,6 +272,9 @@ the best of their abilities in everything they do.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Achievement</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Silver</p>
