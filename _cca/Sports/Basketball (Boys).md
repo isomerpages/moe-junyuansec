@@ -81,10 +81,9 @@ our CCA.</p>
 </table>
 <p><strong>CCA Leaders (Year 2025)</strong>
 <br>Upper Secondary:
-<br>1. Captain: Wong Johnathan Espiritu (4A)
-<br>2. Vice- Captain: Chee Jun Le Edven (3F)
-<br>3. Vice-Captain: Poon Yong Yao (3E)
-<br>4. Vice-Captain: Muhammad Hanafi Bin Arfi Shahrin (3A)</p>
+<br>1. Captain: Chee Jun Le Edven (3F)
+<br>2. Vice-Captain: Poon Yong Yao (3E)
+<br>3. Vice-Captain: Muhammad Hanafi Bin Arfi Shahrin (3A)</p>
 <p>Lower Secondary:
 <br>1. Captain:&nbsp;Muhammad Nabil Syafiq Bin Sophian (2G)
 <br>2. Vice-Captain:&nbsp;Briley James Tan (2B)</p>
