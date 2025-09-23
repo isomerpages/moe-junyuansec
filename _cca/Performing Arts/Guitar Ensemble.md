@@ -60,23 +60,32 @@ power of music and teamwork.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Xue Wenjuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">xue_wen_juan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <p><strong>CCA Schedule and Venue<br></strong>Every Tuesday and Thursday
 (3 – 5 pm)
 <br>Learning Hub 1</p>
-<p><strong>CCA Leaders (Year 2024/2025)<br></strong>President (Upper Sec):
-Trajico Sofia Alecz Antonio (3D, 2024)
-<br>Vice-President (Upper Sec): TeLiew Li Xing Ariel (3D, 2024)
-<br>President (Lower Sec): Kwek Jun Kai, Dayean (2D, 2024)
-<br>Vice-President (Lower Sec): Siti Nurshafiqah Binti Mohamad Fazlully (2D,
-2024)</p>
+<p><strong>CCA Leaders (Year 2025/2026)<br></strong>President (Upper Sec):
+Siti Nurshafiqah Binti Mohamad Fazlully (3C, 2025)</p>
+<p>Vice-President (Upper Sec): Ong Xiang Ying (3D, 2025)</p>
+<p>President (Lower Sec): Huang Yihao, Thaddeus (2G, 2025)</p>
+<p>Vice-President (Lower Sec): Lim Xiu Yuan (2B, 2025)</p>
 <p><strong>Awards and Achievements</strong>
 </p>
 <p>SYF Arts Presentation Achievements:</p>
-<table style="minWidth: 175px">
+<table style="minWidth: 200px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -108,6 +117,9 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 <th rowspan="1" colspan="1">
 <p>2023</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -131,6 +143,9 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -138,6 +153,7 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 <br>(a) JYSS Soiree Performance (2018) @ Our Tampines Hub
 <br>(b) Arts of Healing Performance (2017) @ Tan Tock Seng Hospital
 <br>(c) In Youthful Company Performance (2016) @ Esplanade</p>
+<p>(d) JYSS Soiree Performance (2024) @ Our Tampines Hub</p>
 <hr>
 <p><strong>Our Journey</strong>
 </p>
@@ -151,6 +167,12 @@ Trajico Sofia Alecz Antonio (3D, 2024)
 </p>
 <p>–&nbsp;Wijaya Willian Ong (Alumni)</p>
 <h4><strong>CCA Highlights</strong></h4>
+<p><strong>SYF 2025</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Guitar_SYF_2025.jpg">
+</div>
 <p><strong>Soirée 2024</strong>
 </p>
 <div class="isomer-image-wrapper">
