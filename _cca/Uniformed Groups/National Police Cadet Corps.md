@@ -42,7 +42,7 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 <p>Ms Jolene Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a> 
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -75,9 +75,13 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders (Year 2025)<br></strong>1. Chairperson: SSGT Amirul
-Irfan Bin Aziz (4F)
-<br>2. Deputy Chairperson: SSGT Syed Adel Rayyan Bin Syed Hedder Alattas (4H)</p>
+<p><strong>CCA Leaders (Year 2025)<br></strong>1. Chairperson: Nurin Shaqilah
+Binte Mohamad Shariff (3D)</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Deputy Chairperson: Sukainah Binte Mohamed Aslam (3C)</p>
+</li>
+</ol>
 <p><strong>Awards/Achievements</strong>
 </p>
 <p>Unit Overall Proficiency Award:</p>
