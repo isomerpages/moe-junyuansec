@@ -57,18 +57,12 @@ variant: tiptap
 <br>Indoor Sports Hall Level 2</p>
 <p><strong>CCA Leaders (Year 2025)</strong>
 </p>
-<p>Upper Secondary (Secondary 4):
-<br>1. Captain: Ling Jia Min (4D)
-<br>2. Vice- Captains: Pena Ysabelle Mysha Arcilla (4D) and Beatrix Julianne
-Mathieu (4E)
-<br>3. Logistics Head: Yang Yuji (4C)</p>
+<p></p>
 <p>Upper Secondary (Secondary 3):
-<br>1. Captain: Nur Sabrina Binte Azmi
-<br>2. Vice- Captain: Loh Zi Xuan and Abhismita Behera
-<br>3. Logistics Head: Alesha Dania Fareesya Binte Muhammad</p>
-<p>Lower Secondary:
-<br>1. Captain:&nbsp;
-<br>2. Vice-Captain:&nbsp;</p>
+<br>1. Captain: Nur Sabrina Binte Azmi (3A)
+<br>2. Vice- Captain: Loh Zi Xuan (3B) and Abhismita Behera (3A)
+<br>3. Logistics Head: Sarah Sazkia (3C)</p>
+<p></p>
 <p><strong>Awards and Achievements<br></strong><u>2019 - 2021<br></u>Top
 4 in NSG East Zone Tournaments</p>
 <p><strong>Motto / Values</strong>
