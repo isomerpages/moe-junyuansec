@@ -47,7 +47,7 @@ to 5.00 pm)
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders (Year 2024)<br></strong>Upper Secondary
+<p><strong>CCA Leaders (Year 2025)<br></strong>Upper Secondary
 <br>1. President: Javier Ng Wei Zhe
 <br>2. Vice President: Low Quan Sheng
 <br>3. Vice President: Ye Myint Myat Kelvin</p>
