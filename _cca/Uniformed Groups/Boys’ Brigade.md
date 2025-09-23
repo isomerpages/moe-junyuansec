@@ -34,24 +34,14 @@ variant: tiptap
 <p>Mr Ang Kuang Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_kuang_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kuang_soon@moe.edu.sg</a> 
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Sui Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sui_lin@moe.edu.sg</a>
+<p><a href="mailto:ang_kuang_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kuang_soon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>CCA Leaders (Year 2025)<br></strong>1. Company Sergeant Major
-(CCA Chair): Tay Yock Bin Ian (Zheng Yubin) (4A)
-<br>2. Assistant Sergeant Major (CCA Vice-Chair): Tyrone Lee Jai Er (4E)</p>
+(CCA Chair): Tan Kee Shin (3E)</p>
 <p><strong>Awards/Achievements<br></strong>
 </p>
 <p>Company Award Achievements:</p>
