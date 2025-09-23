@@ -84,11 +84,9 @@ Commitment and Responsibility and Care for Fellow Cadets.
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Leaders (Year 2024/2025)</strong></h4>
-<p>1. Unit Sergeant Major (CCA Chairperson):
-<br>Ian Chan Li En (4D)
-<br>2. Assistant Unit Sergeant Major (CCA Vice Chairperson):
-<br>Muhd Arsyad Bin Azman (4B)</p>
+<h4><strong>CCA Leaders (Year 2025/2026)</strong></h4>
+<p>1.&nbsp; (CCA Chairman):&nbsp;Muhammad Nazhif Bin Muhammad Huzaifah (3-A)</p>
+<p>2.&nbsp; (CCA Vice Chairman): Ng Chung Kiat Paxton (3-D)</p>
 <h4><strong>Awards/Achievements</strong></h4>
 <p><strong>Unit Recognition Award:<br></strong>
 </p>
