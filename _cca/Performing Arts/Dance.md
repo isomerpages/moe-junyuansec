@@ -75,24 +75,27 @@ hone their skills but also cultivates confidence and resilience.</p>
 </p>
 <p><strong>(Appointed in</strong>
 </p>
-<p><strong>Year 2024)</strong>
+<p><strong>Year 2025/2026)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>President</strong>
+<p><strong><u>President</u></strong>
 </p>
-<p>Sun Le Shayne ( 4D)</p>
-<p><strong>Vice-Presidents (Training)</strong>
+<p>Manuel Isabella Sophia Uy 3D</p>
+<p></p>
+<p><strong><u>Vice-president (Training)</u></strong>
 </p>
-<p>Rachel Choo Zhixuan (4C)</p>
-<p>Hazel Leong Qi En (4E)</p>
-<p><strong>Vice-Presidents (Publicity)</strong>
+<p>Alicia Jong Yi Xuan 3A</p>
+<p>Tara Ariana Binte Feroz 3C</p>
+<p>&nbsp;</p>
+<p><strong><u>Vice-president (Welfare)</u></strong>
 </p>
-<p>Keira Soh (4D)</p>
-<p>Mohamad Danish Anaqi&nbsp; (4A )</p>
-<p><strong>Vice President- Welfare</strong>
+<p>Koh Jun Xiang Ka’el 3E</p>
+<p></p>
+<p><strong><u>Vice -president ( Publicity)</u></strong>
 </p>
-<p>Wong Yu Rou Rouille&nbsp; (4E )</p>
+<p>Lei Simin Jetaime 3D</p>
+<p>Lee Yue Ting 3A</p>
 </td>
 </tr>
 <tr>
