@@ -103,9 +103,9 @@ learning in the following areas::
 <br>Venue: Classroom B1-01
 <br>Additional sessions for special events and competitions will be communicated
 in advance.</p>
-<p><strong>CCA Leaders (Year 2024)<br></strong>OIC Nur Falisha Binte Mohamed
+<p><strong>CCA Leaders (Year 2025)<br></strong>OIC Nur Falisha Binte Mohamed
 Fadhly (3E)</p>
-<p>2<sup>nd</sup> Fatima (3F)</p>
+<p>2<sup>nd</sup> IC Fatima (3F)</p>
 <p><strong>Awards/Achievements</strong>
 </p>
 <p>Corps Achievement Awards:</p>
