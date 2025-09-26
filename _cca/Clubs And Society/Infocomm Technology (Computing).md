@@ -110,24 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FOO ZHI XIAN</p>
+<p>JAYDEN TAN JIE LE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>RAY TOH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4-E</p>
+<p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -138,10 +124,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CASEY JAMES SURAT</p>
+<p>NGUYEN BACH NGOC TUYET</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-C</p>
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN WEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELTON ZECHARIAH PUA EE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -152,10 +166,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LUTFIL KHALIQ BIN HAMDAN</p>
+<p>CHUA YUN CONG MAXIMUS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-B</p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
