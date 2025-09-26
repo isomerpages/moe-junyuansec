@@ -5,33 +5,47 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<p>The Badminton CCA is a CCA where you will not only be taught how to play
-in matches, as well as handle both your racket and the shuttle, but you
-will also be taught important values such as perseverance and dedication.
-Badminton is a sport that requires you to be able to persevere through
-matches and dedicate much of your time to the vigorous training sessions
-that the coaches have planned as well as your own physical training. Under
-the guidance of the coaches, you will be able to learn skills such as footwork,
-stamina training, muscle strengthening, how to play in matches, how to
-umpire matches, and how to hit the shuttle accurately across to the other
-side of the court.</p>
-<p>Essentially, badminton is a game of respect towards both the players and
-the court itself. When you play, don’t just play to win. Play and enjoy
-yourself while picking up new skills from your opponent. The game itself
-teaches you to respect others and dedicate time to train for it. Perseverance
-is required during the actual game as your opponents vary in skillset and
-you do not always get an easy opponent. Through our CCA we hope to build
-players of character and not just players with excellent skills.</p>
-<p><strong>Our Goals:</strong>
+<p><strong><em>“Athletes with Grit”</em></strong>
 </p>
-<p>1. Unite members together through trainings &nbsp;
-<br>2. Create friendships and bonds among one another&nbsp;
-<br>3. Build a caring and inclusive community
-<br>4. Instill good values in members</p>
-<p><strong>Motto<br></strong>"Athletes with Grit"</p>
-<p><strong>CCA Schedule &amp; Venue<br></strong>Every Tuesday and Thursday
-(3.00pm to 5.30pm)
-<br>School Hall (Level 2)</p>
+<p>Badminton is more than just a sport of speed and precision—it is also
+a journey of character building. In our CCA, members not only develop their
+skills on court but also grow in values such as perseverance, discipline,
+and respect.</p>
+<p>Under the guidance of our coaches, our badminton players undergo structured
+training that covers technical skills like footwork, shuttle control, and
+match play, as well as physical conditioning to build stamina and strength.
+Members also gain valuable exposure by learning how to umpire matches,
+developing both confidence and leadership.</p>
+<p>Just as important, badminton teaches resilience. Every match is different,
+and each opponent presents new challenges. Our players learn to embrace
+these moments—not just to play to win, but to enjoy the game, learn from
+others, and respect both teammates and rivals.</p>
+<p>Through training and competition, we aim to nurture players who excel
+not only in their sporting abilities but also in their sportsmanship and
+character. Beyond the court, the friendships and bonds formed during CCA
+create a strong and supportive community where everyone feels included.</p>
+<p><strong>Our Goals</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Unite members through shared training and teamwork</p>
+</li>
+<li>
+<p>Build lasting friendships and bonds</p>
+</li>
+<li>
+<p>Foster a caring and inclusive community</p>
+</li>
+<li>
+<p>Instill good values that extend beyond the court</p>
+</li>
+</ol>
+<p><strong>Training Schedule</strong>
+</p>
+<p>Every Tuesday and Thursday, 3.00pm – 5.30pm</p>
+<p><strong>Venue</strong>
+</p>
+<p>School Hall (Level 2)</p>
 <p><strong>Teachers–in- charge</strong>
 </p>
 <table style="minWidth: 50px">
@@ -66,18 +80,44 @@ players of character and not just players with excellent skills.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Sarah Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">sim_sarah_nicole@moe.edu.sg</a> &nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anis Fazerina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">anis_fazerina_mohamad_ibrahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders<br></strong>Upper Sec (Year 2025)
-<br>1. Captain (Boys): Jayden Chew (4E)
-<br>2. Captain (Girls): Kathlynn Pang (4E)
-<br>3. Vice-Captain (Boys): Muhammad Dannial (4E)
-<br>4. Vice-Captain (Girls): Nur Adelia Rifqa (4E)</p>
-<p>Lower Sec (Year 2025)
-<br>1. Captain (Boys): Jayden Lim (2F)
-<br>2. Captain (Girls): Mikal Lee (2A)
-<br>3. Vice-Captain (Boys): Brandon Goh (2F)
-<br>4. Vice-Captain (Girls): Sharon Lim (2D)</p>
+<p><strong>CCA Leaders</strong>
+</p>
+<p><strong>Upper Sec (Year 2025)</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Jayden Lee (3C)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls): Sharon Lim (3F)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Boys): Brandon Goh
+(3C)</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Mikal Lee
+(3A)</p>
+<p><strong>Lower Sec (Year 2025)</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Russel Wong (2B)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls):&nbsp; Phoebe Ng
+(2D)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Boys): Jeremy Lim
+(2B)</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Qisya Eryna
+Yurisno (2G)</p>
 <hr>
 <p><strong>Awards/Achievements</strong>
 </p>
