@@ -104,11 +104,11 @@ create a strong and supportive community where everyone feels included.</p>
 <p><strong>Upper Sec (Year 2025)</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Jayden Lee (3C)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls): Sharon Lim (3F)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls): Mikal Lee (3A)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Boys): Brandon Goh
 (3C)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Mikal Lee
-(3A)</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Sharon Lim
+(3F)</p>
 <p><strong>Lower Sec (Year 2025)</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Russel Wong (2B)</p>
