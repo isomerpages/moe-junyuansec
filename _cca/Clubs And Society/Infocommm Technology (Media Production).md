@@ -410,8 +410,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1aaa.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Pic_1.jpg">
 </div>
 <p><strong>Focus and Purpose</strong>
 </p>
@@ -430,33 +431,43 @@ gain greater exposure.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/a1aaa.jpg">
-</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28749417_5466_4263_a691_30b1a619295c.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/93c9f0a2_9310_4670_b24a_30329150a0a2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Pic_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5kkk.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_2.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_5.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Student members will be given the chance to handle high-end equipment
 such as DSLR cameras, GoPro to assist in club activities and to cover school
 events both internally and outside of school such as Singapore Youth Festival
@@ -465,16 +476,45 @@ their ownership, leadership skill and responsibility by volunteering for
 duties during these school events. We further expand our students’ repertoire
 of skills to include journalistic interviews, live streaming, photo and
 video editing.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Picture6adada.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_pic_6.jpg">
 </div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/b747ec2b_f0af_437c_b994_44d10e25fa50.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_9.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/e8712282_1109_4c47_baac_d7a67ff3ac39.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_8.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_4_girls.jpg">
 </div>
 <p><strong>Programmes and Activities</strong>
 </p>
@@ -493,48 +533,6 @@ video editing.</p>
 </li>
 <li>
 <p>Documenting journeys of other CCA groups</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/d4d9a81e_fd58_402b_a360_43bd8c7a7116.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/5015897a_6b26_45ed_ba40_e388a388a4e7.jpg">
-</div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7fgrr.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/5febaaaa_9edc_4025_bdb7_6927da8f3bf6.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/be84e7bd_8b2c_41fe_a3fb_6f3ace033ef8.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 </li>
 </ul>
 <p><strong>You can view more photos and video by our members here:</strong>
