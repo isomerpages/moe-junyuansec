@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Other Information.md
+      - School Prospectus/.keep
+      - School Prospectus/School Prospectus.md
       - School Canteen Advertisements/.keep
       - School Canteen Advertisements/School Canteen Advertisement.md
       - Financial Assistance Scheme.md
