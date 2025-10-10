@@ -103,7 +103,7 @@ create a strong and supportive community where everyone feels included.</p>
 </p>
 <p><strong>Upper Sec (Year 2025)</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Jayden Lee (3C)</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Jayden Lim (3C)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls): Mikal Lee (3A)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Boys): Brandon Goh
 (3C)</p>
@@ -112,12 +112,12 @@ create a strong and supportive community where everyone feels included.</p>
 <p><strong>Lower Sec (Year 2025)</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Russel Wong (2B)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls):&nbsp; Phoebe Ng
-(2D)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Boys): Jeremy Lim
-(2B)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Qisya Eryna
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice-Captain (Girls): Qisya Eryna
 Yurisno (2G)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Captain (Girls):&nbsp; Phoebe Ng
+(2D)</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice-Captain (Boys): Jeremy Lim
+(2B)</p>
 <hr>
 <p><strong>Awards/Achievements</strong>
 </p>
