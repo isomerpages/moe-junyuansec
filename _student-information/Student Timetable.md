@@ -18,4 +18,6 @@ are weeks with Friday HBL specifically:</p>
 <p>Term 4 Week 1: September 19, 2025 (Friday)</p>
 </li>
 </ul>
+<p><a href="/files/EOY_Script_Check__Class_.pdf" rel="noopener nofollow" target="_blank">EOY_Script_Check</a>
+</p>
 <p></p>
