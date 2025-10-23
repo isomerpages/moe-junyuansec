@@ -1,6 +1,6 @@
 ---
 title: Sec 3 Subject Combination 2026
-permalink: /student-information/sec-3-subject-combination-2025/
+permalink: /student-information/sec-3-subject-combination-2026/
 description: ""
 variant: tiptap
 ---
