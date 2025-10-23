@@ -23,6 +23,9 @@ or</p>
 <p>c)&nbsp;&nbsp;&nbsp; scan the QR code below and submit your application
 online.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QRCode.png">
+</div>
 <p>&nbsp;</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family and child is/children
 are existing beneficiary/beneficiaries of the Ministry of Social and Family
