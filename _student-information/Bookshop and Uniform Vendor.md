@@ -32,23 +32,28 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Junyuan_Sec_1_FINAL_revised.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S2.pdf" rel="noopener nofollow" target="_blank">JYSS_Booklist_2026_S2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Junyuan_Sec_2_FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S3.pdf" rel="noopener nofollow" target="_blank">JYSS_Booklist_2026_S3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Junyuan_Sec_3_FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S4E.pdf" rel="noopener nofollow" target="_blank">JYSS_Booklist_2026_S4E</a>
+<br>
 </p>
 </li>
 <li>
-<p><a href="/files/Junyuan_Sec_4_FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S4NA.pdf" rel="noopener nofollow" target="_blank">JYSS_Booklist_2026_S4NA</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Junyuan_Sec_5_FINAL.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S4NT.pdf" rel="noopener nofollow" target="_blank">JYSS_Booklist_2026_S4NT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/JYSS_Booklist_2026__S5NA.pdf" rel="noopener nofollow" target="_blank">JYSS_Booklist_2026_S5NA</a>
 </p>
 </li>
 </ul>
