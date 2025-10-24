@@ -35,28 +35,28 @@ variant: tiptap
 <p>[Sec 1 Booklist will be uploaded at a later date]</p>
 </li>
 <li>
-<p><a href="https://www.junyuansec.moe.edu.sg/files/Junyuan_Sec_2_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.junyuansec.moe.edu.sg/files/Junyuan_Sec_3_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S3.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.junyuansec.moe.edu.sg/files/Junyuan_Sec_4_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 - Express Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S4E.pdf" rel="noopener nofollow" target="_blank">Sec 4 - Express Booklist</a>
 <br>
 </p>
 </li>
 <li>
-<p><a href="/files/JYSS_Booklist_2026__S4NA.pdf" rel="noopener nofollow" target="_blank">SEC 4 - NA Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S4NA.pdf" rel="noopener nofollow" target="_blank">Sec 4 - Normal(Academic) Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/JYSS_Booklist_2026__S4NT.pdf" rel="noopener nofollow" target="_blank">SEC 4 - NT Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S4NT.pdf" rel="noopener nofollow" target="_blank">Sec 4 – Normal (Technical) Booklist</a>
 </p>
 </li>
 <li>
-<p><a href="/files/JYSS_Booklist_2026__S5NA.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
+<p><a href="/files/JYSS_Booklist_2026__S5NA.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist </a>
 </p>
 </li>
 </ul>
