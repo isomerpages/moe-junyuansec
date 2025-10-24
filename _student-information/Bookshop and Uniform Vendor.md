@@ -85,8 +85,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
-<p>[Online Ordering is currently closed. Please visit the onsite bookshop
-for Textbook Purchases]</p>
+<p>[Please visit the onsite bookshop for Textbook Purchases]</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +98,7 @@ for Textbook Purchases]</p>
 <p>Delivery charges of $6.54 apply and orders will take ~5 working days to
 process.</p>
 <p>Refer to the online ordering guide for details of the ordering process.</p>
-<p><a href="https://www.junyuansec.moe.edu.sg/files/Online_Ordering_Guide_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Online Ordering Guide 2024</a>
+<p><a href="/files/Uniform_Online_Ordering_Guide.pdf" rel="noopener nofollow" target="_blank">Uniform Online Ordering Guide</a>
 </p>
 </td>
 </tr>
@@ -153,7 +152,7 @@ school. Refer to the booklists for the dates.</p>
 <p>Uniform Order Form:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Junyuan_Secondary_School__Order_Form_2025.pdf" rel="noopener nofollow" target="_blank">Junyuan Secondary School Order Form 2025</a>
+<p><a href="/files/Junyuan_Secondary_School__Order_Form_2025.pdf" rel="noopener nofollow" target="_blank">Junyuan Secondary School Order Form 2026</a>
 </p>
 </td>
 </tr>
