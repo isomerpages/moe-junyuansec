@@ -81,10 +81,21 @@ sessions and in competitions.</p>
 </table>
 <h4><strong>CCA Leaders:</strong></h4>
 <p></p>
-<p>Sec 3 (Year 2025)
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 4 (Year 2026)
 <br>1. Captain: ASHLEY HO YU XIN
 <br>2. Vice-Captain: SIA ZHI YAO SHAMUS
 <br>3. Vice-Captain: EE NATHANAEL</p>
+<p></p>
+</li>
+<li>
+<p>Sec 3 (Year 2026)
+<br>1. Captain: AMANDA LAM
+<br>2. Vice-Captain: PAING HTOO HAN
+<br>3. Vice-Captain: ABRISAM BIN ABDUL LATIF</p>
+</li>
+</ul>
 <h4><strong>Awards/Achievements</strong></h4>
 <p><strong><br></strong>National Inter-School Archery Championship 2024 Results</p>
 <table style="minWidth: 25px">
