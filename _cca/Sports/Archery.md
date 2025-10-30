@@ -97,7 +97,7 @@ sessions and in competitions.</p>
 </li>
 </ul>
 <h4><strong>Awards/Achievements</strong></h4>
-<p><strong><br></strong>National Inter-School Archery Championship 2024 Results</p>
+<p><strong><br></strong>14th National Inter-School Archery Championship 2025</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -105,175 +105,123 @@ sessions and in competitions.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
-<p>B Division Compound Women (<u>Team</u>) (1<sup>st</sup>):</p>
-</li>
-</ol>
+<p><strong>A Division Compound Women (Individual) (2nd)</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>ALIAH NUR DIYANAH BINTE MOHAMED NURULHAIZAT , 4C</p>
-</li>
-<li>
-<p>CHAN YIN ZHI (CHEN YANZHI) , 4D</p>
-</li>
-<li>
-<p>LOW CHUAN YIN MELODY , 4F</p>
+<p>ALIAH NUR DIYANAH BINTE MOHAMED NURULHAIZAT, 5A</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>B Division Compound Men (<u>Team</u>) (2<sup>nd</sup>):</strong>
+<p><strong>C Division Compound Women (Individual)</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>JOASH SOO ENYAO (SU ENYAO) , 3B</p>
+<p>NURA QAISARA BINTE RAMAN, 2F <strong>(1<sup>st</sup>)</strong>
+</p>
 </li>
 <li>
-<p>ELIJAH LENG , 3E</p>
+<p>CHIA WEI SIEN, ERIN, 2E <strong>(2<sup>nd</sup>)</strong>
+</p>
 </li>
 <li>
-<p>WONG TAI JUN, 4D</p>
+<p>WOON SI NING ALYSSA, 2A <strong>(3<sup>rd</sup>)</strong>
+</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>B Division Recurve Women (<u>Team</u>) (2<sup>nd</sup>):</strong>
+<p><strong>B Division Compound Women (Team)&nbsp; (2nd)</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>SEETOH CHEN YUN, AMANDA , 3D</p>
+<p>LIM EN XI, 4C</p>
 </li>
 <li>
-<p>KHOO YU HAN ALICIA (QIU YUHAN) , 3G</p>
+<p>HUANG ZIXUAN ZOE, 4F&nbsp;</p>
 </li>
 <li>
-<p>CHLOE SIM XIAO ZHUO , 4C</p>
+<p>AELY AYUNI BINTE MOHAMAD HASRI, 4G</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>C Division Recurve Women (<u>Team</u>) (2<sup>nd</sup>):</strong>
+<p><strong>B Division Compound Men (Team) (3<sup>rd</sup>)</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>ASHLEY HO YU XIN , 2C</p>
+<p>SIA ZHI YAO SHAMUS, 3F</p>
 </li>
 <li>
-<p>NUR SYEEARA BINTE MOHAMMED SOFIAN , 2C</p>
+<p>JOASH SOO ENYAO, 4B</p>
 </li>
 <li>
-<p>CHERYL CHOO EN HUI , 2E</p>
+<p>LIM KHONG SENG TRISTAN, 4D</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><strong>B Division Compound Women (<u>Individual</u>) – Qualification Round (2<sup>nd</sup>):</strong>
+<p><strong>C Division Compound Men (Team)&nbsp; (3<sup>rd</sup>)</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>CHAN YIN ZHI (CHEN YANZHI) , 4D</p>
+<p>ABDUR RAHMAN BIN MUSTAFA KAMAL, 2A</p>
+</li>
+<li>
+<p>LIM KAI JUN KAYFUS, 2B</p>
+</li>
+<li>
+<p>KYSER KHONG ZEN WING, 2D</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p><strong>B Division Compound Women (<u>Individual</u>) – Qualification Round (3<sup>rd</sup>):</strong>
+<p><strong>C Division Recurve Men (Team) (3rd)</strong>
 </p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>LOW CHUAN YIN MELODY , 4F</p>
+<p>ABRISAM BIN ABDUL LATIF, 2A</p>
 </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="7" data-tight="true" class="tight">
 <li>
-<p><strong>B Division Compound Women (<u>Individual</u>) – Elimination Round (2<sup>nd</sup></strong>
-</p>
+<p>PAING HTOO HAN, 2B</p>
 </li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
 <li>
-<p>CHAN YIN ZHI (CHEN YANZHI) , 4D</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p><strong>B Division Compound Women (<u>Individual</u>) – Elimination Round (3<sup>rd</sup>):</strong>
-</p>
-</li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>ALIAH NUR DIYANAH BINTE MOHAMED NURULHAIZAT , 4C</p>
+<p>KEVAN KUNG JUN LEONG, 2F</p>
 </li>
 </ul>
 </td>
