@@ -55,7 +55,7 @@ sessions and in competitions.</p>
 <p>Ms Teo Swee Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:TEO_Swee_Wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Swee_Wah@moe.edu.sg</a>
+<p><a href="mailto:TEO_Swee_Wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_swee_wah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -65,6 +65,15 @@ sessions and in competitions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_lanhua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_lanhua@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Amirah Binte Mohmed Arsad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_amirah_mohamed_arsad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
