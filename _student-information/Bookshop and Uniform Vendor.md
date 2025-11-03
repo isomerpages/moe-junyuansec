@@ -56,7 +56,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/JYSS_Booklist_2026__S5NA.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist </a>
+<p><a href="/files/JYSS_Booklist_2026__S5NA.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
 </p>
 </li>
 </ul>
@@ -155,7 +155,7 @@ school. Refer to the booklists for the dates.</p>
 <p>Uniform Order Form:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Junyuan_Secondary_School__Order_Form_2025.pdf" rel="noopener nofollow" target="_blank">Junyuan Secondary School Order Form 2026</a>
+<p><a href="/files/Uniform_Order_Form_20261.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form 2026</a>
 </p>
 </td>
 </tr>
