@@ -51,9 +51,7 @@ SFA as well as any other necessary permits for operating the food stall.</p>
 <p><strong><u>Application procedure</u></strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form:</p>
-<p>[Canteen Stall Application Form].</p>
-<p><em>&lt;To link to appended application form&nbsp; &gt;&nbsp;</em>
-</p>
+<p>[<a href="/files/Canteen_Stall_Application_Form.pdf" rel="noopener nofollow" target="_blank">Canteen Stall Application Form</a>].</p>
 <p>2.&nbsp;&nbsp;&nbsp; Attach the following documents together with the
 completed application form.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of NRIC (front and back)</p>
