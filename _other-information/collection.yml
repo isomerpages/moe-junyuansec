@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Other Information.md
       - School Prospectus/.keep
       - School Prospectus/School Prospectus.md
