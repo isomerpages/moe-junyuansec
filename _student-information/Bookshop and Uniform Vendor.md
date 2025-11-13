@@ -150,15 +150,6 @@ process.</p>
 school. Refer to the booklists for the dates.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Uniform Order Form:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Uniform_Order_Form_20261.pdf" rel="noopener nofollow" target="_blank">Uniform Order Form 2026</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
