@@ -25,6 +25,13 @@ sections:
       button: Click Here to view the video
       url: https://www.youtube.com/watch?v=0dv6Z4ZPB-o
   - infopic:
+      title: Open House 2025
+      subtitle: Add an image and text
+      id: infopic
+      button: Button Text
+      image: /images/openhouse2025.jpg
+      alt: Image alt text
+  - infopic:
       title: DSA
       id: infopic
       description: For more information, click the link below.
