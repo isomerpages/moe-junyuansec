@@ -2,6 +2,7 @@ collections:
   other-information:
     output: true
     order:
+      - Open House 2025.md
       - Other Information.md
       - School Canteen Advertisement/.keep
       - School Canteen Advertisement/School Canteen Advertisement.md
