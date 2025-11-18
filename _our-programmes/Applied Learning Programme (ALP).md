@@ -50,6 +50,44 @@ about future learning pathways and careers. Through these experiences,
 students develop critical thinking, creativity, and problem-solving skills
 while learning to make informed choices for healthier living and sustainable
 practices.&nbsp;</p>
-<p>
-<br>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Secondary 1 Mini-Master Chef</strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__37_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__13_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__53_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__8_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
