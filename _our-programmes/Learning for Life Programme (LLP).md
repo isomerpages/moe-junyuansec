@@ -287,6 +287,40 @@ a helping hand, so that every Junyuanite can be a peer supporter.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__57_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image6.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__2_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Anchor Training Sessions on Facilitation and Peer Influencing</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>4) Class Leaders <br></strong>Our class chairperson and vice-chairperson
 play an important role in class. Together with the other class committee
 members, they assist the form teachers with administrative duties and lead
