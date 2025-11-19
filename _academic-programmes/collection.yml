@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Academic Programme/Mother Tongue Languages.md
       - Academic Programme/Mathematics.md
       - Academic Programme/Information and Communication Technology.md
       - Academic Programme/Humanities.md
