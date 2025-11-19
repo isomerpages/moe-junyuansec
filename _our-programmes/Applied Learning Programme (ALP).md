@@ -124,4 +124,69 @@ practices.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p><strong><u>National Competitions and Learning Journeys</u></strong>
+</p>
+<p>The National Competitions and Learning Journeys provide opportunities
+for students to connect classroom knowledge with practical experiences
+and real-world challenges. This objective is achieved by fostering students’
+understanding of the relevance of curricular knowledge, cultivating motivation,
+and instilling a sense of purpose in their learning.</p>
+<p>At Junyuan, these experiences are centred around the theme of Health,
+Food Science, and Innovation.</p>
+<p><strong>Competitions:</strong>
+<br>Students participate in the Health and Food Science Competition, where
+they are presented with problem statements related to the theme. Using
+the Design Thinking framework, students brainstorm, prototype solutions,
+and create innovative dishes, applying scientific concepts and creativity
+to tackle real-world challenges.</p>
+<p><strong>Learning Journeys:</strong>
+<br>Learning journeys to various institutes of higher learning expose students
+to areas of health and food science beyond the secondary curriculum. They
+gain hands-on experience with state-of-the-art facilities and industry
+practices, deepening their understanding and inspiring future learning
+and career pathways.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
