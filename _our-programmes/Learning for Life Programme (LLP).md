@@ -154,10 +154,13 @@ energetic bunch of student leaders who volunteer to lead and guide incoming
 Secondary One students. Not only do they facilitate their Secondary One
 groups during Orientation, they continue to engage them throughout Term
 One in conversations involving CCA, time management and peer support.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image41" src="/images/llpimage41.JPG">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP__62_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP__6_.jpg">
+</div>
 <p><strong>3) Peer Support Leaders <br></strong>Our Peer Support Leaders
 create and anchor a culture of care, whether in learning, in social interactions
 or in the digital space. With their good relations with peers within the
