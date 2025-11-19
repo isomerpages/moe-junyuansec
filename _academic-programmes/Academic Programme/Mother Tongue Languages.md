@@ -50,7 +50,60 @@ that encourage continued use and interest.</p>
 <p>Through this theme-based approach, MTL Fortnight enriches classroom learning,
 deepens cultural understanding, and nurtures a genuine, lifelong passion
 for Mother Tongue Languages.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP__7_.png">
+</div>
 <p></p>
-<p>
-<br>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__28_.png">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022 Theme: Music</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023 Theme: Traditional Games</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/ALP__1_.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__8_.png">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024 Theme: Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025 Theme: Herbs &amp; Spices</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
