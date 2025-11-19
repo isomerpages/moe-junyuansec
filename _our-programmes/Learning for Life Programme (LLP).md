@@ -533,22 +533,13 @@ to positively impact their community whether near or far.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Student Well-being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joanna Koh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Council Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Sui Lin
 <br>Mr Ivan Tan
-<br>Mdm Siti Shafiqah
-<br>Mdm Xue Wenjuan
-<br>Ms Shamilah</p>
+<br>Mr Joey Liew</p>
+<p>Mdm Xue Wenjuan</p>
 </td>
 </tr>
 <tr>
@@ -556,8 +547,7 @@ to positively impact their community whether near or far.
 <p>Peer Support Leaders Teachers in charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Alicia Kho
-<br>Mr Yeo Jun Qiang
+<p>Ms Michelle Luo
 <br>Ms Jolene Ng
 <br>Mdm Siti Shafiqah</p>
 </td>
@@ -568,10 +558,9 @@ to positively impact their community whether near or far.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kim Choon Hin Kelvin
-<br>Ms Nurliyana Mohamad Zainudin
-<br>Mdm Seah Mei Ping
 <br>Mr Twang Kwang Han
-<br>Mdm Cao Zhihong</p>
+<br>Mr Ryan Tan</p>
+<p>Mrs Alicia Kho</p>
 </td>
 </tr>
 </tbody>
