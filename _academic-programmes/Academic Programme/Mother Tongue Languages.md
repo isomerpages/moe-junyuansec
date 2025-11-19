@@ -220,6 +220,21 @@ perspectives and enriching their appreciation of the subject.</p>
 </tr>
 </tbody>
 </table>
+<p><strong><u>ACHIEVEMENTS</u></strong>
+</p>
+<ol>
+<li>
+<p><strong>Malay Literature Theatre Performance: <em>Dari Pena ke Panggung</em></strong>
+</p>
+</li>
+</ol>
+<p>🎭 <em>‘Dari Pena ke Panggung’</em> is a biennial theatre performance organised
+by Curriculum Planning and Development Division (CPDD). Schools that offer
+Malay Literature are invited to showcase students’ talents by staging a
+theatre performance based on poems or prose from their literature text <em>‘Pahlawan Panggung’</em>.
+This platform not only nurtures creativity and artistic expression, but
+also deepens students’ appreciation of Malay literature through performance.</p>
 <p>
+<br>
 <br>
 </p>
