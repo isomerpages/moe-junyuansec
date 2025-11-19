@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Information.md
-      - School E Resource Repository.md
       - Student Handbook.md
       - Learning and Assessment.md
       - Events Calendar.md
@@ -12,6 +11,7 @@ collections:
       - Student ICT Matters/Student iCON Accounts.md
       - Student ICT Matters/CHAMPs.md
       - Student Learning Space (SLS).md
+      - School E Resource Repository.md
       - Student Timetable.md
       - Sec 1 Students 2025/.keep
       - Sec 1 Students 2025/Welcome to the Junyuan Family!.md
