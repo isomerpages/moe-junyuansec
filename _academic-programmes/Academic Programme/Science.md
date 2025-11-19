@@ -109,8 +109,6 @@ foundation for post-secondary education and STEM-related pathways</p>
 <p><strong>Key Takeaways</strong>
 </p>
 </li>
-</ul>
-<ul>
 <li>
 <p>Students will:</p>
 <ul>
@@ -138,69 +136,45 @@ healthy scepticism.</p>
 </ul>
 </li>
 </ul>
-<h2><strong>Beyond the Classroom</strong></h2>
+<h3><strong>Beyond the Classroom</strong></h3>
 <p>Learning in science goes far beyond textbooks and labs. At Junyuan, our
 students engage in a wide range of <strong>enriching experiences</strong>,
 including:</p>
 <ul>
 <li>
 <p><strong>Learning Journeys</strong> to institutes of higher learning, science
-centres, and industry partners.
-<br>
-<br>
-</p>
+centres, and industry partners.</p>
 </li>
 <li>
 <p><strong>National Science Competitions</strong> where students test their
-creativity and innovation against peers across Singapore.
-<br>
-<br>
-</p>
+creativity and innovation against peers across Singapore.</p>
 </li>
 <li>
 <p><strong>School-based Projects and Inquiry Tasks</strong> that encourage
-students to apply science in authentic, real-world contexts.
-<br>
-<br>
-</p>
+students to apply science in authentic, real-world contexts.</p>
 </li>
 </ul>
 <p>These experiences not only reinforce classroom learning but also nurture <strong>21CC skills</strong> such
 as collaboration, inventive thinking, and effective communication.</p>
-<p>
-<br>
-</p>
-<h2><strong>Our Vision for Every Junyuan ‘Scientist’</strong></h2>
+<h3><strong>Our Vision for Every Junyuan ‘Scientist’</strong></h3>
 <p>Through their science journey at Junyuan Secondary School, we hope every
 student will:</p>
 <ul>
 <li>
 <p><strong>Stay Curious</strong> – exploring the wonders of the world with
-an open and questioning mind.
-<br>
-<br>
-</p>
+an open and questioning mind.</p>
 </li>
 <li>
 <p><strong>Think Creatively</strong> – applying scientific principles in innovative
-and meaningful ways.
-<br>
-<br>
-</p>
+and meaningful ways.</p>
 </li>
 <li>
 <p><strong>Be Resilient</strong> – persevering through challenges and learning
-from setbacks.
-<br>
-<br>
-</p>
+from setbacks.</p>
 </li>
 <li>
 <p><strong>Act Responsibly</strong> – making thoughtful decisions and contributing
-positively to the community and environment.
-<br>
-<br>
-</p>
+positively to the community and environment.</p>
 </li>
 </ul>
 <p>Together, these values form the foundation of a <strong>holistic and enriching learning experience</strong> that
