@@ -538,8 +538,8 @@ to positively impact their community whether near or far.
 <td rowspan="1" colspan="1">
 <p>Ms Ng Sui Lin
 <br>Mr Ivan Tan
-<br>Mr Joey Liew</p>
-<p>Mdm Xue Wenjuan</p>
+<br>Mr Joey Liew
+<br>Mdm Xue Wenjuan</p>
 </td>
 </tr>
 <tr>
@@ -559,8 +559,9 @@ to positively impact their community whether near or far.
 <td rowspan="1" colspan="1">
 <p>Mr Kim Choon Hin Kelvin
 <br>Mr Twang Kwang Han
-<br>Mr Ryan Tan</p>
-<p>Mrs Alicia Kho</p>
+<br>Mr Ryan Tan
+<br>Mrs Alicia Kho</p>
+<p></p>
 </td>
 </tr>
 </tbody>
