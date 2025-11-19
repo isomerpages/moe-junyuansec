@@ -119,14 +119,36 @@ Lead, Serve and Inspire students to be Champions for our Community.</p>
 of school. Trainings, workshops, learning journeys and VIA projects are
 some of the leadership experiences that our councilors will engage in to
 hone their leadership skills.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image39" src="/images/llpimage39.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__34_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__27_.jpg">
 </div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image40" src="/images/llpimage40.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__70_.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>2) Orientation Leaders<br></strong>Orientation Leaders are a vibrant,
 energetic bunch of student leaders who volunteer to lead and guide incoming
 Secondary One students. Not only do they facilitate their Secondary One
