@@ -396,11 +396,11 @@ chosen to raise awareness and appreciate our non-teaching staff who work
 tirelessly for the Junyuan community. Other classes have partnered with
 external organisations to support a good cause.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image46" src="/images/llpimage46.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__11_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image47" src="/images/llpimage47.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__73_.jpg">
 </div>
 <p><strong>3) Secondary Three Co-organising of School Events</strong>
 <br>All Secondary Three students have the opportunity to organise a school
