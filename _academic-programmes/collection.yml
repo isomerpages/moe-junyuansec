@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Mother Tongue Languages.md
       - Science.md
       - Craft and Technology.md
       - English Language and Literature.md
