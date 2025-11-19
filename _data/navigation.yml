@@ -91,14 +91,12 @@ links:
         url: /cca/sports
       - title: Clubs and Society
         url: /cca/clubs-and-society
-  - title: Nurturing Our Champs
-    url: /nurturing-our-champs/accolades/junyuan-in-the-news
+  - title: Celebrating Our Champs
+    url: /celebrating-our-champs/
     sublinks:
       - title: Junyuan in the News
-        url: /nurturing-our-champs/accolades/junyuan-in-the-news
+        url: /celebrating-our-champs/accolades/junyuan-in-the-news
       - title: Achievements
-        url: /nurturing-our-champs/achievements
-      - title: What's Happening
-        url: /nurturing-our-champs/whats-happening
+        url: /celebrating-our-champs/achievements
   - title: Other Information
     collection: other-information
