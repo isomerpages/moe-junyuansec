@@ -254,7 +254,41 @@ also deepens students’ appreciation of Malay literature through performance.</
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2021 - Malay Literature Online Performance <em>Dari Pena Ke Panggung</em>&nbsp;(<strong>HonorableMention</strong>)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__49_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>2024 Nanyang Youth Chinese Literature Award ( 3rd )</strong>
+</p>
+</li>
+</ol>
+<p>The biennial Nanyang Youth Chinese Literature Award, co-organized by the
+Confucius Institute, Nanyang Technological University and Singapore Centre
+for Chinese Language aims to promote interest in writing among local students,
+to develop their creativity and writing skills, and to encourage young
+people with a passion for Chinese literary writing to continue honing their
+craft.</p>
 <p>
 <br>
+</p>
+<p>
 <br>
 </p>
