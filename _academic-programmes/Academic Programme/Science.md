@@ -181,6 +181,62 @@ positively to the community and environment.</p>
 equips our students for life beyond school.</p>
 <p>Check out our students in ACTION!</p>
 <p><a href="https://go.gov.sg/scienceatjyss" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/scienceatjyss</u></a>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2025 Youth STEM Empowerment Programme (YSEP)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__22_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__68_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Learning Journey to Blood Bank @ One Punggol</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__48_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__42_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
