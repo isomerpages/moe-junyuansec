@@ -257,10 +257,6 @@ a helping hand, so that every Junyuanite can be a peer supporter.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p></p>
 <p><strong>4) Class Leaders <br></strong>Our class chairperson and vice-chairperson
 play an important role in class. Together with the other class committee
 members, they assist the form teachers with administrative duties and lead
