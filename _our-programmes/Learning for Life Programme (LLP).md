@@ -408,9 +408,42 @@ event with their schoolmates and teachers. This allows them to take ownership
 of the selected school event and practise their leadership skills. Some
 of these events include Graduation Day, Teachers Day, Hari Raya Celebrations,
 Racial Harmony, International Friendship Day and many more.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image48" src="/images/llpimage48.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__44_.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__51_.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__54_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP__71_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>4) CHAMPs-initiated Projects</strong>
 <br>As part of student advocacy, all students are welcomed to initiate projects
 that aim to improve the school environment, community, or kick start new
