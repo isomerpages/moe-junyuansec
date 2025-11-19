@@ -247,12 +247,42 @@ a helping hand, so that every Junyuanite can be a peer supporter.</p>
 <br>Games Facilitation</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image21.jpg">
+</div>
+<p></p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__26_.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__63_.jpg">
+</div>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Getting to know our Non-Teaching staff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducting a Jesmonite Workshop for our Non-Teaching Staff</p>
 </td>
 </tr>
 </tbody>
@@ -424,4 +454,5 @@ to positively impact their community whether near or far.
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
