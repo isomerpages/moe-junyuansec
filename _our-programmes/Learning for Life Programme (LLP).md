@@ -515,11 +515,8 @@ to positively impact their community whether near or far.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LLPimage35" src="/images/llpimage35.png">
 </div>
-<p><strong>2023 Community Youth Leadership Team</strong>
+<p><strong>Community Youth Leadership Team</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLPimage36" src="/images/llpimage36.PNG">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
