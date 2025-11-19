@@ -286,6 +286,9 @@ for Chinese Language aims to promote interest in writing among local students,
 to develop their creativity and writing skills, and to encourage young
 people with a passion for Chinese literary writing to continue honing their
 craft.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP__41_.jpg">
+</div>
 <p>
 <br>
 </p>
