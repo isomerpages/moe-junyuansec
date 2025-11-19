@@ -2,5 +2,6 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Science.md
       - Craft and Technology.md
       - English Language and Literature.md
