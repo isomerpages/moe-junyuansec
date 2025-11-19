@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><u>25th Anniversary</u>
+<p><a href="/our-identity/25th-anniversary" rel="noopener nofollow" target="_blank">25th Anniversary</a>
 </p>
 </li>
 </ul>
