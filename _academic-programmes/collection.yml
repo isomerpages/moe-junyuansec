@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Academic Programme/English Language and Literature.md
       - Academic Programme/Craft and Technology.md
       - Academic Programme/.keep
       - Humanities.md
