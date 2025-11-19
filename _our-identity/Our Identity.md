@@ -29,5 +29,9 @@ variant: tiptap
 <p><a href="/our-identity/school-organisation" rel="noopener noreferrer nofollow" target=""><u>School Organisation</u></a>
 </p>
 </li>
+<li>
+<p><u>25th Anniversary</u>
+</p>
+</li>
 </ul>
 <p></p>
