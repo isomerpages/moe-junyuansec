@@ -90,4 +90,38 @@ practices.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Secondary 2 Orienteering</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/dade.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3efe.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Purchasing item after evaluating their nutritional information</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evaluating the nutritional information of food items</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
