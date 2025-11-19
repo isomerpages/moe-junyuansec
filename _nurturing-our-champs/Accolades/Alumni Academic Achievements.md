@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Accolades
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__30_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__20_.png">
+</div>
 <p><strong>SYED HARIS MIRZA BIN SYED MUHAMMAD FAHMY</strong>
 </p>
 <p>In JY colours we set the trail ablaze: Our graduand SYED HARIS MIRZA BIN
