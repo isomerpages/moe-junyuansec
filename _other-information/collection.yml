@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Other Information.md
-      - Open House 2025.md
       - School Prospectus/.keep
       - School Prospectus/School Prospectus.md
-      - School Canteen Advertisement/.keep
-      - School Canteen Advertisement/School Canteen Advertisement.md
+      - Open House 2025.md
       - Financial Assistance Scheme.md
       - Insurance for Students.md
       - Facilities and ICT Fault Reporting.md
       - Parents Gateway.md
       - School Operating Hours.md
+      - School Canteen Advertisement/.keep
+      - School Canteen Advertisement/School Canteen Advertisement.md
       - School Safety Information/.keep
       - School Safety Information/School Safety Information.md
       - School Safety Information/Emergency Evacuation Procedures.md
