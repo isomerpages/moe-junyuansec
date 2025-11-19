@@ -161,16 +161,105 @@ One in conversations involving CCA, time management and peer support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP__6_.jpg">
 </div>
-<p><strong>3) Peer Support Leaders <br></strong>Our Peer Support Leaders
-create and anchor a culture of care, whether in learning, in social interactions
-or in the digital space. With their good relations with peers within the
-class, they look out for students exhibiting signs of distress, listen
-to their problems and empathise with them. Trained with peer bonding, peer
-helping and peer influencing skills, our Peer Support Leaders also organise
-termly bonding activities for their classes.</p>
+<p><strong>3) Peer Support Leaders <br></strong>At Junyuan Secondary, our
+Peer Support Leaders (PSLs) are at the heart of building a culture of care
+and connection. Guided by their mission <em>to promote mental well-being and a sense of belonging</em>,
+PSLs take the lead in creating safe, supportive and uplifting spaces for
+all students.</p>
+<p>Throughout the year, PSLs spearhead meaningful initiatives that bring
+our community together:</p>
+<ul>
+<li>
+<p><strong>Power Up! Class Bonding Games</strong>: energising classmates
+with fun, engaging games that strengthen friendships and unity.</p>
+</li>
+<li>
+<p><strong>Caught in the Good Act</strong>: recognising and affirming everyday
+acts of kindness, respect and responsibility among peers.</p>
+</li>
+<li>
+<p><strong>Attitude for Gratitude</strong>: developing a sense of gratitude
+through class activities and habit building</p>
+</li>
+<li>
+<p><strong>International Friendship Day</strong>: celebrating diversity and
+cross-cultural understanding through engaging the school with an interactive
+game.</p>
+</li>
+<li>
+<p><strong>Project WeCare</strong>: showing appreciation for non-teaching
+staff and reminding everyone that care and gratitude go a long way.</p>
+</li>
+</ul>
+<p>These initiatives help to shape a culture where everyone feels valued,
+supported, and empowered to thrive.</p>
+<p>Our PSLs aspire to be <strong>Adaptable Leaders</strong>, <strong>Confident Communicators</strong>,
+and <strong>Empathetic Peer Supporters, </strong>and go through training
+to hone their leadership and facilitation skills. They lead by example
+and exemplify the importance of&nbsp; looking out for one another and extending
+a helping hand, so that every Junyuanite can be a peer supporter.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image42" src="/images/llpimage42.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6jjyty.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__45_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class-based lessons on
+<br>Mental Health and Gratitude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Power Up!
+<br>Class Bonding Games Facilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__15_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__39_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘Caught in the Good Act’ Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Friendship Day&nbsp;
+<br>Games Facilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 <p></p>
 <p><strong>4) Class Leaders <br></strong>Our class chairperson and vice-chairperson
 play an important role in class. Together with the other class committee
