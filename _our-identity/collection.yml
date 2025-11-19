@@ -2,7 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - 25th Anniversary.md
       - Our Identity.md
       - Principal's Message 2025.md
       - Advisory Committee.md
@@ -18,3 +17,4 @@ collections:
       - School Organisation/CCA Teachers.md
       - School Organisation/Allied Educators.md
       - School Organisation/Executive and Administrative Staff.md
+      - 25th Anniversary.md
