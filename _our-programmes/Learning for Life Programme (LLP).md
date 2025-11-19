@@ -325,17 +325,30 @@ a helping hand, so that every Junyuanite can be a peer supporter.</p>
 play an important role in class. Together with the other class committee
 members, they assist the form teachers with administrative duties and lead
 in the various level-wide class events.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image43" src="/images/llpimage43.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__59_.jpg">
 </div>
 <p></p>
-<p><strong>5) CCA Leaders <br></strong>Leading with passion and pride, these
-student leaders play a crucial role in the running of their CCAs. Here
-are some of our CCA leaders who are doing a special showcase for our incoming
-Secondary One students during Orientation 2023.</p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image44" src="/images/llpimage44.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__69_.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>5) CCA Leaders <br></strong>Leading with passion and pride, these
+student leaders play a crucial role in the running of their CCAs.</p>
 <h5><strong>Junyuan Student Leadership Opportunities</strong></h5>
 <p><em>Leadership is everyone’s business.</em>
 </p>
@@ -347,9 +360,34 @@ community and generating ideas for community projects. In giving back to
 the community, we partnered with Food Bank Singapore and enabled every
 Secondary One class to raise awareness on food insecurity and organise
 food donation drives in Junyuan Secondary.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLPimage45" src="/images/llpimage45.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__56_.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__43_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__58_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2) Secondary Two Class VIA Project <br></strong>All Secondary
 Two students will plan and execute their very own Values in Action (VIA)
 project as a class. This platform aims to develop students as socially
