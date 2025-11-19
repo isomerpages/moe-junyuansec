@@ -234,6 +234,26 @@ Malay Literature are invited to showcase students’ talents by staging a
 theatre performance based on poems or prose from their literature text <em>‘Pahlawan Panggung’</em>.
 This platform not only nurtures creativity and artistic expression, but
 also deepens students’ appreciation of Malay literature through performance.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2019 - Malay Literature Performance <em>Dari Pena Ke Panggung&nbsp; </em>(<strong>Participation</strong>)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__19_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 <br>
