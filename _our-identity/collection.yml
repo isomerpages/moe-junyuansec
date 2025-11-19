@@ -2,8 +2,6 @@ collections:
   our-identity:
     output: true
     order:
-      - 25th Anniversary/Jyss Anniversary Walk.md
-      - 25th Anniversary/.keep
       - Our Identity.md
       - Principal's Message 2025.md
       - Advisory Committee.md
@@ -19,3 +17,5 @@ collections:
       - School Organisation/CCA Teachers.md
       - School Organisation/Allied Educators.md
       - School Organisation/Executive and Administrative Staff.md
+      - 25th Anniversary/.keep
+      - 25th Anniversary/Jyss Anniversary Walk.md
