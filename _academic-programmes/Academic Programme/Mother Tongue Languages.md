@@ -106,4 +106,9 @@ for Mother Tongue Languages.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>MTL Fortnight 2024: Drama</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__46_.jpg">
+</div>
 <p></p>
