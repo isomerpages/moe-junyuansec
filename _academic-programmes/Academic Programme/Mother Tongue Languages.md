@@ -111,4 +111,115 @@ for Mother Tongue Languages.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/ALP__46_.jpg">
 </div>
+<p><strong>Cultural Performance &amp; Art Programmes</strong>
+</p>
+<p>The Cultural Performance Exposure Fund (CPEF), supported through the Committee
+to Promote Chinese Language Learning (CPCLL) and the Malay Language Learning
+and Promotion Committee (MLLPC), aims to enrich students’ learning and
+appreciation of Mother Tongue Languages (MTLs) by exposing them to authentic
+cultural performances. Through funding and support for local and international
+performing arts groups, the scheme provides students with immersive experiences
+in the arts beyond the classroom, while also supporting the development
+of cultural performing arts in Singapore.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Keppel Nights 2025 Theatre Show - Yusof Portrait of a President</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image52.jpg">
+</div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__67_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Pesta Raya 2024: Bawang Putih Bawang Merah @ Esplanade</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__9_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__72_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Malay Literature Enrichment</strong>
+</p>
+<p>Malay Literature is a subject offered in our school that provides students
+with rich and meaningful opportunities to engage with the beauty of Malay
+literary works. Yearly Malay Literature enrichments, Malay Literature and
+MLEP Camps and Seminar allows for students to explore their personal interest
+in Malay Literature through diverse platforms. In addition, students have
+avenues to collaborate with peers from other schools, broadening their
+perspectives and enriching their appreciation of the subject.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>June 2025 - Secondary 3 ML Literature Camp</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__16_.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__33_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__18_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ALP__17_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
