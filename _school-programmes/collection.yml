@@ -1,5 +1,5 @@
 collections:
-  our-programmes:
+  school-programmes:
     output: true
     order:
       - School Programmes.md
