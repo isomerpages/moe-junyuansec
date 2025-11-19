@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - Our Programmes.md
+      - School Programmes.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Direct School Admission (DSA–SEC).md
