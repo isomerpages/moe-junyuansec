@@ -51,7 +51,19 @@ public speaking, collaboration, and critical thinking skills.</p>
 <p>
 <br><strong>Tan Kah Kee Young Inventors’ Award 2025</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__24_.png">
+</div>
+<p>The Tan Kah Kee Young Inventors’ Award (TKKYIA) encourages young students
+to be curious and apply scientific principles to create innovative solutions
+in inventions.</p>
+<p>It is organised by the Tan Kah Kee Foundation (TKKF) with the support
+from the Ministry of Education and Science Centre Singapore.</p>
+<p>Our students, Lim Jun Yang (4A), Zayan Chiam (4A) and Muhammad Rizqi Mateen
+Fazly (4A) clinched the Commendation Award for their innovative project
+on a ramp for wheelchair users in the Secondary School Cateogry.&nbsp;</p>
 <p>
+<br>
 <br>
 <br>
 <br>
