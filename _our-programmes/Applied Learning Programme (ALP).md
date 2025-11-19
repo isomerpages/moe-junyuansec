@@ -162,7 +162,6 @@ and career pathways.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__47_.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -180,6 +179,42 @@ and career pathways.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Learning Journey @ RP’s food science lab</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Health and Food Science Competition</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__20_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__32_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Team JY for 2025 Health and Food Science Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JY’s very own healthier take on&nbsp; Hainanese Chicken Rice</p>
 </td>
 </tr>
 </tbody>
