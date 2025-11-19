@@ -452,13 +452,6 @@ and lead in their very own student-initiated project. Some successful projects
 include Ofobrella (JY umbrella rental system), Class Calendar Whiteboards,
 Anti-Bacteria Hygiene Awareness Campaign, delivery rider appreciation,
 JY Charity Garden and Project MYRMEX.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image 49" src="/images/llpimage49.JPG">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image32" src="/images/llpimage32.jpg">
-</div>
 <h5><strong>Junyuan Student Leadership Recognition</strong></h5>
 <p><em>Leaders encourage the hearts of others.</em>
 <br>
@@ -467,9 +460,36 @@ JY Charity Garden and Project MYRMEX.</p>
 leaders. Be it class leaders, CCA leaders, Student Council or Peer Support
 leaders, all of them were recognised through our Investiture ceremony this
 year.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LLP image50" src="/images/llpimage50.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__55_.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__3_.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP__4_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Overseas Values-In-Action</strong>
 <br>As part of our holistic development of Junyuan Champs, Secondary 3 students
 can volunteer to embark on an Overseas Values-in-Action trip to Cambodia.
