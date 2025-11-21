@@ -18,7 +18,7 @@ S(528933)</p>
 <p>Our Junyuan Champs will be around for the morning, ready to welcome you
 and show you around our school. So come with your family and friends, and
 discover what makes Junyuan a ‘Source of Good Things’. See you there!</p>
-<p><strong>REGISTER YOUR INTEREST HERE:&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyopenhouse25</a></strong>
+<p><strong>REGISTER YOUR INTEREST HERE:&nbsp; <a href="https://go.gov.sg/jyopenhouse25" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyopenhouse25</a></strong>
 </p>
 <p><strong>OR SCAN THE QR CODE BELOW!</strong>
 </p>
