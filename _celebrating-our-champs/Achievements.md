@@ -4,6 +4,27 @@ permalink: /celebrating-our-champs/achievements/
 description: ""
 variant: tiptap
 ---
+<p><strong>Celebrating Academic Achievements from Class of 2024</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/s.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>84.4% qualified for polytechnic</p>
+</li>
+<li>
+<p>7% qualified for Polytechnic Foundation Programme (PFP)</p>
+</li>
+<li>
+<p>39.5% qualified for Direct-Entry-Scheme to Polytechnic Programme (DPP)</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/s2.png">
+</div>
+<p>52.5% qualified for Junior Colleges (JCs) or Millenia Institute (MI)</p>
 <p><strong>CCA Achievements 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
