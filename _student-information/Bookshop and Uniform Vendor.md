@@ -32,7 +32,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>[Sec 1 Booklist will be uploaded at a later date]</p>
+<p><a href="/files/JYSS_Booklist_2026__S1_Final.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
+</p>
 </li>
 <li>
 <p><a href="/files/JYSS_Booklist_2026__S2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
