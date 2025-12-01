@@ -97,7 +97,7 @@ variant: tiptap
 <p>Website for online purchase of<strong><u> Uniform</u></strong>:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
+<p><a href="https://asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a>
 </p>
 <p>Delivery charges of $6.54 apply and orders will take ~5 working days to
 process.</p>
