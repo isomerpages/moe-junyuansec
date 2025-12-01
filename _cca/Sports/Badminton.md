@@ -178,4 +178,4 @@ Yurisno (2G)</p>
 <p>
 <br>
 </p>
-<p>To check out more about our CCA, click&nbsp;<a href="https://drive.google.com/drive/folders/1pvsi3vsOaX_YaCRv7U-cAJqhYG8gOBz9" rel="noopener" target="_blank"><u>here</u></a>.</p>
+<p></p>
