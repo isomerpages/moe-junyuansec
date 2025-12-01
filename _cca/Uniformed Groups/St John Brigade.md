@@ -191,8 +191,7 @@ Fadhly (3E)</p>
 <p>Other Achievements:
 <br>(a) First Aid and Home Nursing Competition (2019, 2018, 2017) - Silver
 <br>(b) First Aid and Home Nursing Competition (2023) Bronze</p>
-<p>For more information, you may refer to St John Brigade website:<a href="https://docs.google.com/presentation/d/1mL6nL3P_sCb4InBtj_fdUlHK9g7zNZ2vD0Zhndu6qtI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u> Click here</u></a>
-</p>
+<p></p>
 <hr>
 <h4><strong>Our Journey</strong></h4>
 <div class="iframe-wrapper">
