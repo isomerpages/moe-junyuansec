@@ -87,7 +87,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
+<p><a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 <p>[Please visit the onsite bookshop for Textbook Purchases]</p>
 </td>
