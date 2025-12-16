@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
-<p>Eligibility Criteria for HMTL at S1
+<p><strong>Eligibility Criteria for HMTL at S1 </strong>
 <br>From 2026 S1 onwards, eligible students may offer HMTL instead of MTL
 should they meet the following criteria.
 <br>* PSLE MTL score of AL1/AL2; or
@@ -20,7 +20,7 @@ every Tuesday 2.40-5.40 pm)
 <br>Junyuan Secondary School will be offering Higher Chinese Language for
 Sec 1 in 2026.
 <br>
-<br>Application to be exempted from taking MTL
+<br><strong>Application to be exempted from taking MTL </strong>
 <br>MTL exemption may only be considered if the student:
 <br>(a) has been away from Singapore school system for some years or joins
 our school system mid-stream without prior learning of our official MTL
@@ -32,7 +32,7 @@ in coping with their overall learning
 will continue the exemption. There is no need to re-apply the exemption
 at Sec One. Students will remain in class to do self-study during MT lessons.
 <br>
-<br>Taking Asian/Foreign Language as MTL-in-lieu (not as Third Language)
+<br><strong>Taking Asian/Foreign Language as MTL-in-lieu (not as Third Language) </strong>
 <br>For students taking Asian/Foreign languages in lieu of MTL at primary
 school, he / she has to continue taking Asian/Foreign languages at Sec
 One. There is no need to submit a re-application for Sec One students who

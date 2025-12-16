@@ -11,7 +11,7 @@ the letter of offer from the posted secondary school. Student can choose
 to take or reject the offer. They are to complete the form to indicate
 the subject(s) he/she wishes to take (or not to take) at the higher level
 and submit the completed form to the via PG by 26 Dec 2025.
-<br>To help parents and child to make an informed decision, a Zoom briefing
+<br>To help parents and child to make an informed decision, an online briefing
 will be conducted on 22 Dec 2025 at 4.30 pm. Details of the briefing will
 be sent to parents via Parents Gateway.
 <br>
