@@ -21,25 +21,25 @@ to complete this registration form by 22 Dec 2025.</p>
 Each Form Class bridges students from diverse subject combinations. It
 offers more opportunities for students to interact with others, with different
 strengths and interests.</p>
-<p>You will be able to check your child's class allocation&nbsp;<a href="https://script.google.com/a/macros/moe.edu.sg/s/AKfycbw9w5VZx_qGt0siQyJgPZvTP0BjXL2vXW5_WKhseUENR5a0O3RuMZaeQgjMk6Vi23Ubxw/exec" rel="noopener" target="_blank"><u>here</u></a>&nbsp;from
-27 Dec 2025, 3pm or via the Parents Gateway app, under "Contacts" when
+<p>You will be able to check your child's class allocation here <a href="https://script.google.com/a/macros/moe.edu.sg/s/AKfycbw9w5VZx_qGt0siQyJgPZvTP0BjXL2vXW5_WKhseUENR5a0O3RuMZaeQgjMk6Vi23Ubxw/exec" rel="noopener" target="_blank"><u>here </u></a>from
+26 Dec 2025, 5pm or via the Parents Gateway app, under "Contacts" when
 it is updated.</p>
 <p>The Class timetables will be posted on the school website on a later date.</p>
 <p><strong>First Day of School &amp; Orientation 2026</strong>
 </p>
-<p>Students will report at 0735 on 2 Jan 2026. Students will report to the
+<p>Students will report at 0810 on 2 Jan 2026. Students will report to the
 hall, and then directed to their respective classroom.</p>
-<p>Sec One Orientation will be from 2-3 &amp; 6-7 Jan 2026. The customised
+<p>Sec One Orientation will be from 2, 5 &amp; 6 Jan 2026. The customised
 timetable for the duration can be found in the slide above.</p>
 <p>What to wear: PE attire and shoes (Primary School attire is fine if Junyuan
 uniform is not ready)</p>
 <p>What to bring: Stationery, notebook, water bottle, money for recess, oral
 digital thermometer.</p>
 <p><strong>School Smart Cards Secondary</strong>
-<br>All students entering Secondary One in Jan 2025 will be issued with a
+<br>All students entering Secondary One in Jan 2026 will be issued with a
 new Secondary level School Smart Cards (SSC). While Secondary One Students
 are waiting for their Secondary level SSCs to be ready, they can continue
-to use their Primary level SSCs for concessionary travel till end Apr 2025.
+to use their Primary level SSCs for concessionary travel till end Apr 2026.
 Students can still purchase the Bus Concession Pass (BCP) using their Primary
 level SSCs but they would need to purchase the BCP for Secondary School
 students.<strong><br></strong>
@@ -91,7 +91,7 @@ you child/ward reports punctually for school.</p>
 <p>Monday, Tuesday, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 7.50 a.m.</p>
+<p>By 7.40 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Depends on timetable</p>
@@ -102,7 +102,7 @@ you child/ward reports punctually for school.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 8.25 a.m.</p>
+<p>By 8.20 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Depends on timetable</p>
@@ -113,7 +113,7 @@ you child/ward reports punctually for school.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>By 8.25 a.m.</p>
+<p>By 8.20 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>At 12.40 p.m.</p>
