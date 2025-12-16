@@ -25,15 +25,17 @@ in ways you feel comfortable.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
-<p></p>
-<p><strong>Parenting Programmes</strong>
+<p><strong>Positive Parenting Programme (Triple-P)</strong>
 </p>
 <p>In partnership with the school, Care Corner Families for Life has been
 appointed by the Ministry of Social and Family Development (MSF) to offer
-secular evidence-based parenting programme. Care Corner Singapore organizes
-programmes to strengthen family relationships, prevent behavioural and
-emotional problems. They also conduct topical talks to promote strong parent-child
-bonding, well-being positive behaviours, and healthy teen development.</p>
+secular evidence-based parenting programme.</p>
+<p><a href="https://www.carecorner.org.sg/services/parenting-support/" rel="noopener noreferrer nofollow" target="_blank">https://www.carecorner.org.sg/services/parenting-support/</a>
+</p>
+<p><strong>Resources for Parents </strong>
+</p>
+<p><a href="http://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.schoolbag.edu.sg/</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
