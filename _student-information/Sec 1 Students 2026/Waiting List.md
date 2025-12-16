@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
-<p>Cut-Off Point 2025:</p>
+<p>Cut-Off Point 2026:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
