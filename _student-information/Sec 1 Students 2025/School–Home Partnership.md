@@ -30,7 +30,12 @@ in ways you feel comfortable.</p>
 <p>In partnership with the school, Care Corner Families for Life has been
 appointed by the Ministry of Social and Family Development (MSF) to offer
 secular evidence-based parenting programme.</p>
-<p></p>
+<p><a href="https://www.carecorner.org.sg/services/parenting-support/" rel="noopener noreferrer nofollow" target="_blank">https://www.carecorner.org.sg/services/parenting-support/</a>
+</p>
+<p><strong>Resources for Parents </strong>
+</p>
+<p><a href="http://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.schoolbag.edu.sg/</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
