@@ -1,6 +1,6 @@
 ---
 title: Welcome to the Junyuan Family!
-permalink: /student-information/sec-1-students-2025/welcome-to-the-junyuan-family/
+permalink: /student-information/sec-1-students-2026/welcome-to-the-junyuan-family/
 description: ""
 third_nav_title: Sec 1 Students 2026
 variant: tiptap
