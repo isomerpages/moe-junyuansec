@@ -2,7 +2,7 @@
 title: Mother Tongue Language (MTL) Matters
 permalink: /student-information/sec-1-students/mother-tongue-language-mtl-matters/
 description: ""
-third_nav_title: Sec 1 Students 2025
+third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
 <p>Eligibility Criteria for HMTL at S1

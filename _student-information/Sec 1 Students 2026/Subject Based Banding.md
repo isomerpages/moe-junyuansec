@@ -2,7 +2,7 @@
 title: Subject Based Banding
 permalink: /student-information/sec-1-students/subject-based-banding-for-eligible-na-and-nt-students/
 description: ""
-third_nav_title: Sec 1 Students 2025
+third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
 <p>Sec 1 students may be offered EL/Math/Science/MTL at a more demanding

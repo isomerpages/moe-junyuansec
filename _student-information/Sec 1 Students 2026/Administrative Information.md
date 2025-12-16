@@ -2,7 +2,7 @@
 title: Administrative Information
 permalink: /student-information/sec-1-students/administrative-information/
 description: ""
-third_nav_title: Sec 1 Students 2025
+third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
 <p><strong>Sec 1 Registration and Orientation 2026</strong>

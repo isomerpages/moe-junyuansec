@@ -2,7 +2,7 @@
 title: Sale of Textbooks and Uniforms
 permalink: /student-information/sec-1-students/sale-of-textbooks-and-uniforms/
 description: ""
-third_nav_title: Sec 1 Students 2025
+third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
 <p><strong>Sec 1 Textbook and Uniform Purchase 2025</strong>

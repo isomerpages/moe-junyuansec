@@ -2,7 +2,7 @@
 title: School–Home Partnership
 permalink: /student-information/sec-1-students/school-home-partnership/
 description: ""
-third_nav_title: Sec 1 Students 2025
+third_nav_title: Sec 1 Students 2026
 variant: tiptap
 ---
 <p><strong>Parents Engagement</strong>
