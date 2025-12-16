@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <p><strong>Sec 1 Registration and Orientation 2026</strong>
 </p>
+<div class="iframe-wrapper">
+<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqNmPZdRzmrlkDDUst6eGrrT1T4nK-iGOOfNhssRgPMvxoP4_zZ9PsFaL_4b36v1OS4Za7VD-rOV9G/pubembed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p>As part of the Secondary 1 Registration, we kindly request parents/guardians
 to complete this registration form by 22 Dec 2025.</p>
 <p>If the form below is not loaded, you can also fill it in at&nbsp;<a href="https://form.gov.sg/69281849eff7df040adbd599" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
