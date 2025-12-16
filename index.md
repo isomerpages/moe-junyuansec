@@ -24,13 +24,11 @@ sections:
       id: infobar
       button: Click Here to view the video
       url: https://www.youtube.com/watch?v=0dv6Z4ZPB-o
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      button: More information
-      image: /images/openhouse2025.jpg
-      alt: Image alt text
-      url: https://junyuansec.moe.edu.sg/open-house-2025/
+  - infobar:
+      title: Sec 1 Students E-Registration
+      id: infobar
+      button: More Information
+      url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students/administrative-information/
   - infopic:
       title: DSA
       id: infopic
