@@ -5,34 +5,31 @@ description: ""
 third_nav_title: Sec 1 Students 2025
 variant: tiptap
 ---
-<p><strong>Sec 1 Registration and Orientation 2025</strong>
+<p><strong>Sec 1 Registration and Orientation 2026</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsldDNpMgQqqnG1-5LtJj8eUbXcw4zV5T0ERybMzs8sgAhmtQ5HX6bZ39LujaOlz4mlMz76odgN3yl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p>As part of the Secondary 1 Registration, we kindly request parents/guardians
-to complete this registration form by 20 Dec 2024.</p>
-<p>If the form below is not loaded, you can also fill it in at&nbsp;<a href="https://form.gov.sg/675ba5f776a27b38dab8e687" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+to complete this registration form by 22 Dec 2025.</p>
+<p>If the form below is not loaded, you can also fill it in at&nbsp;<a href="https://form.gov.sg/69281849eff7df040adbd599" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <div class="iframe-wrapper">
-<iframe style="width:100%; height: 500px" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/675ba5f776a27b38dab8e687"></iframe>
+<iframe style="width:100%; height: 500px" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/69281849eff7df040adbd599"></iframe>
 </div>
 <p>Powered by&nbsp;<a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>FormSG</u></a>
 </p>
 <p><strong>Class Allocation and Timetable</strong>
 </p>
-<p>Come 2025 we welcome our Sec 1s to the Full Subject Based Banding (FSBB).
+<p>Come 2026 we welcome our Sec 1s to the Full Subject Based Banding (FSBB).
 Each Form Class bridges students from diverse subject combinations. It
 offers more opportunities for students to interact with others, with different
 strengths and interests.</p>
 <p>You will be able to check your child's class allocation&nbsp;<a href="https://script.google.com/a/macros/moe.edu.sg/s/AKfycbw9w5VZx_qGt0siQyJgPZvTP0BjXL2vXW5_WKhseUENR5a0O3RuMZaeQgjMk6Vi23Ubxw/exec" rel="noopener" target="_blank"><u>here</u></a>&nbsp;from
-27 Dec 2024, 3pm or via the Parents Gateway app, under "Contacts" when
+27 Dec 2025, 3pm or via the Parents Gateway app, under "Contacts" when
 it is updated.</p>
 <p>The Class timetables will be posted on the school website on a later date.</p>
-<p><strong>First Day of School &amp; Orientation 2025</strong>
+<p><strong>First Day of School &amp; Orientation 2026</strong>
 </p>
-<p>Students will report at 0735 on 2 Jan 2025. Students will report to the
+<p>Students will report at 0735 on 2 Jan 2026. Students will report to the
 hall, and then directed to their respective classroom.</p>
-<p>Sec One Orientation will be from 2-3 &amp; 6-7 Jan 2025. The customised
+<p>Sec One Orientation will be from 2-3 &amp; 6-7 Jan 2026. The customised
 timetable for the duration can be found in the slide above.</p>
 <p>What to wear: PE attire and shoes (Primary School attire is fine if Junyuan
 uniform is not ready)</p>
