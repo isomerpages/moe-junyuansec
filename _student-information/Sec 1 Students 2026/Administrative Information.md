@@ -24,7 +24,7 @@ to complete this registration form by 22 Dec 2025.</p>
 Each Form Class bridges students from diverse subject combinations. It
 offers more opportunities for students to interact with others, with different
 strengths and interests.</p>
-<p>You will be able to check your child's class allocation here <a href="https://script.google.com/macros/s/AKfycbx4CPmJsyYKAmp1RFpdE1NBspBXs_J4ngfeDcdjKWLgu9MOd7xP4Q6xYiFq5BKlC9urzQ/exec" rel="noopener" target="_blank"><u>here </u></a>from
+<p>You will be able to check your child's class allocation here <a href="https://script.google.com/macros/s/AKfycbyjhOkZr_rh3QmQrb3wgdWHJCF2yL-04Qg1nELUpnlGvJ_OUE9yYGxr2kzp-iEhFtP-3w/exec" rel="noopener" target="_blank"><u>here </u></a>from
 26 Dec 2025, 5pm or via the Parents Gateway app, under "Contacts" when
 it is updated.</p>
 <p>The Class timetables will be posted on the school website on a later date.</p>
