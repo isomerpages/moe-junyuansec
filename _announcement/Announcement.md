@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://junyuansec.moe.edu.sg/n-level-results-release-2024/" rel="noopener nofollow" target="_blank">N Level Results Release 2024</a>
+<p><a href="https://junyuansec.moe.edu.sg/n-level-results-release-2025/" rel="noopener nofollow" target="_blank">N Level Results Release 2025</a>
 </p>
 </li>
 <li>
