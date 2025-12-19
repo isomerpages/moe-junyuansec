@@ -10,10 +10,9 @@ description: ""
 to access the briefing slides and other useful resources.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>N Level Results Release Briefing Slides</p>
+<p><a href="/files/N_Level_Results_Release_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">N Level Results Release Briefing Slides</a>
+</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/a-guide-to-post-secondary-admissions-exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">Post Secondary Admission Exercises Booklet</a>
 </p>
@@ -22,14 +21,12 @@ to access the briefing slides and other useful resources.</p>
 <p><a href="https://www.ite.edu.sg/apply-for-ITE-courses" rel="noopener noreferrer nofollow" target="_blank">ITE Admissions &amp; Application</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/DPP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">DPP Factsheet</a>
+<p><a href="/files/DPP_Factsheet_for_Students_.pdf" rel="noopener noreferrer nofollow" target="_blank">DPP Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">PFP Factsheet</a>
+<p><a href="/files/PFP_Factsheet_for_Students_.pdf" rel="noopener noreferrer nofollow" target="_blank">PFP Factsheet</a>
 </p>
 </li>
 </ul>
