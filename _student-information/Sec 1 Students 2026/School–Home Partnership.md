@@ -13,11 +13,10 @@ can be found&nbsp;<a href="/other-information/parents-gateway" rel="noopener nor
 <p>We warmly invite you to be part of our Parent Support Group! Your involvement—big
 or small—can make a difference, whether by sharing your knowledge or contributing
 in ways you feel comfortable.</p>
-<p><a href="https://go.gov.sg/jypsg25" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jypsg25</a>
+<p><a href="https://go.gov.sg/jypsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jypsg</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IMG_0322.jpg">
 </div>
 <p><strong>Positive Parenting Programme (Triple-P)</strong>
 </p>
