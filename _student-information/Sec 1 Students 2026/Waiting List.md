@@ -35,13 +35,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>21</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>25</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>28</p>
 </td>
 </tr>
 </tbody>
