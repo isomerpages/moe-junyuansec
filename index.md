@@ -32,7 +32,7 @@ sections:
   - infobar:
       title: Waiting List
       id: infobar
-      description: Cut-Off Point 2026
+      description: 2026 Sec 1 Appeal Application Form
       button: More information
       url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students/waiting-list/
   - infopic:
