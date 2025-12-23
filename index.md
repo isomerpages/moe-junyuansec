@@ -29,6 +29,12 @@ sections:
       id: infobar
       button: More Information
       url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students/administrative-information/
+  - infobar:
+      title: Waiting List
+      id: infobar
+      description: Cut-Off Point 2026
+      button: More information
+      url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students/waiting-list/
   - infopic:
       title: DSA
       id: infopic
