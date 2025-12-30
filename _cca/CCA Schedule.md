@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>4. Rugby (Boys): <a href="https://docs.google.com/document/d/1P8FA28mie9zrN7kpISne6V3Oc2WmmofG3hQRq6eGpNw/edit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss-rugby-schedules</a>
 </p>
-<p>5. Track &amp; Field: <a href="https://go.gov.sg/jysstrackandfield2026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-track-schedule</u></a>
+<p>5. <a href="https://go.gov.sg/jysstrackandfield2026" rel="noopener nofollow" target="_blank">Track &amp; Field</a>
 </p>
 <p>6. Volleyball: <a href="https://docs.google.com/spreadsheets/d/17tSSEx_TptI8K6sCm-5xa1Ku5-b7J5OjfZwP-9a0FhI/edit#gid=1978245945" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-volleyball-schedule</u></a>
 </p>
