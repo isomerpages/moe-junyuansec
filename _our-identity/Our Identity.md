@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/our-identity/principals-message-2025" rel="noopener noreferrer nofollow" target=""><u>Principal's Message 2025</u></a>
+<p><a href="/our-identity/principals-message-2026" rel="noopener noreferrer nofollow" target=""><u>Principal's Message 2026</u></a>
 </p>
 </li>
 <li>

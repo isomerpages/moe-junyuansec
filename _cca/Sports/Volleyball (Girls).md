@@ -25,10 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahra</p>
+<p>Ms Chen Xingli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharifa_fatimatuzahra_a@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chen_xingli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -55,13 +55,21 @@ variant: tiptap
 <p><strong>CCA Schedule<br></strong>Tuesdays and Thursdays 3:00pm to 6:00pm</p>
 <p><strong>Venue</strong>
 <br>Indoor Sports Hall Level 2</p>
-<p><strong>CCA Leaders (Year 2025)</strong>
+<p><strong>CCA Leaders (Year 2026)</strong>
 </p>
-<p></p>
+<p>Upper Secondary (Secondary 4):
+<br>1. Captain: Nur Sabrina Binte Azmi
+<br>2. Vice- Captain: Loh Zi Xuan and Abhismita Behera
+<br>3. Logistics Head: Sarah Sazkia</p>
 <p>Upper Secondary (Secondary 3):
-<br>1. Captain: Nur Sabrina Binte Azmi (3A)
-<br>2. Vice- Captain: Loh Zi Xuan (3B) and Abhismita Behera (3A)
-<br>3. Logistics Head: Sarah Sazkia (3C)</p>
+<br>1. Captain: Nur Arinah Binte Mohammad Omar
+<br>2. Vice- Captains: Thong Shi Cheng and Lee Hsim Ee
+<br>3. Logistics: Nur Syaqeira Binte Mohamed Sofian and Tan Shi Han Jeraline</p>
+<p>Lower Secondary:
+<br>1. Captain:&nbsp;Neo Shi Xuan Noreen
+<br>2. Vice-Captains: Tara Eliza Binte Mohamed Nazir and Wong Jing En
+<br>3. Training IC: Sofia Aurora Amir Lingam
+<br>4. Logistics:&nbsp; Hannah Asyura Binte Muhammad Hadi</p>
 <p></p>
 <p><strong>Awards and Achievements<br></strong><u>2019 - 2021<br></u>Top
 4 in NSG East Zone Tournaments</p>
@@ -101,7 +109,7 @@ are beneficial in both on court training and other areas of life.</p>
 also new to volleyball when I first joined the CCA and I found it very
 engaging. It can help you to develop self-confidence while learning volleyball,
 teamwork and mindset skills. Plus, it’s a great way to create new friendships
-among your teammates and long-lasting memories⭐️!!” <em>– Nur Sabrina, Lower Sec Captain 2024.</em>
+among your teammates and long-lasting memories⭐️!!” <em>– Nur Sabrina4A, Upper Sec Captain 2026.</em>
 </p>
 </td>
 </tr>
@@ -124,44 +132,22 @@ as it made me realise how important having confidence in yourself was.</p>
 It enhances our mental toughness as we grow and become disciplined sportswomen.
 Volleyball is a sport I would definitely encourage everyone to try out,
 who knows you may discover new valuable friendships, essential skills,
-and unlock a more confident, resilient you!” – <em>Kaylyn Loo, 1C 2024.</em>
+and unlock a more confident, resilient you!” – <em>Kaylyn Loo, 2C 2025.</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>“Being in Junyuan Volleyball has made me realize the importance of sportsmanship
-and hard work. I was in a performing arts in primary school, so I had no
-experience or foundation in a sports-related CCA. After joining, I faced
-multiple difficulties, including challenges with stamina, and stepping
-out of my comfort zone. I was shy and kept everything to myself. However,
-thanks to the guidance and support from my coach, teachers-in-charge, and
-teammates, I gradually became more comfortable during training. Volleyball
-began to feel like a family to me.</p>
-<p>My most memorable experience in Junyuan Volleyball was during my C-Division
-competition in 2023, when I was in Secondary 2. Through that competition,
-I came to understand the importance of having the right Coach, Teachers,
-and team members! The team talks after every competition not only brought
-my team and me closer but also helped us recognize our strengths and areas
-for improvement. This experience truly enhanced the team spirit.” – <em>Ling Jia Min, 4D, Upper Secondary Captain 2025</em>.</p>
+<p><em>“Being part of the volleyball team has been one of the best parts of my time here. I’ve really enjoyed bonding with my seniors and teammates through the drills we do together. Beyond just the game, it’s about the teamwork, laughter, and encouragement we share that make every session meaningful.</em>
+</p>
+<p></p>
+<p><em>To all the Primary 6 students thinking about joining the volleyball team, my advice is: just go for it! Enjoy your four years here because time passes very quickly. You’ll discover your own potential here.” – Masami Liao, 2A 2026, DSA Student.</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When I first joined the team, I was quite shy to approach anyone, but
-with the help of welcoming teachers, and teammates, I quickly settled in!
-One of my most memorable moments here in Junyuan Volleyball would be attending
-the Mintonette Cup in June 2023. The Cup was one of my first competitions
-I participated, and it helped me gain experience of what it’s really like
-to participate in a high-pressure environment. That day, I learned that
-volleyball is all about teamwork, where each player’s role is essential,
-and that communication and trust are key to keeping the game flowing smoothly.
-Overall, being in Junyuan Volleyball helped me to work on my resilience
-and self-confidence. Whenever I faced setbacks, I learnt that it’s important
-to maintain a positive attitude throughout the game and to encourage myself
-and others to do the same, practicing this helped me with my personal growth.
-While many might think volleyball is just about hitting a ball, I learnt
-that it is more than just that!” – <em>Ysabelle, 4D, Upper Sec Vice-Captain</em>
+<p>“<em>I have learnt valuable lessons such as to receive criticism to improve and to have resilience. Ever since I joined a sports CCA,I have learnt how to work with different people, and to always dare to try new things. Through volleyball, I learnt that little progress is better than no progress at all, and failure gives you an opportunity to grow. Junyuan and the CCA environment is lively, and we all do our best to uplift each other.”</em> – <em>Wong Jing En, 2E 2026, Lower Sec Vice-Captain.</em>
 </p>
 <p>&nbsp;</p>
 </td>
