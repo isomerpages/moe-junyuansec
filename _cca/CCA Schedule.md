@@ -4,7 +4,7 @@ permalink: /cca/cca-schedule/
 description: ""
 variant: tiptap
 ---
-<p>Our school will be resuming all CCA activities from Term 1 Week 1 in 2024.</p>
+<p>Our school will be resuming all CCA activities from Term 1 Week 1 in 2026.</p>
 <p>Kindly refer to the following schedule for each CCA.</p>
 <p><strong>Sports</strong>
 </p>
