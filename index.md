@@ -29,12 +29,6 @@ sections:
       id: infobar
       button: More Information
       url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students/administrative-information/
-  - infobar:
-      title: Waiting List
-      id: infobar
-      description: 2026 Sec 1 Appeal Application Form
-      button: More information
-      url: https://www.junyuansec.moe.edu.sg/student-information/sec-1-students/waiting-list/
   - infopic:
       title: DSA
       id: infopic
