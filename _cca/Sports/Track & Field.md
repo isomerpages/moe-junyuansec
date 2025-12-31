@@ -29,9 +29,10 @@ yourself—faster, higher, and stronger with each step.
 </ul>
 <p><strong>CCA Schedule:</strong>
 </p>
-<p><strong>Day: </strong>Every Tuesday &amp; Thursday</p>
-<p><strong>Time: </strong>School Trainings @ 3pm – 5pm / External Trainings
-@ 3.30pm – 5.30pm</p>
+<p><strong>Training Days</strong>
+</p>
+<p>Lower Secondary: Every Wednesday and Thursday</p>
+<p>Upper Secondary: Every Tuesday and Thursday</p>
 <p><strong>Venue (for external trainings only):</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -65,7 +66,7 @@ yourself—faster, higher, and stronger with each step.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Suhailah</p>
+<p>Ms Nur Suhailah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_suhailah_ahmad_khusairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_suhailah_ahmad_khusairi@moe.edu.sg</a>
@@ -87,6 +88,15 @@ yourself—faster, higher, and stronger with each step.
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wee_eng_khoon_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_eng_khoon_jeremy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tay_hui_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
