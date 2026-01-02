@@ -546,18 +546,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Shiying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nuraisha_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_shiying@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Rahani Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -640,18 +628,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Mei Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nuraisha_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>marilyn_ng@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Craft &amp; Tech &nbsp;Dept</strong></h4>
@@ -684,7 +660,8 @@ variant: tiptap
 <p>HOD Craft &amp;Tech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leow_mun_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_mun_tat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -762,19 +739,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Cheng Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:adzmey_asmom@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_cheng_ying@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Priscillia Vanessa Louis</p>
+<p>Ms Priscilla Vanessa Louis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -948,7 +913,8 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_soo_gek_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soo_gek_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
