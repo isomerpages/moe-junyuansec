@@ -35,7 +35,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>junyuan_ss@moe.edu.sg</p>
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +47,8 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>junyuan_ss@moe.edu.sg</p>
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +59,8 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>junyuan_ss@moe.edu.sg</p>
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
