@@ -101,7 +101,7 @@ create a strong and supportive community where everyone feels included.</p>
 </table>
 <p><strong>CCA Leaders</strong>
 </p>
-<p><strong>Upper Sec </strong>
+<p><strong>Upper Sec</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Lim Khong Tiak
 Jayden (4C)</p>
@@ -111,7 +111,7 @@ Han (4A)</p>
 (4C)</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Sharon Lim
 Rui En (4F)</p>
-<p><strong>Lower Sec </strong>
+<p><strong>Lower Sec</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Captain (Boys): Russel Wong Yi (3A)</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Captain (Girls): Qisya Eryna Yurisno
