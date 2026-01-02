@@ -35,7 +35,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> 
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> 
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> 
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -156,6 +156,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lin_guanting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_guanting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Edward Leow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Craft &amp;Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leow_mun_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_mun_tat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
