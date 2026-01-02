@@ -48,8 +48,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yi_wei_pamela@moe.edu.sg</u></a>
-<a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
-</a>
 </p>
 </td>
 </tr>
@@ -74,18 +72,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_li_wah@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Wei Pamela</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yi_wei_pamela@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -344,13 +330,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tay Hui Min</p>
+<p>Mr Amos Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_hui_min@moe.edu.sg</u></a>
+<p><a href="mailto:ng_boon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_boon_hwa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -450,6 +436,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jacklyn Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_wai_fun_jacklyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_wai_fun_jacklyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Mother Tongue</strong></h4>
@@ -476,6 +474,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ang Sor Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_sor_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sor_cheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Asyikin Binte Naser</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -484,17 +494,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_asyikin_naser@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_asyikin_naser@moe.edu.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang Sor Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
