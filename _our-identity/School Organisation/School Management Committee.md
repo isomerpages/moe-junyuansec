@@ -86,13 +86,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Shamilah</p>
+<p>Miss Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shamilah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamilah@moe.edu.sg</a>
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -122,13 +122,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Tay Hui Min</p>
+<p>Mr Amos Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_min@moe.edu.sg</a>
+<p><a href="mailto:ng_boon_hwa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_boon_hwa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -290,13 +290,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Yun Shi Jolene</p>
+<p>Ms Pamela Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Engish / Literature</p>
+<p>SH Engish</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
+<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
