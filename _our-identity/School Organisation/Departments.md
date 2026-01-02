@@ -1105,7 +1105,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TEO_Swee_Wah@moe.edu.sg</u></a>
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_swee_wah@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
