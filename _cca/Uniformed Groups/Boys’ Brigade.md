@@ -5,9 +5,22 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<h4><strong>CCA Overview</strong></h4>
+<p>The Boys’ Brigade (BB) in Junyuan Secondary School is a values-based uniformed
+group that seeks to develop our boys into responsible, confident and service-oriented
+leaders. Guided by the motto <em>“Sure and Steadfast”</em>, the Boys’ Brigade
+places strong emphasis on character development through discipline, leadership
+training and service to others.</p>
+<p>Through a structured programme that includes drills, outdoor activities,
+camps, community service and enrichment experiences, Boys develop essential
+life skills, learn the importance of teamwork and responsibility, and build
+strong camaraderie with their peers. Guided by a team of dedicated, nurturing
+and highly committed Volunteer Adult Leaders (VALs), Boys are supported
+in a positive environment where values such as respect and perseverance
+are instilled, preparing them to serve their community and lead by example.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb1kjkhjk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.jpg">
 </div>
 <p><strong>Motto<br></strong>"Sure and Steadfast"</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesday (3 pm to
