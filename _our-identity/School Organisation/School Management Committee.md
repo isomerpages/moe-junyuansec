@@ -89,10 +89,10 @@ variant: tiptap
 <p>Miss Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English</p>
+<p>HOD English (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg </a>
+<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -293,10 +293,10 @@ variant: tiptap
 <p>Ms Pamela Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Engish</p>
+<p>SH English (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a> 
+<p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -332,7 +332,7 @@ variant: tiptap
 <p>SH Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LIM_Kwan_Shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Kwan_Shen@moe.edu.sg</a>
+<p><a href="mailto:LIM_Kwan_Shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kwan_Shen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
