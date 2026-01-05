@@ -187,7 +187,7 @@ working with others. NCC has also given me a sense of pride and belonging,
 motivating me to serve my school and community with dedication. I am thankful
 for the opportunities and values NCC has given me, and I feel proud to
 be a member of it.
-<br><strong>– MSG Nazhif </strong>
+<br><strong>– MSG Nazhif</strong>
 </p>
 <p>I am glad that I chose NCC as my CCA during my secondary school journey.
 Over the years, NCC has helped me grow and step out of my comfort zone.
