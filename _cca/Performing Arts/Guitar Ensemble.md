@@ -76,10 +76,10 @@ power of music and teamwork.</p>
 (3 – 5 pm)
 <br>Learning Hub 1</p>
 <p><strong>CCA Leaders (Year 2025/2026)<br></strong>President (Upper Sec):
-Siti Nurshafiqah Binti Mohamad Fazlully (3C, 2025)</p>
-<p>Vice-President (Upper Sec): Ong Xiang Ying (3D, 2025)</p>
-<p>President (Lower Sec): Huang Yihao, Thaddeus (2G, 2025)</p>
-<p>Vice-President (Lower Sec): Lim Xiu Yuan (2B, 2025)</p>
+Siti Nurshafiqah Binti Mohamad Fazlully (4C, 2026)</p>
+<p>Vice-President (Upper Sec): Ong Xiang Ying (4D, 2026)</p>
+<p>President (Lower Sec): Huang Yihao, Thaddeus (3A, 2026)</p>
+<p>Vice-President (Lower Sec): Lim Xiu Yuan (3A, 2026)</p>
 <p><strong>Awards and Achievements</strong>
 </p>
 <p>SYF Arts Presentation Achievements:</p>
@@ -149,11 +149,11 @@ Siti Nurshafiqah Binti Mohamad Fazlully (3C, 2025)</p>
 </tr>
 </tbody>
 </table>
-<p>Other Achievements / Performances:
-<br>(a) JYSS Soiree Performance (2018) @ Our Tampines Hub
-<br>(b) Arts of Healing Performance (2017) @ Tan Tock Seng Hospital
-<br>(c) In Youthful Company Performance (2016) @ Esplanade</p>
-<p>(d) JYSS Soiree Performance (2024) @ Our Tampines Hub</p>
+<p>Other Achievements / Performances:</p>
+<p>(a) JYSS Soiree Performance (2024) @ Our Tampines Hub
+<br>(b) JYSS Soiree Performance (2018) @ Our Tampines Hub
+<br>(c) Arts of Healing Performance (2017) @ Tan Tock Seng Hospital
+<br>(d) In Youthful Company Performance (2016) @ Esplanade</p>
 <hr>
 <p><strong>Our Journey</strong>
 </p>
