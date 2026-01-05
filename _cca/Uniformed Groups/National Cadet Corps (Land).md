@@ -30,7 +30,7 @@ Commitment and Responsibility and Care for Fellow Cadets.
 <p>To Serve with Pride and dedication</p>
 <h4><strong>CCA Schedule &amp; CCA venue</strong></h4>
 <p>Tuesday and/or Thursday
-<br>Parade Square/Classrooms</p>
+<br>Parade Square / B1-02 / B2-02 Classroom</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
