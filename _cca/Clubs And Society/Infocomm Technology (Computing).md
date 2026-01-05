@@ -68,7 +68,7 @@ variant: tiptap
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mrs Suganda /<a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
+<p>Ms Helen Chin /<a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
 </p>
 </li>
 <li>
@@ -110,7 +110,63 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Wee</p>
+<p>JAYDEN TAN JIE LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN BACH NGOC TUYET</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELTON ZECHARIAH PUA EE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA YUN CONG MAXIMUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN WEE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E</p>
@@ -124,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oh Jia Le</p>
+<p>OH JIA LE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D</p>
@@ -138,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho Jun Rui Aiden</p>
+<p>HO JUN RUI AIDEN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3G</p>
@@ -152,7 +208,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jayven Foo Tan Shi Han</p>
+<p>JAYVEN FOO TAN SHI HAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D</p>
