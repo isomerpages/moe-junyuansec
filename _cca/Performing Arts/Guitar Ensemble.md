@@ -187,7 +187,7 @@ Siti Nurshafiqah Binti Mohamad Fazlully (4C, 2026)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/syf%202023%20-%202.jpg">
 </div>
-<p><strong>CCA Bonding 2023</strong>
+<p><strong>CCA Bonding Activities</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/cca%20bonding%202023%20-%201.jpg">
@@ -196,42 +196,7 @@ Siti Nurshafiqah Binti Mohamad Fazlully (4C, 2026)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" src="/images/cca%20bonding%202023%20-%202.jpg">
 </div>
-<p><strong>Our SYF Journey (2021)</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XdzxYKNo-q4"></iframe>
-</div>
-<p><strong>Singapore Youth Festival 2019</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/ge1.jpg">
-</div>
-<p><strong>Values-in-Action Performance</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" src="/images/ge2.jpg">
-</div>
-<p><strong>Pushcart Event</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/ge3.jpg">
-</div>
-<p><strong>Bonding Activities</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Guitar_CCA_Bonding_2024.jpg">
-</div>
-<p><em>Guitar - CCA Free Day 2022</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/ge4.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/ge5.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/ge6.jpeg">
-</div>
+<p></p>
 <p></p>
