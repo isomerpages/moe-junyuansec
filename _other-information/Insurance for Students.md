@@ -32,7 +32,7 @@ User Guide:
 </p>
 <p><a href="/files/student%20gpa%20user%20guide%20parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide (Parent)</a>
 </p>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2025)</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet (Year 2026)</a>
 </p>
 </td>
 </tr>
