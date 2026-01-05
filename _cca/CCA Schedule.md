@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 <p>2. Girls' Brigade: <a href="https://docs.google.com/spreadsheets/d/1RyS5_868V6wy1UmilYrogAD2UefjgJWsv4BOUIob1d4/edit#gid=1972980739" rel="noopener" target="_blank"><u>https://go.gov.sg/jyss-gb-schedule</u></a><u><br></u>
 </p>
-<p>3. National Cadet Corps (NCC): <a href="https://docs.google.com/spreadsheets/d/14vhY0Ns2R25QtfRHt1XOy2IM2zT_pI5vFeMOXmA5zTA/edit#gid=131856016" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-ncc-schedule</u></a>
+<p>3. <a href="https://docs.google.com/spreadsheets/d/1X49Ca45MoXdpW4BK4N4BzJCnMoBFazwRBdHHwmvuiLM/edit?usp=sharing" rel="noopener nofollow" target="_blank">National Cadet Corps (NCC)</a>
 </p>
 <p>4. National Police Cadet Corps (NPCC): <a href="https://docs.google.com/spreadsheets/d/103vn0i8idVse7yodShQycKczngBuRaZj/edit#gid=127127234" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-npcc-schedule</u></a>
 </p>
