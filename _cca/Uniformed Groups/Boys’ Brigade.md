@@ -5,13 +5,26 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
+<h4><strong>CCA Overview</strong></h4>
+<p>The Boys’ Brigade (BB) in Junyuan Secondary School is a values-based uniformed
+group that seeks to develop our boys into responsible, confident and service-oriented
+leaders. Guided by the motto <em>“Sure and Steadfast”</em>, the Boys’ Brigade
+places strong emphasis on character development through discipline, leadership
+training and service to others.</p>
+<p>Through a structured programme that includes drills, outdoor activities,
+camps, community service and enrichment experiences, Boys develop essential
+life skills, learn the importance of teamwork and responsibility, and build
+strong camaraderie with their peers. Guided by a team of dedicated, nurturing
+and highly committed Volunteer Adult Leaders (VALs), Boys are supported
+in a positive environment where values such as respect and perseverance
+are instilled, preparing them to serve their community and lead by example.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb1kjkhjk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB1.jpg">
 </div>
 <p><strong>Motto<br></strong>"Sure and Steadfast"</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesday (3 pm to
-5.00 pm), alternate Saturday (8.45 am to 12 pm)
+5.00 pm), alternate Saturday (8.30 am to 12 pm)
 <br>School Parade Square / Classroom C1-01</p>
 <p><strong>Teachers-in-Charge</strong>
 </p>
@@ -50,7 +63,7 @@ variant: tiptap
 </tbody>
 </table>
 <p><strong>CCA Leaders (Year 2025)<br></strong>1. Company Sergeant Major
-(CCA Chair): Tan Kee Shin (3E)</p>
+(CCA Chair): Tan Kee Shyn (3E)</p>
 <p><strong>Awards/Achievements<br></strong>
 </p>
 <p>Company Award Achievements:</p>
@@ -180,7 +193,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<strong>2024</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -202,32 +216,49 @@ variant: tiptap
 <p>&nbsp;Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;GOLD</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h4><strong>Our Experiences</strong></h4>
-<p><em>2024 BB/GB Enrolment Service (Marching-in)</em>
+<p><em>2025 BB/GB Enrolment Service</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gdgd.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb8.jpg">
 </div>
-<p><em>2024 Enrolment Service speech by Outgoing CSM (right) with Incoming CSM (left)</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tsj.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/abb3__1_.jpg">
 </div>
-<p><em>2024 BB Blaze (National Competition)</em>
+<p><em>2025 BB Adventure Camp (Field Cooking and Shooting)</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 BB Blaze (National Competition)" src="/images/tjrtn.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__7_.jpg">
 </div>
-<p><em>2024 BB Character Quest (National Competition)</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__6_.jpg">
+</div>
+<p><em>2025 National Day Parade</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tjtjd.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__5_.jpg">
+</div>
+<p><em>2025 BB Cares (Community Service)</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__4_.jpg">
+</div>
+<p><em>2025 Company Training Camp</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__2_.jpg">
 </div>
 <p><em>2024 BB Adventure Camp [Lunch break in the middle of our 16km trek]</em>
 </p>
@@ -258,18 +289,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jetndnd.jpg">
 </div>
 <hr>
-<p><strong>BB Day Message 2024 Video</strong>
+<p><strong>BB Day Message 2025 Video</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wifDO2ELN9M?si=0uMqK1vEV0Xne6VM"></iframe>
-</div>
-<p><strong>Boys Brigade My CCA Journey</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7WOn5YcCEp0"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nDC_z-Z8VIQ?si=LNAei4c7QngGK7he"></iframe>
 </div>
 <p></p>
-<p></p>
-<h4>“You don’t always need a plan, sometimes you need to just breath, trust, and let go to see what happens.”</h4>
-<p>- Ian Tay (CSM, 2024)</p>
+<h4>“Sometimes you need to step out of your comfort zone to grow and build courage.” &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+<p>- Tan Kee Shyn (CSM, 2025)</p>
 <p></p>

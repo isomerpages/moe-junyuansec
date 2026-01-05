@@ -101,23 +101,25 @@ create a strong and supportive community where everyone feels included.</p>
 </table>
 <p><strong>CCA Leaders</strong>
 </p>
-<p><strong>Upper Sec (Year 2025)</strong>
+<p><strong>Upper Sec</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Jayden Lim (3C)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls): Mikal Lee (3A)</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Lim Khong Tiak
+Jayden (4C)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Girls): Mikal Lee Shi
+Han (4A)</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Boys): Brandon Goh
-(3C)</p>
+(4C)</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vice-Captain (Girls): Sharon Lim
-(3F)</p>
-<p><strong>Lower Sec (Year 2025)</strong>
+Rui En (4F)</p>
+<p><strong>Lower Sec</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Captain (Boys): Russel Wong (2B)</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice-Captain (Girls): Qisya Eryna
-Yurisno (2G)</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Captain (Girls):&nbsp; Phoebe Ng
-(2D)</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice-Captain (Boys): Jeremy Lim
-(2B)</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Captain (Boys): Russel Wong Yi (3A)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Captain (Girls): Qisya Eryna Yurisno
+(3D)</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice-Captain (Boys): Jeremy Lim
+Zhi Yung (3E)</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vice-Captain (Girls): Phoebe Ng
+Yan En (3D)</p>
 <hr>
 <p><strong>Awards/Achievements</strong>
 </p>
@@ -165,17 +167,54 @@ Yurisno (2G)</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/a1b8a82c.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/img_9746.JPG">
 </div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/img_9262.JPG">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_02_at_12_36_28.jpg">
 </div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" src="/images/img_9746.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_02_at_12_36_27__2_.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_02_at_12_36_27__3_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_02_at_12_36_27.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_02_at_12_36_27__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
