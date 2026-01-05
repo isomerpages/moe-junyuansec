@@ -24,7 +24,7 @@ are instilled, preparing them to serve their community and lead by example.</p>
 </div>
 <p><strong>Motto<br></strong>"Sure and Steadfast"</p>
 <p><strong>CCA Schedule &amp; CCA Venue<br></strong>Every Tuesday (3 pm to
-5.00 pm), alternate Saturday (8.45 am to 12 pm)
+5.00 pm), alternate Saturday (8.30 am to 12 pm)
 <br>School Parade Square / Classroom C1-01</p>
 <p><strong>Teachers-in-Charge</strong>
 </p>
@@ -63,7 +63,7 @@ are instilled, preparing them to serve their community and lead by example.</p>
 </tbody>
 </table>
 <p><strong>CCA Leaders (Year 2025)<br></strong>1. Company Sergeant Major
-(CCA Chair): Tan Kee Shin (3E)</p>
+(CCA Chair): Tan Kee Shyn (3E)</p>
 <p><strong>Awards/Achievements<br></strong>
 </p>
 <p>Company Award Achievements:</p>
@@ -193,7 +193,8 @@ are instilled, preparing them to serve their community and lead by example.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<strong>2024</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -215,33 +216,13 @@ are instilled, preparing them to serve their community and lead by example.</p>
 <p>&nbsp;Silver</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;GOLD</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h4><strong>Our Experiences</strong></h4>
-<p><em>2024 BB/GB Enrolment Service (Marching-in)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gdgd.jpg">
-</div>
-<p><em>2024 Enrolment Service speech by Outgoing CSM (right) with Incoming CSM (left)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tsj.jpg">
-</div>
-<p><em>2024 BB Blaze (National Competition)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 BB Blaze (National Competition)" src="/images/tjrtn.jpg">
-</div>
-<p><em>2024 BB Character Quest (National Competition)</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tjtjd.jpg">
-</div>
 <p><em>2024 BB Adventure Camp [Lunch break in the middle of our 16km trek]</em>
 </p>
 <div class="isomer-image-wrapper">
