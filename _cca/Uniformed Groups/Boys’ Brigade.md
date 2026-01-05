@@ -223,6 +223,43 @@ are instilled, preparing them to serve their community and lead by example.</p>
 </table>
 <hr>
 <h4><strong>Our Experiences</strong></h4>
+<p><em>2025 BB/GB Enrolment Service</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/abb3__1_.jpg">
+</div>
+<p><em>2025 BB Adventure Camp (Field Cooking and Shooting)</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__7_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__6_.jpg">
+</div>
+<p><em>2025 National Day Parade</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__5_.jpg">
+</div>
+<p><em>2025 BB Cares (Community Service)</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__4_.jpg">
+</div>
+<p><em>2025 Company Training Camp</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/abb3__2_.jpg">
+</div>
 <p><em>2024 BB Adventure Camp [Lunch break in the middle of our 16km trek]</em>
 </p>
 <div class="isomer-image-wrapper">
@@ -252,10 +289,10 @@ are instilled, preparing them to serve their community and lead by example.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jetndnd.jpg">
 </div>
 <hr>
-<p><strong>BB Day Message 2024 Video</strong>
+<p><strong>BB Day Message 2025 Video</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wifDO2ELN9M?si=0uMqK1vEV0Xne6VM"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nDC_z-Z8VIQ?si=LNAei4c7QngGK7he"></iframe>
 </div>
 <p><strong>Boys Brigade My CCA Journey</strong>
 </p>
