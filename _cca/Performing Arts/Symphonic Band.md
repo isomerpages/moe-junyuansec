@@ -81,10 +81,10 @@ together, develops character, and inspires excellence!</p>
 3.00 pm to 5.30 pm
 <br>Music Room and AVA Room (Level 3)</p>
 <p><strong>CCA Leaders (Year 2025 - 2026)<br></strong>1. Band Major: Rithvik
-Muppalaneni (Sec 3C)
-<br>2. Assistant Band Major: Koh Hao Yang Lukas (Sec 3B)
-<br>3. Assistant Band Major: NurD’Laila Ally Binte Saifulnizam (Sec 3E)</p>
-<p>4. Secretary: Tan Jia En Cherlin (Sec 3A)</p>
+Muppalaneni (Sec 4C)
+<br>2. Assistant Band Major: Koh Hao Yang Lukas (Sec 4B)
+<br>3. Assistant Band Major: NurD’Laila Ally Binte Saifulnizam (Sec 4E)</p>
+<p>4. Secretary: Tan Jia En Cherlin (Sec 4A)</p>
 <p><strong>Awards and Achievements</strong>
 </p>
 <p>SYF Arts Presentation Achievements:</p>
