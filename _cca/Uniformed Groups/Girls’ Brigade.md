@@ -108,6 +108,9 @@ the best of their abilities in everything they do.</p>
 <li>
 <p>C1-05 Classroom</p>
 </li>
+<li>
+<p>C1-04 Classroom</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -146,7 +149,7 @@ the best of their abilities in everything they do.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Hui Tian (<a href="mailto:tan_hui_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_tian@moe.edu.sg</a>)</p>
-<p>Miss Ong Ying Kai (<a href="mailto:ong_ying_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ying_kai@moe.edu.sg</a>)</p>
+<p>Ms Amy Wong (<a rel="noopener noreferrer nofollow" target="_blank">wong_siew_ying_a_1@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
@@ -157,9 +160,9 @@ the best of their abilities in everything they do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sharyn Ng (Captain)</p>
+<p>Miss Kimberly Peck (Captain)</p>
 <p>Ms Chiam Su-Lynn</p>
-<p>Miss Kimberly Peck</p>
+<p>Miss Sharyn Ng</p>
 <p>Miss Charis Chiang</p>
 </td>
 </tr>
@@ -186,7 +189,7 @@ the best of their abilities in everything they do.</p>
 <p>Company Sergeant Major (CSM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Yeng Kah Felix (3E)</p>
+<p>Chan Yeng Kah Felix</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +197,7 @@ the best of their abilities in everything they do.</p>
 <p>Assistant Sergeant Major (ASM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angel Ng Rui Ying (3C)</p>
+<p>Angel Ng Rui Ying</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +205,7 @@ the best of their abilities in everything they do.</p>
 <p>Drill Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charlene Tania Wijaya (3B)</p>
+<p>Charlene Tania Wijaya</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +213,7 @@ the best of their abilities in everything they do.</p>
 <p>Welfare Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shannel Goh (3B)</p>
+<p>Shannel Goh</p>
 </td>
 </tr>
 <tr>
@@ -218,9 +221,9 @@ the best of their abilities in everything they do.</p>
 <p>Squad Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Wen Xi Giselle (2A)</p>
-<p>Li Yuyan (2G)</p>
-<p>Asfirda Binti Ahmad Kamar (2E)</p>
+<p>Lim Wen Xi Giselle</p>
+<p>Li Yuyan</p>
+<p>Asfirda Binti Ahmad Kamar</p>
 </td>
 </tr>
 </tbody>
@@ -245,7 +248,8 @@ the best of their abilities in everything they do.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
@@ -296,9 +300,8 @@ the best of their abilities in everything they do.</p>
 </table>
 <p><strong>GB National Competitions</strong>
 </p>
-<table style="minWidth: 150px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -309,6 +312,10 @@ the best of their abilities in everything they do.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,14 +330,6 @@ the best of their abilities in everything they do.</p>
 <p><strong>2021</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -341,13 +340,10 @@ the best of their abilities in everything they do.</p>
 <p>Drill Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LGT Challenge</p>
+<p>Drill Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LGT Challenge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cancelled due to Covid-19</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LGT Challenge</p>
@@ -362,21 +358,18 @@ the best of their abilities in everything they do.</p>
 <p>Bronze</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Silver</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Highlights in 2024</strong></h4>
+<h4><strong>Highlights in 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -398,31 +391,39 @@ the best of their abilities in everything they do.</p>
 <p>GB Leadership Conference (Zoom)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Feb</p>
+<p>15 Feb</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BB &amp; GB Extended Parade (Laser Tag)</p>
+<p>BB &amp; GB Extended Parade (Rock Climbing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Mar</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BB &amp; GB Enrolment Service 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 Apr</p>
+<p>1 Mar</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Responders Plus Programme (RPP)</p>
+<p>BB &amp; GB Enrolment Service 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 May</p>
+<p>27 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GB Bonding Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 – 17 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NCOTC (Non-Commissioned Officers Training Camp)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 May – 2 Jun</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +431,7 @@ the best of their abilities in everything they do.</p>
 <p>GBFD (Friend in Deed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 Jul</p>
+<p>12 Jul</p>
 </td>
 </tr>
 <tr>
@@ -438,15 +439,7 @@ the best of their abilities in everything they do.</p>
 <p>JYSS National Day Observance Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Aug</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National UG Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 – 24 Aug</p>
+<p>8 Aug</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +447,7 @@ the best of their abilities in everything they do.</p>
 <p>Service Learning @ Kampong Senang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sep – Oct</p>
+<p>Aug</p>
 </td>
 </tr>
 <tr>
@@ -462,15 +455,15 @@ the best of their abilities in everything they do.</p>
 <p>GB Company Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 – 20 Oct</p>
+<p>17 – 19 Oct</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overseas Learning Journey to Bangkok, Thailand</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 – 18 Nov</p>
+<p></p>
 </td>
 </tr>
 </tbody>
