@@ -4,20 +4,27 @@ permalink: /student-information/student-timetable/
 description: ""
 variant: tiptap
 ---
-<p><strong>Student Timetable for Semester 2 2025</strong>
+<p><strong>Student Timetable for Semester 1 2026</strong>
 </p>
-<p><a href="/files/2025_Sem_2_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">2025_Sem_2_Class_TImetable</a>
+<p><a href="/files/2025_Sem_2_Class_Timetable.pdf" rel="noopener nofollow" target="_blank">2026_Sem_1_Class_Timetable</a>
 </p>
-<p>Students should use the Non-HBL Timetable for semester 2. The only exceptions
-are weeks with Friday HBL specifically:</p>
+<p>Students should refer to Timetable A. Timetable B will run during the
+four weeks in Semester 1 when HBL takes place on Friday: T1W7, T1W9, T2W4,
+and T2W8.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Term 3 Week 8: August 22, 2025 (Friday)</p>
+<p>Term 1 Week 7</p>
 </li>
 <li>
-<p>Term 4 Week 1: September 19, 2025 (Friday)</p>
+<p>Term 1 Week 9</p>
+</li>
+<li>
+<p>Term 2 Week 4</p>
+</li>
+<li>
+<p>Term 2 Week 8</p>
 </li>
 </ul>
-<p><a href="/files/EOY_Script_Check__Class_.pdf" rel="noopener nofollow" target="_blank">EOY_Script_Check</a>
-</p>
+<p></p>
+<p></p>
 <p></p>
