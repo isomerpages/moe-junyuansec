@@ -81,21 +81,21 @@ hone their skills but also cultivates confidence and resilience.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>President</u></strong>
 </p>
-<p>Manuel Isabella Sophia Uy 3D</p>
+<p>Manuel Isabella Sophia Uy</p>
 <p></p>
 <p><strong><u>Vice-president (Training)</u></strong>
 </p>
-<p>Alicia Jong Yi Xuan 3A</p>
-<p>Tara Ariana Binte Feroz 3C</p>
+<p>Alicia Jong Yi Xuan</p>
+<p>Tara Ariana Binte Feroz</p>
 <p>&nbsp;</p>
 <p><strong><u>Vice-president (Welfare)</u></strong>
 </p>
-<p>Koh Jun Xiang Ka’el 3E</p>
+<p>Koh Jun Xiang Ka’el</p>
 <p></p>
 <p><strong><u>Vice -president ( Publicity)</u></strong>
 </p>
-<p>Lei Simin Jetaime 3D</p>
-<p>Lee Yue Ting 3A</p>
+<p>Lei Simin Jetaime</p>
+<p>Lee Yue Ting</p>
 </td>
 </tr>
 <tr>
@@ -106,6 +106,7 @@ hone their skills but also cultivates confidence and resilience.</p>
 <td rowspan="1" colspan="1">
 <p><strong>SYF Arts Presentation Achievements</strong>
 </p>
+<p>2025 : ACCOMPLISHMENT</p>
 <p>2023 : DISTINCTION</p>
 <p>2021 : DISTINCTION</p>
 <p>2019 : DISTINCTION</p>
