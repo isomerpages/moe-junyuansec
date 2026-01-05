@@ -81,7 +81,7 @@ variant: tiptap
 <p></p>
 </li>
 </ol>
-<h4><strong>CCA Leaders (Year 2025)</strong></h4>
+<h4><strong>CCA Leaders (Year 2026)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -110,24 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JAYDEN TAN JIE LE</p>
+<p>Bryan Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NGUYEN BACH NGOC TUYET</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3A</p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -138,24 +124,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BRYAN WEE</p>
+<p>Oh Jia Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2E</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower</p>
+<p>Upper</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ELTON ZECHARIAH PUA EE</p>
+<p>Ho Jun Rui Aiden</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -166,16 +152,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHUA YUN CONG MAXIMUS</p>
+<p>Jayven Foo Tan Shi Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
