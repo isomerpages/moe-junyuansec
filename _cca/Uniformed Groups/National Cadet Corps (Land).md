@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h4><strong>CCA Overview</strong></h4>
 <p>The National Cadet Corps at Junyuan Secondary School aims to provide our
-students with opportunities to develop into resilient, disciplined, responsible
-and resourceful leaders.</p>
+students with opThe National Cadet Corps at Junyuan Secondary School aims
+to provide our students with opportunities to develop into resilient, disciplined,
+responsible and resourceful leaders.</p>
 <p>In NCC, our cadets are exposed to a wide range of activities both at school
 and HQ levels. Through these activities, the students develop and demonstrate
 the core values of NCC: Loyalty to Country, Uprightness, Leadership, Discipline,
@@ -28,7 +29,7 @@ Commitment and Responsibility and Care for Fellow Cadets.
 <h4><strong>Motto</strong></h4>
 <p>To Serve with Pride and dedication</p>
 <h4><strong>CCA Schedule &amp; CCA venue</strong></h4>
-<p>Every Tuesdays (3:00pm - 5:30pm) and selected Thursdays
+<p>Tuesday and/or Thursday
 <br>Parade Square/Classrooms</p>
 <h4><strong>Teachers-In-Charge</strong></h4>
 <p></p>
@@ -75,10 +76,10 @@ Commitment and Responsibility and Care for Fellow Cadets.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Khairin</p>
+<p>Mr Ng Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_khairin_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_khairin_kamaruddin@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_jun_wei_l@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -90,11 +91,8 @@ Commitment and Responsibility and Care for Fellow Cadets.
 <h4><strong>Awards/Achievements</strong></h4>
 <p><strong>Unit Recognition Award:<br></strong>
 </p>
-<table style="minWidth: 200px">
+<table style="minWidth: 125px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -108,47 +106,22 @@ Commitment and Responsibility and Care for Fellow Cadets.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2017</strong>
-</p>
+<p>2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2018</strong>
-</p>
+<p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2023</strong>
-</p>
+<p>2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Achievement</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -203,8 +176,8 @@ Finalist</p>
 <p></p>
 <p>"Nothing is IMPOSSIBLE. The word itself says 'I'M POSSIBLE!"'
 <br><strong>-&nbsp;Mr Kelvin Kim<em>&nbsp;</em></strong><em><br>“The hardest and biggest step is always the first. Try your best and forget the rest.”<br></em><strong>- Mr Twang</strong>
-<br><em>“If everyone is moving forward together, success will take care of itself”<br></em><strong>&nbsp;- Ms Eunice Goh</strong>
-<br><em>"Individually we are a drop, together we are an ocean"<br></em><strong>- Mdm Noor Khairin</strong>
+<br><em>“Tough times don’t last, tough men do”<br></em><strong>&nbsp;- Mr Ng</strong>
+<br><em>“Challenge yourself, growth follows”<br></em><strong>- Mr Thanesh</strong>
 </p>
 <p>“I am very happy and fortunate to have chosen NCC as my CCA. NCC is more
 than just about the Army. There are many activities offered such as HQ
