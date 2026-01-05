@@ -147,6 +147,7 @@ the best of their abilities in everything they do.</p>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Hui Tian (<a href="mailto:tan_hui_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_tian@moe.edu.sg</a>)</p>
 <p>Miss Ong Ying Kai (<a href="mailto:ong_ying_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ying_kai@moe.edu.sg</a>)</p>
+<p>Miss Wong Siew Ying (<a rel="noopener noreferrer nofollow" target="_blank">wong_siew_ying_a_1@moe.edu.sg</a>)</p>
 </td>
 </tr>
 <tr>
