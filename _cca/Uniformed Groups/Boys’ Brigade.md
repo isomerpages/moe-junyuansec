@@ -294,13 +294,7 @@ are instilled, preparing them to serve their community and lead by example.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nDC_z-Z8VIQ?si=LNAei4c7QngGK7he"></iframe>
 </div>
-<p><strong>Boys Brigade My CCA Journey</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7WOn5YcCEp0"></iframe>
-</div>
 <p></p>
-<p></p>
-<h4>“You don’t always need a plan, sometimes you need to just breath, trust, and let go to see what happens.”</h4>
-<p>- Ian Tay (CSM, 2024)</p>
+<h4>“Sometimes you need to step out of your comfort zone to grow and build courage.” &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+<p>- Tan Kee Shyn (CSM, 2025)</p>
 <p></p>
