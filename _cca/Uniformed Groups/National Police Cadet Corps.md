@@ -39,10 +39,10 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Ng</p>
+<p>Ms Cheong Wei Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
+<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wei_yuen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -57,29 +57,29 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Chee Teng</p>
+<p>Mr Feraj Amzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_chee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chee_teng@moe.edu.sg</a>
+<p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Wei Yuen</p>
+<p>Mr Augustine Seah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wei_yuen@moe.edu.sg</a>
+<p><a href="mailto:seah_wee_kiat_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders (Year 2025)<br></strong>1. Chairperson: Nurin Shaqilah
-Binte Mohamad Shariff (3D)</p>
+<p><strong>CCA Leaders (Year 2026)<br></strong>1. Chairperson: Nurin Shaqilah
+Binte Mohamad Shariff (4D)</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Deputy Chairperson: Sukainah Binte Mohamed Aslam (3C)</p>
+<p>Deputy Chairperson: Sukainah Binte Mohamed Aslam (4C)</p>
 </li>
 </ol>
 <p><strong>Awards/Achievements</strong>
