@@ -68,7 +68,7 @@ variant: tiptap
 <h4><strong>Teachers-in-Charge</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mrs Suganda /<a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
+<p>Ms Helen Chin /<a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
 </p>
 </li>
 <li>
@@ -81,7 +81,7 @@ variant: tiptap
 <p></p>
 </li>
 </ol>
-<h4><strong>CCA Leaders (Year 2025)</strong></h4>
+<h4><strong>CCA Leaders (Year 2026)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>JAYDEN TAN JIE LE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>4F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>NGUYEN BACH NGOC TUYET</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A</p>
+<p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -138,24 +138,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>BRYAN WEE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairperson</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ELTON ZECHARIAH PUA EE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>4B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -176,6 +162,76 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN WEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OH JIA LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HO JUN RUI AIDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYVEN FOO TAN SHI HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
