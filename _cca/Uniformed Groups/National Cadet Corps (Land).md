@@ -171,7 +171,7 @@ Finalist</p>
 <p><strong>Highlights of our CCA</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMWvMZPidhye-32z9hViVz4gbX_Sxqun8JfqvfsFYteGrV-CXJz0s-Q4xJlK9V4A/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="488" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgNzM_eRhVhbrAPaSD2MB1vJhtfdeEEf5Fpm7k48lDfyjmelAXIPwtIg9r5IkE5zBHw61SFVaJ6ecM/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p>"Nothing is IMPOSSIBLE. The word itself says 'I'M POSSIBLE!"'
@@ -179,55 +179,38 @@ Finalist</p>
 <br><em>“Tough times don’t last, tough men do”<br></em><strong>&nbsp;- Mr Ng</strong>
 <br><em>“Challenge yourself, growth follows”<br></em><strong>- Mr Thanesh</strong>
 </p>
-<p>“I am very happy and fortunate to have chosen NCC as my CCA. NCC is more
-than just about the Army. There are many activities offered such as HQ
-camps, air rifle shooting, competitions and fun courses. Through NCC, I
-have gained values such as teamwork, courage and responsibility. As the
-USM of my CCA, it also gave me a chance to lead and change myself to become
-a better person physically and mentally.”
-<br><strong>– MSG Abdul Ra’uf</strong>
+<p>I am truly grateful to be a part of NCC at my school because it has helped
+me grow both as a student and as a person. Being in NCC has taught me discipline,
+responsibility, and the importance of teamwork. Through drills, activities,
+and camps, I have learned to stay confident, focused, and respectful while
+working with others. NCC has also given me a sense of pride and belonging,
+motivating me to serve my school and community with dedication. I am thankful
+for the opportunities and values NCC has given me, and I feel proud to
+be a member of it.
+<br><strong>– MSG Nazhif </strong>
 </p>
-<p>“I am grateful to be a part of Junyuan NCC during my secondary school
-years. NCC has taught me useful values and skills which includes responsibility,
-discipline, and confidence. I am also fortunate to have fellow cadets who
-have supported me in the CCA. After being appointed as the ASM of the CCA,
-I started to learn more things and grow as a leader. I have stepped out
-of my comfort zone to lead the unit and worked as a team player to achieve
-a common goal.”
-<br><strong>- MSG Ahmad Syakir</strong>
+<p>I am glad that I chose NCC as my CCA during my secondary school journey.
+Over the years, NCC has helped me grow and step out of my comfort zone.
+Being given the role of Sec 1 Overall IC allowed me to gain more confidence
+and learn how to lead others better, even in a setting where I had to push
+myself further. Through the challenges and trainings, I became more independent
+and learnt to stay strong even when things were difficult. I am thankful
+for my peers who supported me throughout this journey and made NCC more
+meaningful. If I were to go back to Secondary One, I would still choose
+NCC without hesitation.
+<br><strong>- SSG Dian Afiqah</strong>
 </p>
 <p>I am truly blessed and thankful to be a member of NCC. This CCA has provided
-me with many enriching experiences such as going on camps, leadership courses
-as well as the opportunity of live firing. These activities helped to teach
-and instill values such as resilience, responsibility and adaptability
-in me, allowing me to lead my CCA more effectively and become a better
-individual overall.</p>
-<p>–<strong> MSG Ian Chan</strong>
+me with many Throughout my NCC journey so far, I have learned how to handle
+responsibilities better while having fun at the same time. NCC trainings
+were sometimes tough, but they were also exciting and enjoyable. I liked
+taking part in different activities with my friends and learning new skills.
+As I was given more responsibilities, I learned to be more disciplined
+and to take my role seriously. Even when training was tiring, I did not
+give up and tried my best. NCC has taught me the importance of hard work,
+teamwork, and responsibility. Overall, my NCC experience has been fun,
+exciting, and meaningful.</p>
+<p>–<strong> MSG Paxton</strong>
 </p>
-<p>I am very grateful to be part of NCC. This CCA has impacted my life in
-many ways and offered me many benefits which would help me in my future
-path. I learnt skills such as the ability to lead, think outside of the
-box and adapt to harsh environments both mentally and physically.&nbsp;
-I am also very fortunate to have many friends in Junyuan NCC as well as
-from other school units. I feel that through the failures and successes
-I experience, I have evolved and grown together with my fellow cadets as
-a team. As the Assistant Sergeant Major, i would like to say It has been
-an honour to serve as a National Cadet Corp cadet in Junyuan Secondary
-School as it has given me an unbreakable positive mindset, bonds to treasure,
-and through time, nurtured me to excel.</p>
-<p><strong>– MSG Muhd Arsyad</strong>
-</p>
-<p>I am very thankful for choosing NCC as my CCA during my secondary school
-journey. People might think that NCC is just drills like marching and standing
-in the sun for a long time but throughout the years in NCC, I have learnt
-that NCC is more than that. NCC has taught me important life principles
-such as responsibility, commitment and loyalty. As the Sec 2 Overall IC,
-I have grown to be an adaptive leader and am looking forward to more opportunities
-for me to lead and serve the CCA. NCC has also allowed me to experience
-fun and adventure while bonding with my fellow cadets. One of the most
-memorable experience I had this year was to participate in an overseas
-expedition to Mount Ophir. That expedition had taught me on patience and
-how to overcome challenges.</p>
-<p>– <strong>1SG Gabriel</strong>
-</p>
+<p></p>
 <p></p>
