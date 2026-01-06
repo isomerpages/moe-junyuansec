@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 <p>3. <a href="https://docs.google.com/spreadsheets/d/1X49Ca45MoXdpW4BK4N4BzJCnMoBFazwRBdHHwmvuiLM/edit?usp=sharing" rel="noopener nofollow" target="_blank">National Cadet Corps (NCC)</a>
 </p>
-<p>4. <a href="https://go.gov.sg/jyss-npcc-schedule" rel="noopener nofollow" target="_blank">National Police Cadet Corps (NPCC)</a>
+<p>4. <a href="https://docs.google.com/spreadsheets/d/103vn0i8idVse7yodShQycKczngBuRaZj/edit?gid=630538705#gid=630538705" rel="noopener nofollow" target="_blank">National Police Cadet Corps (NPCC)</a>
 </p>
 <p>5. <a href="https://docs.google.com/spreadsheets/d/1SuXTe-sWYTpIaD0syTIwWJXOD-31Ld4o1ALpeNR5THg/edit?gid=435351780#gid=435351780" rel="noopener nofollow" target="_blank">St. John Brigade (SJB)</a>
 </p>
