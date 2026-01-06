@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/jyss-pa-schedule" rel="noopener nofollow" target="_blank">AVA / PA Club</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1wWt61opBkkx3ZMamyEZNfABbGyZZGypO1g7on-rDal0/edit?gid=1309610762#gid=1309610762" rel="noopener nofollow" target="_blank">AVA / PA Club</a>
 </p>
 </li>
 </ul>
