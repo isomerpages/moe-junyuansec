@@ -360,7 +360,7 @@ third_nav_title: School Organisation
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Archery</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -390,7 +390,15 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Siti Amirah Binte Mohamed Arsad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -411,7 +419,23 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Sim Sarah Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anis Fazerina Mohamad Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -441,6 +465,14 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Lu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p>Rugby (Boys)</p>
 </td>
@@ -463,11 +495,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Amirah</p>
+<p>Mr Syed Mustafakamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_amirah_mohamed_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_amirah_mohamed_arsad@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -480,7 +511,7 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Track &amp; Field</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -510,15 +541,22 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahra</p>
+<p>Ms Chen Xing Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharifa_fatimatuzahra_a@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -576,7 +614,7 @@ third_nav_title: School Organisation
 <p>Infocomm Technology (Computing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Suganda</p>
+<p>Mrs Helen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wai_leng@moe.edu.sg</a>
@@ -627,11 +665,10 @@ third_nav_title: School Organisation
 <p>Audio Visual Aid (PA &amp; AVA Club)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Liyana Binte Ramlan</p>
+<p>Miss Arnita Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liyana_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_ramlan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
