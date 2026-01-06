@@ -187,11 +187,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Sui Lin</p>
+<p>Ms Png Wen Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_sui_lin@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -208,11 +207,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ong Ying Kai</p>
+<p>Ms Amy Wong Siew Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_ying_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ying_kai@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -247,22 +245,21 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Khairin</p>
+<p>Mr Ng Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_khairin_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_khairin_kamaruddin@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Ng</p>
+<p>Ms Cheong Wei Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yun_shi_jolene_ng@moe.edu.sg</u></a>
+<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_wei_yuen@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -286,11 +283,18 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Wei Yuen</p>
+<p>Mr Seah Wee Kiat Augustine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_wei_yuen@moe.edu.sg</u></a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Feraj s/o Amzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
