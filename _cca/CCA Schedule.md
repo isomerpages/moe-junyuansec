@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p>2. <a href="/files/BADMINTON_SCHEDULE_Term1_2026.pdf" rel="noopener nofollow" target="_blank">Badminton</a>
 </p>
-<p>3. <a href="https://go.gov.sg/jyss-basketball-schedule" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
+<p>3. <a href="https://tinyurl.com/JY-Basketball-Training" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
 <p>4. <a href="https://go.gov.sg/jyss-rugby-schedules" rel="noopener nofollow" target="_blank">Rugby (Boys)</a>
 </p>
@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 <p><strong>Clubs and Societies</strong>
 </p>
-<p>1. <a href="https://go.gov.sg/jyss-infocomm-schedule" rel="noopener nofollow" target="_blank">Infocomm Technology (Computing)</a>
+<p>1. <a href="https://docs.google.com/spreadsheets/d/1LQCYk8LnM1uNJSkaF_-kMzTnLCOTqe_DUxuDbqL_yDM/edit?usp=sharing" rel="noopener nofollow" target="_blank">Infocomm Technology (Computing)</a>
 </p>
 <p>2. Media Production Club</p>
 <ul data-tight="true" class="tight">
