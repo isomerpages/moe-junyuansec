@@ -8,17 +8,17 @@ variant: tiptap
 <p>Kindly refer to the following schedule for each CCA.</p>
 <p><strong>Sports</strong>
 </p>
-<p>1. Archery: <a href="https://docs.google.com/spreadsheets/d/1swiy7f3piZcb5D5KIlcuE0bhGYXh0jc4ix6FfIRXagw/edit#gid=902890303" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-archery-schedule</u></a>
+<p>1. <a href="https://go.gov.sg/jyss-archery-schedule" rel="noopener nofollow" target="_blank">Archery</a>
 </p>
-<p>2. Badminton: <a href="https://file.go.gov.sg/jyss-badminton-schedule-term3.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-badminton-schedule</u></a>
+<p>2. <a href="https://go.gov.sg/jyss-badminton-schedule" rel="noopener nofollow" target="_blank">Badminton</a>
 </p>
-<p>3. Basketball (Boys): <a href="https://docs.google.com/spreadsheets/d/1flTXKJhxLQIDNO7Bx2Siu1KbwC-kSMxj/edit?usp=sharing&amp;ouid=100489842546183031767&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-basketball-schedule</u></a>
+<p>3. <a href="https://go.gov.sg/jyss-basketball-schedule" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
-<p>4. Rugby (Boys): <a href="https://docs.google.com/document/d/1P8FA28mie9zrN7kpISne6V3Oc2WmmofG3hQRq6eGpNw/edit" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jyss-rugby-schedules</a>
+<p>4. <a href="https://go.gov.sg/jyss-rugby-schedules" rel="noopener nofollow" target="_blank">Rugby (Boys)</a>
 </p>
 <p>5. <a href="https://go.gov.sg/jysstrackandfield2026" rel="noopener nofollow" target="_blank">Track &amp; Field</a>
 </p>
-<p>6. Volleyball: <a href="https://docs.google.com/spreadsheets/d/17tSSEx_TptI8K6sCm-5xa1Ku5-b7J5OjfZwP-9a0FhI/edit#gid=1978245945" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-volleyball-schedule</u></a>
+<p>6. <a href="https://go.gov.sg/jyss-volleyball-schedule" rel="noopener nofollow" target="_blank">Volleyball</a>
 </p>
 <p><strong>Uniformed Groups</strong>
 </p>
