@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 <p>1. <a href="https://go.gov.sg/jyss-bb-schedule" rel="noopener nofollow" target="_blank">Boys' Brigade</a>
 </p>
-<p>2. <a href="https://go.gov.sg/jyss-gb-schedule" rel="noopener nofollow" target="_blank">Girls' Brigade</a><u><br></u>
+<p>2. <a href="https://docs.google.com/spreadsheets/d/1RyS5_868V6wy1UmilYrogAD2UefjgJWsv4BOUIob1d4/edit?gid=196471018#gid=196471018" rel="noopener nofollow" target="_blank">Girls' Brigade</a><u><br></u>
 </p>
 <p>3. <a href="https://docs.google.com/spreadsheets/d/1X49Ca45MoXdpW4BK4N4BzJCnMoBFazwRBdHHwmvuiLM/edit?usp=sharing" rel="noopener nofollow" target="_blank">National Cadet Corps (NCC)</a>
 </p>
