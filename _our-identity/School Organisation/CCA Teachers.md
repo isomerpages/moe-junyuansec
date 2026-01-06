@@ -25,7 +25,7 @@ third_nav_title: School Organisation
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,15 +38,24 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Cheng Ying</p>
+<p>Ms Chong Jia Yu Chelza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cheng_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_cheng_ying@moe.edu.sg</u></a>
+<p><a href="mailto:chong_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jia_yu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Jacklyn Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_wai_fun_jacklyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_wai_fun_jacklyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,6 +72,15 @@ third_nav_title: School Organisation
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_sihan_andre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_sihan_andre@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xue Wenjuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xue_wen_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xue_wen_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -101,7 +119,7 @@ third_nav_title: School Organisation
 <p>Symphonic Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Farouq bin Abdul Aziz</p>
+<p>Mr Farouq bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farouq_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farouq_abdul_aziz@moe.edu.sg</u></a>
@@ -110,7 +128,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Benson Lee</p>
+<p>Mr Benson Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_loong_ben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_teck_loong_ben@moe.edu.sg</u></a>
@@ -172,10 +190,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Sui Lin</p>
+<p>Ms Png Wen Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_sui_lin@moe.edu.sg</u></a>
+<p><a href="mailto:png_wen_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">png_wen_ann@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -193,10 +211,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ong Ying Kai</p>
+<p>Ms Amy Wong Siew Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_ying_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_ying_kai@moe.edu.sg</a>
+<p><a href="mailto:wong_siew_ying_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_siew_ying_a_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -232,22 +250,22 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Khairin</p>
+<p>Mr Ng Jun Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_khairin_kamaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noor_khairin_kamaruddin@moe.edu.sg</u></a>
+<p><a href="mailto:ng_jun_wei_l@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jun_wei_l@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Ng</p>
+<p>Ms Cheong Wei Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yun_shi_jolene_ng@moe.edu.sg</u></a>
+<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_wei_yuen@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -271,10 +289,19 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheong Wei Yuen</p>
+<p>Mr Seah Wee Kiat Augustine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wei_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_wei_yuen@moe.edu.sg</u></a>
+<p><a href="mailto:seah_wee_kiat_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Feraj s/o Amzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -341,7 +368,7 @@ third_nav_title: School Organisation
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Archery</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -371,7 +398,16 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Siti Amirah Binte Mohamed Arsad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_amirah_mohamed_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_amirah_mohamed_arsad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,7 +428,25 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Sim Sarah Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_sarah_nicole@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sarah_nicole@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anis Fazerina Mohamad Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anis_fazerina_mohamad_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anis_fazerina_mohamad_ibrahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p>Basketball (Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,6 +476,15 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liu Lu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liu_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="4" colspan="1">
 <p>Rugby (Boys)</p>
 </td>
@@ -444,10 +507,10 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Amirah</p>
+<p>Mr Syed Mustafakamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_amirah_mohamed_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_amirah_mohamed_arsad@moe.edu.sg</u></a>
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syed_mustafakamal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -461,7 +524,7 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Track &amp; Field</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -491,14 +554,23 @@ third_nav_title: School Organisation
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p>Volleyball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahra</p>
+<p>Ms Chen Xing Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharifa_fatimatuzahra_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharifa_fatimatuzahra_a@moe.edu.sg</u></a>
+<p><a href="mailto:chen_xingli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_xingli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -557,7 +629,7 @@ third_nav_title: School Organisation
 <p>Infocomm Technology (Computing)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Suganda</p>
+<p>Mrs Helen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_wai_leng@moe.edu.sg</a>
@@ -608,10 +680,10 @@ third_nav_title: School Organisation
 <p>Audio Visual Aid (PA &amp; AVA Club)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Liyana Binte Ramlan</p>
+<p>Miss Arnita Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liyana_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liyana_ramlan@moe.edu.sg</a>
+<p><a href="mailto:arnita_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arnita_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
