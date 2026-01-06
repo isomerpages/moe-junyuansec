@@ -22,15 +22,15 @@ variant: tiptap
 </p>
 <p><strong>Uniformed Groups</strong>
 </p>
-<p>1. Boys' Brigade: <a href="https://docs.google.com/spreadsheets/d/1UrF2pmaqUbaRTDuW2M6vWxf6X14LQMpy/edit#gid=1850618732" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-bb-schedule</u></a>
+<p>1. <a href="https://go.gov.sg/jyss-bb-schedule" rel="noopener nofollow" target="_blank">Boys' Brigade</a>
 </p>
-<p>2. Girls' Brigade: <a href="https://docs.google.com/spreadsheets/d/1RyS5_868V6wy1UmilYrogAD2UefjgJWsv4BOUIob1d4/edit#gid=1972980739" rel="noopener" target="_blank"><u>https://go.gov.sg/jyss-gb-schedule</u></a><u><br></u>
+<p>2. <a href="https://go.gov.sg/jyss-gb-schedule" rel="noopener nofollow" target="_blank">Girls' Brigade</a><u><br></u>
 </p>
 <p>3. <a href="https://docs.google.com/spreadsheets/d/1X49Ca45MoXdpW4BK4N4BzJCnMoBFazwRBdHHwmvuiLM/edit?usp=sharing" rel="noopener nofollow" target="_blank">National Cadet Corps (NCC)</a>
 </p>
-<p>4. National Police Cadet Corps (NPCC): <a href="https://docs.google.com/spreadsheets/d/103vn0i8idVse7yodShQycKczngBuRaZj/edit#gid=127127234" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-npcc-schedule</u></a>
+<p>4. <a href="https://go.gov.sg/jyss-npcc-schedule" rel="noopener nofollow" target="_blank">National Police Cadet Corps (NPCC) </a>
 </p>
-<p>5. St. John Brigade (SJB): <a href="https://docs.google.com/spreadsheets/d/1SuXTe-sWYTpIaD0syTIwWJXOD-31Ld4o1ALpeNR5THg/edit#gid=59951477" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/jyss-sjb</u></a>
+<p>5. <a href="https://go.gov.sg/jyss-sjb" rel="noopener nofollow" target="_blank">St. John Brigade (SJB)</a>
 </p>
 <p><strong>Performing Arts</strong>
 </p>
