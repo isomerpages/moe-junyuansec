@@ -86,8 +86,8 @@ Commitment and Responsibility and Care for Fellow Cadets.
 </tbody>
 </table>
 <h4><strong>CCA Leaders (Year 2025/2026)</strong></h4>
-<p>1.&nbsp; (CCA Chairman):&nbsp;Muhammad Nazhif Bin Muhammad Huzaifah (3-A)</p>
-<p>2.&nbsp; (CCA Vice Chairman): Ng Chung Kiat Paxton (3-D)</p>
+<p>1.&nbsp; (CCA Chairman):&nbsp;Muhammad Nazhif Bin Muhammad Huzaifah (4-A)</p>
+<p>2.&nbsp; (CCA Vice Chairman): Ng Chung Kiat Paxton (4-D)</p>
 <h4><strong>Awards/Achievements</strong></h4>
 <p><strong>Unit Recognition Award:<br></strong>
 </p>
