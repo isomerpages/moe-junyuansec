@@ -572,7 +572,7 @@ variant: tiptap
 <p>Tan Hui Tian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_tian@moe.edu.sg</a> 
+<p><a href="mailto:tan_hui_tian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_tian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -581,7 +581,7 @@ variant: tiptap
 <p>Nuraisha Bte Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nuraisha_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_azmi@moe.edu.sg</a> 
+<p><a href="mailto:nuraisha_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -593,7 +593,8 @@ variant: tiptap
 <p>Wee Eng Koon Jeremy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:wee_eng_khoon_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_eng_khoon_jeremy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -601,7 +602,7 @@ variant: tiptap
 <p>Ling Kay Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ling_kay_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_siong@moe.edu.sg</a> 
+<p><a href="mailto:ling_kay_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_kay_siong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -613,7 +614,7 @@ variant: tiptap
 <p>Muhammad Haziq Bin Mohamed Ashiq</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_haziq_mohamed_ashiq@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haziq_mohamed_ashiq@moe.edu.sg</a> 
+<p><a href="mailto:muhammad_haziq_mohamed_ashiq@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_haziq_mohamed_ashiq@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -622,7 +623,7 @@ variant: tiptap
 <p>Ong Si Jia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a> 
+<p><a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -634,7 +635,7 @@ variant: tiptap
 <p>Tan Chin Alicia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_alicia@moe.edu.sg</a> 
+<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_alicia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -655,7 +656,7 @@ variant: tiptap
 <p>Thng Wei Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_wei@moe.edu.sg</a> 
+<p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -664,7 +665,7 @@ variant: tiptap
 <p>Ng Kuan Shin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kuan_shin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kuan_shin@moe.edu.sg</a> 
+<p><a href="mailto:ng_kuan_shin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kuan_shin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -676,7 +677,7 @@ variant: tiptap
 <p>Tan Chwoon Ping Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chwoon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwoon_ping@moe.edu.sg</a> 
+<p><a href="mailto:tan_chwoon_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chwoon_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -685,7 +686,7 @@ variant: tiptap
 <p>Png Wen Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:png_wen_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">png_wen_ann@moe.edu.sg</a> 
+<p><a href="mailto:png_wen_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">png_wen_ann@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -697,7 +698,7 @@ variant: tiptap
 <p>Nadiah Bte Khamis&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadiah_khamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_khamis@moe.edu.sg</a> 
+<p><a href="mailto:nadiah_khamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah_khamis@moe.edu.sg</a>
 </p>
 </td>
 </tr>
