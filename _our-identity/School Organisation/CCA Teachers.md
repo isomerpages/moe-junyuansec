@@ -25,7 +25,7 @@ third_nav_title: School Organisation
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Drama</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,15 +38,22 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Cheng Ying</p>
+<p>Ms Chong Jia Yu Chelza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cheng_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_cheng_ying@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Jacklyn Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,6 +71,14 @@ third_nav_title: School Organisation
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_sihan_andre@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_sihan_andre@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Xue Wenjuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -101,7 +116,7 @@ third_nav_title: School Organisation
 <p>Symphonic Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Farouq bin Abdul Aziz</p>
+<p>Mr Farouq bin Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farouq_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farouq_abdul_aziz@moe.edu.sg</u></a>
@@ -110,7 +125,7 @@ third_nav_title: School Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Benson Lee</p>
+<p>Mr Benson Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_teck_loong_ben@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_teck_loong_ben@moe.edu.sg</u></a>
