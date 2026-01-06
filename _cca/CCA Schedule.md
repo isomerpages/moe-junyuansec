@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 <p>3. <a href="https://go.gov.sg/jyss-guitarensemble-schedule" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
 </p>
-<p>4. <a href="https://go.gov.sg/jyss-symphonicband-schedule" rel="noopener nofollow" target="_blank">Symphonic Band</a>
+<p>4. <a href="https://docs.google.com/spreadsheets/d/14q2L_qwQ0Ud9Z58ZnxBvroiaeQvY1I8QweVNLoy86ZQ/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Symphonic Band</a>
 </p>
 <p><strong>Clubs and Societies</strong>
 </p>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>2. Media Production Club</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/jyss-mediaproductions-schedule" rel="noopener nofollow" target="_blank">Photography / Editorial</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1sU1uzTgodfHpFZLwiu9vj9wnXXC7OeXosZ65SWhazc4/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Photography / Editorial</a>
 </p>
 </li>
 <li>
