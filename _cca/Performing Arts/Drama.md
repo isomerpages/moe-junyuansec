@@ -38,11 +38,10 @@ to 5.00 pm)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Cheng Ying</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cheng_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheng_ying@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
