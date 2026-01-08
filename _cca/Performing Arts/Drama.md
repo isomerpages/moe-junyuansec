@@ -38,10 +38,20 @@ to 5.00 pm)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chong Jia Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chong_jia_yu_zhang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jia_yu_zhang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kong Wai Fun Jacklyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_wai_fun_jacklyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kong_wai_fun_jacklyn@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
