@@ -35,7 +35,7 @@ variant: tiptap
 <p><strong>Performing Arts</strong>
 </p>
 <p>1. <a href="https://docs.google.com/spreadsheets/d/1PPGNUYyJqpg00pyLjdQ3nr36Etelf5yOnI2GYYGkpiA/edit?usp=drive_link" rel="noopener nofollow" target="_blank">Dance</a>&nbsp;</p>
-<p>2. <a href="https://go.gov.sg/jyss-drama-schedule" rel="noopener nofollow" target="_blank">Drama</a>
+<p>2. <a href="https://docs.google.com/spreadsheets/d/1t6ZDfX0Suk-TibFckoMLWk8OQKwVzgy2tM7zDKyRn1I/edit?usp=sharing" rel="noopener nofollow" target="_blank">Drama</a>
 </p>
 <p>3. <a href="https://go.gov.sg/jyss-guitarensemble-schedule" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
 </p>
