@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <p>3. <a href="https://tinyurl.com/JY-Basketball-Training" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
-<p>4. <a href="https://go.gov.sg/jyss-rugby-schedules" rel="noopener nofollow" target="_blank">Rugby (Boys)</a>
+<p>4. <a href="https://docs.google.com/document/d/1P8FA28mie9zrN7kpISne6V3Oc2WmmofG3hQRq6eGpNw/edit?tab=t.0" rel="noopener nofollow" target="_blank">Rugby (Boys)</a>
 </p>
 <p>5. <a href="https://go.gov.sg/jysstrackandfield2026" rel="noopener nofollow" target="_blank">Track &amp; Field</a>
 </p>
@@ -28,14 +28,14 @@ variant: tiptap
 </p>
 <p>3. <a href="https://docs.google.com/spreadsheets/d/1X49Ca45MoXdpW4BK4N4BzJCnMoBFazwRBdHHwmvuiLM/edit?usp=sharing" rel="noopener nofollow" target="_blank">National Cadet Corps (NCC)</a>
 </p>
-<p>4. <a href="https://go.gov.sg/jyss-npcc-schedule" rel="noopener nofollow" target="_blank">National Police Cadet Corps (NPCC)</a>
+<p>4. <a href="https://docs.google.com/spreadsheets/d/103vn0i8idVse7yodShQycKczngBuRaZj/edit?gid=630538705#gid=630538705" rel="noopener nofollow" target="_blank">National Police Cadet Corps (NPCC)</a>
 </p>
 <p>5. <a href="https://docs.google.com/spreadsheets/d/1SuXTe-sWYTpIaD0syTIwWJXOD-31Ld4o1ALpeNR5THg/edit?gid=435351780#gid=435351780" rel="noopener nofollow" target="_blank">St. John Brigade (SJB)</a>
 </p>
 <p><strong>Performing Arts</strong>
 </p>
 <p>1. <a href="https://docs.google.com/spreadsheets/d/1PPGNUYyJqpg00pyLjdQ3nr36Etelf5yOnI2GYYGkpiA/edit?usp=drive_link" rel="noopener nofollow" target="_blank">Dance</a>&nbsp;</p>
-<p>2. <a href="https://go.gov.sg/jyss-drama-schedule" rel="noopener nofollow" target="_blank">Drama</a>
+<p>2. <a href="https://docs.google.com/spreadsheets/d/1t6ZDfX0Suk-TibFckoMLWk8OQKwVzgy2tM7zDKyRn1I/edit?usp=sharing" rel="noopener nofollow" target="_blank">Drama</a>
 </p>
 <p>3. <a href="https://go.gov.sg/jyss-guitarensemble-schedule" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
 </p>
