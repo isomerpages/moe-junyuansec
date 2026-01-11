@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://junyuansec.moe.edu.sg/o-level-results-release-on-friday-10-january/" rel="noopener nofollow" target="_blank">O Level Results Release 2024</a>
+<p><a href="https://junyuansec.moe.edu.sg/o-level-results-release-on-wednesday-14-january/" rel="noopener nofollow" target="_blank">O Level Results Release 2025</a>
 </p>
 </li>
 </ol>
