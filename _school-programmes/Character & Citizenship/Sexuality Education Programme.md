@@ -73,12 +73,12 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>&nbsp;At JUNYUAN Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>&nbsp;At JUNYUAN Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE </strong></h4>
 <h4><strong>&nbsp;Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
@@ -183,7 +183,7 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +315,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -344,7 +344,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -376,7 +376,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -463,7 +463,7 @@ is important when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 4</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -503,7 +503,7 @@ and friends are important pillars of support</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 5</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -538,7 +538,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -673,7 +673,7 @@ relationship</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -714,7 +714,7 @@ of their marriage</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -744,7 +744,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -830,7 +830,7 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 7</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 <tr>
@@ -853,20 +853,23 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <p><strong><em><u>eTeens</u></em><u>&nbsp;Programme</u></strong>:</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
-programme developed by Health Promotion Board, in collaboration with the
-Ministry of Education, to provide Secondary 3 students with accurate information
-on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
-skills such as decision-making, assertiveness and negotiation to say “no”
-to sex and negative peer pressure. They also learn that the impact of STIs/HIV
-extends beyond themselves and involves their family, and the importance
-of responsible decision-making and seeking help. Abstinence and upholding
-family values are the key messages.</p>
-<p><strong>At Junyuan Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide Secondary 3 students with accurate information
+on STIs, HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. <em>eTeens</em> is conducted in two segments – a mass talk segment and
+a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+as decision-making, assertiveness and negotiation to say “no” to sex and
+negative peer pressure. They also learn that the impact of STIs/HIV extends
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<p><strong>At Junyuan Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -905,7 +908,7 @@ and consistent condom use).</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -922,30 +925,32 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Information for Parents</strong>
 </p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
-out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
-sexuality education programmes by MOE-approved external providers.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
-children out of the <strong>Sexuality Education lessons</strong> need to
-complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadabe <a href="/files/2026_Parent_Opt_Out_Form___JYSS.pdf" rel="noopener nofollow" target="_blank">here. </a>The completed
-form is to be submitted by 29/01/2025.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
-children out of the <strong><em>eTeens</em> programme</strong> need to complete
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/eTeens_Parents_Opt_out_Form__Sec__HPB_.pdf" rel="noopener nofollow" target="_blank">here</a>. &nbsp;The
-completed form is to be submitted by 29/01/2025.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at (<a rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a> or
-<a href="tel:+6565873683" rel="noopener noreferrer nofollow" target="_blank">+65 6587 3683</a>) for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
+of the year and is also available <a href="/files/2026_Parent_Opt_Out_Form___JYSS.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed
+form is to be submitted by 23/01/2026.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also available <a href="/files/eTeens_Parents_Opt_out_Form__Sec__CDA_for_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.
+&nbsp;The completed form is to be submitted by 23/01/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
+<a rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a>for discussion or to seek clarification about
+the school’s Sexuality Education programme.</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
