@@ -78,7 +78,7 @@ which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Picture14.jpg">
 </div>
-<h4><strong>2026 Sexuality Education Lessons in CCE </strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>&nbsp;Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
