@@ -25,7 +25,8 @@ they are at home.&nbsp;</p>
 <h4><strong>Schedule</strong></h4>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>HBL days will be conducted throughout Semester 1 on the following days:</p>
+<p><strong>HBL days will be conducted throughout Semester 1 on the following days:</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -35,16 +36,13 @@ they are at home.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level</strong>
-</p>
+<p>Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 1</strong>
-</p>
+<p>Term 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Term 2</strong>
-</p>
+<p>Term 2</p>
 </td>
 </tr>
 <tr>
@@ -52,33 +50,142 @@ they are at home.&nbsp;</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Jan 2025 (Fri)</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 May 2025 (Fri)</p>
-<p>30 May 2025 (Fri)</p>
+<p>Week 2 – 2 April (Thur)</p>
+<p>Week 10 – 29 May</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 7 – 20 Feb</p>
+<p>Week 9 – 6 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 2 – 2 April (Thur)</p>
+<p>Week 4 – 17 April</p>
+<p>Week 8 – 15 May</p>
+<p>Week 10 – 29 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sec 3</p>
-<p>Sec 4 and 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Jan 2025 (Fri)</p>
-<p>14 Mar 2025 (Fri)</p>
+<p>Week 7 – 20 Feb</p>
+<p>Week 9 – 6 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 April 2025 (Fri)</p>
-<p>2 May 2025 (Fri)</p>
-<p>16 May 2025 (Fri)</p>
-<p>30 May 2025 (Fri)</p>
+<p>Week 2 – 2 April (Thur)</p>
+<p>Week 4 – 17 April</p>
+<p>Week 8 – 15 May</p>
+<p>Week 10 – 29 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 7 – 20 Feb</p>
+<p>Week 9 – 6 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 2 – 2 April (Thur)</p>
+<p>Week 4 – 17 April</p>
+<p>Week 8 – 15 May</p>
+<p>Week 10 – 29 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p><strong>HBL days will be conducted throughout Semester 2 on the following days:</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 3 – 14 to 16 July</p>
+<p>Week 8 – 21 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 2 – 25 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 3 – 14 to 16 July</p>
+<p>Week 8 – 21 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 2 – 25 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 3 – 14 to 16 July</p>
+<p>Week 8 – 21 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 2 – 25 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Week 3 – 14 to 16 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ol>
 <h4><strong>Instructions to Students</strong></h4>
