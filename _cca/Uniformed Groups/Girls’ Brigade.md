@@ -172,6 +172,20 @@ the best of their abilities in everything they do.</p>
 <img style="width: 70%;" height="auto" width="100%" src="/images/gb4.jpg">
 </div>
 <h4><strong>CCA Leaders (2025-2026)</strong></h4>
+<p>I am grateful to be part of Girls’ Brigade, even though it was not my
+first choice when I joined. Over the years, GB has become one of the most
+meaningful parts of my secondary school journey. In GB, I was given the
+opportunity to participate in the overseas learning journey in sec 2, where
+I benefited greatly from the exposure and growth. At home, my eldest sister
+often shares her positive experience in GB, where she also took part in
+the same overseas learning journey, which I now can relate to. I have had
+the opportunity to be part of the SG60 NDP contingent, as well as be the
+parade commander in our school NDP. Through these experiences, as well
+as various trainings, camps, and activities, GB has helped me grow in discipline,
+confidence, teamwork, and resilience. If not for GB, I would not have had
+the chance to experience so many opportunities or grow so much, and I am
+truly thankful to be part of this GB family.</p>
+<p>- CSM Felix Chan</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
