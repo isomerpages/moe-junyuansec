@@ -834,6 +834,7 @@ of showing respect to the opposite sex by using appropriate words and actions.
 Students will examine personal boundaries from different perspectives and
 learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -914,11 +915,18 @@ are the key messages.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
+on:</p>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact
+<br>
+</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;c)&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way, including avenues for help-seeking.</p>
 </li>
 </ul>
 </td>
