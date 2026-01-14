@@ -120,9 +120,8 @@ which are of prime concern at this age.</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Steady or Not</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>Steady or Not Lesson 1
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson helps students understand more about relationship building
@@ -145,7 +144,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>recognise the importance and understand what builds healthy and supportive
+<p>recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
@@ -170,8 +169,10 @@ sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
 of self.&nbsp;</p>
-<p>&nbsp;<em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -199,6 +200,7 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -293,11 +295,14 @@ as doing household chores) and how gender stereotypes are formed. &nbsp;Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
+<p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
+<p>&nbsp;</p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
