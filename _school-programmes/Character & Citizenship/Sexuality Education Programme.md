@@ -108,8 +108,7 @@ which are of prime concern at this age.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -266,14 +265,11 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
-</p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<br>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -282,26 +278,23 @@ etc.)</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Role for Everyone</p>
-<p>Lesson 1</p>
-<p>(60 mins)</p>
+<p>A Role for Everyone
+<br>Lesson 1
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
 one’s perception of their gender roles. Students will learn what gender
 stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. &nbsp;Students
+as doing household chores) and how gender stereotypes are formed. Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
-<p>&nbsp;</p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
-<p>&nbsp;</p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -324,9 +317,9 @@ as a male or female</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Safety Challenge</p>
-<p>Lesson 2A</p>
-<p>(60 mins)</p>
+<p>Online Safety Challenge
+<br>Lesson 2A
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
@@ -335,10 +328,8 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
-<p>&nbsp;</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+<p>&nbsp;<em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -355,9 +346,9 @@ both online and offline</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Do I or Don’t I</p>
-<p>Lesson 2B</p>
-<p>(60 mins)</p>
+<p>Do I or Don’t
+<br>Lesson 2B
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on respect for personal boundaries; and how to be
@@ -367,7 +358,6 @@ This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -430,14 +420,11 @@ both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
-</p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<br>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -446,9 +433,9 @@ both offline and online</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Love Yourself, Love Others</p>
-<p>Lesson 1A</p>
-<p>(60 mins)</p>
+<p>Love Yourself, Love Others
+<br>Lesson 1A
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on dating respectfully in healthy relationships. Students
@@ -483,8 +470,8 @@ is important when entering into a dating relationship</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mending a Broken Heart Lesson 1B</p>
-<p>(60 mins)</p>
+<p>Mending a Broken Heart Lesson 1B
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
@@ -523,9 +510,9 @@ and friends are important pillars of support</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>When Respect Takes Centre Stage</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>When Respect Takes Centre Stage
+<br>Lesson 2
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically and make informed decisions
@@ -599,8 +586,8 @@ alignment with our beliefs</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Objectives<br>At the end of the lesson, students will be able to:</strong>
-</p>
+<p><strong>Lesson Objectives<br></strong>At the end of the lesson, students
+will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD<br>(e.g. Term 1 Week 2)</strong>
@@ -612,8 +599,9 @@ alignment with our beliefs</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Levelling the Ground Lesson 1</p>
-<p>(60 mins)</p>
+<p>Levelling the Ground
+<br>Lesson 1
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically about gender stereotypes
@@ -647,9 +635,9 @@ and should be avoided</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>When Love Hurts</p>
-<p>Lesson 2</p>
-<p>(60 mins)</p>
+<p>When Love Hurts
+<br>Lesson 2
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students recognise unhealthy relationships and
@@ -695,9 +683,9 @@ relationship</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Better or For Worse</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
+<p>For Better or For Worse
+<br>Lesson 3
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on building a positive relationship with one’s partner
@@ -736,9 +724,9 @@ of their marriage</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There’s Always More to a Story</p>
-<p>Lesson 4</p>
-<p>(60 mins)</p>
+<p>There’s Always More to a Story
+<br>Lesson 4
+<br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will revisit the impact of pornography and deepen
@@ -805,14 +793,11 @@ alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
-</p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<br>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
@@ -821,8 +806,8 @@ alignment with our beliefs</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This is Where I Draw the Line</p>
-<p>(60 mins)</p>
+<p>This is Where I Draw the Line
+<br>(60 mins)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -903,7 +888,8 @@ are the key messages.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Time Period<br>(e.g. Term 3 Week 9)</strong>
+<p><strong>Time Period</strong>
+<br><strong>(e.g. Term 3 Week 9)</strong>
 </p>
 </td>
 </tr>
@@ -914,8 +900,7 @@ are the key messages.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
-on:</p>
+<p>Raise awareness and provide knowledge on:</p>
 <p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
