@@ -459,16 +459,24 @@ well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
 entering into a dating relationship.&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>know that self-perception and identity have an impact on our self-esteem
 and how we interact with others and the choices we make, both online and
 offline</p>
+</li>
+<li>
 <p>understand that expectations of oneself and others may differ and can
 affect one’s emotions, thoughts and behaviours</p>
+</li>
+<li>
 <p>recognise what healthy dating relationships involve and know that readiness
 is important when entering into a dating relationship</p>
-<p>&nbsp;</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 5</p>
@@ -481,7 +489,7 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
@@ -616,7 +624,7 @@ as main caregivers in the family), and the impact of these stereotypes
 on individuals. Students will learn to be aware of possible gender stereotypes
 that may affect one’s family and future decisions. They will also learn
 to reframe their perspectives and not judge others based on their own or
-others’ values and principles, with regard to gender stereotypes.</p>
+others’ values and principles, with regard to gender stereotypes</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -630,8 +638,6 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </li>
 </ul>
-<p><em>&nbsp;</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 7</p>
@@ -656,6 +662,7 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -699,9 +706,9 @@ in a marriage. Students will understand that while a marriage, defined
 in Singapore as a union between a man and a woman, requires mutual commitment
 and effort like the other relationships in their lives, what sets a marriage
 apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
+matters in &nbsp;sustaining and maintaining a long-term romantic relationship
+that leads to marriage, is understanding the other person’s perspective
+and effectively communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
