@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Student Timetable for Semester 1 2026</strong>
 </p>
-<p><a href="/files/Sem_1_2026_Class_Timetable_v10.pdf" rel="noopener nofollow" target="_blank">2026_Sem_1_Class_Timetable</a>
+<p><a href="/files/Sem_1_2026_Class_Timetable_v11.pdf" rel="noopener nofollow" target="_blank">2026_Sem_1_Class_Timetable</a>
 </p>
 <p>To help you plan your Semester 1 schedule, please take note of how Timetable
 A and Timetable B work.</p>
