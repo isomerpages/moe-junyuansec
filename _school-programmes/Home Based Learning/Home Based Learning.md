@@ -53,53 +53,34 @@ they are at home.&nbsp;</p>
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Week 2 – 2 April (Thur)</p>
-<p>Week 10 – 29 May</p>
+<p>2 April 2026 (Thur)</p>
+<p>29 May 2026 (Fri)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Week 7 – 20 Feb</p>
-<p>Week 9 – 6 Mar</p>
+<td rowspan="3" colspan="1">
+<p>20 Feb 2026 (Fri)</p>
+<p>6 Mar 2026 (Fri)</p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Week 2 – 2 April (Thur)</p>
-<p>Week 4 – 17 April</p>
-<p>Week 8 – 15 May</p>
-<p>Week 10 – 29 May</p>
+<td rowspan="3" colspan="1">
+<p>2 April 2026 (Thur)</p>
+<p>17 April 2026 (Fri)</p>
+<p>15 May 2026 (Fri)</p>
+<p>29 May 2026 (Fri)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 3</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Week 7 – 20 Feb</p>
-<p>Week 9 – 6 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week 2 – 2 April (Thur)</p>
-<p>Week 4 – 17 April</p>
-<p>Week 8 – 15 May</p>
-<p>Week 10 – 29 May</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 4 &amp; 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week 7 – 20 Feb</p>
-<p>Week 9 – 6 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week 2 – 2 April (Thur)</p>
-<p>Week 4 – 17 April</p>
-<p>Week 8 – 15 May</p>
-<p>Week 10 – 29 May</p>
 </td>
 </tr>
 <tr>
@@ -141,36 +122,23 @@ they are at home.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Sec 1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Week 3 – 14 to 16 July</p>
-<p>Week 8 – 21 Aug</p>
+<p>21 Aug 2026 (Fri)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Week 2 – 25 Sep</p>
+<td rowspan="3" colspan="1">
+<p>25 Sep 2026 (Fri)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 2</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Week 3 – 14 to 16 July</p>
-<p>Week 8 – 21 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week 2 – 25 Sep</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sec 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week 3 – 14 to 16 July</p>
-<p>Week 8 – 21 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Week 2 – 25 Sep</p>
 </td>
 </tr>
 <tr>
