@@ -35,15 +35,10 @@ JAE, DSA-JC, EAE, etc.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" src="/images/ecg1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;" height="auto" width="100%" src="/images/Screenshot_2025_01_09_124842.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_15_at_13_20_58.jpg">
 </div>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
