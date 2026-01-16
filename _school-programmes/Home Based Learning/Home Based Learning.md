@@ -62,8 +62,8 @@ they are at home.&nbsp;</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>20 Feb 2026 (Fri)</p>
-<p>6 Mar 2026 (Fri)</p>
+<p>20 Feb 2026 (Fri)
+<br>6 Mar 2026 (Fri)</p>
 <p></p>
 </td>
 <td rowspan="3" colspan="1">
@@ -97,6 +97,9 @@ they are at home.&nbsp;</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_083546.jpg">
+</div>
 <p><strong>HBL days will be conducted throughout Semester 2 on the following days:</strong>
 </p>
 <p></p>
@@ -123,7 +126,10 @@ they are at home.&nbsp;</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>14 to 16 July 2026</p>
+<p>14 to 16 July 2026
+<br>(Tue, Wed, Thurs)
+<br>
+</p>
 <p>21 Aug 2026 (Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
