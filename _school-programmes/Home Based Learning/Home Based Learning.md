@@ -123,7 +123,7 @@ they are at home.&nbsp;</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Week 3 – 14 to 16 July</p>
+<p>14 to 16 July 2026</p>
 <p>21 Aug 2026 (Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -146,7 +146,7 @@ they are at home.&nbsp;</p>
 <p>Sec 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Week 3 – 14 to 16 July</p>
+<p>14 to 16 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
