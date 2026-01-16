@@ -27,139 +27,16 @@ they are at home.&nbsp;</p>
 <li>
 <p><strong>HBL days will be conducted throughout Semester 1 on the following days:</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 April 2026 (Thur)</p>
-<p>29 May 2026 (Fri)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>20 Feb 2026 (Fri)
-<br>6 Mar 2026 (Fri)</p>
-<p></p>
-</td>
-<td rowspan="3" colspan="1">
-<p>2 April 2026 (Thur)</p>
-<p>17 April 2026 (Fri)</p>
-<p>15 May 2026 (Fri)</p>
-<p>29 May 2026 (Fri)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_083546.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_083546d.jpg">
 </div>
 <p><strong>HBL days will be conducted throughout Semester 2 on the following days:</strong>
 </p>
 <p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>14 to 16 July 2026
-<br>(Tue, Wed, Thurs)
-<br>
-</p>
-<p>21 Aug 2026 (Fri)</p>
-</td>
-<td rowspan="3" colspan="1">
-<p>25 Sep 2026 (Fri)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 to 16 July 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_084511.jpg">
+</div>
 </li>
 </ol>
 <h4><strong>Instructions to Students</strong></h4>
