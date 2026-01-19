@@ -37,6 +37,9 @@ your level carefully to see if you should be in school or at home.</p>
 <li>
 <p>Term 2, Week 8</p>
 </li>
+<li>
+<p>Term 2, Week 10</p>
+</li>
 </ul>
 <p>Note: For all other weeks not listed above, everyone should follow Timetable
 A.</p>
