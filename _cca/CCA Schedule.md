@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <p>1. <a href="https://docs.google.com/spreadsheets/d/1swiy7f3piZcb5D5KIlcuE0bhGYXh0jc4ix6FfIRXagw/edit?gid=902890303#gid=902890303" rel="noopener nofollow" target="_blank">Archery</a>
 </p>
-<p>2. <a href="/files/BADMINTON_SCHEDULE_Term1_2026.pdf" rel="noopener nofollow" target="_blank">Badminton</a>
+<p>2. <a href="/files/BADMINTON_SCHEDULE_Term1_2026__1_.pdf" rel="noopener nofollow" target="_blank">Badminton</a>
 </p>
 <p>3. <a href="https://tinyurl.com/JY-Basketball-Training" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
