@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Junyuan Secondary Learning Assessment Policy 2026</strong></h4>
-<p><a href="/files/Junyuan_Secondary_Learning_Assessment_Policy_2025.pdf" rel="noopener nofollow" target="_blank">Junyuan Secondary Learning Assessment Policy 2025</a>
+<p><a href="/files/Junyuan_Secondary_Learning_Assessment_Policy_2026__21_Jan_2026_.pdf" rel="noopener nofollow" target="_blank">Junyuan Secondary Learning Assessment Policy 2026</a>
 </p>
-<p><a href="/files/Letter_to_parents_on_Learning_and_Assessment_2025.pdf" rel="noopener nofollow" target="_blank">Letter to parents on Learning and Assessment 2025</a>
+<p><a href="/files/Letter_to_parents_on_Learning_and_Assessment_2026__21_Jan_2026_.pdf" rel="noopener nofollow" target="_blank">Letter to parents on Learning and Assessment 2026</a>
 </p>
 <p><a href="/files/Annex_A___FAQ__for_parents____Removing_MYE.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - FAQ for parents - Removing MYE</a>
 </p>
