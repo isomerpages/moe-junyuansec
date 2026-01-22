@@ -15,9 +15,11 @@ variant: tiptap
 <p><strong>To be updated.</strong>
 </p>
 <h4><strong>Secondary 1</strong></h4>
-<p></p>
+<p><a href="/files/Level_LAPs_2026_Sec_1_Sem_1__13_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 1_Sem 1</a>
+</p>
 <h4><strong>Secondary 2</strong></h4>
-<p></p>
+<p><a href="/files/Level_LAPs_2026_Sec_2_Sem_1__13_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 2_Sem 1 </a>
+</p>
 <h4><strong>Secondary 3</strong></h4>
 <p><a href="/files/Level_LAPs_2026_Sec_3_Sem_1__13_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 3_Sem 1</a>
 </p>
