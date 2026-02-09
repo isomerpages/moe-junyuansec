@@ -66,7 +66,7 @@ JAE, DSA-JC, EAE, etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/jaebooklet" rel="noopener noreferrer nofollow" target="_blank">O-level Joint Admissions Exercise (JAE)</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">O-level Joint Admissions Exercise (JAE)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
