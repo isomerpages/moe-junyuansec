@@ -377,6 +377,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Amy Wong Siew Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_siew_ying_a_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_siew_ying_a_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ling Kay Siong</p>
 </td>
 <td rowspan="1" colspan="1">
