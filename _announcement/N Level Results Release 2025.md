@@ -14,7 +14,7 @@ to access the briefing slides and other useful resources.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/a-guide-to-post-secondary-admissions-exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">Post Secondary Admission Exercises Booklet</a>
+<p><a href="https://www.moe.gov.sg/api/media/343f646d-986a-4496-b981-063d6d9346cc/A-Guide-to-Post-Secondary-Admissions-Exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">Post Secondary Admission Exercises Booklet</a>
 </p>
 </li>
 <li>
