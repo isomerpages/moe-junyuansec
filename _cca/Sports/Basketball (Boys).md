@@ -93,41 +93,17 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <br>T-Net Basketball Tournament (C Div) 2019 -2nd
 <br>T-Net Basketball Tournament (C Div) 2018 - 4th</p>
 <hr>
-<p><strong>C boys School Team 2025</strong>
+<p><strong>C Boys School Team 2025</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/t.jpg">
 </div>
-<p><strong>B boys School Team 2025</strong>
+<p><strong>B Boys School Team 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__11_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b1BK__1_.jpg">
 </div>
-<p><strong>Start of NSG B Boys Basketball&nbsp;Championship</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Basketballboys__10_.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__9_.jpg">
-</div>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p><strong>Our boys in action. Let’s go!!</strong>
+<p><strong>NSG B Boys Basketball&nbsp;Championship</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -138,13 +114,13 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__8_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b1BK__2_.jpg">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__7_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b1BK__3_.jpg">
 </div>
 <p></p>
 </th>
@@ -152,52 +128,26 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b1BK__4_.jpg">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b1BK__5_.jpg">
 </div>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Let’s give our best!!</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__3_.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__4_.jpg">
-</div>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Each of us have something to contribute, and our part to play.</strong>
-</p>
-<h4><strong>Our Journey</strong></h4>
-<p><strong><u>Junyuan Cup 2024</u></strong>
+<h4><strong>Value-Added Activities </strong></h4>
+<p><strong><u>Junyuan Cup 2025</u></strong>
 </p>
 <p>The Junyuan Cup is an annual basketball tournament organized by Junyuan
-Secondary School. This year, we invited Yuying Secondary School, Ngee Ann
-Secondary School, National Junior College, St. Joseph’s Institution, and
-North Vista Secondary School to participate.</p>
+Secondary School. This year, we invited Regent Secondary School, Ngee Ann
+Secondary School, National Junior College, St. Joseph’s Institution, Temasek
+Junior College and North Vista Secondary School to participate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__2_.jpg">
 </div>
