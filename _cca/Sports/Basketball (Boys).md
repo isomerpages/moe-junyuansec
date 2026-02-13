@@ -141,7 +141,7 @@ Zone Schools Tournament (B Div) 2023-Top 8
 </tr>
 </tbody>
 </table>
-<h4><strong>Value-Added Activities </strong></h4>
+<h4><strong>Value-Added Activities</strong></h4>
 <p><strong><u>Junyuan Cup 2025</u></strong>
 </p>
 <p>The Junyuan Cup is an annual basketball tournament organized by Junyuan
@@ -158,29 +158,8 @@ they played. They fought for each ball and gave their best to make Junyuan
 proud. They carried themselves well and showed much perseverance and focus.
 They remembered their CCA motto – United We Stand. Every Basketball boy
 who competed came back a winner!</p>
-<p><strong>Participating Schools Team Photo.</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketballboys__1_.jpg">
-</div>
-<p><strong><u>Junyuan U15 Tournament 2024</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1a.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1b.jpg">
-</div>
-<p>The Junyuan Cup returned in March as the Junyuan U15 Tournament 2024,
-a competition for C Division boys. National Junior College, Loyang View
-Secondary, Yuying Secondary School, and St. Joseph's Institution were invited
-to participate. This tournament allowed the Junyuan C Division team to
-enhance their camaraderie and teamwork, ultimately preparing them for the
-upcoming National School Games C Boys Basketball Championship.</p>
 <p><strong><u>Basketball Game Officials - Inter-School Pentangular (ISP) Sports Carnival 2024</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d.png">
 </div>
@@ -196,4 +175,24 @@ upcoming National School Games C Boys Basketball Championship.</p>
 for the 2024 Inter-School Pentangular Sports Carnival at St Hilda's Secondary
 School. This experience contributed to their ongoing basketball development.
 The boys excelled in refereeing the games, ensuring a smooth competition.</p>
+<h4><strong>Introducing the 2026 Player of the Month Award</strong></h4>
+<p>Starting this year, we are proud to launch our inaugural Player of the
+Month program. This award is designed to recognize student-athletes who
+embody excellence through a balance of athletic skill, heart, and academic
+integrity.</p>
+<p>To earn this honor, students are evaluated across three key pillars:</p>
+<p>1. Skill &amp; Improvement: Athletes who commit to getting better every
+single day.</p>
+<p>2. Effort &amp; Attitude: A true leader is defined by their heart and
+hustle.</p>
+<p>3. Discipline &amp; School Conduct: A leader on the team must be a leader
+in the classroom.</p>
+<p><strong>Announcing Our Player of the Month!</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/b1BK__7_.jpg">
+</div>
+<p>We are thrilled to announce that Mandhare Tanmay Rajesh (Class 4A) has
+been named our Player of the Month for January!</p>
+<p>Please join us in congratulating him on this well-deserved achievement!</p>
