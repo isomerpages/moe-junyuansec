@@ -64,7 +64,7 @@ hone their skills but also cultivates confidence and resilience.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Priscilla Vanessa Louis (<a href="mailto:priscilla_vanessa_louis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_vanessa_louis@moe.edu.sg</a>)</p>
-<p>Ms Ong Si JIa (<a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a>)</p>
+<p>Ms Ong Si Jia (<a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a>)</p>
 <p>Ms Kwok Hui Ning Grace (<a href="mailto:grace_kwok_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_kwok_hui_ning@moe.edu.sg</a>)</p>
 <p></p>
 </td>
@@ -129,7 +129,7 @@ hone their skills but also cultivates confidence and resilience.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6RXIWCmoas?si=t-e9gRUxHhrbb88C"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6RXIWCmoas?si=t-e9gRUxHhrbb88C"></iframe>
 </div>
 <p>“Before joining the CCA, I lacked confidence and didn’t dare to express
 what I loved doing. After joining the CCA, I made many friends from diverse

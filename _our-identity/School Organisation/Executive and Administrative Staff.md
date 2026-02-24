@@ -176,6 +176,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Tay Po Choo, Margaret</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wu Xiaoling, Elene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Rizal Bin Amin</p>
 </td>
 <td rowspan="1" colspan="1">
