@@ -69,10 +69,10 @@ Wednesday (3pm – 530pm)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Amirah</p>
+<p>Mr Syed Mustafakamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_amirah_mohamed_arsad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_amirah_mohamed_arsad@moe.edu.sg</a>
+<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syed_mustafakamal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ Games Bowl Championship at the Singapore Sports Hub for the first time.
 Demonstrating unwavering grit and determination, they repeated this remarkable
 achievement in both 2024 and 2025.</p>
 <div class="iframe-wrapper">
-<iframe height="391" width="697" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UzKfsboDl4I"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="391" width="697" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UzKfsboDl4I"></iframe>
 </div>
 <p>Our teachers are the pillars of the CCA who help to further develop the
 strengths of our boys in order to help them achieve our full potential.
