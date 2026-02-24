@@ -73,6 +73,15 @@ the NPCC Annual Parade (NPAP), NDP school parade and more.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Chee Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_chee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chee_teng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>CCA Leaders (Year 2026)<br></strong>1. Chairperson: Nurin Shaqilah
@@ -195,7 +204,7 @@ Binte Mohamad Shariff (4D)</p>
 <p><strong>Highlights of our CCA</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="361" width="642" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DVOV4fgdJzo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="361" width="642" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DVOV4fgdJzo"></iframe>
 </div>
 <p><em>"Discipline and Resilience are the key to becoming good servants of the country"&nbsp;</em>
 <br>- Mr Loh Chee Teng
@@ -207,7 +216,7 @@ Ms Jolene Ng
 <p>&nbsp;<strong>Interview with our Student Leaders</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="361" width="643" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uW2G5ePjzb8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="361" width="643" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uW2G5ePjzb8"></iframe>
 </div>
 <p>
 <br>
