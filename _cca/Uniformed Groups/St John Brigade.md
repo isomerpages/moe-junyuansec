@@ -93,11 +93,12 @@ learning in the following areas::
 <br>- Foot Drill
 <br>- Leadership Courses</p>
 <p><strong>Teachers-In-Charge<br></strong>1. Mrs Kho Chin Alicia
-<br>Email: tan_chin_alicia@moe.edu.sg
+<br>Email: <a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chin_alicia@moe.edu.sg</a> 
 <br>2. Mdm Nuraisha
-<br>Email: nuraisha_azmi@moe.edu.sg
+<br>Email: <a href="mailto:nuraisha_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuraisha_azmi@moe.edu.sg</a> 
 <br>3. Ms Nur Zahirah
-<br>Email: nur_zahirah_binte_zainal@moe.edu.sg</p>
+<br>Email: <a href="mailto:nur_zahirah_binte_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zahirah_binte_zainal@moe.edu.sg</a> 
+</p>
 <p><strong>CCA Schedule and Venue<br></strong>Day: Tuesdays and/or Thursdays
 <br>Time: 1500 – 1730
 <br>Venue: Classroom B1-01
@@ -195,7 +196,7 @@ Fadhly (3E)</p>
 <hr>
 <h4><strong>Our Journey</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQev9lmeXPL5-Ib20muYIW2k3HTpdehF11Zw4dGtYrOzWtlv86rwiL1aaJNwBlLJ3yuDvezeQGlsoIl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQev9lmeXPL5-Ib20muYIW2k3HTpdehF11Zw4dGtYrOzWtlv86rwiL1aaJNwBlLJ3yuDvezeQGlsoIl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <p><strong>Highlights of our CCA</strong>
