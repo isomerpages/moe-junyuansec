@@ -34,6 +34,37 @@ our CCA.</p>
 <p><strong>CCA Schedule<br></strong>Every Tuesday and Thursday (3.00pm to
 5.30pm)
 <br>Venue: Indoor Sports Hall (Level 1)</p>
+<p><strong>Hard work in action</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rthryjhryjyr.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/yrjyrj.jpg">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jryjryj.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Teachers-In-Charge</strong>
 </p>
 <table style="minWidth: 50px">
@@ -167,23 +198,6 @@ they played. They fought for each ball and gave their best to make Junyuan
 proud. They carried themselves well and showed much perseverance and focus.
 They remembered their CCA motto – United We Stand. Every Basketball boy
 who competed came back a winner!</p>
-<p><strong><u>Basketball Game Officials - Inter-School Pentangular (ISP) Sports Carnival 2024</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1d.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1c.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1ea.jpg">
-</div>
-<p>In August, several B Division Boys were selected as Game Officials (Basketball)
-for the 2024 Inter-School Pentangular Sports Carnival at St Hilda's Secondary
-School. This experience contributed to their ongoing basketball development.
-The boys excelled in refereeing the games, ensuring a smooth competition.</p>
 <h4><strong>Introducing the 2026 Player of the Month Award</strong></h4>
 <p>Starting this year, we are proud to launch our inaugural Player of the
 Month program. This award is designed to recognize student-athletes who
@@ -198,10 +212,11 @@ hustle.</p>
 in the classroom.</p>
 <p><strong>Announcing Our Player of the Month!</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/b1BK__7_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/hrheth.jpg">
 </div>
-<p>We are thrilled to announce that Mandhare Tanmay Rajesh (Class 4A) has
-been named our Player of the Month for January!</p>
+<p>We are thrilled to announce that Micaden Yap Kai Heng (Class 4B) has been
+named our Player of the Month for February!</p>
 <p>Please join us in congratulating him on this well-deserved achievement!</p>
+<p><u>Past Player of the Month Winners:</u>
+<br>January- Mandhare Tanmay Rajesh (Class 4A)</p>
