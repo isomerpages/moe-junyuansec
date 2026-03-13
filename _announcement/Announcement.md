@@ -17,5 +17,9 @@ variant: tiptap
 <p><a href="https://junyuansec.moe.edu.sg/o-level-results-release-2025/" rel="noopener nofollow" target="_blank">O Level Results Release 2025</a>
 </p>
 </li>
+<li>
+<p><a href="https://junyuansec.moe.edu.sg/cce-e-newsletter-for-parents/" rel="noopener nofollow" target="_blank">CCE E-Newsletter for Parents (JoYful Conversations)</a>
+</p>
+</li>
 </ol>
 <p></p>
