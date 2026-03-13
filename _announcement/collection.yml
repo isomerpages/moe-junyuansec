@@ -2,8 +2,8 @@ collections:
   announcement:
     output: true
     order:
-      - CCE E Newsletter for Parents.md
       - Announcement.md
+      - CCE E Newsletter for Parents.md
       - ECHA.md
       - N Level Results Release 2025.md
       - O Level Results Release 2025.md
