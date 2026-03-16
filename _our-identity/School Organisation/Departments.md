@@ -847,73 +847,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Faisal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_faisal_mahmod@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Farouq Bin Abdul Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>farouq_abdul_aziz@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Siti Shafiqah Binte Walid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shafiqah_walid@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Tan Su Xian Jaslyn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_su_xian_jaslyn@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Anis Fazerina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">anis_fazerina_mohamad_ibrahim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sim Sarah Nicole</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sim_sarah_nicole@moe.edu.sg</a>
+<p><a href="mailto:anis_fazerina_mohamad_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anis_fazerina_mohamad_ibrahim@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -937,7 +877,67 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chong_jia_yu@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:chong_jia_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_jia_yu@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Farouq Bin Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farouq_abdul_aziz@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Faisal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faisal_mahmod@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Shafiqah Binte Walid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiqah_walid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sim Sarah Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_sarah_nicole@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sarah_nicole@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Su Xian Jaslyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_xian_jaslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
