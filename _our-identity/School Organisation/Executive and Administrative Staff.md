@@ -52,6 +52,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Siti Syahirah Binte Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_syahirah_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_syahirah_abdul_razak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Nurzuhdi Bin Mohammed Sharif</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,18 +83,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:eric_teo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eric_teo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Syahirah Binte Abdul Razak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_syahirah_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_syahirah_abdul_razak@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -199,17 +199,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Rizal Bin Amin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Norazlina</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
