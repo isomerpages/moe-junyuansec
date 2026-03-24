@@ -27,15 +27,14 @@ team spirit</p>
 but also his team.</p>
 </li>
 </ul>
-<p><strong>Motto:<br></strong>United We Stand - Our members are the important
-building blocks of our CCA. Each of us have something to contribute, and
-our part to play. As we grow and develop, we become stronger and so does
-our CCA.</p>
-<p><strong>CCA Schedule<br></strong>Every Tuesday and Thursday (3.00pm to
-5.30pm)
+<h4><strong>Motto:</strong></h4>
+<p>United We Stand - Our members are the important building blocks of our
+CCA. Each of us have something to contribute, and our part to play. As
+we grow and develop, we become stronger and so does our CCA.</p>
+<h4><strong>CCA Schedule</strong></h4>
+<p>Every Tuesday and Thursday (3.00pm to 5.30pm)
 <br>Venue: Indoor Sports Hall (Level 1)</p>
-<p><strong>Hard work in action</strong>
-</p>
+<h4><strong>Hard work in action</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -65,8 +64,7 @@ our CCA.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Teachers-In-Charge</strong>
-</p>
+<h4><strong>Teachers-In-Charge</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,12 +117,23 @@ our CCA.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders (Year 2026)</strong>
-<br>1. Captain: Chee Jun Le Edven (4F)
-<br>2. Vice-Captain:&nbsp;Muhammad Hanafi Bin Arfi Shahrin (4A)
-<br>2. Vice-Captain:&nbsp;Briley James Tan (3C)</p>
-<p><strong>Awards/Achievements</strong>
+<h4><br><strong>CCA Leaders (Year 2026)</strong><br></h4>
+<p><strong>Upper Secondary<br></strong>1. Captain: Briley James Tan (3C)
+<br>2. Vice-Captain: Oh Chin Tong (3D)
+<br>3. Vice-Captain: Muhammad Nabil Syafiq Bin Sophian (3B)
+<br>4. Logistic IC: Bi Ruicheng (3A)
+<br>5. Logistic IC: Qayyim Fazhan Bin Mohammed Ashraff (3F)
+<br>6. Events IC: Panganting Riley Alarilla (3B)
+<br>7. Events IC: Tan Zhi Xuan Jerriel (3B)
+<br>
 </p>
+<p><strong>Lower Secondary</strong>
+<br>1. Captain: Tan Feng Ze John (2F)
+<br>2. Vice-Captain: Lee Jun Liang Max Joaquin (2E)
+<br>3. Vice-Captain: Austria Joaquim Sebastien Fuertez (2B)
+<br>4. Vice-Captain: Tay Yu Le Dallen (2G)</p>
+<h4><strong>Awards/Achievements</strong></h4>
+<p></p>
 <p>East Zone Schools Tournament (B Div) 2024-Top 8<strong><br></strong>East
 Zone Schools Tournament (B Div) 2023-Top 8
 <br>East Zone Schools Tournament (B Div) 2022-4th
