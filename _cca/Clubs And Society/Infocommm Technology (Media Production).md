@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>CCA Leaders (Year 2024-2025)</strong>
+<p><strong>CCA Leaders (Year 2026-2027)</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -75,55 +75,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sin Yu Jie Javier</p>
+<p>Punzalan Gwen Frances Gonzaga</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nameera Binte Mohamad Fairoz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4C</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhammad Rizq Danish Bin Mohammad Raihan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Sze Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Upper</p>
@@ -140,15 +98,29 @@ variant: tiptap
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lower</p>
+<p>Upper</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Punzalan Gwen Frances Gonzaga</p>
+<p>Sasha Afira D/O Mohammed Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Amelia Zhufairah Binte Mohamad Abdilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -191,24 +163,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Mei Mei</p>
+<p>Adelia Syafirah Binte Abdul Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4A</p>
+<p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Upper</p>
+<p>Lower</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amelia Zhufairah Binte Mohamad Abdilah</p>
+<p>Chia Lim Heng Glenda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2A</p>
+<p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head 2</p>
@@ -219,10 +191,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chia Lim Heng, Glenda</p>
+<p>Teo Zi Yu Chloe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2C</p>
+<p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head 3</p>
@@ -265,10 +237,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dinah Amani Binte Mohammed Irwan</p>
+<p>Wu Shengyi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4D</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head 1</p>
@@ -279,10 +251,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sasha Afira D/O Mohammed Ibrahim</p>
+<p>Tan Le Xuan Belle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D</p>
+<p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head 2</p>
@@ -339,48 +311,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phoa Yong Jie Titus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rusyaidi Bin Mohamed Yazid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wu Shengyi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Zhang Yanqi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -390,15 +320,71 @@ variant: tiptap
 <p>Executive Committee Member</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ryhan Mohamad Ridwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Faiqa Alisa Putri Binte Mohamad Faiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gewi Ning Xuan Geona</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Lower</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Faiqa Alisa Putri Binte Mohamed Faiz</p>
+<p>Ma Yuet Cheng Sascha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>2B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive Committee Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe Sarah Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Executive Committee Member</p>
