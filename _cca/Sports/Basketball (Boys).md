@@ -222,10 +222,11 @@ in the classroom.</p>
 <p><strong>Announcing Our Player of the Month!</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/hrheth.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/yjy.jpg">
 </div>
-<p>We are thrilled to announce that Micaden Yap Kai Heng (Class 4B) has been
-named our Player of the Month for February!</p>
+<p>We are thrilled to announce that Briley James Tan (Class 3C) has been
+named our Player of the Month for March!</p>
 <p>Please join us in congratulating him on this well-deserved achievement!</p>
 <p><u>Past Player of the Month Winners:</u>
-<br>January- Mandhare Tanmay Rajesh (Class 4A)</p>
+<br>January- Mandhare Tanmay Rajesh (Class 4A)
+<br>February- Micaden Yap Kai Heng (Class 4B)</p>
