@@ -5,21 +5,20 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<p>The Dance CCA aims to develop our dancers with a strong passion to acquire
-the necessary dance skills. With the main focus on techniques in hip hop
-and street jazz, we also aim to provide a wide exposure of different dance
-genres to our dancers through workshops in contemporary dance and jazz.</p>
-<p>Through a routine set of warm-up and cardiovascular exercises, the CCA
-aims to develop a strong foundation in the dancers before helping them
-acquire the sense of rhythm and musicality. By the end of their four years
-in Dance, they would have learnt several dance techniques, improve in their
-motor and body coordination, as well as understand the concept of choreography.</p>
-<p>Character development is important in our Dance CCA. We aim to develop
-our dancers to become:</p>
+<p>Junyuan Modern Dance CCA, also known as the Elan Crew, aims to develop
+our dancers with a strong passion to acquire the necessary dance skills.
+With the focus on techniques in hip hop and through a routine set of warm-up
+and cardiovascular exercises, the Elan Crew aims to develop a strong foundation
+in the dancers before helping them acquire the sense of rhythm and musicality.
+By the end of their four years in Dance, they would have learnt several
+dance techniques, improve in their motor skills and body coordination,
+as well as understand the concept of choreography.</p>
+<p>Character development is important for Elan Crew. We aim to develop our
+dancers to become:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a confident dancer who is able to overcome challenges and be able to have
-a strong stage presence;</p>
+<p>a confident dancer who can overcome challenges and be able to have a strong
+stage presence;</p>
 </li>
 <li>
 <p>a self-disciplined learner who exercises self-awareness and takes his
@@ -29,13 +28,11 @@ or her own initiative;</p>
 <p>a team-player who is willing to contribute and be committed to the CCA</p>
 </li>
 </ul>
-<p><strong>Motto</strong> 
+<p><strong>Motto</strong>
 <br>Respect, Discipline and Focus
-<br>In Dance, we aim to cultivate a strong sense of respect and discipline
-in our members.
-<br>Coupled with focus, we believe that our dancers will develop a strong
-mentality and be resilient.</p>
-<p></p>
+<br>In Elan Crew, we aim to cultivate a deep sense of respect and discipline
+in our dancers. Coupled with focus, we believe that our dancers will develop
+resilience in both their CCA and academic pursuit.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -63,9 +60,9 @@ hone their skills but also cultivates confidence and resilience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priscilla Vanessa Louis (<a href="mailto:priscilla_vanessa_louis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_vanessa_louis@moe.edu.sg</a>)</p>
 <p>Ms Ong Si Jia (<a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a>)</p>
-<p>Ms Kwok Hui Ning Grace (<a href="mailto:grace_kwok_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_kwok_hui_ning@moe.edu.sg</a>)</p>
+<p>Ms Priscilla Vanessa Louis (<a href="mailto:priscilla_vanessa_louis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_vanessa_louis@moe.edu.sg</a>)</p>
+<p>Ms Grace Kwok (<a href="mailto:grace_kwok_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_kwok_hui_ning@moe.edu.sg</a>)</p>
 <p></p>
 </td>
 </tr>
@@ -75,27 +72,22 @@ hone their skills but also cultivates confidence and resilience.</p>
 </p>
 <p><strong>(Appointed in</strong>
 </p>
-<p><strong>Year 2025/2026)</strong>
+<p><strong>Year 2026/2027)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>President</u></strong>
-</p>
-<p>Manuel Isabella Sophia Uy</p>
+<br>Lee Si Ying</p>
 <p></p>
-<p><strong><u>Vice-president (Training)</u></strong>
-</p>
-<p>Alicia Jong Yi Xuan</p>
-<p>Tara Ariana Binte Feroz</p>
-<p>&nbsp;</p>
-<p><strong><u>Vice-president (Welfare)</u></strong>
-</p>
-<p>Koh Jun Xiang Ka’el</p>
-<p></p>
-<p><strong><u>Vice -president ( Publicity)</u></strong>
-</p>
-<p>Lei Simin Jetaime</p>
-<p>Lee Yue Ting</p>
+<p><strong><u>Vice-President (Training)</u></strong>
+<br>Teryl Wee Jing Xuan
+<br>Wu Shanshan</p>
+<p><strong><u>Vice-President (Welfare)</u></strong>
+<br>Chan Hui Xuan Felise</p>
+<p><strong><u>Vice-President (Logistics)</u></strong>
+<br>Tan Yan Hong</p>
+<p><strong><u>Vice-President (Operations)</u></strong>
+<br>Rinn Ellarina Binte Muhammad Naaim</p>
 </td>
 </tr>
 <tr>
@@ -105,11 +97,10 @@ hone their skills but also cultivates confidence and resilience.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SYF Arts Presentation Achievements</strong>
-</p>
-<p>2025 : ACCOMPLISHMENT</p>
-<p>2023 : DISTINCTION</p>
-<p>2021 : DISTINCTION</p>
-<p>2019 : DISTINCTION</p>
+<br>2025 : ACCOMPLISHMENT
+<br>2023 : DISTINCTION
+<br>2021 : DISTINCTION
+<br>2019 : DISTINCTION</p>
 </td>
 </tr>
 </tbody>
