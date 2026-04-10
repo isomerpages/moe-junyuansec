@@ -5,21 +5,20 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<p>The Dance CCA aims to develop our dancers with a strong passion to acquire
-the necessary dance skills. With the main focus on techniques in hip hop
-and street jazz, we also aim to provide a wide exposure of different dance
-genres to our dancers through workshops in contemporary dance and jazz.</p>
-<p>Through a routine set of warm-up and cardiovascular exercises, the CCA
-aims to develop a strong foundation in the dancers before helping them
-acquire the sense of rhythm and musicality. By the end of their four years
-in Dance, they would have learnt several dance techniques, improve in their
-motor and body coordination, as well as understand the concept of choreography.</p>
-<p>Character development is important in our Dance CCA. We aim to develop
-our dancers to become:</p>
+<p>Junyuan Modern Dance CCA, also known as the Elan Crew, aims to develop
+our dancers with a strong passion to acquire the necessary dance skills.
+With the focus on techniques in hip hop and through a routine set of warm-up
+and cardiovascular exercises, the Elan Crew aims to develop a strong foundation
+in the dancers before helping them acquire the sense of rhythm and musicality.
+By the end of their four years in Dance, they would have learnt several
+dance techniques, improve in their motor skills and body coordination,
+as well as understand the concept of choreography.</p>
+<p>Character development is important for Elan Crew. We aim to develop our
+dancers to become:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a confident dancer who is able to overcome challenges and be able to have
-a strong stage presence;</p>
+<p>a confident dancer who can overcome challenges and be able to have a strong
+stage presence;</p>
 </li>
 <li>
 <p>a self-disciplined learner who exercises self-awareness and takes his
@@ -29,13 +28,11 @@ or her own initiative;</p>
 <p>a team-player who is willing to contribute and be committed to the CCA</p>
 </li>
 </ul>
-<p><strong>Motto</strong> 
+<p><strong>Motto</strong>
 <br>Respect, Discipline and Focus
-<br>In Dance, we aim to cultivate a strong sense of respect and discipline
-in our members.
-<br>Coupled with focus, we believe that our dancers will develop a strong
-mentality and be resilient.</p>
-<p></p>
+<br>In Elan Crew, we aim to cultivate a deep sense of respect and discipline
+in our dancers. Coupled with focus, we believe that our dancers will develop
+resilience in both their CCA and academic pursuit.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -63,9 +60,9 @@ hone their skills but also cultivates confidence and resilience.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priscilla Vanessa Louis (<a href="mailto:priscilla_vanessa_louis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_vanessa_louis@moe.edu.sg</a>)</p>
 <p>Ms Ong Si Jia (<a href="mailto:ong_si_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_si_jia@moe.edu.sg</a>)</p>
-<p>Ms Kwok Hui Ning Grace (<a href="mailto:grace_kwok_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_kwok_hui_ning@moe.edu.sg</a>)</p>
+<p>Ms Priscilla Vanessa Louis (<a href="mailto:priscilla_vanessa_louis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">priscilla_vanessa_louis@moe.edu.sg</a>)</p>
+<p>Ms Grace Kwok (<a href="mailto:grace_kwok_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_kwok_hui_ning@moe.edu.sg</a>)</p>
 <p></p>
 </td>
 </tr>
@@ -75,27 +72,22 @@ hone their skills but also cultivates confidence and resilience.</p>
 </p>
 <p><strong>(Appointed in</strong>
 </p>
-<p><strong>Year 2025/2026)</strong>
+<p><strong>Year 2026/2027)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>President</u></strong>
-</p>
-<p>Manuel Isabella Sophia Uy</p>
+<br>Lee Si Ying</p>
 <p></p>
-<p><strong><u>Vice-president (Training)</u></strong>
-</p>
-<p>Alicia Jong Yi Xuan</p>
-<p>Tara Ariana Binte Feroz</p>
-<p>&nbsp;</p>
-<p><strong><u>Vice-president (Welfare)</u></strong>
-</p>
-<p>Koh Jun Xiang Ka’el</p>
-<p></p>
-<p><strong><u>Vice -president ( Publicity)</u></strong>
-</p>
-<p>Lei Simin Jetaime</p>
-<p>Lee Yue Ting</p>
+<p><strong><u>Vice-President (Training)</u></strong>
+<br>Teryl Wee Jing Xuan
+<br>Wu Shanshan</p>
+<p><strong><u>Vice-President (Welfare)</u></strong>
+<br>Chan Hui Xuan Felise</p>
+<p><strong><u>Vice-President (Logistics)</u></strong>
+<br>Tan Yan Hong</p>
+<p><strong><u>Vice-President (Operations)</u></strong>
+<br>Rinn Ellarina Binte Muhammad Naaim</p>
 </td>
 </tr>
 <tr>
@@ -105,79 +97,61 @@ hone their skills but also cultivates confidence and resilience.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SYF Arts Presentation Achievements</strong>
-</p>
-<p>2025 : ACCOMPLISHMENT</p>
-<p>2023 : DISTINCTION</p>
-<p>2021 : DISTINCTION</p>
-<p>2019 : DISTINCTION</p>
+<br>2025 : ACCOMPLISHMENT
+<br>2023 : DISTINCTION
+<br>2021 : DISTINCTION
+<br>2019 : DISTINCTION</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Our 2024/2025 Journey</strong></h4>
-<p><strong>Dance Workshop with NUS&nbsp; D’Hoppers on 25 March 2025</strong>
+<h4><strong>Our 2026 Journey</strong></h4>
+<p><strong>CNY Performance at D’Marquee</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D1.jpg">
 </div>
-<p><em>Our 15 Secondary 1s had a memorable and enjoyable time learning hip hop basics and a dance routine from D’Hoppers.</em>
+<p>The Elan Crew, put up a vibrant and confident performance at Tampines
+Central CC Chinese New Year dinner on 28 February 2026<strong>,</strong> captivating
+the audience with their energy, precision and stage presence.</p>
+<p>The event was graced by the Guest of Honour, Dr Koh Poh Koon, whose presence
+made the occasion even more meaningful for our students. Performing in
+front of distinguished guests and members of the community was a valuable
+experience that allowed our dancers to showcase not only their talent,
+but also discipline, teamwork and commitment.</p>
+<p><strong>Dance Outreach at PCS Cedar Tree Active Ageing Centre @ Tampines West</strong>
 </p>
-<p><strong>Super24 Journey</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D2.jpg">
+</div>
+<p>During the March school holiday, the Elan Crew had the meaningful opportunity
+to put into action the values that they have learnt. The dancers engaged
+the seniors at PCS Cedar Tree Active Ageing Centre @ Tampines West 827
+with simple dance moves to promote active living. Beyond showcasing their
+dance pieces, the dancers also spent time interacting with the elderly
+through a specially planned segment that encouraged participation and connection.
+The atmosphere was filled with laughter and warmth as the dancers and seniors
+bonded through music and movement. Champions for the Community in action!</p>
+<p>Participant feedback:</p>
+<p>“It was an enjoyable session. The rapport was good. The instructor and
+students were very lively and interacted well with us. There was a ‘surprise’
+workshop that let us experience the dance, with the students guiding us
+along. The students were very chatty and fun-loving. They made dancing
+a fun way for us to get active!”</p>
+<p>– Senior Ho Ai Leng</p>
+<p><strong>Open Stage Dance Competition</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dfaf.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D3.jpg">
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6RXIWCmoas?si=t-e9gRUxHhrbb88C"></iframe>
-</div>
-<p>“Before joining the CCA, I lacked confidence and didn’t dare to express
-what I loved doing. After joining the CCA, I made many friends from diverse
-backgrounds who have the same passion as me towards dancing. The dance
-instructor has taught me a variety of skills and inculcated values which
-help me grow and become a better version of myself. Over the three years
-in this CCA, I have become more confidence in my dancing. Additionally,
-through the opportunity to lead my peers and juniors as the dance captain,
-I have learnt to be more independent and resilient in facing any challenges.
-I really love this CCA because it feels like my family and a second home.”</p>
-<p>-&nbsp;Regine Low ( Current Alumni , Ex President 2023)</p>
-<p>“I remember after stepping down from this CCA and graduating from the
-school, I still have the desire to return to help and guide my juniors
-for the CCA sessions. Unfortunately at that time, due to Covid-19 restrictions,
-I was unable to do so. Even though I have graduated, I regularly volunteer
-to come back for dance events and to coach my junior dancers. It reminds
-me of the days when I trained in school for dance competitions, performances
-and SYF. I also hope to instill in them the same values of discipline with
-a balance of fun.”</p>
-<p>- Liew Man Ting (Current Alumni , President 2020)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
-</div>
-<p>“When I first joined the dance CCA, I felt a little out of place as I
-was the only boy in my batch. I felt somewhat insecure initially due to
-that reason and lacked confidence in my dancing. However, as I made friends
-with my peers and seniors, the energy and atmosphere in the CCA gradually
-become a comfortable environment for me. I have definitely grown to be
-more confident and ready as a dancer. I’m grateful for all the teachers,
-instructors and the friends whom I have made in this CCA, for shaping me
-into who I am today.”</p>
-<p>- Siow Junyang Current Alumni 2024</p>
-<p></p>
-<p><strong>Arts Exposure:&nbsp; Keppel Nights&nbsp; ‘Alice in Wonderland by HK Ballet’</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__2_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d1__1_.jpg">
-</div>
-<p>“When I joined the Dance CCA, I was super nervous, yet excited as dancing
-is my passion and I looked forward to dance with my future crew mates.
-Along the way, there were many ups and downs but we all overcame it together.
-We all improved on our weaknesses with the help of our fellow CCA mates.
-I made many new friends and became close with my peers as we shared special
-memories in this CCA. I am looking forward to what the future entails.”</p>
-<p>- Anriana Perez (Current Alumni, President 2024 )</p>
+<p>On 5 April 2026, the Elan Crew took part in the Open Stage Dance Competition
+organised by Tampines Central Community Centre, at Our Tampines Hub. The
+dancers demonstrated commitment, resilience, and teamwork as they prepared
+diligently for the performance. Taking to the stage in a large public venue
+allowed them to showcase their skills, build confidence, and perform in
+front of a wider audience.</p>
+<p>The dancers were able to observe other talented teams, gain new insights
+into choreography, build stage presence, and reflect on areas for growth.
+The experience has motivated them to continue refining their techniques
+and striving for excellence.</p>
 <p></p>
