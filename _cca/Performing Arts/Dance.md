@@ -42,20 +42,6 @@ resilience in both their CCA and academic pursuit.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Future Plans for the CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;To obtain Certificate of Distinction for Singapore Youth Festival
-(SYF) Arts Presentation.</p>
-<p>To nurture our dancers’ growth and talents by creating an array of suitable
-platforms for them to flourish through invaluable experiences at external
-performances and competitions. The exposure to diverse stages not only
-hone their skills but also cultivates confidence and resilience.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Teachers-in-charge</strong>
 </p>
 </td>
