@@ -131,7 +131,7 @@ and programmes</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Shortlisted candidates will be invited for a one-day in-person interview
-between 29 Jun 2026 and 20 Aug 2026..</p>
+between 29 Jun 2026 and 20 Aug 2026.</p>
 </li>
 </ul>
 <p></p>
