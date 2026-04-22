@@ -877,7 +877,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farouq_abdul_aziz@moe.edu.sg</a>
+<p><a href="mailto:farouq_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farouq_abdul_aziz@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -901,7 +901,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiqah_walid@moe.edu.sg</a>
+<p><a href="mailto:shafiqah_walid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shafiqah_walid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -925,7 +925,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faisal_mahmod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_xian_jaslyn@moe.edu.sg</a>
+<p><a href="mailto:tan_su_xian_jaslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_xian_jaslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
