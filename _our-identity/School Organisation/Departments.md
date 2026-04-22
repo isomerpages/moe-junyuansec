@@ -997,7 +997,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chin_alicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
+<p><a href="mailto:chin_wai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chin_wai_leng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1009,7 +1009,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_kia_sin@moe.edu.sg</a>
+<p><a href="low_kia_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_kia_sin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1069,7 +1069,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_huey_ching@moe.edu.sg</u></a>
+<p><a href="mailto:chiew_huey_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chiew_huey_ching@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1105,7 +1105,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_tze_wei@moe.edu.sg</u></a>
+<p><a href="mailto:tan_tze_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_tze_wei@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -1117,7 +1117,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_mustafakamal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_swee_wah@moe.edu.sg</u></a>
+<p><a href="mailto:teo_swee_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_swee_wah@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
