@@ -83,7 +83,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_teng_debbie@moe.edu.sg</a>
+<p><a href="mailto:lim_chin_teng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_teng_debbie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_li_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_huda@moe.edu.sg</a>
+<p><a href="mailto:nurul_huda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_huda@moe.edu.sg</a>
 </p>
 </td>
 </tr>
