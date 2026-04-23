@@ -106,15 +106,6 @@ we grow and develop, we become stronger and so does our CCA.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Liu Lu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liu_lu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_lu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><br><strong>CCA Leaders (Year 2026)</strong><br></h4>
