@@ -68,7 +68,7 @@ variant: tiptap
 <p>Contact Person &amp; Telephone:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan @ 9669 2997</p>
+<p>Ms Tan @ 89856969</p>
 </td>
 </tr>
 <tr>
