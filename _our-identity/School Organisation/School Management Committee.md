@@ -41,6 +41,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Allan Gan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:junyuan_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">junyuan_ss@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lin Pei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Allan Gan</p>
+<p>Mrs Lin Zhi Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
