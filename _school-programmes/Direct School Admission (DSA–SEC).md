@@ -62,6 +62,10 @@ that our school is offering.</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRrZuglGNlqhcKIvL4ylIEs9cwPR0JhVNcxMRnsMnhBpz22kJ8kAUqwN4SGPXVG9ByQ0_8Lg-0q7jSM/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
