@@ -30,6 +30,6 @@ sections:
       description: For more information, click the link below.
       button: DSA Blast
       url: https://www.junyuansec.moe.edu.sg/school-programmes/direct-school-admission-dsa-sec/
-      image: /images/Screenshot_2025_05_09_111344.png
+      image: /images/DSA__7_.jpg
       alt: Image alt text
 ---
