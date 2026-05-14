@@ -12,42 +12,10 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Cheow Aik</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Advisory Committee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Kok Yeow Winston</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Advisory Committee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Poey Poh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Advisory Committee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jenny Lye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Advisory Committee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kristin Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Advisory Committee</p>
+<p>School Advisory Committee Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +23,47 @@ variant: tiptap
 <p>Ms Fong Siew Mei Cheryl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Advisory Committee</p>
+<p>School Advisory Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr G Segar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kristine Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kok Yeow Winston</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Cheow Aik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Poey Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee Member</p>
 </td>
 </tr>
 </tbody>
