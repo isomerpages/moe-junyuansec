@@ -6,15 +6,11 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_2_Parents_Engagement_Presentation_Deck_2026__P_s_Sharing_.pdf" rel="noopener nofollow" target="_blank">Sec 2 Parents Engagement Presentation Deck 2026 </a>
+<p><a href="/files/Sec_2_Parents_Engagement_Presentation_Deck_2026__P_s_Sharing_.pdf" rel="noopener nofollow" target="_blank">Sec 2 Parents Engagement Presentation Deck 2026</a>
 </p>
 </li>
 <li>
 <p><a href="/files/Sec_3_Subject_Combination_2027.pdf" rel="noopener nofollow" target="_blank">Sec 3 Subject Combination 2027</a>
-</p>
-</li>
-<li>
-<p>Check your sec 3 combination <a href="https://go.gov.sg/sec3subjectombinationexresultrelease2026" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </li>
 </ol>
