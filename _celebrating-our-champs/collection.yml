@@ -2,6 +2,7 @@ collections:
   celebrating-our-champs:
     output: true
     order:
+      - Celebrating Our Champs.md
       - Accolades/Junyuan in the News.md
       - Accolades/Alumni Academic Achievements.md
       - Accolades/.keep
