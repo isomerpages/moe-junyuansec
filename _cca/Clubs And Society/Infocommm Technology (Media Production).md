@@ -496,9 +496,8 @@ video editing.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_4_girls.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MP7.jpg">
 </div>
 <p><strong>Programmes and Activities</strong>
 </p>
