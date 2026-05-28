@@ -396,9 +396,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Pic_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MP1.jpg">
 </div>
 <p><strong>Focus and Purpose</strong>
 </p>
@@ -417,16 +416,16 @@ gain greater exposure.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MP3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_2.jpg">
+<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/MP2.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -439,21 +438,20 @@ gain greater exposure.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_5.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_4.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Student members will be given the chance to handle high-end equipment
 such as DSLR cameras, GoPro to assist in club activities and to cover school
 events both internally and outside of school such as Singapore Youth Festival
@@ -462,7 +460,6 @@ their ownership, leadership skill and responsibility by volunteering for
 duties during these school events. We further expand our students’ repertoire
 of skills to include journalistic interviews, live streaming, photo and
 video editing.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -472,12 +469,13 @@ video editing.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MP4.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MP5.jpg">
 </div>
 <p></p>
 </td>
