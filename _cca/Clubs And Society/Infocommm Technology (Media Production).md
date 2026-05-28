@@ -57,7 +57,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Leaders (Photography &amp; Videography)</strong>
+<p><strong>CCA Leaders (Executive Committee)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,10 +89,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Shu Xian, Zen</p>
+<p>Sasha Afira D/O Mohammed Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -103,10 +103,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sasha Afira D/O Mohammed Ibrahim</p>
+<p>Goh Shu Xian, Zen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D</p>
+<p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-President</p>
@@ -117,13 +117,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Adelia Syafirah Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President (Welfare)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Amelia Zhufairah Binte Mohamad Abdilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-President</p>
+<p>Vice-President (Logistics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower</p>
@@ -163,13 +177,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adelia Syafirah Binte Abdul Aziz</p>
+<p>Amelia Zhufairah Binte Mohamad Abdilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head 1</p>
+<p>Vice-President (Logistics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower</p>
@@ -183,7 +197,7 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head 2</p>
+<p>Head 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower</p>
@@ -195,6 +209,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>2E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ma Yuet Cheng Sascha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head 3</p>
@@ -233,6 +261,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Level</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adelia Syafirah Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-President (Welfare)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lower</p>
 </td>
 </tr>
 <tr>
@@ -325,49 +367,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ryhan Mohamad Ridwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Faiqa Alisa Putri Binte Mohamad Faiz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Gewi Ning Xuan Geona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive Committee Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lower</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ma Yuet Cheng Sascha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2B</p>
@@ -396,9 +396,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Pic_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MP1.jpg">
 </div>
 <p><strong>Focus and Purpose</strong>
 </p>
@@ -417,16 +416,16 @@ gain greater exposure.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_Pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MP3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_2.jpg">
+<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/MP2.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -439,21 +438,20 @@ gain greater exposure.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_5.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_4.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Student members will be given the chance to handle high-end equipment
 such as DSLR cameras, GoPro to assist in club activities and to cover school
 events both internally and outside of school such as Singapore Youth Festival
@@ -462,7 +460,6 @@ their ownership, leadership skill and responsibility by volunteering for
 duties during these school events. We further expand our students’ repertoire
 of skills to include journalistic interviews, live streaming, photo and
 video editing.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -472,12 +469,13 @@ video editing.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_pic_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MP4.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Media_pic_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MP5.jpg">
 </div>
 <p></p>
 </td>
@@ -498,9 +496,8 @@ video editing.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media_4_girls.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MP7.jpg">
 </div>
 <p><strong>Programmes and Activities</strong>
 </p>
