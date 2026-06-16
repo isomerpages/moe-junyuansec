@@ -55,7 +55,7 @@ variant: tiptap
 <p>Mr Feraj S/O Amzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Computer Applications</p>
+<p>Senior Teacher / Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a>
