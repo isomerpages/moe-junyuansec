@@ -28,6 +28,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Augustine Seah Wee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_wee_kiat_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Arnita Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +67,7 @@ variant: tiptap
 <p>Mr Feraj S/O Amzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Computer Applications</p>
+<p>Senior Teacher / Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:feraj_amzah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">feraj_amzah@moe.edu.sg</a>
