@@ -200,7 +200,7 @@ variant: tiptap
 <p>Ms Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English (covering)</p>
+<p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yun_shi_jolene_ng@moe.edu.sg</a>
@@ -392,7 +392,7 @@ variant: tiptap
 <p>Ms Pamela Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH English (covering)</p>
+<p>SH English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yi_wei_pamela@moe.edu.sg</a>
@@ -432,6 +432,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thng_wei_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thng_wei_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Kaixiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_kaixiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kaixiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
