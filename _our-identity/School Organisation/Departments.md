@@ -185,6 +185,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yeo Kaixiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_kaixiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kaixiang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Halimah Binte Jumaha</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1058,6 +1070,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wong_siew_ying_a_1@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Augustine Seah Wee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_wee_kiat_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
