@@ -28,6 +28,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Augustine Seah Wee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seah_wee_kiat_augustine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Arnita Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
