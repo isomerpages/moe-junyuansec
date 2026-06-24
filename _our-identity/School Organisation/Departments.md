@@ -32,7 +32,7 @@ variant: tiptap
 <p>Miss Ng Yun Shi Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English (covering)</p>
+<p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yun_shi_jolene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yun_shi_jolene_ng@moe.edu.sg</u></a>
@@ -44,7 +44,7 @@ variant: tiptap
 <p>Ms Pamela Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH English (covering)</p>
+<p>SH English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_yi_wei_pamela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_yi_wei_pamela@moe.edu.sg</u></a>
