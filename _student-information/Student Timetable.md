@@ -4,11 +4,11 @@ permalink: /student-information/student-timetable/
 description: ""
 variant: tiptap
 ---
-<p><strong>Student Timetable for Semester 1 2026</strong>
+<p><strong>Student Timetable for Semester 2 2026</strong>
 </p>
-<p><a href="/files/Sem_1_2026_Class_Timetable_v11.pdf" rel="noopener nofollow" target="_blank">2026_Sem_1_Class_Timetable</a>
+<p><a href="/files/Sem_2_Student_Timetable.pdf" rel="noopener nofollow" target="_blank">2026_Sem_2_Class_Timetable</a>
 </p>
-<p>To help you plan your Semester 1 schedule, please take note of how Timetable
+<p>To help you plan your Semester 2 schedule, please take note of how Timetable
 A and Timetable B work.</p>
 <p><strong>Which Timetable do I follow?</strong>
 </p>
@@ -18,7 +18,7 @@ A and Timetable B work.</p>
 the semester.</p>
 </li>
 <li>
-<p>Timetable B will run only during four specific weeks in Semester 1.</p>
+<p>Timetable B will run only during two specific weeks in Semester 2.</p>
 </li>
 </ul>
 <p>During the weeks listed below, we will switch to Timetable B. Please check
@@ -26,19 +26,10 @@ your level carefully to see if you should be in school or at home.</p>
 <p>Timetable B will be in effect during these weeks:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Term 1, Week 7</p>
+<p>Term 3, Week 8</p>
 </li>
 <li>
-<p>Term 1, Week 9</p>
-</li>
-<li>
-<p>Term 2, Week 4</p>
-</li>
-<li>
-<p>Term 2, Week 8</p>
-</li>
-<li>
-<p>Term 2, Week 10</p>
+<p>Term 4, Week 2</p>
 </li>
 </ul>
 <p>Note: For all other weeks not listed above, everyone should follow Timetable
@@ -59,7 +50,7 @@ A.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1</p>
+<p>Secondary 1 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In School (Attend lessons as per normal)</p>
@@ -67,7 +58,7 @@ A.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2 - 5</p>
+<p>Secondary 4 - 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HBL (Home-Based Learning)</p>
