@@ -53,7 +53,7 @@ A.</p>
 <p>Secondary 1 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In School (Attend lessons as per normal)</p>
+<p>HBL (Home-Based Learning)</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ A.</p>
 <p>Secondary 4 - 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL (Home-Based Learning)</p>
+<p>In School (Attend lessons as per normal)</p>
 </td>
 </tr>
 </tbody>
