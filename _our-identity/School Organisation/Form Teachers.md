@@ -53,7 +53,7 @@ variant: tiptap
 <p>Arnita Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:arnita_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arnita_abdullah@moe.edu.sg</a> 
+<p><a href="mailto:arnita_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arnita_abdullah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -167,7 +167,7 @@ variant: tiptap
 <p>Loh Chee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_chee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chee_teng@moe.edu.sg</a> 
+<p><a href="mailto:loh_chee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chee_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Yeo Kaixiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_kaixiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kaixiang@moe.edu.sg</a> 
+<p><a href="mailto:yeo_kaixiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_kaixiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -473,7 +473,7 @@ variant: tiptap
 <p>Chiew Huey Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chiew_huey_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_huey_ching@moe.edu.sg</a> 
+<p><a href="mailto:chiew_huey_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chiew_huey_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
