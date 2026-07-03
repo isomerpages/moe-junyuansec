@@ -213,12 +213,14 @@ in the classroom.</p>
 <p><strong>Announcing Our Player of the Month!</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hhth.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ddd.jpg">
 </div>
-<p>We are thrilled to announce that Panganting Riley Alarilla (Class 3B)
-has been named our Player of the Month for April!</p>
+<p>We are thrilled to announce that Austria Joaquim Sebastien Fuertez (Class
+2B) has been named our Player of the Month for May!</p>
 <p>Please join us in congratulating him on this well-deserved achievement!</p>
 <p><u>Past Player of the Month Winners:</u>
-<br>January- Mandhare Tanmay Rajesh (Class 4A)
-<br>February- Micaden Yap Kai Heng (Class 4B)
-<br>March- Briley James Tan (Class 3C)</p>
+<br>January- Mandhare Tanmay Rajesh (Class 4A)<a href="https://www.junyuansec.moe.edu.sg/cca/sports/badminton/" rel="noopener noreferrer nofollow" target="_blank"><br></a>February-
+Micaden Yap Kai Heng (Class 4B)
+<br>March- Briley James Tan (Class 3C)
+<br>April- Panganting Riley Alarilla (Class 3B)</p>
+<p></p>
