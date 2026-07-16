@@ -11,7 +11,8 @@ variant: tiptap
 </p>
 <p><strong><u>O Level Prelim 2026</u></strong>
 </p>
-<p>To be updated</p>
+<p><a href="/files/Prelim_Timetable_O_Level_2026.pdf" rel="noopener nofollow" target="_blank">O Level Prelim Timetable 2026</a>
+</p>
 <p><strong><u>EOY Examinations 2026</u></strong>
 </p>
 <p>To be updated</p>
