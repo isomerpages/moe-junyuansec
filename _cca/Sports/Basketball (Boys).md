@@ -133,10 +133,11 @@ Zone Schools Tournament (B Div) 2023-Top 8
 <br>T-Net Basketball Tournament (C Div) 2019 -2nd
 <br>T-Net Basketball Tournament (C Div) 2018 - 4th</p>
 <hr>
-<p><strong>C Boys School Team 2025</strong>
+<p><strong>C Boys School Team 2026</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/t.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1dd.jpg">
 </div>
 <p><strong>B Boys School Team 2026</strong>
 </p>
