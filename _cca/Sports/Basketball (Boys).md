@@ -220,8 +220,8 @@ in the classroom.</p>
 2B) has been named our Player of the Month for May!</p>
 <p>Please join us in congratulating him on this well-deserved achievement!</p>
 <p><u>Past Player of the Month Winners:</u>
-<br>January- Mandhare Tanmay Rajesh (Class 4A)<a href="https://www.junyuansec.moe.edu.sg/cca/sports/badminton/" rel="noopener noreferrer nofollow" target="_blank"><br></a>February-
-Micaden Yap Kai Heng (Class 4B)
+<br>January- Mandhare Tanmay Rajesh (Class 4A)
+<br>February- Micaden Yap Kai Heng (Class 4B)
 <br>March- Briley James Tan (Class 3C)
 <br>April- Panganting Riley Alarilla (Class 3B)</p>
 <p></p>
