@@ -14,14 +14,22 @@ variant: tiptap
 <h4><strong>WA Dates</strong></h4>
 <p><a href="https://docs.google.com/spreadsheets/d/1Mxhj4Ss5l_1aYzovAR_Jxpo691TB2RYHJ2sFu_7s_QQ/edit?usp=sharing" rel="noopener nofollow" target="_blank">WA1 and WA2 Dates by Class/Teaching Group</a>
 </p>
+<p><a href="https://docs.google.com/spreadsheets/d/1-MXUzW3ekxt9U5BZyqZOhG8-TLIyt9zDR1ORmIdr5z8/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">WA3 Dates by Class/Teaching Group</a>
+</p>
 <h4><strong>Secondary 1</strong></h4>
 <p><a href="/files/Level_LAPs_2026_Sec_1_Sem_1__13_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 1_Sem 1</a>
+</p>
+<p><a href="/files/Level_LAPs_2026_Sec_1_Sem_2__15_7_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 1_Sem 2</a>
 </p>
 <h4><strong>Secondary 2</strong></h4>
 <p><a href="/files/Level_LAPs_2026_Sec_2_Sem_1__23_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 2_Sem 1</a>
 </p>
+<p><a href="/files/Level_LAPs_2026_Sec_2_Sem_2__19_7_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 2_Sem 2</a>
+</p>
 <h4><strong>Secondary 3</strong></h4>
 <p><a href="/files/Level_LAPs_2026_Sec_3_Sem_1__13_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 3_Sem 1</a>
+</p>
+<p><a href="/files/Level_LAPs_2026_Sec_3_Sem_2__14_7_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 3_Sem 2</a>
 </p>
 <h4><strong>Secondary 4 &amp; 5</strong></h4>
 <p><a href="/files/Level_LAPs_2026_Sec_4E5N_Sem_1__22_1_26_.pdf" rel="noopener nofollow" target="_blank">Level_LAPs_2026_Sec 4E5N_Sem 1</a>
