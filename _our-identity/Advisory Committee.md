@@ -52,6 +52,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Dr Nazlin Bte Imram</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Advisory Committee Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Cheow Aik</p>
 </td>
 <td rowspan="1" colspan="1">
