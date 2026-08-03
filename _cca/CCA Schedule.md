@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <p>3. <a href="https://tinyurl.com/JY-Basketball-Training" rel="noopener nofollow" target="_blank">Basketball (Boys)</a>
 </p>
-<p>4. <a href="https://docs.google.com/document/d/1P8FA28mie9zrN7kpISne6V3Oc2WmmofG3hQRq6eGpNw/edit?tab=t.0" rel="noopener nofollow" target="_blank">Rugby (Boys)</a>
+<p>4. <a href="https://docs.google.com/spreadsheets/d/1jmELJqlh09x0n4jrk4ZxEMwEAXFD3ekCpk-fu5enjos/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Rugby (Boys)</a>
 </p>
 <p>5. <a href="https://go.gov.sg/jysstrackandfield2026" rel="noopener nofollow" target="_blank">Track &amp; Field</a>
 </p>
